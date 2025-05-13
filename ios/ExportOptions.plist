@@ -13,7 +13,7 @@
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>com.N49686R4AU</key>
-		<string>com.N49686R4AU_dis_20250512</string>
+		<string>comN49686R4AU_dis_20250512</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>Apple Distribution</string>
