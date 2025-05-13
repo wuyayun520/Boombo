@@ -1,0 +1,324 @@
+{
+    "allUserData": [
+        {
+            "userId": "101",
+            "name": "Piano Maestro Michael",
+            "icon": "assets/images/user/1/icon_1.jpg",
+            "iconbg": "assets/images/user/1/icon_2.jpg",
+            "userprofile": "assets/images/user/1/icon_3.jpg",
+            "introduc": "Graduated from The Juilliard School with 20 years of classical piano experience. Gold medalist at the International Chopin Piano Competition. Specializes in Chopin and Liszt compositions.",
+            "openingremarks": "Welcome to my musical corner, let's discover the wonderful world of piano together!",
+            "work":[
+                {
+                    "workId": "1001",
+                    "content": "Chopin's Nocturne Op.9 No.2 performance share. This is one of my favorite pieces, hope my interpretation brings you a fresh experience.",
+                    "video": "assets/images/user/1/video1.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "102",
+            "name": "Violin Virtuoso Emily",
+            "icon": "assets/images/user/2/icon_1.jpg",
+            "iconbg": "assets/images/user/2/icon_2.jpg",
+            "userprofile": "assets/images/user/2/icon_3.jpg",
+            "introduc": "Royal Academy of Music graduate, studied under the renowned violinist Anne-Sophie Mutter. Specializes in romantic period music with a focus on emotional expression and tonal quality.",
+            "openingremarks": "Music is the language of the soul, let me tell you stories through my violin strings that words cannot express.",
+            "work":[
+                {
+                    "workId": "1002",
+                    "content": "My interpretation of 'The Butterfly Lovers' Violin Concerto, a beautiful piece that blends Eastern aesthetics with Western violin techniques.",
+                    "video": "assets/images/user/2/video2.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "103",
+            "name": "Guitar Prodigy Jason",
+            "icon": "assets/images/user/3/icon_1.jpg",
+            "iconbg": "assets/images/user/3/icon_2.jpg",
+            "userprofile": "assets/images/user/3/icon_3.jpg",
+            "introduc": "Self-taught guitarist with 15 years of experience. Finalist at the International Fingerstyle Guitar Championship. Specializes in fingerstyle, folk, and rock genres with a passion for original compositions.",
+            "openingremarks": "Six strings, infinite possibilities - join me on a journey through the amazing world of guitar!",
+            "work":[
+                {
+                    "workId": "1003",
+                    "content": "Original fingerstyle composition 'After the Rain', inspired by the beautiful rebirth of nature after a summer thunderstorm.",
+                    "video": "assets/images/user/3/video3.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "104",
+            "name": "Flute Enchantress Sophie",
+            "icon": "assets/images/user/4/icon_1.jpg",
+            "iconbg": "assets/images/user/4/icon_2.jpg",
+            "userprofile": "assets/images/user/4/icon_3.jpg",
+            "introduc": "Berklee College of Music graduate specializing in flute performance. Has contributed to multiple film soundtracks and conducts research on woodwind instruments from around the world.",
+            "openingremarks": "The flute is my voice - let these crystal clear notes take you to a world of purity and beauty.",
+            "work":[
+                {
+                    "workId": "1004",
+                    "content": "Debussy's 'Prelude to the Afternoon of a Faun' solo flute rendition. This impressionist masterpiece showcases the flute's beautiful tone and expressiveness.",
+                    "video": "assets/images/user/4/video4.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "105",
+            "name": "Guzheng Artist Mei Lin",
+            "icon": "assets/images/user/5/icon_1.jpg",
+            "iconbg": "assets/images/user/5/icon_2.jpg",
+            "userprofile": "assets/images/user/5/icon_3.jpg",
+            "introduc": "Chinese-American musician trained at the Shanghai Conservatory of Music. Dedicated to introducing the guzheng to Western audiences while exploring fusion between traditional and modern music elements.",
+            "openingremarks": "The ancient guzheng with a modern voice - sharing Chinese rhythms from my fingertips with the world.",
+            "work":[
+                {
+                    "workId": "1005",
+                    "content": "Guzheng and electronic music fusion piece 'New Silk Road', an attempt to bridge traditional instruments with modern musical language.",
+                    "video": "assets/images/user/5/video5.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "106",
+            "name": "Jazz Drummer Dave",
+            "icon": "assets/images/user/6/icon_1.jpg",
+            "iconbg": "assets/images/user/6/icon_2.jpg",
+            "userprofile": "assets/images/user/6/icon_3.jpg",
+            "introduc": "Professional jazz drummer based in New Orleans. Has toured with multiple Grammy-winning artists. Specializes in jazz, rock, and Latin rhythms with a focus on precision and innovation.",
+            "openingremarks": "Rhythm is the skeleton of music - let me give you a new rhythmic experience with my drumbeats!",
+            "work":[
+                {
+                    "workId": "1006",
+                    "content": "Jazz drum improvisation solo showcasing rock and Latin elements, demonstrating a drummer's technical skill and musical expressiveness.",
+                    "video": "assets/images/user/6/video6.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "107",
+            "name": "Sax Sensation Antonio",
+            "icon": "assets/images/user/7/icon_1.jpg",
+            "iconbg": "assets/images/user/7/icon_2.jpg",
+            "userprofile": "assets/images/user/7/icon_3.jpg",
+            "introduc": "Graduate of the Paris Conservatory saxophone program. Performs both jazz and classical saxophone repertoire and is dedicated to promoting saxophone music culture worldwide.",
+            "openingremarks": "The saxophone's tone is like the human voice - let me use it to tell you moving stories.",
+            "work":[
+                {
+                    "workId": "1007",
+                    "content": "'Homecoming' - an original saxophone solo full of nostalgia that aims to evoke everyone's longing for home and belonging.",
+                    "video": "assets/images/user/7/video7.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "108",
+            "name": "Cello Master Johannes",
+            "icon": "assets/images/user/8/icon_1.jpg",
+            "iconbg": "assets/images/user/8/icon_2.jpg",
+            "userprofile": "assets/images/user/8/icon_3.jpg",
+            "introduc": "Juilliard School cello graduate and former principal cellist with the Berlin Philharmonic. Specializes in Bach's unaccompanied cello suites and contemporary repertoire.",
+            "openingremarks": "The cello is my second voice - deep and passionate, speaking of life's depth and tenderness.",
+            "work":[
+                {
+                    "workId": "1008",
+                    "content": "Bach's 'Cello Suite No.1 in G major' Prelude. This is a spiritual pilgrimage for every cellist and one of my most treasured pieces.",
+                    "video": "assets/images/user/8/video8.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "109",
+            "name": "Ukulele Girl Sarah",
+            "icon": "assets/images/user/9/icon_1.jpg",
+            "iconbg": "assets/images/user/9/icon_2.jpg",
+            "userprofile": "assets/images/user/9/icon_3.jpg",
+            "introduc": "Self-taught ukulele player from Hawaii with 5 years of experience. Popular music content creator specializing in adapting contemporary hits for ukulele, bringing joy through four simple strings.",
+            "openingremarks": "This tiny ukulele contains all of Hawaii's sunshine and ocean waves!",
+            "work":[
+                {
+                    "workId": "1009",
+                    "content": "Ed Sheeran's 'Perfect' ukulele cover version. Reinterpreting this modern classic with this small instrument brings a fresh, breezy feeling.",
+                    "video": "assets/images/user/9/video9.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "110",
+            "name": "Erhu Virtuoso Li Wei",
+            "icon": "assets/images/user/10/icon_1.jpg",
+            "iconbg": "assets/images/user/10/icon_2.jpg",
+            "userprofile": "assets/images/user/10/icon_3.jpg",
+            "introduc": "Born in Shanghai and educated at the Central Conservatory of Music in Beijing. Now based in London, dedicated to introducing the erhu to Western audiences while preserving traditional techniques.",
+            "openingremarks": "The erhu has only two strings, yet can express thousands of emotions and infinite feelings.",
+            "work":[
+                {
+                    "workId": "1010",
+                    "content": "Complete performance of 'The Moon Reflected on the Second Spring', Abing's immortal masterpiece representing the pinnacle of erhu artistry and a treasure of Chinese traditional music.",
+                    "video": "assets/images/user/10/video10.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "111",
+            "name": "Drumkit Kid Alex",
+            "icon": "assets/images/user/11/icon_1.jpg",
+            "iconbg": "assets/images/user/11/icon_2.jpg",
+            "userprofile": "assets/images/user/11/icon_3.jpg",
+            "introduc": "15-year-old drummer from London with 3 years of self-taught experience. Silver medalist in the UK Youth Percussion Competition. Loves rock music and dreams of becoming a professional drummer.",
+            "openingremarks": "Youth means passion and energy - experience the heart-pumping excitement of drums with me!",
+            "work":[
+                {
+                    "workId": "1011",
+                    "content": "Linkin Park's 'Numb' drum cover. This is one of my favorite rock bands, and I hope to convey the power of this song through my drumming.",
+                    "video": "assets/images/user/11/video11.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "112",
+            "name": "Harmonica Master Bob",
+            "icon": "assets/images/user/12/icon_1.jpg",
+            "iconbg": "assets/images/user/12/icon_2.jpg",
+            "userprofile": "assets/images/user/12/icon_3.jpg",
+            "introduc": "60-year-old retired music teacher from Chicago with 30 years of harmonica experience. Specializes in blues harmonica and believes music has no age limit - passion is all you need to create something wonderful.",
+            "openingremarks": "One harmonica, one lifetime of stories - let me share our collective memories through this humble instrument.",
+            "work":[
+                {
+                    "workId": "1012",
+                    "content": "'Amazing Grace' harmonica rendition. This timeless classic takes on a special flavor when played on the harmonica.",
+                    "video": "assets/images/user/12/video12.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "113",
+            "name": "Harp Angel Maria",
+            "icon": "assets/images/user/13/icon_1.jpg",
+            "iconbg": "assets/images/user/13/icon_2.jpg",
+            "userprofile": "assets/images/user/13/icon_3.jpg",
+            "introduc": "Graduate of the Vienna University of Music and Performing Arts, specializing in harp. Currently a harpist with the Vienna Philharmonic. Dedicated to promoting this beautiful yet rare instrument.",
+            "openingremarks": "The harp sounds like angels whispering - let me take you into a dreamy, pure musical world.",
+            "work":[
+                {
+                    "workId": "1013",
+                    "content": "Debussy's 'Clair de Lune' solo harp version. This piano masterpiece gains a dreamlike, ethereal quality when performed on the harp.",
+                    "video": "assets/images/user/13/video13.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "114",
+            "name": "Accordion Artist Viktor",
+            "icon": "assets/images/user/14/icon_1.jpg",
+            "iconbg": "assets/images/user/14/icon_2.jpg",
+            "userprofile": "assets/images/user/14/icon_3.jpg",
+            "introduc": "Graduated from the Gnessin Russian Academy of Music accordion program. Winner of multiple international accordion competitions. Dedicated to popularizing accordion music around the world.",
+            "openingremarks": "The accordion is an instrument that breathes - each press is a release of emotion.",
+            "work":[
+                {
+                    "workId": "1014",
+                    "content": "Piazzolla's 'Libertango' accordion performance. This classic by the Argentine composer perfectly showcases the accordion's unique charm and expressiveness.",
+                    "video": "assets/images/user/14/video14.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "115",
+            "name": "Electronic Music Producer Kyle",
+            "icon": "assets/images/user/15/icon_1.jpg",
+            "iconbg": "assets/images/user/15/icon_2.jpg",
+            "userprofile": "assets/images/user/15/icon_3.jpg",
+            "introduc": "Electronic music producer from Berlin, skilled in using various synthesizers and MIDI controllers. Believes in the fusion of technology and music to create innovative soundscapes.",
+            "openingremarks": "In the digital age, music creation possibilities are endless - let's explore the boundless frontiers of electronic music together!",
+            "work":[
+                {
+                    "workId": "1015",
+                    "content": "Original electronic composition 'Digital Starscape' created using multiple synthesizers and samplers, blending ambient sounds with electronic beats to paint a futuristic soundscape.",
+                    "video": "assets/images/user/15/video15.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "116",
+            "name": "African Drum Teacher Kwame",
+            "icon": "assets/images/user/16/icon_1.jpg",
+            "iconbg": "assets/images/user/16/icon_2.jpg",
+            "userprofile": "assets/images/user/16/icon_3.jpg",
+            "introduc": "Percussion teacher from Ghana with 10 years of teaching experience in Europe and America. Dedicated to spreading African percussion culture and philosophy worldwide.",
+            "openingremarks": "African drums aren't just instruments but a way of life - let's feel the original rhythms from the African continent together!",
+            "work":[
+                {
+                    "workId": "1016",
+                    "content": "West African traditional drum piece 'Fanga' tutorial. This is a celebratory rhythm for welcoming guests, featuring upbeat and infectious rhythms.",
+                    "video": "assets/images/user/16/video16.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "117",
+            "name": "Ruan Player Fang Hua",
+            "icon": "assets/images/user/17/icon_1.jpg",
+            "iconbg": "assets/images/user/17/icon_2.jpg",
+            "userprofile": "assets/images/user/17/icon_3.jpg",
+            "introduc": "Chinese musician now based in San Francisco, graduated from the China Conservatory of Music specializing in the ruan. Focuses on modernizing and innovating with this traditional plucked instrument through cross-cultural music projects.",
+            "openingremarks": "The ruan's tone is round and deep, like ancient Eastern wisdom speaking through time. Let me take you on a journey with this instrument.",
+            "work":[
+                {
+                    "workId": "1017",
+                    "content": "Ruan solo 'Guangling San', a piece originally for guqin performed on ruan, preserving the ancient charm while showcasing the ruan's unique tonal qualities.",
+                    "video": "assets/images/user/17/video17.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "118",
+            "name": "Ukulele Teacher Leilani",
+            "icon": "assets/images/user/18/icon_1.jpg",
+            "iconbg": "assets/images/user/18/icon_2.jpg",
+            "userprofile": "assets/images/user/18/icon_3.jpg",
+            "introduc": "Professional ukulele teacher from Hawaii who has authored several ukulele instruction books. With 10 years of teaching experience, she's dedicated to helping more people fall in love with this small, charming instrument.",
+            "openingremarks": "The ukulele is the most accessible instrument - just 4 strings can bring you endless musical joy!",
+            "work":[
+                {
+                    "workId": "1018",
+                    "content": "Ukulele beginner tutorial 'Your First Lesson', starting from zero and guiding you step by step on how to choose an instrument, tune it, press strings, and learn basic chords.",
+                    "video": "assets/images/user/18/video18.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "119",
+            "name": "Classical Guitarist Isabella",
+            "icon": "assets/images/user/19/icon_1.jpg",
+            "iconbg": "assets/images/user/19/icon_2.jpg",
+            "userprofile": "assets/images/user/19/icon_3.jpg",
+            "introduc": "Graduate of the Royal Conservatory of Madrid, Spain, specializing in classical guitar. Winner of multiple international classical guitar competitions. Dedicated to preserving and popularizing classical guitar artistry.",
+            "openingremarks": "The classical guitar is the instrument closest to the soul - each note resonates from deep within the heart.",
+            "work":[
+                {
+                    "workId": "1019",
+                    "content": "Tárrega's 'Recuerdos de la Alhambra' classical guitar performance. This Spanish masterpiece is considered a representative work of classical guitar, full of exotic flavor and melancholic beauty.",
+                    "video": "assets/images/user/19/video19.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "120",
+            "name": "Bass Wolf Marcus",
+            "icon": "assets/images/user/20/icon_1.jpg",
+            "iconbg": "assets/images/user/20/icon_2.jpg",
+            "userprofile": "assets/images/user/20/icon_3.jpg",
+            "introduc": "Professional bassist from Stockholm, member of a renowned rock band with 15 years of performance experience. Skilled in multiple bass styles, emphasizing rhythmic stability and powerful low-end presence.",
+            "openingremarks": "The bass is the soul of a band, bridging rhythm and harmony - let's feel the magic of the low end together!",
+            "work":[
+                {
+                    "workId": "1020",
+                    "content": "Electric bass technique demonstration 'Slap Technique Explained', covering from basics to advanced, sharing practice methods and practical applications of this classic bass technique.",
+                    "video": "assets/images/user/20/video20.mp4"
+                }
+            ]
+        }
+    ]
+}
