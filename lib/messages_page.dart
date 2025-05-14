@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'constants.dart';
 import 'models/user_model.dart';
 import 'services/user_service.dart';
@@ -9,6 +10,7 @@ import 'dart:math' as math;
 import 'package:video_player/video_player.dart';
 import 'user_profile_page.dart'; // 导入用户资料页面
 import 'chat_page.dart'; // 导入聊天页面
+import 'subscriptions_page.dart'; // 导入订阅页面
 
 class MessagesPage extends StatefulWidget {
   const MessagesPage({super.key});
@@ -25,6 +27,10 @@ class _MessagesPageState extends State<MessagesPage> with WidgetsBindingObserver
   final ScrollController _scrollController = ScrollController();
   bool _isInitialLoad = true; // 追踪是否是首次加载
   List<int> _hiddenCardIndices = []; // 存储已关闭的卡片索引
+  bool _isVip = false; // 用户VIP状态
+  bool _checkingVip = false; // 防止重复检查
+  DateTime? _lastVipCheckTime; // 上次检查VIP时间
+  bool _isCurrentlyScrolling = false; // 追踪当前是否正在滑动
 
   @override
   void initState() {
@@ -34,8 +40,11 @@ class _MessagesPageState extends State<MessagesPage> with WidgetsBindingObserver
     WidgetsBinding.instance.addObserver(this);
     _isPageVisible = true; // 初始化时设置页面为可见
     
-    // 添加滚动监听，用于检测当前可见的卡片
-    _scrollController.addListener(_checkVisibleCardOnScroll);
+    // 添加滚动监听，用于检测当前可见的卡片和VIP状态
+    _scrollController.addListener(_onScrollEvent);
+    
+    // 检查VIP状态
+    _checkVipStatus();
     
     // 打印日志以便调试
     _usersFuture.then((users) {
@@ -59,10 +68,185 @@ class _MessagesPageState extends State<MessagesPage> with WidgetsBindingObserver
 
   @override
   void dispose() {
-    _scrollController.removeListener(_checkVisibleCardOnScroll);
+    _scrollController.removeListener(_onScrollEvent);
     _scrollController.dispose();
     WidgetsBinding.instance.removeObserver(this);
     super.dispose();
+  }
+
+  // 滚动事件处理
+  void _onScrollEvent() {
+    // 检查当前可见的卡片
+    _checkVisibleCardOnScroll();
+    
+    // 不再在这里检查VIP状态，改为使用NotificationListener
+    // _checkVipOnScroll();
+  }
+
+  // 检查VIP状态
+  Future<void> _checkVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    final bool isSubscribed = prefs.getBool(AppPrefs.isSubscribedKey) ?? false;
+    final String? expiryDateStr = prefs.getString(AppPrefs.subscriptionExpiryKey);
+    
+    // 打印当前获取到的VIP信息
+    print('Messages - 订阅状态: $isSubscribed, 到期时间: $expiryDateStr');
+    
+    // 检查订阅是否有效
+    bool subscriptionValid = isSubscribed;
+    if (expiryDateStr != null) {
+      final DateTime expiryDate = DateTime.parse(expiryDateStr);
+      if (DateTime.now().isAfter(expiryDate)) {
+        subscriptionValid = false;
+        await prefs.setBool(AppPrefs.isSubscribedKey, false);
+        print('Messages - 订阅已过期: ${DateTime.now()} > $expiryDate');
+      } else {
+        print('Messages - 订阅有效期至: $expiryDate');
+      }
+    }
+    
+    setState(() {
+      _isVip = subscriptionValid;
+    });
+    
+    print('Messages - 最终VIP状态: $_isVip');
+  }
+
+  // 在滚动时检查VIP状态
+  void _checkVipOnScroll() {
+    // 防止频繁检查，设置最小间隔为2秒
+    final now = DateTime.now();
+    if (_lastVipCheckTime != null && 
+        now.difference(_lastVipCheckTime!).inSeconds < 2) {
+      return;
+    }
+    
+    _lastVipCheckTime = now;
+    
+    // 如果不是VIP且未在检查过程中，显示弹窗
+    if (!_isVip && !_checkingVip && _scrollController.offset > 50) {
+      _checkingVip = true;
+      
+      // 延迟一小段时间再显示弹窗，以确保滚动已经开始
+      Future.delayed(const Duration(milliseconds: 300), () {
+        if (mounted && !_isVip) {
+          _showVipPromptDialog();
+        }
+        _checkingVip = false;
+      });
+    }
+  }
+
+  // 显示VIP提示弹窗
+  void _showVipPromptDialog() {
+    if (!mounted) return;
+    
+    // 先暂停所有视频播放
+    VideoService().clearActivePlayer();
+    
+    showDialog(
+      context: context,
+      barrierDismissible: false, // 用户必须点击按钮才能关闭
+      builder: (context) => AlertDialog(
+        backgroundColor: Colors.black,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(16),
+          side: const BorderSide(color: AppColors.primaryYellow, width: 2),
+        ),
+        title: const Text(
+          'VIP Feature',
+          style: TextStyle(
+            color: AppColors.primaryYellow,
+            fontWeight: FontWeight.bold,
+          ),
+          textAlign: TextAlign.center,
+        ),
+        content: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Container(
+              width: 80,
+              height: 80,
+              decoration: const BoxDecoration(
+                shape: BoxShape.circle,
+                color: Colors.black,
+              ),
+              child: const Icon(
+                Icons.star,
+                color: AppColors.primaryYellow,
+                size: 60,
+              ),
+            ),
+            const SizedBox(height: 16),
+            const Text(
+              'Subscribe to VIP to unlock unlimited content browsing, ad-free experience, and premium features!',
+              style: TextStyle(
+                color: Colors.white,
+                fontSize: 16,
+              ),
+              textAlign: TextAlign.center,
+            ),
+          ],
+        ),
+        actions: [
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                Expanded(
+                  flex: 4,
+                  child: TextButton(
+                    onPressed: () {
+                      Navigator.of(context).pop();
+                    },
+                    style: TextButton.styleFrom(
+                      foregroundColor: Colors.white,
+                    ),
+                    child: const Text(
+                      'Maybe Later',
+                      style: TextStyle(
+                        fontSize: 16,
+                      ),
+                    ),
+                  ),
+                ),
+                const SizedBox(width: 8),
+                Expanded(
+                  flex: 6,
+                  child: ElevatedButton(
+                    onPressed: () {
+                      Navigator.of(context).pop();
+                      // 跳转到订阅页面
+                      Navigator.of(context).push(
+                        MaterialPageRoute(
+                          builder: (context) => const SubscriptionsPage(),
+                        ),
+                      );
+                    },
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: AppColors.primaryYellow,
+                      foregroundColor: Colors.black,
+                      shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(12),
+                      ),
+                      padding: const EdgeInsets.symmetric(vertical: 12),
+                    ),
+                    child: const Text(
+                      'Subscribe Now',
+                      style: TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 16,
+                      ),
+                    ),
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ],
+      ),
+    );
   }
 
   @override
@@ -76,6 +260,9 @@ class _MessagesPageState extends State<MessagesPage> with WidgetsBindingObserver
         developer.log('MessagesPage: App resumed, setting page as visible');
         // 页面重新变为可见，触发更新但保持滚动位置
         if (mounted) setState(() {});
+        
+        // 应用返回前台时重新检查VIP状态
+        _checkVipStatus();
       }
     } else if (state == AppLifecycleState.paused) {
       _isPageVisible = false;
@@ -107,6 +294,9 @@ class _MessagesPageState extends State<MessagesPage> with WidgetsBindingObserver
     // 当页面被激活时，标记为可见
     developer.log('MessagesPage: Page activated');
     _notifyPageVisibility(true);
+    
+    // 页面激活时重新检查VIP状态
+    _checkVipStatus();
   }
 
   @override
@@ -122,251 +312,288 @@ class _MessagesPageState extends State<MessagesPage> with WidgetsBindingObserver
     return Scaffold(
       backgroundColor: Colors.black,
       body: SafeArea(
-        bottom: false, // 确保内容可以延伸到底部
-        child: FutureBuilder<List<UserModel>>(
-          future: _usersFuture,
-          builder: (context, snapshot) {
-            if (snapshot.connectionState == ConnectionState.waiting) {
-              return const Center(
-                child: CircularProgressIndicator(color: AppColors.primaryYellow),
-              );
-            } else if (snapshot.hasError) {
-              developer.log('Error loading users: ${snapshot.error}');
-              return Center(
-                child: Text(
-                  'Error: ${snapshot.error}',
-                  style: const TextStyle(color: Colors.white),
-                ),
-              );
-            } else if (!snapshot.hasData || snapshot.data!.isEmpty) {
-              developer.log('No user data found');
-              return const Center(
-                child: Text(
-                  'No users found',
-                  style: TextStyle(color: Colors.white),
-                ),
-              );
+        bottom: false,
+        child: NotificationListener<ScrollNotification>(
+          onNotification: (notification) {
+            // 在滑动开始时检查VIP状态
+            if (notification is ScrollStartNotification && !_isCurrentlyScrolling) {
+              _isCurrentlyScrolling = true;
+              
+              // 先重新检查一下VIP状态，确保状态是最新的
+              _checkVipStatus().then((_) {
+                // 只有非VIP用户才显示弹窗，并且确保不是初次加载
+                if (!_isVip && !_isInitialLoad && !_checkingVip) {
+                  // 防止频繁检查，设置最小间隔为5秒
+                  final now = DateTime.now();
+                  if (_lastVipCheckTime == null || 
+                      now.difference(_lastVipCheckTime!).inSeconds >= 5) {
+                    
+                    _lastVipCheckTime = now;
+                    _checkingVip = true;
+                    
+                    // 再次确认VIP状态
+                    print('Messages - 准备显示VIP弹窗，当前VIP状态: $_isVip');
+                    
+                    Future.microtask(() {
+                      if (mounted && !_isVip) {
+                        _showVipPromptDialog();
+                      }
+                      _checkingVip = false;
+                    });
+                  }
+                }
+              });
+            } else if (notification is ScrollEndNotification) {
+              // 滑动结束，重置状态
+              _isCurrentlyScrolling = false;
             }
-
-            final users = snapshot.data!;
-            _loadedUsers = users;
-            
-            // 检查是否是初始加载
-            bool isFirstLoad = _isInitialLoad;
-            if (_isInitialLoad) {
-              _isInitialLoad = false;
-              developer.log('MessagesPage: Initial load completed, setting up content cards');
-            }
-            
-            return Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                // Title
-                const Padding(
-                  padding: EdgeInsets.only(left: 20.0, top: 16.0, bottom: 16.0),
+            return false; // 返回false允许事件继续传播
+          },
+          child: FutureBuilder<List<UserModel>>(
+            future: _usersFuture,
+            builder: (context, snapshot) {
+              if (snapshot.connectionState == ConnectionState.waiting) {
+                return const Center(
+                  child: CircularProgressIndicator(color: AppColors.primaryYellow),
+                );
+              } else if (snapshot.hasError) {
+                developer.log('Error loading users: ${snapshot.error}');
+                return Center(
                   child: Text(
-                    'Content Sharing',
-                    style: TextStyle(
-                      color: Colors.white,
-                      fontSize: 17,
-                      fontWeight: FontWeight.bold,
+                    'Error: ${snapshot.error}',
+                    style: const TextStyle(color: Colors.white),
+                  ),
+                );
+              } else if (!snapshot.hasData || snapshot.data!.isEmpty) {
+                developer.log('No user data found');
+                return const Center(
+                  child: Text(
+                    'No users found',
+                    style: TextStyle(color: Colors.white),
+                  ),
+                );
+              }
+
+              final users = snapshot.data!;
+              _loadedUsers = users;
+              
+              // 检查是否是初始加载
+              bool isFirstLoad = _isInitialLoad;
+              if (_isInitialLoad) {
+                _isInitialLoad = false;
+                developer.log('MessagesPage: Initial load completed, setting up content cards');
+              }
+              
+              return Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  // Title
+                  const Padding(
+                    padding: EdgeInsets.only(left: 20.0, top: 16.0, bottom: 16.0),
+                    child: Text(
+                      'Content Sharing',
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 17,
+                        fontWeight: FontWeight.bold,
+                      ),
                     ),
                   ),
-                ),
-                
-                // Horizontal user avatars
-                SizedBox(
-                  height: 100,
-                  child: ListView.builder(
-                    scrollDirection: Axis.horizontal,
-                    padding: const EdgeInsets.symmetric(horizontal: 16),
-                    itemCount: users.length,
-                    itemBuilder: (context, index) {
-                      // 如果卡片被隐藏，跳过显示对应头像
-                      if (_hiddenCardIndices.contains(index)) {
-                        return const SizedBox.shrink();
-                      }
-                      
-                      final user = users[index];
-                      final isSelected = _selectedUserIndex == index;
-                      
-                      // 显示完整用户名，不再截断
-                      String displayName = user.name.split(' ')[0];
-                      
-                      return GestureDetector(
-                        onTap: () {
-                          setState(() {
-                            _selectedUserIndex = index;
-                            // 选择用户后可以滚动到相应的卡片位置
-                            if (_scrollController.hasClients) {
-                              double itemPosition = index * 
-                                  (MediaQuery.of(context).size.width * 1.3 + 16); // 卡片高度 + 边距
-                              _scrollController.animateTo(
-                                itemPosition,
-                                duration: const Duration(milliseconds: 500),
-                                curve: Curves.easeInOut,
-                              );
-                            }
-                          });
-                        },
-                        onLongPress: () {
-                          // 长按打开用户资料页面
-                          // 先暂停当前所有视频播放
-                          VideoService().clearActivePlayer();
-                          Navigator.of(context).push(
-                            MaterialPageRoute(
-                              builder: (context) => UserProfilePage(user: user),
-                            ),
-                          );
-                        },
-                        child: Container(
-                          width: 70,
-                          margin: const EdgeInsets.symmetric(horizontal: 6),
-                          child: Column(
-                            mainAxisSize: MainAxisSize.min,
-                            children: [
-                              // Avatar with border
-                              Stack(
-                                alignment: Alignment.center,
-                                children: [
-                                  // Border
-                                  Container(
-                                    width: 68,
-                                    height: 68,
-                                    decoration: BoxDecoration(
-                                      shape: BoxShape.circle,
-                                      border: Border.all(
-                                        color: isSelected 
-                                            ? AppColors.primaryYellow 
-                                            : Colors.white,
-                                        width: 2,
-                                      ),
-                                    ),
-                                  ),
-                                  
-                                  // Avatar
-                                  GestureDetector(
-                                    onTap: () {
-                                      // 点击头像直接跳转到用户资料页面
-                                      // 先暂停当前所有视频播放
-                                      VideoService().clearActivePlayer();
-                                      Navigator.of(context).push(
-                                        MaterialPageRoute(
-                                          builder: (context) => UserProfilePage(user: user),
-                                        ),
-                                      );
-                                    },
-                                    child: Container(
-                                    width: 62,
-                                    height: 62,
-                                    decoration: const BoxDecoration(
-                                      shape: BoxShape.circle,
-                                    ),
-                                    child: ClipRRect(
-                                      borderRadius: BorderRadius.circular(31),
-                                      child: _buildUserImage(user.icon),
-                                      ),
-                                    ),
-                                  ),
-                                  
-                                  // Online indicator
-                                  Positioned(
-                                    right: 2,
-                                    bottom: 2,
-                                    child: Container(
-                                      width: 12,
-                                      height: 12,
+                  
+                  // Horizontal user avatars
+                  SizedBox(
+                    height: 100,
+                    child: ListView.builder(
+                      scrollDirection: Axis.horizontal,
+                      padding: const EdgeInsets.symmetric(horizontal: 16),
+                      itemCount: users.length,
+                      itemBuilder: (context, index) {
+                        // 如果卡片被隐藏，跳过显示对应头像
+                        if (_hiddenCardIndices.contains(index)) {
+                          return const SizedBox.shrink();
+                        }
+                        
+                        final user = users[index];
+                        final isSelected = _selectedUserIndex == index;
+                        
+                        // 显示完整用户名，不再截断
+                        String displayName = user.name.split(' ')[0];
+                        
+                        return GestureDetector(
+                          onTap: () {
+                            setState(() {
+                              _selectedUserIndex = index;
+                              // 选择用户后可以滚动到相应的卡片位置
+                              if (_scrollController.hasClients) {
+                                double itemPosition = index * 
+                                    (MediaQuery.of(context).size.width * 1.3 + 16); // 卡片高度 + 边距
+                                _scrollController.animateTo(
+                                  itemPosition,
+                                  duration: const Duration(milliseconds: 500),
+                                  curve: Curves.easeInOut,
+                                );
+                              }
+                            });
+                          },
+                          onLongPress: () {
+                            // 长按打开用户资料页面
+                            // 先暂停当前所有视频播放
+                            VideoService().clearActivePlayer();
+                            Navigator.of(context).push(
+                              MaterialPageRoute(
+                                builder: (context) => UserProfilePage(user: user),
+                              ),
+                            );
+                          },
+                          child: Container(
+                            width: 70,
+                            margin: const EdgeInsets.symmetric(horizontal: 6),
+                            child: Column(
+                              mainAxisSize: MainAxisSize.min,
+                              children: [
+                                // Avatar with border
+                                Stack(
+                                  alignment: Alignment.center,
+                                  children: [
+                                    // Border
+                                    Container(
+                                      width: 68,
+                                      height: 68,
                                       decoration: BoxDecoration(
-                                        color: Colors.green,
                                         shape: BoxShape.circle,
                                         border: Border.all(
-                                          color: Colors.black,
+                                          color: isSelected 
+                                              ? AppColors.primaryYellow 
+                                              : Colors.white,
                                           width: 2,
                                         ),
                                       ),
                                     ),
-                                  ),
-                                ],
-                              ),
-                              
-                              const SizedBox(height: 8),
-                              
-                              // Username - 使用完整名称
-                              Text(
-                                displayName,
-                                style: TextStyle(
-                                  color: isSelected 
-                                      ? AppColors.primaryYellow 
-                                      : Colors.white,
-                                  fontSize: 12,
-                                  fontWeight: FontWeight.w500,
+                                    
+                                    // Avatar
+                                    GestureDetector(
+                                      onTap: () {
+                                        // 点击头像直接跳转到用户资料页面
+                                        // 先暂停当前所有视频播放
+                                        VideoService().clearActivePlayer();
+                                        Navigator.of(context).push(
+                                          MaterialPageRoute(
+                                            builder: (context) => UserProfilePage(user: user),
+                                          ),
+                                        );
+                                      },
+                                      child: Container(
+                                      width: 62,
+                                      height: 62,
+                                      decoration: const BoxDecoration(
+                                        shape: BoxShape.circle,
+                                      ),
+                                      child: ClipRRect(
+                                        borderRadius: BorderRadius.circular(31),
+                                        child: _buildUserImage(user.icon),
+                                        ),
+                                      ),
+                                    ),
+                                    
+                                    // Online indicator
+                                    Positioned(
+                                      right: 2,
+                                      bottom: 2,
+                                      child: Container(
+                                        width: 12,
+                                        height: 12,
+                                        decoration: BoxDecoration(
+                                          color: Colors.green,
+                                          shape: BoxShape.circle,
+                                          border: Border.all(
+                                            color: Colors.black,
+                                            width: 2,
+                                          ),
+                                        ),
+                                      ),
+                                    ),
+                                  ],
                                 ),
-                                overflow: TextOverflow.ellipsis,
-                                textAlign: TextAlign.center,
-                              ),
-                            ],
+                                
+                                const SizedBox(height: 8),
+                                
+                                // Username - 使用完整名称
+                                Text(
+                                  displayName,
+                                  style: TextStyle(
+                                    color: isSelected 
+                                        ? AppColors.primaryYellow 
+                                        : Colors.white,
+                                    fontSize: 12,
+                                    fontWeight: FontWeight.w500,
+                                  ),
+                                  overflow: TextOverflow.ellipsis,
+                                  textAlign: TextAlign.center,
+                                ),
+                              ],
+                            ),
                           ),
-                        ),
-                      );
-                    },
+                        );
+                      },
+                    ),
                   ),
-                ),
-                
-                const SizedBox(height: 16),
-                
-                // Content Cards - vertical scrollable list
-                          Expanded(
-                            child: ListView.builder(
+                  
+                  const SizedBox(height: 16),
+                  
+                  // Content Cards - vertical scrollable list
+                            Expanded(
+                              child: ListView.builder(
                     key: const PageStorageKey('content_cards_list'),
                     controller: _scrollController,
                     padding: EdgeInsets.only(bottom: MediaQuery.of(context).padding.bottom), // 添加安全区域底部边距
                     itemCount: users.length,
                               itemBuilder: (context, index) {
-                      // 如果卡片被隐藏，返回空容器
-                      if (_hiddenCardIndices.contains(index)) {
-                        return const SizedBox.shrink();
-                      }
-                      
-                      // 确保用户有作品数据
-                      bool hasWorks = users[index].works.isNotEmpty;
-                      String workContent = hasWorks 
-                          ? users[index].works[0].content 
-                          : users[index].openingremarks;
-                      String videoPath = hasWorks 
-                          ? users[index].works[0].video 
-                          : '';
-                          
-                      // 设置卡片高度为320
-                      return Container(
-                        height: 340,
-                        margin: const EdgeInsets.only(left: 16.0, right: 16.0, bottom: 16.0),
-                        child: ContentCard(
-                          user: users[index],
-                          workContent: workContent,
-                          videoPath: videoPath,
-                          isPageVisible: _isPageVisible,
-                          isFirstVisible: isFirstLoad && index == 0, // 首次加载时第一个卡片应该立即播放
-                                  onTap: () {
-                                    setState(() {
-                              _selectedUserIndex = index;
-                                    });
-                                  },
-                          onClose: () {
-                            // 处理关闭卡片
-                            setState(() {
-                              _hiddenCardIndices.add(index);
-                            });
-                            // 停止视频播放
-                            VideoService().clearActivePlayer();
-                          },
+                        // 如果卡片被隐藏，返回空容器
+                        if (_hiddenCardIndices.contains(index)) {
+                          return const SizedBox.shrink();
+                        }
+                        
+                        // 确保用户有作品数据
+                        bool hasWorks = users[index].works.isNotEmpty;
+                        String workContent = hasWorks 
+                            ? users[index].works[0].content 
+                            : users[index].openingremarks;
+                        String videoPath = hasWorks 
+                            ? users[index].works[0].video 
+                            : '';
+                            
+                        // 设置卡片高度为320
+                        return Container(
+                          height: 340,
+                          margin: const EdgeInsets.only(left: 16.0, right: 16.0, bottom: 16.0),
+                          child: ContentCard(
+                            user: users[index],
+                            workContent: workContent,
+                            videoPath: videoPath,
+                            isPageVisible: _isPageVisible,
+                            isFirstVisible: isFirstLoad && index == 0, // 首次加载时第一个卡片应该立即播放
+                                    onTap: () {
+                                      setState(() {
+                                _selectedUserIndex = index;
+                                      });
+                                    },
+                            onClose: () {
+                              // 处理关闭卡片
+                              setState(() {
+                                _hiddenCardIndices.add(index);
+                              });
+                              // 停止视频播放
+                              VideoService().clearActivePlayer();
+                            },
+                        ),
+                        );
+                      },
                     ),
-                      );
-                    },
                   ),
-                ),
-              ],
-            );
-          },
+                ],
+              );
+            },
+          ),
         ),
       ),
     );

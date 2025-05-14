@@ -11,6 +11,9 @@ class AppColors {
   static const Color darkBackground = Colors.black;
   static const Color white = Colors.white;
   static const Color tabBarBackground = Color(0x99333333);
+  
+  // Purchase page theme color
+  static const Color purchaseTheme = Color(0xFF5E60CE);
 }
 
 class AppStrings {
@@ -54,6 +57,12 @@ class AppStrings {
   static const String messages = 'Messages';
   static const String live = 'Live';
   static const String profile = 'Me';
+  
+  // Subscription features
+  static const String unlimitedBrowsing = 'Unlimited browsing of works';
+  static const String noAds = 'Eliminate in-app advertising';
+  static const String unlimitedAvatarChanges = 'Unlimited avatar changes';
+  static const String subscriptionDisclaimer = 'Subscription will automatically renew unless canceled at least 24 hours before the end of the current period. You can manage your subscriptions in your account settings.';
 }
 
 class AppAssets {
@@ -73,4 +82,57 @@ class AppAssets {
   static const String liveSelected = 'assets/images/tabpre/boom_tab_3_pre.png';
   static const String profileNormal = 'assets/images/tabnor/boom_tab_4_nor.png';
   static const String profileSelected = 'assets/images/tabpre/boom_tab_4_pre.png';
+} 
+
+class IAPProducts {
+  // Text messaging products
+  static const String text5 = 'Boombo1_5';
+  static const String text15 = 'Boombo1_15';
+  static const String text19 = 'Boombo1_19';
+  
+  // Picture messaging products
+  static const String picture6 = 'Boombo2_6';
+  static const String picture19 = 'Boombo2_19';
+  static const String picture29 = 'Boombo2_29';
+  
+  // Voice messaging products
+  static const String voice8 = 'Boombo3_8';
+  static const String voice19 = 'Boombo3_19';
+  static const String voice39 = 'Boombo3_39';
+  
+  // Video calling products
+  static const String video8 = 'Boombo4_8';
+  static const String video19 = 'Boombo4_19';
+  static const String video39 = 'Boombo4_39';
+  
+  // Subscription products
+  static const String monthlySubscription = 'BoomboSub1_19';
+  static const String quarterlySubscription = 'BoomboSub2_29';
+  static const String yearlySubscription = 'BoomboSub3_69';
+  
+  // Get all product IDs as a set
+  static Set<String> get allProductIds => {
+    text5, text15, text19,
+    picture6, picture19, picture29,
+    voice8, voice19, voice39,
+    video8, video19, video39,
+    monthlySubscription, quarterlySubscription, yearlySubscription,
+  };
+  
+  // Feature types
+  static const String featureText = 'sendtext';
+  static const String featurePicture = 'sendpictures';
+  static const String featureVoice = 'sendvoicemessages';
+  static const String featureVideo = 'makevideocalls';
+}
+
+class AppPrefs {
+  // IAP balance storage keys
+  static const String textQuotaKey = 'textQuota';
+  static const String pictureQuotaKey = 'pictureQuota';
+  static const String voiceQuotaKey = 'voiceQuota';
+  static const String videoQuotaKey = 'videoQuota';
+  static const String isSubscribedKey = 'isSubscribed';
+  static const String subscriptionTypeKey = 'subscriptionType';
+  static const String subscriptionExpiryKey = 'subscriptionExpiry';
 } 

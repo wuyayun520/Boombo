@@ -15,6 +15,7 @@ import 'package:audio_session/audio_session.dart';
 import 'package:record/record.dart';
 import 'video_call_page.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'in_app_purchases_page.dart';
 
 class ChatPage extends StatefulWidget {
   final UserModel user;
@@ -65,6 +66,15 @@ class _ChatPageState extends State<ChatPage> with TickerProviderStateMixin {
   final List<double> _waveHeights = List.generate(10, (_) => 0.0);
   final math.Random _random = math.Random();
   
+  // Add credit balance variables
+  int _textQuota = 0;
+  int _pictureQuota = 0;
+  int _voiceQuota = 0;
+  int _videoQuota = 0;
+  
+  // 生命周期观察者
+  late final _AppLifecycleObserver _lifecycleObserver;
+  
   @override
   void initState() {
     super.initState();
@@ -106,6 +116,19 @@ class _ChatPageState extends State<ChatPage> with TickerProviderStateMixin {
     
     // 加载用户资料
     _loadUserProfile();
+    
+    // 加载信用额度
+    _loadCreditBalances();
+    
+    // 初始化并添加生命周期观察者
+    _lifecycleObserver = _AppLifecycleObserver(
+      onResumed: () {
+        if (mounted && !_isDisposed) {
+          _loadCreditBalances();
+        }
+      },
+    );
+    WidgetsBinding.instance.addObserver(_lifecycleObserver);
   }
   
   // 加载用户资料
@@ -118,6 +141,21 @@ class _ChatPageState extends State<ChatPage> with TickerProviderStateMixin {
       });
     } catch (e) {
       print("加载用户资料出错: $e");
+    }
+  }
+  
+  // 加载信用额度
+  Future<void> _loadCreditBalances() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      setState(() {
+        _textQuota = prefs.getInt('textQuota') ?? 0;
+        _pictureQuota = prefs.getInt('pictureQuota') ?? 0;
+        _voiceQuota = prefs.getInt('voiceQuota') ?? 0;
+        _videoQuota = prefs.getInt('videoQuota') ?? 0;
+      });
+    } catch (e) {
+      print("加载信用额度出错: $e");
     }
   }
   
@@ -285,6 +323,9 @@ class _ChatPageState extends State<ChatPage> with TickerProviderStateMixin {
     _playbackAnimationController.dispose();
     _recordingAnimationController.dispose();
     
+    // 移除生命周期观察者
+    WidgetsBinding.instance.removeObserver(_lifecycleObserver);
+    
     // 但不销毁AudioService实例
     print("ChatPage已释放资源，但保留AudioService实例供下次使用");
     
@@ -325,13 +366,172 @@ class _ChatPageState extends State<ChatPage> with TickerProviderStateMixin {
         _audioService.stopRecording();
       }
     } else {
-      // 如果页面是当前页面，刷新用户资料
+      // 如果页面是当前页面，刷新用户资料和额度
       _loadUserProfile();
+      _loadCreditBalances();
     }
   }
   
-  void _sendTextMessage() {
+  // 检查并减少文本消息额度
+  Future<bool> _checkAndDeductTextCredit() async {
+    if (_textQuota <= 0) {
+      _showCreditAlert('sendtext');
+      return false;
+    }
+    
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      _textQuota--;
+      await prefs.setInt('textQuota', _textQuota);
+      setState(() {});
+      return true;
+    } catch (e) {
+      print("扣减文本消息额度出错: $e");
+      return false;
+    }
+  }
+  
+  // 检查并减少图片消息额度
+  Future<bool> _checkAndDeductPictureCredit() async {
+    if (_pictureQuota <= 0) {
+      _showCreditAlert('sendpictures');
+      return false;
+    }
+    
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      _pictureQuota--;
+      await prefs.setInt('pictureQuota', _pictureQuota);
+      setState(() {});
+      return true;
+    } catch (e) {
+      print("扣减图片消息额度出错: $e");
+      return false;
+    }
+  }
+  
+  // 检查并减少语音消息额度
+  Future<bool> _checkAndDeductVoiceCredit() async {
+    if (_voiceQuota <= 0) {
+      _showCreditAlert('sendvoicemessages');
+      return false;
+    }
+    
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      _voiceQuota--;
+      await prefs.setInt('voiceQuota', _voiceQuota);
+      setState(() {});
+      return true;
+    } catch (e) {
+      print("扣减语音消息额度出错: $e");
+      return false;
+    }
+  }
+  
+  // 检查并减少视频通话额度
+  Future<bool> _checkAndDeductVideoCredit() async {
+    if (_videoQuota <= 0) {
+      _showCreditAlert('makevideocalls');
+      return false;
+    }
+    
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      _videoQuota--;
+      await prefs.setInt('videoQuota', _videoQuota);
+      setState(() {});
+      return true;
+    } catch (e) {
+      print("扣减视频通话额度出错: $e");
+      return false;
+    }
+  }
+  
+  // 显示额度不足提示并跳转到充值页面
+  void _showCreditAlert(String creditType) {
+    String title;
+    String message;
+    
+    switch (creditType) {
+      case 'sendtext':
+        title = "Text Message Credits";
+        message = "You don't have enough credits to send text messages.";
+        break;
+      case 'sendpictures':
+        title = "Picture Message Credits";
+        message = "You don't have enough credits to send picture messages.";
+        break;
+      case 'sendvoicemessages':
+        title = "Voice Message Credits";
+        message = "You don't have enough credits to send voice messages.";
+        break;
+      case 'makevideocalls':
+        title = "Video Call Credits";
+        message = "You don't have enough credits to make video calls.";
+        break;
+      default:
+        title = "Credits";
+        message = "You don't have enough credits.";
+    }
+    
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        backgroundColor: Colors.white,
+        title: Text(
+          title,
+          style: const TextStyle(color: Color(0xFF5E60CE)),
+        ),
+        content: Text(
+          message,
+          style: TextStyle(color: Colors.grey[700]),
+        ),
+        actions: [
+          TextButton(
+            onPressed: () {
+              Navigator.pop(context);
+            },
+            child: const Text(
+              'Cancel',
+              style: TextStyle(color: Colors.grey),
+            ),
+          ),
+          TextButton(
+            onPressed: () {
+              Navigator.pop(context);
+              _navigateToInAppPurchases(creditType);
+            },
+            child: const Text(
+              'Purchase Credits',
+              style: TextStyle(color: Color(0xFF5E60CE)),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+  
+  // 跳转到充值页面
+  void _navigateToInAppPurchases(String creditType) {
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => const InAppPurchasesPage(),
+      ),
+    ).then((_) {
+      // 返回后重新加载额度
+      _loadCreditBalances();
+    });
+  }
+  
+  // 修改发送文本消息方法
+  void _sendTextMessage() async {
     if (_messageController.text.trim().isEmpty) return;
+    
+    // 检查额度
+    final hasCredit = await _checkAndDeductTextCredit();
+    if (!hasCredit) return;
     
     setState(() {
       _messages.add(
@@ -351,7 +551,7 @@ class _ChatPageState extends State<ChatPage> with TickerProviderStateMixin {
     _saveChatMessages();
   }
   
-  // 开始录音
+  // 修改开始录音方法
   Future<void> _startRecording() async {
     print("开始录音 - 手势按下");
     
@@ -764,6 +964,10 @@ class _ChatPageState extends State<ChatPage> with TickerProviderStateMixin {
     if (_isDisposed) return;
     
     try {
+      // 检查额度
+      final hasCredit = await _checkAndDeductVoiceCredit();
+      if (!hasCredit) return;
+      
       print("准备保存并发送语音消息，源文件路径: $voiceFilePath");
       
       // 检查源文件是否存在
@@ -854,6 +1058,10 @@ class _ChatPageState extends State<ChatPage> with TickerProviderStateMixin {
   Future<void> _pickAndSendImage() async {
     if (_isPickingImage || _isDisposed) return;
     
+    // 检查额度
+    final hasCredit = await _checkAndDeductPictureCredit();
+    if (!hasCredit) return;
+    
     setState(() {
       _isPickingImage = true;
     });
@@ -880,7 +1088,11 @@ class _ChatPageState extends State<ChatPage> with TickerProviderStateMixin {
     }
   }
   
-  void _startVideoCall() {
+  void _startVideoCall() async {
+    // 检查额度
+    final hasCredit = await _checkAndDeductVideoCredit();
+    if (!hasCredit) return;
+    
     Navigator.of(context).push(
       MaterialPageRoute(
         builder: (context) => VideoCallPage(
@@ -1881,5 +2093,19 @@ class _ImagePreviewPageState extends State<ImagePreviewPage> with SingleTickerPr
         ),
       ),
     );
+  }
+}
+
+// 应用生命周期观察者
+class _AppLifecycleObserver extends WidgetsBindingObserver {
+  final VoidCallback onResumed;
+  
+  _AppLifecycleObserver({required this.onResumed});
+  
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    if (state == AppLifecycleState.resumed) {
+      onResumed();
+    }
   }
 } 
