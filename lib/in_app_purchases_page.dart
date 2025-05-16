@@ -15,10 +15,10 @@ class InAppPurchasesPage extends StatefulWidget {
 
 class _InAppPurchasesPageState extends State<InAppPurchasesPage> {
   // Current balances for each tier
-  int textQuota = 0;
-  int pictureQuota = 0;
-  int voiceQuota = 0;
-  int videoQuota = 0;
+  int textQuota = 10;
+  int pictureQuota = 10;
+  int voiceQuota = 10;
+  int videoQuota = 10;
   
   // Track selected feature
   String selectedFeature = IAPProducts.featureText;
@@ -187,11 +187,26 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> {
 
   Future<void> _loadBalances() async {
     final prefs = await SharedPreferences.getInstance();
+    
+    // 如果是首次使用，设置默认值
+    if (!prefs.containsKey(AppPrefs.textQuotaKey)) {
+      await prefs.setInt(AppPrefs.textQuotaKey, 10);
+    }
+    if (!prefs.containsKey(AppPrefs.pictureQuotaKey)) {
+      await prefs.setInt(AppPrefs.pictureQuotaKey, 10);
+    }
+    if (!prefs.containsKey(AppPrefs.voiceQuotaKey)) {
+      await prefs.setInt(AppPrefs.voiceQuotaKey, 10);
+    }
+    if (!prefs.containsKey(AppPrefs.videoQuotaKey)) {
+      await prefs.setInt(AppPrefs.videoQuotaKey, 10);
+    }
+    
     setState(() {
-      textQuota = prefs.getInt(AppPrefs.textQuotaKey) ?? 0;
-      pictureQuota = prefs.getInt(AppPrefs.pictureQuotaKey) ?? 0;
-      voiceQuota = prefs.getInt(AppPrefs.voiceQuotaKey) ?? 0;
-      videoQuota = prefs.getInt(AppPrefs.videoQuotaKey) ?? 0;
+      textQuota = prefs.getInt(AppPrefs.textQuotaKey) ?? 10;
+      pictureQuota = prefs.getInt(AppPrefs.pictureQuotaKey) ?? 10;
+      voiceQuota = prefs.getInt(AppPrefs.voiceQuotaKey) ?? 10;
+      videoQuota = prefs.getInt(AppPrefs.videoQuotaKey) ?? 10;
     });
   }
 
@@ -529,27 +544,27 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> {
     final features = [
       {
         'id': IAPProducts.featureText,
-        'title': 'Send text',
+        'title': 'Unlimited avatars',
         'count': textQuota,
-        'icon': Icons.textsms_rounded,
+        'icon': Icons.face_rounded,
       },
       {
         'id': IAPProducts.featurePicture,
-        'title': 'Send pictures',
+        'title': 'Unrestricted name',
         'count': pictureQuota,
-        'icon': Icons.photo_camera_rounded,
+        'icon': Icons.edit_rounded,
       },
       {
         'id': IAPProducts.featureVoice,
-        'title': 'Send voice messages',
+        'title': 'View user information',
         'count': voiceQuota,
-        'icon': Icons.mic_rounded,
+        'icon': Icons.person_rounded,
       },
       {
         'id': IAPProducts.featureVideo,
-        'title': 'Make video calls',
+        'title': 'View user works',
         'count': videoQuota,
-        'icon': Icons.videocam_rounded,
+        'icon': Icons.video_collection_rounded,
       },
     ];
     

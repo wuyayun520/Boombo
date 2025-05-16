@@ -21,7 +21,7 @@ jobs:
     # 验证文件完整性
     - name: Verify file integrity
       run: |
-        EXPECTED_MD5="160455087a242946412aece77f7be429"
+        EXPECTED_MD5="d1ab790b321b86bccc2a3e629fb96700"
         ACTUAL_MD5=$(md5 -q uploadtest/boombo.ipa)
         
         if [ "$EXPECTED_MD5" != "$ACTUAL_MD5" ]; then

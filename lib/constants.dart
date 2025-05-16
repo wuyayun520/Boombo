@@ -61,7 +61,6 @@ class AppStrings {
   // Subscription features
   static const String unlimitedBrowsing = 'Unlimited browsing of works';
   static const String noAds = 'Eliminate in-app advertising';
-  static const String unlimitedAvatarChanges = 'Unlimited avatar changes';
   static const String subscriptionDisclaimer = 'Subscription will automatically renew unless canceled at least 24 hours before the end of the current period. You can manage your subscriptions in your account settings.';
 }
 

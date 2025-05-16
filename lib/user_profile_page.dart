@@ -7,12 +7,16 @@ import 'package:video_player/video_player.dart';
 import 'dart:developer' as developer;
 import 'chat_page.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'services/user_profile_service.dart';
+import 'in_app_purchases_page.dart';
 
 class UserProfilePage extends StatefulWidget {
   final UserModel user;
+  final bool hasCheckedQuota;
   
   const UserProfilePage({
     required this.user,
+    this.hasCheckedQuota = false,
     Key? key,
   }) : super(key: key);
   
@@ -26,6 +30,7 @@ class _UserProfilePageState extends State<UserProfilePage> with WidgetsBindingOb
   bool _isBlocked = false;
   final String _blockedUsersKey = 'blocked_users';
   final String _followingUsersKey = 'following_users';
+  bool _hasQuotaCheck = false;
   
   // 随机生成用户统计数据
   String _followingCount = '0';
@@ -36,6 +41,7 @@ class _UserProfilePageState extends State<UserProfilePage> with WidgetsBindingOb
   void initState() {
     super.initState();
     WidgetsBinding.instance.addObserver(this);
+    _checkQuota();
     _loadBlockedStatus();
     _loadFollowingStatus();
     
@@ -601,7 +607,13 @@ class _UserProfilePageState extends State<UserProfilePage> with WidgetsBindingOb
   }
   
   // 显示作品详情
-  void _showWorkDetails(WorkModel work) {
+  void _showWorkDetails(WorkModel work) async {
+    // 检查是否有足够的次数查看用户作品
+    final hasWorkQuota = await _checkWorkViewQuota();
+    if (!hasWorkQuota) {
+      return;
+    }
+    
     showModalBottomSheet(
       context: context,
       backgroundColor: Colors.transparent,
@@ -716,6 +728,69 @@ class _UserProfilePageState extends State<UserProfilePage> with WidgetsBindingOb
         );
       },
     );
+  }
+  
+  // 检查是否有足够次数查看用户作品
+  Future<bool> _checkWorkViewQuota() async {
+    final prefs = await SharedPreferences.getInstance();
+    
+    // 如果是首次使用，设置默认值为10次
+    if (!prefs.containsKey(AppPrefs.videoQuotaKey)) {
+      await prefs.setInt(AppPrefs.videoQuotaKey, 10);
+      // 减少一次次数
+      await _decreaseWorkViewQuota();
+      return true;
+    }
+    
+    final videoQuota = prefs.getInt(AppPrefs.videoQuotaKey) ?? 0;
+    
+    if (videoQuota <= 0) {
+      // 显示配额不足对话框
+      showDialog(
+        context: context,
+        barrierDismissible: false,
+        builder: (context) => AlertDialog(
+          title: const Text('Quota Required'),
+          content: const Text(
+            'You need "View user works" quota to view this content. Would you like to purchase some?'
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(context),
+              child: const Text('Cancel'),
+            ),
+            TextButton(
+              onPressed: () {
+                Navigator.pop(context);
+                // 跳转到购买页面
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const InAppPurchasesPage(),
+                  ),
+                );
+              },
+              child: const Text('Purchase'),
+            ),
+          ],
+        ),
+      );
+      return false;
+    }
+    
+    // 减少一次次数
+    await _decreaseWorkViewQuota();
+    return true;
+  }
+  
+  // 减少查看用户作品的次数
+  Future<void> _decreaseWorkViewQuota() async {
+    final prefs = await SharedPreferences.getInstance();
+    final videoQuota = prefs.getInt(AppPrefs.videoQuotaKey) ?? 0;
+    
+    if (videoQuota > 0) {
+      await prefs.setInt(AppPrefs.videoQuotaKey, videoQuota - 1);
+    }
   }
   
   // 获取用户头像
@@ -946,6 +1021,69 @@ class _UserProfilePageState extends State<UserProfilePage> with WidgetsBindingOb
         ),
       ),
     );
+  }
+
+  // 检查是否有查看用户资料的次数
+  Future<void> _checkQuota() async {
+    // 如果已经通过服务检查了配额，则不需要再次检查
+    if (_hasQuotaCheck || widget.hasCheckedQuota) {
+      _hasQuotaCheck = true;
+      return;
+    }
+    
+    _hasQuotaCheck = true;
+    
+    // 查询配额
+    final prefs = await SharedPreferences.getInstance();
+    
+    // 如果是首次使用，设置默认值为10次
+    if (!prefs.containsKey(AppPrefs.voiceQuotaKey)) {
+      await prefs.setInt(AppPrefs.voiceQuotaKey, 10);
+      // 在这里消耗一次次数，因为是直接访问的
+      await UserProfileService.decreaseViewProfileQuota();
+      return;
+    }
+    
+    final hasQuota = await UserProfileService.hasViewProfileQuota();
+    
+    if (!hasQuota && mounted) {
+      // 没有足够的查看配额，返回并显示购买对话框
+      Navigator.of(context).pop();
+      
+      // 显示配额不足对话框
+      showDialog(
+        context: context,
+        barrierDismissible: false,
+        builder: (context) => AlertDialog(
+          title: const Text('Quota Required'),
+          content: const Text(
+            'You need "View user information" quota to view this profile. Would you like to purchase some?'
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(context),
+              child: const Text('Cancel'),
+            ),
+            TextButton(
+              onPressed: () {
+                Navigator.pop(context);
+                // 跳转到购买页面
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const InAppPurchasesPage(),
+                  ),
+                );
+              },
+              child: const Text('Purchase'),
+            ),
+          ],
+        ),
+      );
+    } else if (hasQuota) {
+      // 有足够的查看配额，减少一次（仅当直接访问页面时）
+      await UserProfileService.decreaseViewProfileQuota();
+    }
   }
 }
 

@@ -819,7 +819,6 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> {
                           const SizedBox(height: 16),
                           _buildFeatureItem(AppStrings.unlimitedBrowsing),
                           _buildFeatureItem(AppStrings.noAds),
-                          _buildFeatureItem(AppStrings.unlimitedAvatarChanges),
                         ],
                       ),
                     ),

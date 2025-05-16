@@ -11,6 +11,7 @@ import 'package:video_player/video_player.dart';
 import 'user_profile_page.dart'; // 导入用户资料页面
 import 'chat_page.dart'; // 导入聊天页面
 import 'subscriptions_page.dart'; // 导入订阅页面
+import 'services/user_profile_service.dart';
 
 class MessagesPage extends StatefulWidget {
   const MessagesPage({super.key});
@@ -439,11 +440,7 @@ class _MessagesPageState extends State<MessagesPage> with WidgetsBindingObserver
                             // 长按打开用户资料页面
                             // 先暂停当前所有视频播放
                             VideoService().clearActivePlayer();
-                            Navigator.of(context).push(
-                              MaterialPageRoute(
-                                builder: (context) => UserProfilePage(user: user),
-                              ),
-                            );
+                            UserProfileService.navigateToUserProfile(context, user);
                           },
                           child: Container(
                             width: 70,
@@ -476,11 +473,7 @@ class _MessagesPageState extends State<MessagesPage> with WidgetsBindingObserver
                                         // 点击头像直接跳转到用户资料页面
                                         // 先暂停当前所有视频播放
                                         VideoService().clearActivePlayer();
-                                        Navigator.of(context).push(
-                                          MaterialPageRoute(
-                                            builder: (context) => UserProfilePage(user: user),
-                                          ),
-                                        );
+                                        UserProfileService.navigateToUserProfile(context, user);
                                       },
                                       child: Container(
                                       width: 62,

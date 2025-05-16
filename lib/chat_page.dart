@@ -146,17 +146,7 @@ class _ChatPageState extends State<ChatPage> with TickerProviderStateMixin {
   
   // 加载信用额度
   Future<void> _loadCreditBalances() async {
-    try {
-      final prefs = await SharedPreferences.getInstance();
-      setState(() {
-        _textQuota = prefs.getInt('textQuota') ?? 0;
-        _pictureQuota = prefs.getInt('pictureQuota') ?? 0;
-        _voiceQuota = prefs.getInt('voiceQuota') ?? 0;
-        _videoQuota = prefs.getInt('videoQuota') ?? 0;
-      });
-    } catch (e) {
-      print("加载信用额度出错: $e");
-    }
+    // 现在所有功能都是免费的，不需要加载信用额度
   }
   
   // 请求所需权限
@@ -374,117 +364,41 @@ class _ChatPageState extends State<ChatPage> with TickerProviderStateMixin {
   
   // 检查并减少文本消息额度
   Future<bool> _checkAndDeductTextCredit() async {
-    if (_textQuota <= 0) {
-      _showCreditAlert('sendtext');
-      return false;
-    }
-    
-    try {
-      final prefs = await SharedPreferences.getInstance();
-      _textQuota--;
-      await prefs.setInt('textQuota', _textQuota);
-      setState(() {});
-      return true;
-    } catch (e) {
-      print("扣减文本消息额度出错: $e");
-      return false;
-    }
+    // 现在所有功能都是免费的，总是返回true
+    return true;
   }
   
   // 检查并减少图片消息额度
   Future<bool> _checkAndDeductPictureCredit() async {
-    if (_pictureQuota <= 0) {
-      _showCreditAlert('sendpictures');
-      return false;
-    }
-    
-    try {
-      final prefs = await SharedPreferences.getInstance();
-      _pictureQuota--;
-      await prefs.setInt('pictureQuota', _pictureQuota);
-      setState(() {});
-      return true;
-    } catch (e) {
-      print("扣减图片消息额度出错: $e");
-      return false;
-    }
+    // 现在所有功能都是免费的，总是返回true
+    return true;
   }
   
   // 检查并减少语音消息额度
   Future<bool> _checkAndDeductVoiceCredit() async {
-    if (_voiceQuota <= 0) {
-      _showCreditAlert('sendvoicemessages');
-      return false;
-    }
-    
-    try {
-      final prefs = await SharedPreferences.getInstance();
-      _voiceQuota--;
-      await prefs.setInt('voiceQuota', _voiceQuota);
-      setState(() {});
-      return true;
-    } catch (e) {
-      print("扣减语音消息额度出错: $e");
-      return false;
-    }
+    // 现在所有功能都是免费的，总是返回true
+    return true;
   }
   
   // 检查并减少视频通话额度
   Future<bool> _checkAndDeductVideoCredit() async {
-    if (_videoQuota <= 0) {
-      _showCreditAlert('makevideocalls');
-      return false;
-    }
-    
-    try {
-      final prefs = await SharedPreferences.getInstance();
-      _videoQuota--;
-      await prefs.setInt('videoQuota', _videoQuota);
-      setState(() {});
-      return true;
-    } catch (e) {
-      print("扣减视频通话额度出错: $e");
-      return false;
-    }
+    // 现在所有功能都是免费的，总是返回true
+    return true;
   }
   
   // 显示额度不足提示并跳转到充值页面
   void _showCreditAlert(String creditType) {
-    String title;
-    String message;
-    
-    switch (creditType) {
-      case 'sendtext':
-        title = "Text Message Credits";
-        message = "You don't have enough credits to send text messages.";
-        break;
-      case 'sendpictures':
-        title = "Picture Message Credits";
-        message = "You don't have enough credits to send picture messages.";
-        break;
-      case 'sendvoicemessages':
-        title = "Voice Message Credits";
-        message = "You don't have enough credits to send voice messages.";
-        break;
-      case 'makevideocalls':
-        title = "Video Call Credits";
-        message = "You don't have enough credits to make video calls.";
-        break;
-      default:
-        title = "Credits";
-        message = "You don't have enough credits.";
-    }
-    
+    // 不再显示需要购买信用的提示，而是显示功能已免费
     showDialog(
       context: context,
       builder: (context) => AlertDialog(
         backgroundColor: Colors.white,
-        title: Text(
-          title,
-          style: const TextStyle(color: Color(0xFF5E60CE)),
+        title: const Text(
+          "Free Service",
+          style: TextStyle(color: Color(0xFF5E60CE)),
         ),
         content: Text(
-          message,
+          "All messaging and calling features are now free to use without any limitations.",
           style: TextStyle(color: Colors.grey[700]),
         ),
         actions: [
@@ -493,17 +407,7 @@ class _ChatPageState extends State<ChatPage> with TickerProviderStateMixin {
               Navigator.pop(context);
             },
             child: const Text(
-              'Cancel',
-              style: TextStyle(color: Colors.grey),
-            ),
-          ),
-          TextButton(
-            onPressed: () {
-              Navigator.pop(context);
-              _navigateToInAppPurchases(creditType);
-            },
-            child: const Text(
-              'Purchase Credits',
+              'OK',
               style: TextStyle(color: Color(0xFF5E60CE)),
             ),
           ),
@@ -514,15 +418,7 @@ class _ChatPageState extends State<ChatPage> with TickerProviderStateMixin {
   
   // 跳转到充值页面
   void _navigateToInAppPurchases(String creditType) {
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-        builder: (context) => const InAppPurchasesPage(),
-      ),
-    ).then((_) {
-      // 返回后重新加载额度
-      _loadCreditBalances();
-    });
+    // 现在所有功能都是免费的，不需要跳转到充值页面
   }
   
   // 修改发送文本消息方法

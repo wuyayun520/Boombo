@@ -5,6 +5,7 @@ import 'services/user_service.dart';
 import 'dart:developer' as developer;
 import 'services/video_service.dart';
 import 'user_profile_page.dart';
+import 'services/user_profile_service.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -139,12 +140,16 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
       _currentIndex = index;
     });
   }
+
+  void _navigateToUserProfile(BuildContext context, UserModel user) {
+    UserProfileService.navigateToUserProfile(context, user);
+  }
 }
 
 class RecommendContent extends StatelessWidget {
   final List<UserModel> users;
   final int currentIndex;
-  final Function(int) onPageChanged;
+  final ValueChanged<int> onPageChanged;
 
   const RecommendContent({
     required this.users,
@@ -154,12 +159,7 @@ class RecommendContent extends StatelessWidget {
   }) : super(key: key);
 
   void _navigateToUserProfile(BuildContext context, UserModel user) {
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-        builder: (context) => UserProfilePage(user: user),
-      ),
-    );
+    UserProfileService.navigateToUserProfile(context, user);
   }
 
   @override
