@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxHead</key>
+	<string>isolateAppearance</string>
+	<key>chapterEdge</key>
+	<string>momentumScale</string>
+	<key>dimensionMargin</key>
+	<string>liteReduction</string>
+	<key>greatAsync</key>
+	<string>buildzone</string>
+	<key>indicatormetrics</key>
+	<string>injectioninterpreterindex</string>
+	<key>navigationRate</key>
+	<string>injectCurve</string>
+	<key>parallelListView</key>
+	<string>otherPlate</string>
+	<key>storeInteraction</key>
+	<string>shouldObserveOption</string>
+	<key>variantTheme</key>
+	<string>computeFeature</string>
+</dict>
+</plist>

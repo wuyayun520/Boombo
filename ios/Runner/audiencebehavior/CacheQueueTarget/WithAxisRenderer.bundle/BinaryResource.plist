@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionpolyfill</key>
+	<string>shouldLoadFragment</string>
+	<key>crudeChallenge</key>
+	<string>difficultCombiner</string>
+	<key>mendTail</key>
+	<string>shouldTrainHeap</string>
+	<key>priorqueue</key>
+	<string>uniqueRoute</string>
+	<key>providervarorigin</key>
+	<string>hierarchicalDescent</string>
+	<key>roleanimation</key>
+	<string>canMountedOption</string>
+	<key>stepAppearance</key>
+	<string>canSkipPromise</string>
+	<key>synclayout</key>
+	<string>paintertop</string>
+</dict>
+</plist>

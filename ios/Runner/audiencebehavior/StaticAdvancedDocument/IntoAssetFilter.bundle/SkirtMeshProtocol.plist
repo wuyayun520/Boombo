@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedScaffold</key>
+	<string>viewVelocity</string>
+	<key>concurrentSingleton</key>
+	<string>shouldHandleSegue</string>
+	<key>functionalReducer</key>
+	<string>previewCommand</string>
+	<key>overlaytitle</key>
+	<string>emitterDensity</string>
+	<key>reductionAlignment</key>
+	<string>reducerPadding</string>
+	<key>scrollablemonster</key>
+	<string>arithmeticResource</string>
+	<key>signTension</key>
+	<string>deprecateNavigator</string>
+	<key>zonefilter</key>
+	<string>conformmethod</string>
+</dict>
+</plist>

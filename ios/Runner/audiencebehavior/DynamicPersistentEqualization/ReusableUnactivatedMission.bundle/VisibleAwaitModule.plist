@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintthroughprocess</key>
+	<string>pushSize</string>
+	<key>dedicatedTraversal</key>
+	<string>tableLeft</string>
+	<key>navigatorplatformoffset</key>
+	<string>petDuration</string>
+	<key>rectOpacity</key>
+	<string>easyanimation</string>
+	<key>shouldDismissButton</key>
+	<string>screenEnvironment</string>
+	<key>shouldPushPainter</key>
+	<string>respectiveScroller</string>
+	<key>synchronousreducerpadding</key>
+	<string>hyperbolicChannels</string>
+	<key>tappableAnchor</key>
+	<string>specifyappbarflags</string>
+</dict>
+</plist>

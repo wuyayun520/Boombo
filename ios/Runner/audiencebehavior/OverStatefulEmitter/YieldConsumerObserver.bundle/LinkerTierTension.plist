@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderexcepttype</key>
+	<string>generateController</string>
+	<key>compositionSkewX</key>
+	<string>equipmentBottom</string>
+	<key>directGestureDetector</key>
+	<string>menuActivity</string>
+	<key>firstResolver</key>
+	<string>activateResource</string>
+	<key>mutableHistogram</key>
+	<string>isolateKind</string>
+	<key>mutableallocator</key>
+	<string>easyBrush</string>
+	<key>notificationFrequency</key>
+	<string>aspectratioduringmediator</string>
+	<key>optionRight</key>
+	<string>shouldprepareoverlay</string>
+</dict>
+</plist>

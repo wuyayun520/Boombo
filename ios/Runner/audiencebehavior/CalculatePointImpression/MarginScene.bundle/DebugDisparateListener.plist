@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinecaption</key>
+	<string>resourceandmemento</string>
+	<key>dialogsOpacity</key>
+	<string>entityresponse</string>
+	<key>pivotalPlayback</key>
+	<string>interactiveAperture</string>
+	<key>restrictionDepth</key>
+	<string>matrixTag</string>
+	<key>semanticFlex</key>
+	<string>continuestream</string>
+	<key>tweenappearance</key>
+	<string>canUnbindBatch</string>
+	<key>volumeVisibility</key>
+	<string>defaultmap</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectOrigin</key>
+	<string>canEmitArithmetic</string>
+	<key>chartType</key>
+	<string>channelsAcceleration</string>
+	<key>consultativetaskposition</key>
+	<string>responseparamindex</string>
+	<key>extensiondata</key>
+	<string>bindBloc</string>
+	<key>maintopic</key>
+	<string>otherNorm</string>
+	<key>mediocreText</key>
+	<string>crudeTouch</string>
+	<key>subsequentConstant</key>
+	<string>reusableOverlay</string>
+	<key>unregistermap</key>
+	<string>backwardTabBar</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeTouch</key>
+	<string>coordinatoracceleration</string>
+	<key>optionEdge</key>
+	<string>canEncodeBitrate</string>
+	<key>shaderevolution</key>
+	<string>similarOption</string>
+	<key>uniqueLoop</key>
+	<string>lastAction</string>
+	<key>usecasedepth</key>
+	<string>iconselector</string>
+</dict>
+</plist>

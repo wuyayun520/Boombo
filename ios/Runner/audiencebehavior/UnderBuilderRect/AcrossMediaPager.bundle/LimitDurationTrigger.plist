@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedMusic</key>
+	<string>permissiveGraphic</string>
+	<key>elasticTriangles</key>
+	<string>navigateSubpixel</string>
+	<key>strokeTension</key>
+	<string>canBindInstruction</string>
+</dict>
+</plist>

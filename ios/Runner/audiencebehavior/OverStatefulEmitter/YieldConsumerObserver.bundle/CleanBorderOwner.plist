@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianElasticity</key>
+	<string>soundforce</string>
+	<key>clusterSpeed</key>
+	<string>dialogsRotation</string>
+	<key>dialogsSpacing</key>
+	<string>featureScale</string>
+	<key>mobileLocalization</key>
+	<string>shouldAttachOverlay</string>
+	<key>shouldDisconnectEqualization</key>
+	<string>brushForm</string>
+	<key>shouldEncodeGem</key>
+	<string>progressbarBehavior</string>
+</dict>
+</plist>

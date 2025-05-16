@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarversusshape</key>
+	<string>concurrentAwait</string>
+	<key>draggableTable</key>
+	<string>embedSubscription</string>
+	<key>formatconfiguration</key>
+	<string>deserializeCycle</string>
+	<key>fragmentPadding</key>
+	<string>parseCompletion</string>
+	<key>lastPresenter</key>
+	<string>accessibleProcessor</string>
+	<key>priorRadio</key>
+	<string>groupMethod</string>
+	<key>shouldObserveAspectRatio</key>
+	<string>shouldpushbinary</string>
+	<key>videoSpeed</key>
+	<string>curvebrightness</string>
+</dict>
+</plist>

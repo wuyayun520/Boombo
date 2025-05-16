@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaFormat</key>
+	<string>disconnectContainer</string>
+	<key>builderTop</key>
+	<string>bulletbottom</string>
+	<key>dedicatedBinary</key>
+	<string>writeinteractor</string>
+	<key>subpixelDistance</key>
+	<string>channelsmoderate</string>
+	<key>transitionicon</key>
+	<string>originalAscent</string>
+</dict>
+</plist>

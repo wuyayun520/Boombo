@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDelivery</key>
+	<string>robustResilience</string>
+	<key>coordinatordecoratorrate</key>
+	<string>immediateAnimation</string>
+	<key>eagerIsolate</key>
+	<string>saveresolver</string>
+	<key>featurebehavior</key>
+	<string>configurationedge</string>
+	<key>granularAspectRatio</key>
+	<string>cupertinoSkin</string>
+	<key>shouldRouteListView</key>
+	<string>serializeException</string>
+</dict>
+</plist>

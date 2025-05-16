@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAnalogy</key>
+	<string>shouldTransformHistogram</string>
+	<key>adaptiveBuffer</key>
+	<string>capsuleWork</string>
+	<key>agileSpine</key>
+	<string>shouldFetchGestureDetector</string>
+	<key>detailType</key>
+	<string>startTangent</string>
+	<key>shouldPopKernel</key>
+	<string>canKeepListView</string>
+	<key>shouldSkipImage</key>
+	<string>decodeRequest</string>
+	<key>statelessMatrix</key>
+	<string>paintBinary</string>
+	<key>unsortedPager</key>
+	<string>shouldPopClipper</string>
+	<key>visibleMenu</key>
+	<string>embedInteractor</string>
+</dict>
+</plist>

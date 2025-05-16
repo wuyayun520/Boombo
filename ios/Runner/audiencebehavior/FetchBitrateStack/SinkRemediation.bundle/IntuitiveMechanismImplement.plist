@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultResource</key>
+	<string>smallJoiner</string>
+	<key>largeSpot</key>
+	<string>temporaryworkflowforce</string>
+	<key>shouldDispatchReduction</key>
+	<string>canBindStamp</string>
+	<key>shouldSetStateMap</key>
+	<string>canPersistShader</string>
+	<key>signbound</key>
+	<string>tangentShape</string>
+	<key>smallException</key>
+	<string>draggableEquivalent</string>
+	<key>subscriberName</key>
+	<string>standalonePositioned</string>
+</dict>
+</plist>

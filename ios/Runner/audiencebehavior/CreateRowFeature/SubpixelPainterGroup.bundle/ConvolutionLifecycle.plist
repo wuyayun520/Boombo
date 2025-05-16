@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeTabBar</key>
+	<string>activeContainer</string>
+	<key>explicitCapacity</key>
+	<string>progressbarthroughcontext</string>
+	<key>gatetransparency</key>
+	<string>pushAlert</string>
+	<key>permutationposition</key>
+	<string>behaviorProcess</string>
+	<key>repositoryplatformpressure</key>
+	<string>ascentDelay</string>
+	<key>sceneOrientation</key>
+	<string>advancedDuration</string>
+	<key>shouldconnectspine</key>
+	<string>shouldDisconnectStoryboard</string>
+	<key>specifyAction</key>
+	<string>catalystVisible</string>
+	<key>staticSymbol</key>
+	<string>geometricPosition</string>
+	<key>viewoperation</key>
+	<string>techniqueValidation</string>
+</dict>
+</plist>

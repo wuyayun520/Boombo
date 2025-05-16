@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularFormat</key>
+	<string>sharedOperation</string>
+	<key>listenerscale</key>
+	<string>shouldKeepCapacities</string>
+	<key>methodprocessname</key>
+	<string>rowoutsideframework</string>
+	<key>shouldCreateController</key>
+	<string>observerresolver</string>
+	<key>shouldUnmountedSpecifier</key>
+	<string>aspectalongfacade</string>
+	<key>usecaseTint</key>
+	<string>tappableFrame</string>
+</dict>
+</plist>

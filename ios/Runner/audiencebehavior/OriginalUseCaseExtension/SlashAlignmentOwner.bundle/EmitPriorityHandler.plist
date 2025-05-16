@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnformat</key>
+	<string>singletonShape</string>
+	<key>flexibleMethod</key>
+	<string>mountslider</string>
+	<key>keyFactory</key>
+	<string>skipText</string>
+	<key>shouldNotifyLoss</key>
+	<string>endTechnique</string>
+	<key>synchronousMedia</key>
+	<string>infrastructurePressure</string>
+	<key>typicalMapper</key>
+	<string>customFinder</string>
+</dict>
+</plist>

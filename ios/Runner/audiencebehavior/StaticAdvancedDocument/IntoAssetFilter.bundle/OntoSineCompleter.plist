@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRadio</key>
+	<string>similarpositionduration</string>
+	<key>buildgesture</key>
+	<string>cursortag</string>
+	<key>dedicatedChapter</key>
+	<string>unsortedUseCase</string>
+	<key>semanticsTransparency</key>
+	<string>listviewAlignment</string>
+	<key>sizeSize</key>
+	<string>shownode</string>
+	<key>timerResponse</key>
+	<string>customizedTextField</string>
+</dict>
+</plist>

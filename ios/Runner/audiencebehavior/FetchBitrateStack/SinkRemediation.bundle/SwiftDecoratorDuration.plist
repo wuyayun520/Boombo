@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedVolume</key>
+	<string>retrievesubpixel</string>
+	<key>animatorBound</key>
+	<string>futureDelay</string>
+	<key>graindepth</key>
+	<string>lostHistogram</string>
+	<key>missedConfiguration</key>
+	<string>shouldLoadTransition</string>
+	<key>nibSize</key>
+	<string>shaderBridge</string>
+	<key>nodetint</key>
+	<string>infoMargin</string>
+	<key>radioconsumer</key>
+	<string>rowHue</string>
+	<key>reusableTaxonomy</key>
+	<string>pushDropdownButton</string>
+</dict>
+</plist>

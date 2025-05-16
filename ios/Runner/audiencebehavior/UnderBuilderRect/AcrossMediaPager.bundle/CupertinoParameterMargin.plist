@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalGrid</key>
+	<string>timerStyle</string>
+	<key>disconnectoverlay</key>
+	<string>granularIndicator</string>
+	<key>fragmentsVisibility</key>
+	<string>unbindUsage</string>
+	<key>impressionInteraction</key>
+	<string>displayLocalization</string>
+	<key>primaryImpact</key>
+	<string>skipScreen</string>
+	<key>shouldPauseWorkflow</key>
+	<string>tappableMember</string>
+</dict>
+</plist>

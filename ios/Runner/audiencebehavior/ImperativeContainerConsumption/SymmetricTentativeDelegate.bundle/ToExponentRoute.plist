@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardScenario</key>
+	<string>canProcessSample</string>
+	<key>cacheborder</key>
+	<string>lockinteger</string>
+	<key>euclideanCompletion</key>
+	<string>enhanceParticle</string>
+	<key>explicitNotation</key>
+	<string>permanentFragments</string>
+	<key>masterInterval</key>
+	<string>requiredaction</string>
+	<key>modulusstyle</key>
+	<string>canShowOperation</string>
+	<key>requestflyweightflags</key>
+	<string>renderBase</string>
+	<key>requestrecursion</key>
+	<string>canSetStateSample</string>
+	<key>sustainableThread</key>
+	<string>cleanText</string>
+</dict>
+</plist>

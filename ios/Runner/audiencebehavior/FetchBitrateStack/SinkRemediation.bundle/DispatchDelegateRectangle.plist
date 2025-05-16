@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curverecursion</key>
+	<string>shouldnavigatereduction</string>
+	<key>dialogsmodel</key>
+	<string>mobileBoxShadow</string>
+	<key>draggableBaseline</key>
+	<string>clipChart</string>
+	<key>savetable</key>
+	<string>checklistOrigin</string>
+	<key>segmentgraph</key>
+	<string>annotateinkwell</string>
+	<key>sharedModule</key>
+	<string>parallelProfile</string>
+</dict>
+</plist>

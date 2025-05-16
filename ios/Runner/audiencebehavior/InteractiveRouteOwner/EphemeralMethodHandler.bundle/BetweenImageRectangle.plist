@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFormat</key>
+	<string>offsetconstraint</string>
+	<key>customizedPager</key>
+	<string>lazyAnalogy</string>
+	<key>fixedalphadistance</key>
+	<string>connectOverlay</string>
+	<key>largeStream</key>
+	<string>customNavigator</string>
+	<key>listenerincludestyle</key>
+	<string>commonPolygon</string>
+	<key>listenertint</key>
+	<string>easyMethod</string>
+	<key>nextPet</key>
+	<string>overridestream</string>
+	<key>shouldHandleAlpha</key>
+	<string>shouldPaintDialogs</string>
+	<key>shouldMountedGift</key>
+	<string>dismissSizedBox</string>
+	<key>workflowmaterial</key>
+	<string>mountedShader</string>
+</dict>
+</plist>

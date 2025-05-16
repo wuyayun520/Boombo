@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardcontexttype</key>
+	<string>canKeepStoryboard</string>
+	<key>concreteSession</key>
+	<string>integerPattern</string>
+	<key>injectgesturedetector</key>
+	<string>persistenttween</string>
+	<key>intermediateDelegate</key>
+	<string>robustCapsule</string>
+	<key>materialChart</key>
+	<string>shouldattachmovement</string>
+	<key>shouldPublishMultiplication</key>
+	<string>accordionPreview</string>
+	<key>shouldtransitionbaseline</key>
+	<string>shouldSaveAperture</string>
+	<key>unactivatedEquivalent</key>
+	<string>appbarormediator</string>
+	<key>unactivatedpainter</key>
+	<string>respondBloc</string>
+	<key>updatedecoration</key>
+	<string>presentercount</string>
+</dict>
+</plist>

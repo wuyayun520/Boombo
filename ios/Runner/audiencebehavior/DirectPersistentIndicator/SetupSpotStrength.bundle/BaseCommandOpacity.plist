@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activedocument</key>
+	<string>viewDirection</string>
+	<key>cupertinoProfile</key>
+	<string>otherSubscription</string>
+	<key>defaultpet</key>
+	<string>shouldcancelborder</string>
+	<key>immutableAppBar</key>
+	<string>shouldEndSpecifier</string>
+	<key>movementSize</key>
+	<string>decoupleText</string>
+	<key>processorType</key>
+	<string>draggableinstructionvisibility</string>
+	<key>shouldPaintDecoration</key>
+	<string>techniqueInset</string>
+	<key>textAcceleration</key>
+	<string>documentPlatform</string>
+	<key>textmapper</key>
+	<string>shouldLoadCaption</string>
+</dict>
+</plist>

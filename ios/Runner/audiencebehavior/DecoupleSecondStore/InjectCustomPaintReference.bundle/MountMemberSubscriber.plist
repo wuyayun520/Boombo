@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionAcceleration</key>
+	<string>handleThread</string>
+	<key>newestroutecolor</key>
+	<string>standaloneReducer</string>
+	<key>parallelException</key>
+	<string>pauseEffect</string>
+	<key>shouldCacheClipper</key>
+	<string>characterStructure</string>
+	<key>storeimpact</key>
+	<string>shouldEmitFuture</string>
+</dict>
+</plist>

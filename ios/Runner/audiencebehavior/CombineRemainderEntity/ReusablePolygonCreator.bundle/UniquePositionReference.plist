@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachedirection</key>
+	<string>resolverTransparency</string>
+	<key>chartAcceleration</key>
+	<string>alphaBound</string>
+	<key>clipperScale</key>
+	<string>encodeTabBar</string>
+	<key>commonBatch</key>
+	<string>temporaryScroller</string>
+	<key>permissiveChannel</key>
+	<string>canInflateSession</string>
+	<key>polyfillName</key>
+	<string>traversalName</string>
+	<key>retainedreductionstatus</key>
+	<string>entropyForce</string>
+</dict>
+</plist>

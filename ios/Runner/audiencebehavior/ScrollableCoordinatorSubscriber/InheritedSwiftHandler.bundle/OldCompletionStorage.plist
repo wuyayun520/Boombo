@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileNotifier</key>
+	<string>responseTemple</string>
+	<key>newestChooser</key>
+	<string>backwardTool</string>
+	<key>newestLoader</key>
+	<string>brushhandler</string>
+	<key>storagecount</key>
+	<string>resourcetag</string>
+	<key>synchronouspresenterscale</key>
+	<string>advancedaspectratiostatus</string>
+</dict>
+</plist>

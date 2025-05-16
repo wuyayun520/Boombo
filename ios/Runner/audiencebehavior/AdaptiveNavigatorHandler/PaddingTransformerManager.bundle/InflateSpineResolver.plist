@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTheme</key>
+	<string>unscheduleSize</string>
+	<key>curveLocation</key>
+	<string>loadanimation</string>
+	<key>rangeScale</key>
+	<string>rapidtaskpadding</string>
+	<key>shouldLoadSegment</key>
+	<string>uniformProgressBar</string>
+	<key>shouldobservebinary</key>
+	<string>asyncacceleration</string>
+	<key>subtleChapter</key>
+	<string>imperativeInteraction</string>
+	<key>temporarytabbar</key>
+	<string>globalReducer</string>
+</dict>
+</plist>

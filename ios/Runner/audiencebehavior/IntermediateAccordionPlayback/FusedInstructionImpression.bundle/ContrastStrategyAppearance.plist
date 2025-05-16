@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetoutsidestyle</key>
+	<string>concreteRouter</string>
+	<key>awaitinvalue</key>
+	<string>shouldResumeCycle</string>
+	<key>directlySpot</key>
+	<string>batchWork</string>
+	<key>joinerCoord</key>
+	<string>globalConverter</string>
+	<key>shouldCreateChecklist</key>
+	<string>defaultDocument</string>
+	<key>shouldCreateTheme</key>
+	<string>convolutionsaturation</string>
+	<key>shouldDisconnectSemantics</key>
+	<string>shouldMountStream</string>
+	<key>shouldSaveTabView</key>
+	<string>materialConstant</string>
+	<key>unactivatedPadding</key>
+	<string>attachvariant</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerBullet</key>
+	<string>collectionTheme</string>
+	<key>dismissaspectratio</key>
+	<string>inflatehistogram</string>
+	<key>hierarchicalInstruction</key>
+	<string>curvecyclestate</string>
+	<key>mediocreinteractorspacing</key>
+	<string>labelformvalidation</string>
+	<key>painterAlignment</key>
+	<string>primaryAlpha</string>
+	<key>permissivetime</key>
+	<string>basicimpact</string>
+	<key>requestlayerbrightness</key>
+	<string>minCurve</string>
+	<key>shouldSaveAnchor</key>
+	<string>profileFormat</string>
+	<key>shouldcanceleffect</key>
+	<string>sorterTail</string>
+	<key>shouldloaddelegate</key>
+	<string>aspectratioSkewY</string>
+</dict>
+</plist>

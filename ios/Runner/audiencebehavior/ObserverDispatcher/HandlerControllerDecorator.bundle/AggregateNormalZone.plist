@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorresponse</key>
+	<string>modelOrigin</string>
+	<key>buttonBottom</key>
+	<string>joinerScale</string>
+	<key>characteristicAppearance</key>
+	<string>rectAcceleration</string>
+	<key>constantHue</key>
+	<string>staticTransition</string>
+	<key>disparateSession</key>
+	<string>canSubscribeFlex</string>
+	<key>explicitmonster</key>
+	<string>commonSelector</string>
+	<key>latencyAcceleration</key>
+	<string>kernelTail</string>
+	<key>ontangenttap</key>
+	<string>swiftMethod</string>
+</dict>
+</plist>

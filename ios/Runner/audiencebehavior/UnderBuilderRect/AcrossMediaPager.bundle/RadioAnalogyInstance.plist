@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesiancontainer</key>
+	<string>fusedAudio</string>
+	<key>characteristicStatus</key>
+	<string>explicitScreen</string>
+	<key>configurationVelocity</key>
+	<string>shouldEndProvider</string>
+	<key>dedicatedsingletoncenter</key>
+	<string>isolateShade</string>
+	<key>receiverEdge</key>
+	<string>liteStrength</string>
+	<key>repositoryCount</key>
+	<string>brushVisibility</string>
+	<key>substantialGraph</key>
+	<string>responseLayer</string>
+	<key>uniqueMetrics</key>
+	<string>cartesiandelegatecoord</string>
+</dict>
+</plist>

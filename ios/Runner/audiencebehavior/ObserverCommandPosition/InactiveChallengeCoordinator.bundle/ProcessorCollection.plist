@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitconstraint</key>
+	<string>shoulddismissnorm</string>
+	<key>performzone</key>
+	<string>canLayoutPlate</string>
+	<key>prevBinder</key>
+	<string>crucialListener</string>
+	<key>reductiondepth</key>
+	<string>startBullet</string>
+	<key>reusableScroller</key>
+	<string>loaderHue</string>
+	<key>shouldNotifyTangent</key>
+	<string>defaultPlate</string>
+	<key>unactivatedExponent</key>
+	<string>canRenderInstruction</string>
+</dict>
+</plist>

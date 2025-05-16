@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedentropy</key>
+	<string>shouldEndNib</string>
+	<key>borderstylename</key>
+	<string>playLayout</string>
+	<key>createaction</key>
+	<string>mediumMechanism</string>
+	<key>gateShade</key>
+	<string>histogramKind</string>
+	<key>globalEqualization</key>
+	<string>materialOptimizer</string>
+	<key>protocolactioncenter</key>
+	<string>lastFragment</string>
+	<key>sortedAnimatedContainer</key>
+	<string>heapadapteroffset</string>
+	<key>storagefeedback</key>
+	<string>diffableContrast</string>
+	<key>uniformImpression</key>
+	<string>protectedRole</string>
+	<key>webTrajectory</key>
+	<string>lazyStateless</string>
+</dict>
+</plist>

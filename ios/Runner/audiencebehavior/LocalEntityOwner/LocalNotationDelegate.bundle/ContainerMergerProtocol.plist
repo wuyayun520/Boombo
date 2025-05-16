@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackMode</key>
+	<string>brushComposite</string>
+	<key>connectorFrequency</key>
+	<string>appendFuture</string>
+	<key>hierarchicalScene</key>
+	<string>injectionLocation</string>
+	<key>lifecycleFlags</key>
+	<string>activatedColor</string>
+	<key>lostsubscription</key>
+	<string>defaultpet</string>
+</dict>
+</plist>

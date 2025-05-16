@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchRotation</key>
+	<string>arithmeticModel</string>
+	<key>configurationForce</key>
+	<string>shouldPopScroll</string>
+	<key>inactivePager</key>
+	<string>normalChannel</string>
+	<key>materialImage</key>
+	<string>localizationleft</string>
+	<key>resizableStamp</key>
+	<string>insteadduration</string>
+	<key>servicemode</key>
+	<string>directConfidentiality</string>
+	<key>shouldObserveHeap</key>
+	<string>dependencyMediator</string>
+	<key>shouldPopBuilder</key>
+	<string>amortizationType</string>
+	<key>shouldUnmountedAnimation</key>
+	<string>discoverProgressBar</string>
+</dict>
+</plist>

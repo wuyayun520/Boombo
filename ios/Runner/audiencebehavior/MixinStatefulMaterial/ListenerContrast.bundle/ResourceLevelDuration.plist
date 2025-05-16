@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintinterval</key>
+	<string>inheritedSearcher</string>
+	<key>inactiveAnimator</key>
+	<string>robustPolygon</string>
+	<key>navigatorfunctionbehavior</key>
+	<string>textureInterpreter</string>
+	<key>shouldHandleConvolution</key>
+	<string>capsuleSpacing</string>
+	<key>symmetricFilter</key>
+	<string>stopWorkflow</string>
+	<key>updateflex</key>
+	<string>textstate</string>
+	<key>vectorLocation</key>
+	<string>iconActivity</string>
+</dict>
+</plist>

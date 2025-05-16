@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderfeedback</key>
+	<string>keepHeap</string>
+	<key>curveDistance</key>
+	<string>processStream</string>
+	<key>declarativeActivity</key>
+	<string>decoupleAwait</string>
+	<key>declarativeConfiguration</key>
+	<string>layoutoutsideadapter</string>
+	<key>disabledTaxonomy</key>
+	<string>mechanismVelocity</string>
+	<key>factorycolor</key>
+	<string>baseVariable</string>
+	<key>independentActivity</key>
+	<string>rapidtextfield</string>
+	<key>resultShape</key>
+	<string>requestisolate</string>
+	<key>routerDistance</key>
+	<string>canRestartGate</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackbufferdepth</key>
+	<string>paintPet</string>
+	<key>criticalStack</key>
+	<string>durationstatus</string>
+	<key>finderHue</key>
+	<string>accordionTimer</string>
+	<key>ignoredarithmeticdepth</key>
+	<string>contractionType</string>
+	<key>modelDuration</key>
+	<string>brushrenderer</string>
+	<key>oldJoiner</key>
+	<string>convertContainer</string>
+	<key>resilientTween</key>
+	<string>shouldEndGrayscale</string>
+	<key>smallcubit</key>
+	<string>compositionalFilter</string>
+	<key>symbolShade</key>
+	<string>shouldprocessmaterial</string>
+</dict>
+</plist>

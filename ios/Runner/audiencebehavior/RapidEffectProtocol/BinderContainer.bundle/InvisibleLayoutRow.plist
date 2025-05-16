@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeText</key>
+	<string>disparatePadding</string>
+	<key>animatedEfficiency</key>
+	<string>deserializealpha</string>
+	<key>gradientmediatorname</key>
+	<string>accordionMaterializer</string>
+	<key>joinerRight</key>
+	<string>directMerger</string>
+	<key>pagerSpeed</key>
+	<string>checklistskewx</string>
+	<key>shouldUnmountedUnary</key>
+	<string>cardParam</string>
+	<key>shoulddisposeshader</key>
+	<string>buttoninsidefunction</string>
+	<key>similarRectangle</key>
+	<string>diffableResolver</string>
+</dict>
+</plist>

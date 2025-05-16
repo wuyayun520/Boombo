@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRoute</key>
+	<string>singleStateless</string>
+	<key>completionTail</key>
+	<string>buttonaboutframework</string>
+	<key>deferredPicker</key>
+	<string>seekTween</string>
+	<key>reductionprocessorigin</key>
+	<string>textfragments</string>
+	<key>shouldContinueMaster</key>
+	<string>exceptionVar</string>
+	<key>singletonorigin</key>
+	<string>canMountedSpine</string>
+</dict>
+</plist>

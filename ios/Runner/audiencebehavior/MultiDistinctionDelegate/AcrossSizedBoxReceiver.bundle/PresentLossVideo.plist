@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelstate</key>
+	<string>topicAppearance</string>
+	<key>collectiontop</key>
+	<string>numericalPreview</string>
+	<key>cosinekind</key>
+	<string>firstRow</string>
+	<key>optimizerOpacity</key>
+	<string>listenpreview</string>
+	<key>responderContrast</key>
+	<string>popupMediator</string>
+	<key>significantContrast</key>
+	<string>emitSine</string>
+	<key>tappableSemantics</key>
+	<string>menuStage</string>
+	<key>tweenName</key>
+	<string>consultativeBinder</string>
+</dict>
+</plist>

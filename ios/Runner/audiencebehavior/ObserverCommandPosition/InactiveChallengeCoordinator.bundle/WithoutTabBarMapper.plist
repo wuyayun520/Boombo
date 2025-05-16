@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocprocessor</key>
+	<string>eventPressure</string>
+	<key>futurevector</key>
+	<string>rowOrigin</string>
+	<key>interactionOrientation</key>
+	<string>lostTicker</string>
+	<key>lostbatch</key>
+	<string>customizedCycle</string>
+	<key>navigatorCount</key>
+	<string>resizableSegment</string>
+	<key>normFlags</key>
+	<string>streamandmethod</string>
+	<key>searchstateful</key>
+	<string>customizedTimer</string>
+	<key>skinbinder</key>
+	<string>associatedtitlecolor</string>
+	<key>stampAcceleration</key>
+	<string>symbolvisibility</string>
+</dict>
+</plist>

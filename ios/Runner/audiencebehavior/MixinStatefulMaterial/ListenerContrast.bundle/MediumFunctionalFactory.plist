@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeEffect</key>
+	<string>widgetduringcommand</string>
+	<key>defaultgram</key>
+	<string>axisInterval</string>
+	<key>deferredModule</key>
+	<string>promiseName</string>
+	<key>inactiveInteraction</key>
+	<string>mediumParticle</string>
+	<key>marginContrast</key>
+	<string>advancedSprite</string>
+	<key>nextConverter</key>
+	<string>inkwelltail</string>
+	<key>normalwidgetforce</key>
+	<string>propagateTicker</string>
+	<key>pinchableOperation</key>
+	<string>accessibleLayer</string>
+	<key>staticLoop</key>
+	<string>shouldConnectProvider</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalLocalization</key>
+	<string>injectionfromdecorator</string>
+	<key>dynamicImage</key>
+	<string>playInterface</string>
+	<key>navigatorOrigin</key>
+	<string>deserializeSine</string>
+	<key>pinchableNotation</key>
+	<string>resizeResolver</string>
+	<key>robuststorecoord</key>
+	<string>pivotalDocument</string>
+	<key>shouldStreamAccessory</key>
+	<string>persistentPositioned</string>
+</dict>
+</plist>

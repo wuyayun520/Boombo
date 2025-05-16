@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeTimer</key>
+	<string>shouldConnectInkWell</string>
+	<key>difficultTitle</key>
+	<string>canStopInkWell</string>
+	<key>functionalLoader</key>
+	<string>shouldDisposeEqualization</string>
+	<key>imperativegraph</key>
+	<string>gestureBridge</string>
+	<key>intensitystyletheme</key>
+	<string>shouldRestartTouch</string>
+	<key>mediumUnary</key>
+	<string>canDisconnectLabel</string>
+	<key>persistentStoryboard</key>
+	<string>comprehensiveScroll</string>
+	<key>priorIcon</key>
+	<string>compositionRotation</string>
+	<key>scrollableCoordinator</key>
+	<string>canRebuildPlayback</string>
+	<key>tabbarresponder</key>
+	<string>shouldSerializeGradient</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPosition</key>
+	<string>priorImpression</string>
+	<key>brushrecursion</key>
+	<string>graphSpacing</string>
+	<key>cellInteraction</key>
+	<string>notifyZone</string>
+	<key>pinchableCertificate</key>
+	<string>connectorBrightness</string>
+	<key>pinchableHero</key>
+	<string>listenerFlyweight</string>
+	<key>respectiveEquipment</key>
+	<string>remainderMargin</string>
+	<key>retainedService</key>
+	<string>lostStream</string>
+	<key>setstateticker</key>
+	<string>taskDepth</string>
+	<key>shouldCacheNorm</key>
+	<string>concurrentNotifier</string>
+	<key>shouldSubscribeSkirt</key>
+	<string>firstQueue</string>
+</dict>
+</plist>

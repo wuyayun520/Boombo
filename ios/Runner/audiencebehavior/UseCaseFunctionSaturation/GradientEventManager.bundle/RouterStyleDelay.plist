@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibledocument</key>
+	<string>flexiblecharacter</string>
+	<key>appbarBorder</key>
+	<string>shouldTrainSensor</string>
+	<key>cardOrientation</key>
+	<string>shouldDetachListView</string>
+	<key>independentDuration</key>
+	<string>shouldTransformBatch</string>
+	<key>prismaticLocalization</key>
+	<string>cartesianNavigation</string>
+	<key>shouldFetchCupertino</key>
+	<string>prismaticrecursion</string>
+	<key>shouldPaintDuration</key>
+	<string>secondLogarithm</string>
+	<key>singlegramvisibility</key>
+	<string>unmountExtension</string>
+	<key>textfieldFormat</key>
+	<string>canSkipMission</string>
+</dict>
+</plist>

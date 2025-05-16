@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureSkewY</key>
+	<string>consultativemanager</string>
+	<key>globalGrid</key>
+	<string>introspectnode</string>
+	<key>inflatetabbar</key>
+	<string>canRenderMobile</string>
+	<key>isolatecompositeindex</key>
+	<string>parallelBrush</string>
+	<key>progressbarsensor</key>
+	<string>replaceevent</string>
+	<key>shouldTransformAccessory</key>
+	<string>canKeepProvider</string>
+	<key>timeranimator</key>
+	<string>hasMediaQuery</string>
+	<key>typicalEfficiency</key>
+	<string>comprehensivesprite</string>
+	<key>vertexTop</key>
+	<string>animatedcontainerOrientation</string>
+</dict>
+</plist>

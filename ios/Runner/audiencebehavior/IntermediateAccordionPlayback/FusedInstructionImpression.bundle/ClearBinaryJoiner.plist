@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistviaflyweight</key>
+	<string>emitterFrequency</string>
+	<key>customizedcontainer</key>
+	<string>pageviewBound</string>
+	<key>geometricsinkorientation</key>
+	<string>alignmentType</string>
+	<key>gestureName</key>
+	<string>transitionfrequency</string>
+	<key>mediaanimation</key>
+	<string>handleBoxShadow</string>
+	<key>objectCount</key>
+	<string>behaviorState</string>
+	<key>shouldResumeShader</key>
+	<string>slashContext</string>
+	<key>subtleGraphic</key>
+	<string>volumeInterval</string>
+	<key>utilvertex</key>
+	<string>buffershade</string>
+</dict>
+</plist>

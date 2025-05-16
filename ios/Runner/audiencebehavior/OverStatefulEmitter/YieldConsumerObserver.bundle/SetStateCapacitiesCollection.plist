@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainlatency</key>
+	<string>uniqueListView</string>
+	<key>mediocreOverlay</key>
+	<string>unlockTitle</string>
+	<key>observerlevelsaturation</key>
+	<string>pivotalhashinset</string>
+	<key>reusableBandwidth</key>
+	<string>accessoryVisitor</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDescent</key>
+	<string>unaryInset</string>
+	<key>colorScale</key>
+	<string>canStreamStateful</string>
+	<key>localChapter</key>
+	<string>constantResponse</string>
+	<key>missedInfrastructure</key>
+	<string>consumerSaturation</string>
+	<key>prevTabView</key>
+	<string>checklistTemple</string>
+	<key>shouldPresentMediaQuery</key>
+	<string>cycleTag</string>
+	<key>shouldValidateView</key>
+	<string>unmountCell</string>
+	<key>textvelocity</key>
+	<string>permanentConvolution</string>
+	<key>webRequest</key>
+	<string>canPrepareView</string>
+</dict>
+</plist>

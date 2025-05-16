@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadatacontrast</key>
+	<string>accessibleScene</string>
+	<key>multiAspect</key>
+	<string>conformchallenge</string>
+	<key>rectangleSkewY</key>
+	<string>canDisposeOperation</string>
+	<key>standaloneSubpixel</key>
+	<string>canInflateResource</string>
+	<key>statefulRange</key>
+	<string>requiredDispatcher</string>
+</dict>
+</plist>

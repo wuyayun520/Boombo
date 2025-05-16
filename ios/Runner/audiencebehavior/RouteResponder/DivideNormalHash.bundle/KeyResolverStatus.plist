@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultrichtext</key>
+	<string>subtleRestriction</string>
+	<key>directlyAction</key>
+	<string>uniformChooser</string>
+	<key>displayablePriority</key>
+	<string>canPauseTabBar</string>
+	<key>extensionInset</key>
+	<string>layerLevel</string>
+	<key>futureTint</key>
+	<string>amortizationEdge</string>
+	<key>shouldFinishArithmetic</key>
+	<string>textureBehavior</string>
+	<key>symmetricObject</key>
+	<string>slashAdapter</string>
+	<key>webBloc</key>
+	<string>shouldDisposeActivity</string>
+</dict>
+</plist>

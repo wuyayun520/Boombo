@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableInfrastructure</key>
+	<string>previewContext</string>
+	<key>lazystrength</key>
+	<string>synchronousCapacities</string>
+	<key>numericalCapacities</key>
+	<string>persistentOption</string>
+	<key>quaternionBound</key>
+	<string>primaryItem</string>
+	<key>symbolsubscriber</key>
+	<string>registerConfiguration</string>
+	<key>unsortedScheduler</key>
+	<string>drawProgressBar</string>
+</dict>
+</plist>

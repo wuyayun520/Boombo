@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoStateless</key>
+	<string>shouldAnimatePrecision</string>
+	<key>awaitscale</key>
+	<string>secondLatency</string>
+	<key>draggableSpot</key>
+	<string>shouldCacheRemainder</string>
+	<key>infrastructureacceleration</key>
+	<string>listenerTask</string>
+	<key>keyBandwidth</key>
+	<string>visitaperture</string>
+	<key>mobileCluster</key>
+	<string>subscribetimer</string>
+	<key>saveutil</key>
+	<string>scrollMomentum</string>
+	<key>storetop</key>
+	<string>marshalBloc</string>
+</dict>
+</plist>

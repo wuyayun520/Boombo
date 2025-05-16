@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionFlags</key>
+	<string>shouldPublishPadding</string>
+	<key>defaulttextfield</key>
+	<string>emitterAcceleration</string>
+	<key>pivotalEvent</key>
+	<string>associatedmobile</string>
+	<key>semanticNavigation</key>
+	<string>relationalPoint</string>
+	<key>shouldContinueCanvas</key>
+	<string>toleranceShade</string>
+</dict>
+</plist>

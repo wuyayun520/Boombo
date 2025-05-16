@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudetrajectory</key>
+	<string>storeAction</string>
+	<key>customizedSearcher</key>
+	<string>fixedDuration</string>
+	<key>decoderouter</key>
+	<string>durationProxy</string>
+	<key>ignoredDescriptor</key>
+	<string>usedConfiguration</string>
+	<key>imageRate</key>
+	<string>shoulddisposeprojection</string>
+	<key>lastInkWell</key>
+	<string>plateBehavior</string>
+	<key>nodeborder</key>
+	<string>resolverRight</string>
+</dict>
+</plist>

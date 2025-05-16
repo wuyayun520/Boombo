@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstGesture</key>
+	<string>provideracceleration</string>
+	<key>permanentStatus</key>
+	<string>onboxchanged</string>
+	<key>prismaticTweak</key>
+	<string>introspectInterface</string>
+	<key>protectedsensor</key>
+	<string>shouldParseSample</string>
+	<key>reflectlistener</key>
+	<string>cleanLayout</string>
+	<key>shouldAnimateConsumer</key>
+	<string>sustainableThread</string>
+	<key>shouldResumeSpecifier</key>
+	<string>dispatchCube</string>
+</dict>
+</plist>

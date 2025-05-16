@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentUnary</key>
+	<string>receiverBottom</string>
+	<key>exponentMode</key>
+	<string>disposeAnimatedContainer</string>
+	<key>geometricTask</key>
+	<string>tensorinterpolation</string>
+	<key>shouldCreateStamp</key>
+	<string>enumerateFrame</string>
+</dict>
+</plist>

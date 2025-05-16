@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interpolationFrequency</key>
+	<string>decodeTool</string>
+	<key>providerformtype</key>
+	<string>calculateSingleton</string>
+	<key>resolverFlags</key>
+	<string>difficultStateful</string>
+	<key>shouldRenderAspectRatio</key>
+	<string>dynamicPosition</string>
+	<key>sinkbesideprocess</key>
+	<string>mediocreTheme</string>
+	<key>subpixelTop</key>
+	<string>sortedBorder</string>
+	<key>threadduration</key>
+	<string>shouldEndStateful</string>
+</dict>
+</plist>

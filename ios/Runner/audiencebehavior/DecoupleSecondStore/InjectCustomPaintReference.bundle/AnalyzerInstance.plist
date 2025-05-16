@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveThreshold</key>
+	<string>playProvider</string>
+	<key>collectionMargin</key>
+	<string>isolateProxy</string>
+	<key>imagetexture</key>
+	<string>attachHash</string>
+	<key>rectduringbridge</key>
+	<string>cartesianCallback</string>
+	<key>statefulChart</key>
+	<string>receiveBuilder</string>
+</dict>
+</plist>

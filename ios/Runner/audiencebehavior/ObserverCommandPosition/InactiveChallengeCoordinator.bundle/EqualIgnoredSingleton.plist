@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarRate</key>
+	<string>invokeLayout</string>
+	<key>ascentrate</key>
+	<string>configurationMethod</string>
+	<key>customPriority</key>
+	<string>beginnerPresenter</string>
+	<key>discardedWidget</key>
+	<string>intensityShape</string>
+	<key>euclideanRange</key>
+	<string>shouldPresentOption</string>
+	<key>priorityDensity</key>
+	<string>channelsFrequency</string>
+	<key>reducerresponse</key>
+	<string>hardProfile</string>
+	<key>schemaValidation</key>
+	<string>directlySelector</string>
+	<key>shouldMountDescriptor</key>
+	<string>resilientRemainder</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directSine</key>
+	<string>polygonSize</string>
+	<key>impactSpeed</key>
+	<string>apertureStage</string>
+	<key>interfacefacademode</key>
+	<string>escalatebloc</string>
+	<key>previewtransparency</key>
+	<string>ongesturedetectortap</string>
+	<key>prismaticAnimatedContainer</key>
+	<string>prevstreamrotation</string>
+	<key>shouldLoadTangent</key>
+	<string>scrollOrientation</string>
+	<key>shouldMountedUnary</key>
+	<string>scaleOffset</string>
+	<key>smartAsset</key>
+	<string>discardedMaterial</string>
+	<key>staticFragment</key>
+	<string>prismaticSample</string>
+</dict>
+</plist>

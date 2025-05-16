@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCoordinator</key>
+	<string>rendererSize</string>
+	<key>cursorSkewY</key>
+	<string>repositoryDensity</string>
+	<key>discoveralert</key>
+	<string>touchobserver</string>
+	<key>flexibleTitle</key>
+	<string>writeSingleton</string>
+	<key>originalDependency</key>
+	<string>compositionalstatecount</string>
+	<key>shouldCancelOption</key>
+	<string>shouldParseUsage</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionUtil</key>
+	<string>dependencyFormat</string>
+	<key>boxKind</key>
+	<string>activeResource</string>
+	<key>offsetwithoutvariable</key>
+	<string>bindMargin</string>
+	<key>requestBottom</key>
+	<string>cartesianRouter</string>
+	<key>sequentialgridalignment</key>
+	<string>missedEntropy</string>
+	<key>taskbyflyweight</key>
+	<string>tabbarHead</string>
+</dict>
+</plist>

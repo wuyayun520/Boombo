@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalTriangles</key>
+	<string>shouldTrainScreen</string>
+	<key>customizedRequest</key>
+	<string>combineLayout</string>
+	<key>liteCluster</key>
+	<string>gridviewObserver</string>
+	<key>managerbound</key>
+	<string>symmetricIntegration</string>
+	<key>resizableoccasion</key>
+	<string>statelessMetadata</string>
+	<key>shouldDispatchScreen</key>
+	<string>dedicatedConstraint</string>
+	<key>shoulddecodeplayback</key>
+	<string>orchestrateRadius</string>
+	<key>sortedConstant</key>
+	<string>disparatePainter</string>
+	<key>stopsize</key>
+	<string>exponentCommand</string>
+</dict>
+</plist>

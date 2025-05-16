@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatoritem</key>
+	<string>compositionalCluster</string>
+	<key>shouldUnmountedPrecision</key>
+	<string>diversifiedLatency</string>
+	<key>sustainableRectangle</key>
+	<string>shouldFinishSpine</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedfeature</key>
+	<string>similarTitle</string>
+	<key>audioFormat</key>
+	<string>loadPainter</string>
+	<key>euclideanAspect</key>
+	<string>scaffoldTag</string>
+	<key>flexibleSink</key>
+	<string>challengeexception</string>
+	<key>gridrotation</key>
+	<string>loadtimer</string>
+	<key>lostIsolate</key>
+	<string>validateTheme</string>
+	<key>scrollerLocation</key>
+	<string>layerOrigin</string>
+	<key>shouldStopContraction</key>
+	<string>descriptorwidget</string>
+	<key>synchronousmethod</key>
+	<string>streamAction</string>
+	<key>touchRotation</key>
+	<string>easyGraph</string>
+</dict>
+</plist>

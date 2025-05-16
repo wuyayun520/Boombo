@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedCapacities</key>
+	<string>scrollableWorkflow</string>
+	<key>iconMode</key>
+	<string>canTrainPriority</string>
+	<key>independentDistinction</key>
+	<string>protectedDocument</string>
+	<key>mapperTint</key>
+	<string>buttonState</string>
+	<key>readcolumn</key>
+	<string>mutablechart</string>
+	<key>segueHead</key>
+	<string>interceptAsset</string>
+	<key>shouldRenderRoute</key>
+	<string>notifierInterpreter</string>
+	<key>unmountmenu</key>
+	<string>shouldPaintBloc</string>
+</dict>
+</plist>

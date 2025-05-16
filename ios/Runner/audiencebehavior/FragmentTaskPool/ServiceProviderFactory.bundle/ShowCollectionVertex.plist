@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionBottom</key>
+	<string>permanentdelegatekind</string>
+	<key>metadataOrigin</key>
+	<string>staticmaterial</string>
+	<key>mobileInfrastructure</key>
+	<string>updateRow</string>
+	<key>pinchableAnalogy</key>
+	<string>anchorhash</string>
+	<key>shouldSerializeGridView</key>
+	<string>compositionalCreator</string>
+	<key>tickeropacity</key>
+	<string>spotOffset</string>
+	<key>visibleGesture</key>
+	<string>extensionPressure</string>
+	<key>zonesincemethod</key>
+	<string>canCreateIcon</string>
+</dict>
+</plist>

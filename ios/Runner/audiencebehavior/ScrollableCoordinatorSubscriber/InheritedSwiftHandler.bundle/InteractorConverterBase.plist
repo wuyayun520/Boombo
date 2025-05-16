@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialDistinction</key>
+	<string>deserializeImage</string>
+	<key>disabledTraversal</key>
+	<string>shouldPushGrayscale</string>
+	<key>fusedVector</key>
+	<string>deserializeRow</string>
+	<key>mergerTail</key>
+	<string>renameFuture</string>
+	<key>nibName</key>
+	<string>lifecycleTint</string>
+	<key>queueTag</key>
+	<string>shouldPersistSlash</string>
+	<key>retainedbase</key>
+	<string>activateBloc</string>
+	<key>screenVelocity</key>
+	<string>augmentPopup</string>
+</dict>
+</plist>

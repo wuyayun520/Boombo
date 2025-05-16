@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachbuffer</key>
+	<string>menumend</string>
+	<key>elementKind</key>
+	<string>notificationTag</string>
+	<key>layoutTail</key>
+	<string>composablePriority</string>
+	<key>nodeshape</key>
+	<string>shouldSubscribeUnary</string>
+	<key>prismaticItem</key>
+	<string>copyreference</string>
+	<key>reactivePublisher</key>
+	<string>significantGridView</string>
+	<key>scaffoldagainststructure</key>
+	<string>escalateDescription</string>
+	<key>shouldStopWidget</key>
+	<string>canEncodeMediaQuery</string>
+	<key>taskmomentum</key>
+	<string>opaqueLabel</string>
+</dict>
+</plist>

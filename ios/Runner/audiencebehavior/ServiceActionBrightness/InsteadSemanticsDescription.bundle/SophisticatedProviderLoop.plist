@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnDelay</key>
+	<string>executeHash</string>
+	<key>mutableThread</key>
+	<string>fusedObserver</string>
+	<key>requiredsizeresponse</key>
+	<string>activatedAnchor</string>
+	<key>shouldBindDescriptor</key>
+	<string>displayContainer</string>
+	<key>toolFeedback</key>
+	<string>bindGestureDetector</string>
+	<key>uniformPainter</key>
+	<string>nextintensityvisible</string>
+</dict>
+</plist>

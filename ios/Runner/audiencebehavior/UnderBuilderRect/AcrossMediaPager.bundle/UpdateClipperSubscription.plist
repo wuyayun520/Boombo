@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureflags</key>
+	<string>disparateState</string>
+	<key>optimizerframeworkskewy</key>
+	<string>buildCache</string>
+	<key>pivotalaperturecount</key>
+	<string>shouldtrainmobile</string>
+	<key>streamdistance</key>
+	<string>descriptorSkewY</string>
+	<key>stroketheme</key>
+	<string>canStartContainer</string>
+</dict>
+</plist>

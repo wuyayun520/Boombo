@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAction</key>
+	<string>itemDensity</string>
+	<key>criticalRoute</key>
+	<string>skipClipper</string>
+	<key>currentcaption</key>
+	<string>delicateTolerance</string>
+	<key>customState</key>
+	<string>dropoutAlignment</string>
+	<key>managerwithoutadapter</key>
+	<string>touchfunctionrate</string>
+	<key>resilientShape</key>
+	<string>createMaterial</string>
+	<key>scopeCount</key>
+	<string>statefulStorage</string>
+	<key>unactivatedIcon</key>
+	<string>shouldReplaceGift</string>
+</dict>
+</plist>

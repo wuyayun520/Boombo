@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layerBrightness</key>
+	<string>createOption</string>
+	<key>requiredImage</key>
+	<string>oldProvider</string>
+	<key>scalabilityborder</key>
+	<string>shouldSkipAperture</string>
+	<key>shouldDisposeVariant</key>
+	<string>immediateEquipment</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTheme</key>
+	<string>channelshade</string>
+	<key>blocawayjob</key>
+	<string>colorAcceleration</string>
+	<key>callbackCount</key>
+	<string>othercollectionhue</string>
+	<key>materialaccessorydelay</key>
+	<string>uniqueMusic</string>
+	<key>mobilenavigationtint</key>
+	<string>explicitShader</string>
+	<key>modulusDistance</key>
+	<string>tensormusic</string>
+	<key>remainderStyle</key>
+	<string>histogramDelay</string>
+	<key>shaderstate</key>
+	<string>tickerProcess</string>
+	<key>shouldSkipStateful</key>
+	<string>fusedCosine</string>
+	<key>techniqueOrientation</key>
+	<string>canTransitionEntropy</string>
+</dict>
+</plist>

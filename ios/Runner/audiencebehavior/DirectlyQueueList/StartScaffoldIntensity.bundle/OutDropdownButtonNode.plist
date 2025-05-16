@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedtransition</key>
+	<string>hashSize</string>
+	<key>largeDescription</key>
+	<string>otherGrid</string>
+	<key>monsterinset</key>
+	<string>canUpdateChannels</string>
+	<key>scrollableComponent</key>
+	<string>thresholdcount</string>
+	<key>shouldDisposeSlider</key>
+	<string>vectorWork</string>
+	<key>toolLeft</key>
+	<string>listviewMediator</string>
+</dict>
+</plist>

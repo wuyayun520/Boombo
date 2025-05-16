@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetdistinction</key>
+	<string>modulusMargin</string>
+	<key>sceneMargin</key>
+	<string>shouldnotifyrichtext</string>
+	<key>semanticCompletion</key>
+	<string>respectiveSelector</string>
+	<key>shouldCreateScreen</key>
+	<string>discoverCallback</string>
+	<key>shouldRouteCertificate</key>
+	<string>rectangleTail</string>
+	<key>shouldRouteStamp</key>
+	<string>frameskewx</string>
+</dict>
+</plist>

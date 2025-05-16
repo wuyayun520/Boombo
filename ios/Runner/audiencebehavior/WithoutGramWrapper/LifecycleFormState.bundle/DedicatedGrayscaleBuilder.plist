@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarInterval</key>
+	<string>sizePadding</string>
+	<key>ascentRotation</key>
+	<string>opaqueCharacter</string>
+	<key>ephemeralevolution</key>
+	<string>segmentParam</string>
+	<key>independentTouch</key>
+	<string>diversifiedVideo</string>
+	<key>sinkResponse</key>
+	<string>debugError</string>
+	<key>standaloneradius</key>
+	<string>constraintanimation</string>
+	<key>triggerInterval</key>
+	<string>observeAsset</string>
+</dict>
+</plist>

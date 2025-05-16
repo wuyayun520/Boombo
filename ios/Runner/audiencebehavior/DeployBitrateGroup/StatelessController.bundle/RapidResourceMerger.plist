@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorleft</key>
+	<string>iterativeWidget</string>
+	<key>draggableStrength</key>
+	<string>shouldReplaceMedia</string>
+	<key>pivotalSwift</key>
+	<string>activePromise</string>
+	<key>seamlessProjection</key>
+	<string>mutableUseCase</string>
+</dict>
+</plist>

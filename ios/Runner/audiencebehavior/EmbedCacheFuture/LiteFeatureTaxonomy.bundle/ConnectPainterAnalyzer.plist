@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesVisibility</key>
+	<string>maintainContainer</string>
+	<key>modulusshapelocation</key>
+	<string>delegateCompleter</string>
+	<key>permissiveChart</key>
+	<string>geometricInstruction</string>
+	<key>previewInset</key>
+	<string>canCacheInkWell</string>
+	<key>radioTheme</key>
+	<string>bufferInterpreter</string>
+	<key>shouldSaveCheckbox</key>
+	<string>presenterdistance</string>
+	<key>specifyGraphic</key>
+	<string>canDispatchCurve</string>
+	<key>touchroute</key>
+	<string>skipLoss</string>
+	<key>webBloc</key>
+	<string>shouldProcessBaseline</string>
+</dict>
+</plist>

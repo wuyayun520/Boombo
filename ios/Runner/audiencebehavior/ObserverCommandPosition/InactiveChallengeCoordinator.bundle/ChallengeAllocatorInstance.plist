@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearradio</key>
+	<string>labelsystemresponse</string>
+	<key>formatVisible</key>
+	<string>shouldCancelVariant</string>
+	<key>keepalert</key>
+	<string>axisType</string>
+	<key>nativeinteractor</key>
+	<string>futureanimation</string>
+	<key>techniquestyle</key>
+	<string>sliderkind</string>
+</dict>
+</plist>

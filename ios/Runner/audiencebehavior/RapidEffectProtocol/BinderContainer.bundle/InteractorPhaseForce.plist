@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMatrix</key>
+	<string>gramCenter</string>
+	<key>adaptiveSpine</key>
+	<string>navigatorbeyondpattern</string>
+	<key>composableStatus</key>
+	<string>tweenFramework</string>
+	<key>sensorDuration</key>
+	<string>anchorMode</string>
+	<key>smallTabBar</key>
+	<string>animatedTexture</string>
+	<key>tabbarfrequency</key>
+	<string>offsetFeedback</string>
+</dict>
+</plist>

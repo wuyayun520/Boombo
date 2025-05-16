@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowandbridge</key>
+	<string>parseCubit</string>
+	<key>directGroup</key>
+	<string>staticsymbol</string>
+	<key>integrationPadding</key>
+	<string>shouldSerializeMedia</string>
+	<key>listviewpercomposite</key>
+	<string>coordinatorpressure</string>
+	<key>multiAnimation</key>
+	<string>invisibleConsumer</string>
+	<key>persistentTween</key>
+	<string>presentCompletion</string>
+	<key>shouldEmitStack</key>
+	<string>rebuildMaster</string>
+	<key>tabbarDepth</key>
+	<string>resetBuffer</string>
+	<key>unlockallocator</key>
+	<string>respectiveAnimation</string>
+</dict>
+</plist>

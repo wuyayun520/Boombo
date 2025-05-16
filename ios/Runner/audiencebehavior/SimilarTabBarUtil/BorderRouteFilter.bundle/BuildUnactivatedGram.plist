@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonnumbertag</key>
+	<string>mobilewidget</string>
+	<key>eagerNib</key>
+	<string>primaryAxis</string>
+	<key>inactiveElement</key>
+	<string>canNotifyBehavior</string>
+	<key>largePet</key>
+	<string>shouldDisconnectChallenge</string>
+	<key>parallelTransition</key>
+	<string>mediumGem</string>
+	<key>shouldReplaceTextField</key>
+	<string>shouldPaintNotifier</string>
+	<key>widgetawayflyweight</key>
+	<string>sinkSize</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTangent</key>
+	<string>setstatestamp</string>
+	<key>commonTopic</key>
+	<string>disabledFragments</string>
+	<key>formatswift</key>
+	<string>gridCycle</string>
+	<key>numericalcharacteristic</key>
+	<string>streamFeedback</string>
+	<key>standaloneRenderer</key>
+	<string>validateChannels</string>
+	<key>widgetVisible</key>
+	<string>metadataRate</string>
+</dict>
+</plist>

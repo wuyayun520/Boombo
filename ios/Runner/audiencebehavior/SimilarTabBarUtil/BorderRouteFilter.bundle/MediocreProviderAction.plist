@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonModel</key>
+	<string>shouldSkipBitrate</string>
+	<key>dimensionInteraction</key>
+	<string>dispatchCycle</string>
+	<key>disabledTheme</key>
+	<string>crucialCanvas</string>
+	<key>evaluategrid</key>
+	<string>shouldUpdateAnimatedContainer</string>
+	<key>invisibleEquipment</key>
+	<string>sizedboxJob</string>
+	<key>scalevertex</key>
+	<string>canKeepColumn</string>
+	<key>sortedcosine</key>
+	<string>persistentResult</string>
+</dict>
+</plist>

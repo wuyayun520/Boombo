@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSubscription</key>
+	<string>alertShape</string>
+	<key>captioncount</key>
+	<string>shouldAnimateContainer</string>
+	<key>explicitManager</key>
+	<string>vectorizeWidget</string>
+	<key>immediateElement</key>
+	<string>playEntity</string>
+	<key>retainedscope</key>
+	<string>movementBottom</string>
+	<key>subsequentDetail</key>
+	<string>shouldListenDuration</string>
+	<key>switchnumberresponse</key>
+	<string>decorationorientation</string>
+	<key>temporaryRemediation</key>
+	<string>publicAsync</string>
+	<key>uniformCollection</key>
+	<string>deferredsizeresponse</string>
+	<key>unsortedResolver</key>
+	<string>uniqueTween</string>
+</dict>
+</plist>

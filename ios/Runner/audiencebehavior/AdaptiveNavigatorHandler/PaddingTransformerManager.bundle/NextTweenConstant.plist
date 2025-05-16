@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatebuilder</key>
+	<string>inactivePet</string>
+	<key>hardLoop</key>
+	<string>registerRect</string>
+	<key>numericalLayout</key>
+	<string>seamlessPolyfill</string>
+	<key>permutationsize</key>
+	<string>inheritedRenderer</string>
+	<key>reductionspeed</key>
+	<string>primaryVector</string>
+	<key>stateMargin</key>
+	<string>gemormode</string>
+	<key>tablehue</key>
+	<string>layoutinterpreterbottom</string>
+</dict>
+</plist>

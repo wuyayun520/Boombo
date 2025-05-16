@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeVolume</key>
+	<string>desktopSkin</string>
+	<key>difficultChannel</key>
+	<string>assetdelay</string>
+	<key>distinctionscale</key>
+	<string>updateasync</string>
+	<key>mainAllocator</key>
+	<string>independentRepository</string>
+	<key>mainindicatorcolor</key>
+	<string>materialcupertino</string>
+	<key>permissiveBase</key>
+	<string>sorterRate</string>
+	<key>resourcesystemappearance</key>
+	<string>anchorsaturation</string>
+	<key>scalabilityVisibility</key>
+	<string>robustScheduler</string>
+</dict>
+</plist>

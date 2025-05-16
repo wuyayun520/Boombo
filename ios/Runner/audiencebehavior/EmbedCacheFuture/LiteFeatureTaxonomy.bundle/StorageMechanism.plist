@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventperflyweight</key>
+	<string>optionanalyzer</string>
+	<key>materialMechanism</key>
+	<string>restartBehavior</string>
+	<key>neweststep</key>
+	<string>keyFlex</string>
+	<key>shouldEncodeRow</key>
+	<string>reduceResolver</string>
+	<key>singleScaffold</key>
+	<string>widgetloader</string>
+</dict>
+</plist>

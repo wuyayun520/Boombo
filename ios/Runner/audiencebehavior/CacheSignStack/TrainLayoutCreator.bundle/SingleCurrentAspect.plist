@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianAlpha</key>
+	<string>mutableElement</string>
+	<key>completiontiervalidation</key>
+	<string>replaceResolver</string>
+	<key>constructmethod</key>
+	<string>staticFilter</string>
+	<key>invisibleObject</key>
+	<string>canParseDropdownButton</string>
+	<key>remediationOrientation</key>
+	<string>subscribeGate</string>
+	<key>shoulddismissbehavior</key>
+	<string>shouldBuildRadio</string>
+	<key>shouldrebuildprecision</key>
+	<string>divideUseCase</string>
+	<key>videoAlignment</key>
+	<string>euclideanMapper</string>
+</dict>
+</plist>

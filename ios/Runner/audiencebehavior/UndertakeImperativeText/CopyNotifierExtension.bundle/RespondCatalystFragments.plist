@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionAcceleration</key>
+	<string>delicateProgressBar</string>
+	<key>defaultMap</key>
+	<string>shouldDetachResource</string>
+	<key>denseDropdownButton</key>
+	<string>consumerBottom</string>
+	<key>persistmanager</key>
+	<string>sorterRotation</string>
+	<key>providerlayerskewy</key>
+	<string>vectorizeResponse</string>
+	<key>providertop</key>
+	<string>consultativeIsolate</string>
+	<key>shouldAttachCupertino</key>
+	<string>canShowSwitch</string>
+	<key>shouldReplaceColumn</key>
+	<string>apertureVisibility</string>
+	<key>shouldnotifycursor</key>
+	<string>gesturedetectorsize</string>
+	<key>viewlayerbrightness</key>
+	<string>shouldDetachMusic</string>
+</dict>
+</plist>

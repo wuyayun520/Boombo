@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitCount</key>
+	<string>publicPrecision</string>
+	<key>keepisolate</key>
+	<string>canLayoutObserver</string>
+	<key>listviewKind</key>
+	<string>encapsulateclipper</string>
+	<key>prismaticCreator</key>
+	<string>widgetInterpreter</string>
+	<key>responsiveText</key>
+	<string>storeJob</string>
+	<key>robustprovider</key>
+	<string>shouldKeepBloc</string>
+	<key>sequentialThread</key>
+	<string>durationAcceleration</string>
+	<key>sustainableRadio</key>
+	<string>pageviewAdapter</string>
+</dict>
+</plist>

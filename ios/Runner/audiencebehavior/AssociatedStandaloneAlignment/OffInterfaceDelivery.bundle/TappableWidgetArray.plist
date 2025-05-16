@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disableddrawer</key>
+	<string>computeresource</string>
+	<key>isMission</key>
+	<string>mechanismRotation</string>
+	<key>largeerrordensity</key>
+	<string>renderHeap</string>
+	<key>nativeOptimizer</key>
+	<string>inactiveThroughput</string>
+	<key>reactiveTentative</key>
+	<string>removeFactory</string>
+	<key>resilientImpact</key>
+	<string>canUnbindEntropy</string>
+	<key>shouldFinishModulus</key>
+	<string>canEmitAnimation</string>
+	<key>smallStamp</key>
+	<string>globalanimationpadding</string>
+	<key>specifyBandwidth</key>
+	<string>providerDensity</string>
+</dict>
+</plist>

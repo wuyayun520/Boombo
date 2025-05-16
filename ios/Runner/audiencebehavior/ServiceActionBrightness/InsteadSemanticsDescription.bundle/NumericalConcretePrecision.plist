@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopAmortization</key>
+	<string>numericalPicker</string>
+	<key>liteCheckbox</key>
+	<string>nextIntegration</string>
+	<key>mediumReduction</key>
+	<string>canMountedSymbol</string>
+	<key>relationalCell</key>
+	<string>reliabilityOpacity</string>
+	<key>remainderTheme</key>
+	<string>encodeStack</string>
+	<key>sineCount</key>
+	<string>detachRole</string>
+</dict>
+</plist>

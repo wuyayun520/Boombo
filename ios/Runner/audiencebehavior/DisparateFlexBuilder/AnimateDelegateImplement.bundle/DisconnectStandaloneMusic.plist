@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoDensity</key>
+	<string>canYieldCheckbox</string>
+	<key>discardedListView</key>
+	<string>popupTemple</string>
+	<key>errorprocessor</key>
+	<string>shouldPauseSwift</string>
+	<key>geometricProgressBar</key>
+	<string>controllerlikeaction</string>
+	<key>shouldObserveSlash</key>
+	<string>completerFrequency</string>
+	<key>similarNotation</key>
+	<string>independentoffset</string>
+</dict>
+</plist>

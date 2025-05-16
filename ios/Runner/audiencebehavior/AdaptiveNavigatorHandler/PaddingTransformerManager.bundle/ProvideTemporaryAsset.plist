@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicmend</key>
+	<string>connectFrame</string>
+	<key>directConsumer</key>
+	<string>encodeGraphic</string>
+	<key>histogramamongparameter</key>
+	<string>bindcallback</string>
+	<key>rowsize</key>
+	<string>normalCosine</string>
+	<key>shouldSerializeMargin</key>
+	<string>saveSpecifier</string>
+	<key>storesubscriber</key>
+	<string>imagebehavior</string>
+</dict>
+</plist>

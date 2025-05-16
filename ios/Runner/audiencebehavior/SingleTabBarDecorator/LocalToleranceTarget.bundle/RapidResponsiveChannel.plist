@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableCubit</key>
+	<string>disabledAnalogy</string>
+	<key>cupertinoScroller</key>
+	<string>relationalAnimator</string>
+	<key>dynamicSelector</key>
+	<string>processcycle</string>
+	<key>equalizationcontainplatform</key>
+	<string>canRestartModal</string>
+	<key>grayscaleEdge</key>
+	<string>sessionResponse</string>
+	<key>invisibleSubpixel</key>
+	<string>rotateroute</string>
+	<key>singleStoryboard</key>
+	<string>shouldDismissUsage</string>
+	<key>videoSize</key>
+	<string>resizableListener</string>
+</dict>
+</plist>

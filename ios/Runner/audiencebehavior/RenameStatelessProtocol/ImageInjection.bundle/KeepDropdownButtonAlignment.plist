@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concatenatestep</key>
+	<string>spineProxy</string>
+	<key>dedicatedFinder</key>
+	<string>uniqueLinker</string>
+	<key>iswidget</key>
+	<string>emitterKind</string>
+	<key>painterInterval</key>
+	<string>listenerCenter</string>
+	<key>respectiveparticledensity</key>
+	<string>batchEdge</string>
+	<key>subscribemethod</key>
+	<string>customHash</string>
+</dict>
+</plist>

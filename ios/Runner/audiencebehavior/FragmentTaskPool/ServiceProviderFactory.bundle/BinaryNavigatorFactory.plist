@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateValidation</key>
+	<string>tappableCurve</string>
+	<key>descriptionformat</key>
+	<string>attachStep</string>
+	<key>elasticSubscription</key>
+	<string>inflateGestureDetector</string>
+	<key>hierarchicalScene</key>
+	<string>discoverZone</string>
+	<key>shouldCancelIcon</key>
+	<string>logarithmForm</string>
+	<key>shouldDisconnectAspectRatio</key>
+	<string>canDeserializeCatalyst</string>
+	<key>shouldFetchOverlay</key>
+	<string>navigatetransformer</string>
+	<key>shouldPauseBox</key>
+	<string>backwardSearcher</string>
+	<key>throughputposition</key>
+	<string>autoSelector</string>
+	<key>unactivatedIntegrity</key>
+	<string>channelsLevel</string>
+</dict>
+</plist>

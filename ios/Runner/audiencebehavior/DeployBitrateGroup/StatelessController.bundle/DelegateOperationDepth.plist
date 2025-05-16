@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyExpanded</key>
+	<string>adaptivemetadatadistance</string>
+	<key>dropdownbuttonshape</key>
+	<string>shouldUpdateCustomPaint</string>
+	<key>imperativemapper</key>
+	<string>oldLoader</string>
+	<key>mediaSaturation</key>
+	<string>concurrentRenderer</string>
+	<key>responsivedecoration</key>
+	<string>shouldPrepareSwitch</string>
+	<key>shouldRouteTouch</key>
+	<string>canPrepareGradient</string>
+	<key>significantGesture</key>
+	<string>transformerComposite</string>
+	<key>singleState</key>
+	<string>isolateContext</string>
+</dict>
+</plist>

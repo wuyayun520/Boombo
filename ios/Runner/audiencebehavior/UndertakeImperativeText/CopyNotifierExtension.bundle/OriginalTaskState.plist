@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianTernary</key>
+	<string>unscheduleTitle</string>
+	<key>crudeScroller</key>
+	<string>materialCompletion</string>
+	<key>currentAction</key>
+	<string>removecomposition</string>
+	<key>deserializegrid</key>
+	<string>transformDimension</string>
+	<key>lastGridView</key>
+	<string>particleOrigin</string>
+	<key>prevlayout</key>
+	<string>directlywrapper</string>
+	<key>resultRotation</key>
+	<string>protectedBloc</string>
+	<key>robustKernel</key>
+	<string>asynchronousconfiguration</string>
+	<key>staticTouch</key>
+	<string>onbloctap</string>
+</dict>
+</plist>

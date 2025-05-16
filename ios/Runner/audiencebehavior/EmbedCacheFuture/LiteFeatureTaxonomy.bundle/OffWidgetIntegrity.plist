@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedNotification</key>
+	<string>unlockResolver</string>
+	<key>activitythroughkind</key>
+	<string>measurestep</string>
+	<key>firstContrast</key>
+	<string>customizedCharacter</string>
+	<key>prepareimage</key>
+	<string>desktopDescent</string>
+	<key>prevZone</key>
+	<string>statelessNorm</string>
+	<key>relationalRichText</key>
+	<string>combineEntity</string>
+	<key>sampleacceleration</key>
+	<string>mobilePopup</string>
+</dict>
+</plist>

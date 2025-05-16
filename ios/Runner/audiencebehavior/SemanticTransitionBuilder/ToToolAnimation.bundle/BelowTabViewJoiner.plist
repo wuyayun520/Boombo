@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedParticle</key>
+	<string>elementTop</string>
+	<key>elastictexture</key>
+	<string>resultBehavior</string>
+	<key>retainpopup</key>
+	<string>resolverType</string>
+	<key>semanticCreator</key>
+	<string>shouldKeepMission</string>
+	<key>sineLocation</key>
+	<string>defaultrole</string>
+</dict>
+</plist>

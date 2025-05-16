@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheSkewX</key>
+	<string>attachskin</string>
+	<key>consumedropdownbutton</key>
+	<string>tweakbound</string>
+	<key>flexibleCapacities</key>
+	<string>asyncDuration</string>
+	<key>invisibleGraphic</key>
+	<string>symmetricBrush</string>
+	<key>queueIndex</key>
+	<string>semanticPainter</string>
+	<key>shouldReplaceTool</key>
+	<string>movementstatus</string>
+	<key>shouldStreamAperture</key>
+	<string>searchAlignment</string>
+	<key>shouldSubscribeUnary</key>
+	<string>shouldEmitMonster</string>
+	<key>unmountedconfiguration</key>
+	<string>canReplaceText</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasDepth</key>
+	<string>shouldParseSignature</string>
+	<key>efficiencyFlags</key>
+	<string>mediumPrecision</string>
+	<key>evaluationCenter</key>
+	<string>deserializeBrush</string>
+	<key>granularScene</key>
+	<string>utilforscope</string>
+	<key>interpolationprocesscenter</key>
+	<string>polyfillVelocity</string>
+	<key>lazyparticlestatus</key>
+	<string>diffableMetadata</string>
+</dict>
+</plist>

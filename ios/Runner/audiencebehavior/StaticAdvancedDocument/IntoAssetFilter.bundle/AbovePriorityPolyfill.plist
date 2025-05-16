@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSwitch</key>
+	<string>shouldCacheExpanded</string>
+	<key>dedicatedWidget</key>
+	<string>unregistertabbar</string>
+	<key>inheritedResponder</key>
+	<string>deserializecoordinator</string>
+	<key>presentercount</key>
+	<string>canNotifyEqualization</string>
+	<key>reducerVisibility</key>
+	<string>audioTension</string>
+	<key>scrollableDecoration</key>
+	<string>oldAlert</string>
+	<key>shouldFinishSegment</key>
+	<string>canStartRemainder</string>
+	<key>traversalForce</key>
+	<string>videoFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comparetext</key>
+	<string>drawerPrototype</string>
+	<key>extensionFlags</key>
+	<string>deserializetable</string>
+	<key>hierarchicalLayout</key>
+	<string>missedSession</string>
+	<key>lazyTheme</key>
+	<string>shouldSaveRadio</string>
+	<key>specifiercombiner</key>
+	<string>constraintsincephase</string>
+</dict>
+</plist>

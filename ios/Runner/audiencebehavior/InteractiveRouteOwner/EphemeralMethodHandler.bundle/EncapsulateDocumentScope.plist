@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bordershapevisible</key>
+	<string>equalizationtexture</string>
+	<key>disabledLocalization</key>
+	<string>directworkflow</string>
+	<key>draggableScroller</key>
+	<string>pausegrain</string>
+	<key>easyStorage</key>
+	<string>moduleDuration</string>
+	<key>ephemeralExtension</key>
+	<string>graphSpeed</string>
+	<key>intermediateGesture</key>
+	<string>unmountedSkirt</string>
+	<key>shouldSaveModal</key>
+	<string>shouldProcessAnchor</string>
+	<key>temporaryProcessor</key>
+	<string>reactiveSize</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationRate</key>
+	<string>shouldPrepareTangent</string>
+	<key>inheritedSymbol</key>
+	<string>shouldPresentBullet</string>
+	<key>lastPositioned</key>
+	<string>unscheduleRequest</string>
+	<key>requestBorder</key>
+	<string>canFetchEntropy</string>
+	<key>shouldListenDocument</key>
+	<string>canAnimateWorkflow</string>
+	<key>skirtPosition</key>
+	<string>masterstyle</string>
+	<key>stackScale</key>
+	<string>immediateTicker</string>
+	<key>standaloneRadio</key>
+	<string>protectedCycle</string>
+</dict>
+</plist>

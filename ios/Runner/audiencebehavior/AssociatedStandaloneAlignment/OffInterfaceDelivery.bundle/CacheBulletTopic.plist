@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedFeature</key>
+	<string>specifyhandleredge</string>
+	<key>componentSaturation</key>
+	<string>largeDecoration</string>
+	<key>shouldnotifytransition</key>
+	<string>interactiveintegration</string>
+	<key>transitionpadding</key>
+	<string>intensityLevel</string>
+	<key>videoPadding</key>
+	<string>skirttiermode</string>
+</dict>
+</plist>

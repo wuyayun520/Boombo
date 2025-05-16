@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellStatus</key>
+	<string>masterStatus</string>
+	<key>consultativeAperture</key>
+	<string>giftalignment</string>
+	<key>hasloss</key>
+	<string>intensityopacity</string>
+	<key>optionpresenter</key>
+	<string>layoutSizedBox</string>
+	<key>registerconstraint</key>
+	<string>grainEdge</string>
+	<key>toolValidation</key>
+	<string>constraintStyle</string>
+</dict>
+</plist>

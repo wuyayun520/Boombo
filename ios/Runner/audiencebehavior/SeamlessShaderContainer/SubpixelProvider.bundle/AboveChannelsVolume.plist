@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatecube</key>
+	<string>saveSpecifier</string>
+	<key>observercontainbridge</key>
+	<string>unbindInterpolation</string>
+	<key>shouldPopCatalyst</key>
+	<string>receiverHue</string>
+	<key>visibleHandler</key>
+	<string>canDeserializeStateless</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedScene</key>
+	<string>listenFragment</string>
+	<key>modalType</key>
+	<string>discardedConsumption</string>
+	<key>resizableFilter</key>
+	<string>canAttachTask</string>
+	<key>seamlessDropdownButton</key>
+	<string>tappableSizedBox</string>
+	<key>shouldResumeEffect</key>
+	<string>aspectForm</string>
+	<key>shouldStartMedia</key>
+	<string>shouldPresentModal</string>
+	<key>shouldnotifyswift</key>
+	<string>shouldSetStateView</string>
+	<key>standalonebuffertension</key>
+	<string>parseImage</string>
+	<key>titlerectangle</key>
+	<string>modalfacadeskewx</string>
+</dict>
+</plist>

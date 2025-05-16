@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffertime</key>
+	<string>iconParameter</string>
+	<key>combinerVelocity</key>
+	<string>aggregateTitle</string>
+	<key>durationTag</key>
+	<string>shouldAnimateOption</string>
+	<key>particleBottom</key>
+	<string>canUnmountClipper</string>
+	<key>protectedBullet</key>
+	<string>containerHue</string>
+	<key>responsiveSession</key>
+	<string>diversifiedbox</string>
+	<key>texturestrength</key>
+	<string>measureinteger</string>
+	<key>unaryFlags</key>
+	<string>tentativeStatus</string>
+</dict>
+</plist>

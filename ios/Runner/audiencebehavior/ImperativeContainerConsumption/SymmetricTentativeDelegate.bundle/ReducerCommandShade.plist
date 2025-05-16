@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSprite</key>
+	<string>shouldInflatePositioned</string>
+	<key>configurationSkewY</key>
+	<string>shouldDismissBatch</string>
+	<key>subsequentduration</key>
+	<string>equipmentSystem</string>
+	<key>tickerShape</key>
+	<string>mutableReducer</string>
+</dict>
+</plist>

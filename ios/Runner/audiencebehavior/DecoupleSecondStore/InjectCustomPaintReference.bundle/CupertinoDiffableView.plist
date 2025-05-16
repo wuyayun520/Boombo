@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarshape</key>
+	<string>canDispatchBloc</string>
+	<key>associatedLogarithm</key>
+	<string>threadProcess</string>
+	<key>composableTask</key>
+	<string>shouldRestartOperation</string>
+	<key>compositiontop</key>
+	<string>alignmentStage</string>
+	<key>instructionBound</key>
+	<string>baselineKind</string>
+	<key>localizationMargin</key>
+	<string>scrollableCollection</string>
+	<key>oneffectchanged</key>
+	<string>canLoadText</string>
+	<key>primaryTool</key>
+	<string>canFormatScale</string>
+	<key>resilientStep</key>
+	<string>disposeConsumer</string>
+	<key>responderformat</key>
+	<string>checkHandler</string>
+</dict>
+</plist>

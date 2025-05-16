@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTransition</key>
+	<string>durationSingleton</string>
+	<key>customizedMap</key>
+	<string>notifyAction</string>
+	<key>integerInteraction</key>
+	<string>smallPosition</string>
+	<key>listenerFrequency</key>
+	<string>captionVisible</string>
+	<key>logarithmFormat</key>
+	<string>segmentMargin</string>
+	<key>showgroup</key>
+	<string>canCacheGram</string>
+	<key>webProjection</key>
+	<string>observeContraction</string>
+</dict>
+</plist>

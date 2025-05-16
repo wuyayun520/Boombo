@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedProtocol</key>
+	<string>threadProxy</string>
+	<key>cardType</key>
+	<string>maprotation</string>
+	<key>customizedtaxonomy</key>
+	<string>canLayoutEquipment</string>
+	<key>materialFragments</key>
+	<string>hardSorter</string>
+	<key>presentercontextskewx</key>
+	<string>statefulChain</string>
+	<key>statelessVisibility</key>
+	<string>basicActivity</string>
+	<key>tableRate</key>
+	<string>playbackAppearance</string>
+	<key>vectorOrigin</key>
+	<string>enumerateFrame</string>
+</dict>
+</plist>

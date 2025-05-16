@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentGrid</key>
+	<string>lazyCombiner</string>
+	<key>interpolationTop</key>
+	<string>basicMetadata</string>
+	<key>respectiveInformation</key>
+	<string>statelessGroup</string>
+	<key>shouldSaveController</key>
+	<string>oldElasticity</string>
+	<key>subpixelRotation</key>
+	<string>singletonopacity</string>
+	<key>themeradius</key>
+	<string>inflateTween</string>
+	<key>unactivatedRange</key>
+	<string>cellJob</string>
+	<key>visibleFlex</key>
+	<string>rapidPadding</string>
+</dict>
+</plist>

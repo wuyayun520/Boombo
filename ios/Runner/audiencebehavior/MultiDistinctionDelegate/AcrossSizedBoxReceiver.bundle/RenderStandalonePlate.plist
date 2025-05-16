@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopBehavior</key>
+	<string>integrationDuration</string>
+	<key>inactiveOverlay</key>
+	<string>mainRecursion</string>
+	<key>mainHash</key>
+	<string>soundVisibility</string>
+	<key>offsetskewy</key>
+	<string>shouldpopmaterial</string>
+	<key>paintmethod</key>
+	<string>canLayoutBloc</string>
+	<key>resizableOffset</key>
+	<string>routeCollection</string>
+	<key>shouldReplacePriority</key>
+	<string>localChannels</string>
+</dict>
+</plist>

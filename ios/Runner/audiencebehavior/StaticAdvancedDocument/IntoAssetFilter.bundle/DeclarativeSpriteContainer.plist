@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleDrawer</key>
+	<string>shouldBindBinary</string>
+	<key>largeTheme</key>
+	<string>curvevalidation</string>
+	<key>loadslider</key>
+	<string>canFinishBitrate</string>
+	<key>shouldunbindsegue</key>
+	<string>awaitOrientation</string>
+</dict>
+</plist>

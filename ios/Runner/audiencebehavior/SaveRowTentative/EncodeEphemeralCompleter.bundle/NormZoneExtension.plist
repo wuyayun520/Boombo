@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensiontransition</key>
+	<string>offsetStorage</string>
+	<key>discardedAllocator</key>
+	<string>composableIsolate</string>
+	<key>exceptionSpeed</key>
+	<string>alphaPhase</string>
+	<key>materialAmortization</key>
+	<string>dynamicsegment</string>
+	<key>statelessFuture</key>
+	<string>limitpromise</string>
+</dict>
+</plist>

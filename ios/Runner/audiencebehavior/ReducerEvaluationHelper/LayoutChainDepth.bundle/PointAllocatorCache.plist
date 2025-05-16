@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveQueue</key>
+	<string>unbindAnimatedContainer</string>
+	<key>crucialdescriptordirection</key>
+	<string>canCreateIcon</string>
+	<key>delicatecallbackstatus</key>
+	<string>canSaveStoryboard</string>
+	<key>invisibleFragment</key>
+	<string>dismissDependency</string>
+	<key>largeBuffer</key>
+	<string>curvestagemode</string>
+	<key>opaqueStoryboard</key>
+	<string>buttonSystem</string>
+	<key>parallelSplitter</key>
+	<string>statearoundvisitor</string>
+	<key>reconcilesample</key>
+	<string>validateCupertino</string>
+	<key>shouldUnbindMaster</key>
+	<string>shouldValidateCertificate</string>
+	<key>transitionworkdepth</key>
+	<string>lazyTabView</string>
+</dict>
+</plist>

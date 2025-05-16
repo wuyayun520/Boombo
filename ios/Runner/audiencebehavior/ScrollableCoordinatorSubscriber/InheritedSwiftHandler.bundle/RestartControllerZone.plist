@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcellorientation</key>
+	<string>canRestartPriority</string>
+	<key>disconnectmediaquery</key>
+	<string>characterJob</string>
+	<key>interfaceagainstjob</key>
+	<string>compareinkwell</string>
+	<key>isMatrix</key>
+	<string>descriptionorscope</string>
+	<key>localRemediation</key>
+	<string>singleMend</string>
+	<key>managerforvisitor</key>
+	<string>dismissExtension</string>
+	<key>shouldAttachChallenge</key>
+	<string>composableConfiguration</string>
+	<key>shouldPushTheme</key>
+	<string>singleStorage</string>
+	<key>shouldTrainRemainder</key>
+	<string>liteClipper</string>
+	<key>timeSpeed</key>
+	<string>hyperbolicAccessory</string>
+</dict>
+</plist>

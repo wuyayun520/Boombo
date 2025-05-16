@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDialogs</key>
+	<string>routeInterpolation</string>
+	<key>cosinesaturation</key>
+	<string>hasgram</string>
+	<key>declarativeTraversal</key>
+	<string>adjustPosition</string>
+	<key>eagerTransformer</key>
+	<string>shouldTransitionColumn</string>
+	<key>featurebuilder</key>
+	<string>profileduringprototype</string>
+	<key>persistentProfile</key>
+	<string>spinePadding</string>
+	<key>subscriptionTag</key>
+	<string>similarInfrastructure</string>
+	<key>unschedulestep</key>
+	<string>scheduleLayer</string>
+</dict>
+</plist>

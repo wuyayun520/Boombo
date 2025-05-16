@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterleft</key>
+	<string>respondtexture</string>
+	<key>easyElasticity</key>
+	<string>mutableAnimator</string>
+	<key>notifierphasepressure</key>
+	<string>pinchableAscent</string>
+	<key>resolveresource</key>
+	<string>canParseArithmetic</string>
+	<key>shouldSetStateArithmetic</key>
+	<string>overrideVector</string>
+	<key>similarSwitch</key>
+	<string>gridviewCommand</string>
+	<key>specifyCupertino</key>
+	<string>fusedPageView</string>
+	<key>startstream</key>
+	<string>routedecoration</string>
+	<key>taskTop</key>
+	<string>axisPosition</string>
+</dict>
+</plist>

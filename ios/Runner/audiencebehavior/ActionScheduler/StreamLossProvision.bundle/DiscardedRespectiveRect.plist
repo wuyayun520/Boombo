@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMusic</key>
+	<string>tweentail</string>
+	<key>beginnerSearcher</key>
+	<string>processtouch</string>
+	<key>controllercenter</key>
+	<string>regulateRoute</string>
+	<key>errorrate</key>
+	<string>taskMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedFeature</key>
+	<string>appendNode</string>
+	<key>crucialScenario</key>
+	<string>shouldLoadOperation</string>
+	<key>globalData</key>
+	<string>lossValidation</string>
+	<key>protectedLoop</key>
+	<string>checkboxmementoscale</string>
+	<key>statefulpositioned</key>
+	<string>streamlineScene</string>
+</dict>
+</plist>

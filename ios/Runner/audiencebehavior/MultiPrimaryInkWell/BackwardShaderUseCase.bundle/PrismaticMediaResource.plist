@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationMomentum</key>
+	<string>repositorymodeskewy</string>
+	<key>axisTransparency</key>
+	<string>immediatedescent</string>
+	<key>beginnerpager</key>
+	<string>polyfillColor</string>
+	<key>clusterDensity</key>
+	<string>sliderForce</string>
+	<key>dedicatedTweak</key>
+	<string>beginnerContainer</string>
+	<key>distinctionSize</key>
+	<string>cyclehandler</string>
+	<key>infrastructureOpacity</key>
+	<string>shouldObserveMobile</string>
+	<key>publicSession</key>
+	<string>statefulSize</string>
+	<key>strokeVelocity</key>
+	<string>descriptionorientation</string>
+</dict>
+</plist>

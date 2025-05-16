@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDescription</key>
+	<string>scrollableGraphic</string>
+	<key>brushsaturation</key>
+	<string>baseName</string>
+	<key>criticalmediaquery</key>
+	<string>difficultOverlay</string>
+	<key>persistentqueuevisibility</key>
+	<string>canCancelRow</string>
+	<key>shouldPopStack</key>
+	<string>logarithmbridgeborder</string>
+</dict>
+</plist>

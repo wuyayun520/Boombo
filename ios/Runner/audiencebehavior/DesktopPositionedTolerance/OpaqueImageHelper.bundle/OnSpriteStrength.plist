@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryStyle</key>
+	<string>notifySlash</string>
+	<key>animatedChart</key>
+	<string>saveoperation</string>
+	<key>elasticProvider</key>
+	<string>chapterProcess</string>
+	<key>gramCenter</key>
+	<string>easyConsumption</string>
+	<key>imperativeTable</key>
+	<string>mobileValue</string>
+	<key>signatureperinterpreter</key>
+	<string>cupertinoLoader</string>
+</dict>
+</plist>

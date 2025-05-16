@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mutableStatus</key>
+	<string>shouldRenderController</string>
+	<key>resetcontroller</key>
+	<string>defaultController</string>
+	<key>shouldrouteaspectratio</key>
+	<string>featureOpacity</string>
+	<key>tablePressure</key>
+	<string>shouldKeepStateful</string>
+</dict>
+</plist>

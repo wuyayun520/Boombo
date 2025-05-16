@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveHistogram</key>
+	<string>rapidIntegrity</string>
+	<key>pickerAcceleration</key>
+	<string>onnavigatorchanged</string>
+	<key>shouldUpdatePlayback</key>
+	<string>priorgraphvelocity</string>
+	<key>subsequentStatus</key>
+	<string>graphicAppearance</string>
+	<key>timelineHue</key>
+	<string>slideruntilstate</string>
+</dict>
+</plist>

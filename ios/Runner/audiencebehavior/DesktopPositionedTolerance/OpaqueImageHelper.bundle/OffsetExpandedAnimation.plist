@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedlifecycle</key>
+	<string>configureZone</string>
+	<key>behaviorRate</key>
+	<string>shouldResumeAccessory</string>
+	<key>declarativeCache</key>
+	<string>canConnectSymbol</string>
+	<key>extensionIndex</key>
+	<string>canPopLogarithm</string>
+	<key>imperativeSingleton</key>
+	<string>unlockUseCase</string>
+	<key>listenervisibility</key>
+	<string>shouldFormatAppBar</string>
+	<key>mobilepageviewvelocity</key>
+	<string>stopAlpha</string>
+	<key>permanentConfiguration</key>
+	<string>selectedDialogs</string>
+	<key>roleState</key>
+	<string>partitionHandler</string>
+	<key>sizedboxResponse</key>
+	<string>lazyVector</string>
+</dict>
+</plist>

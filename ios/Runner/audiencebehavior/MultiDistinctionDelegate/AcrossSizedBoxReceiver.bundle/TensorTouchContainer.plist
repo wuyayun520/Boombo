@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSelector</key>
+	<string>sustainableMargin</string>
+	<key>handlerIndex</key>
+	<string>eagerSplitter</string>
+	<key>mainIsolate</key>
+	<string>cubitEdge</string>
+	<key>prismaticCache</key>
+	<string>functionalCompleter</string>
+	<key>reliabilityName</key>
+	<string>indicatorMemento</string>
+	<key>shouldFinishEffect</key>
+	<string>signKind</string>
+</dict>
+</plist>

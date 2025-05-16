@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoDecoration</key>
+	<string>textureacceleration</string>
+	<key>blocvalidation</key>
+	<string>persistentPublisher</string>
+	<key>converterInset</key>
+	<string>provisionCenter</string>
+	<key>mobiledrawer</key>
+	<string>accessibleTimeline</string>
+	<key>playtween</key>
+	<string>shouldPauseUnary</string>
+	<key>scrollableCustomPaint</key>
+	<string>shouldUnmountedMonster</string>
+	<key>shouldDetachDimension</key>
+	<string>unmarshalConfiguration</string>
+	<key>statefulcupertinosize</key>
+	<string>clearManager</string>
+	<key>statelessListener</key>
+	<string>bindBloc</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activateisolate</key>
+	<string>emitterVisibility</string>
+	<key>denseSample</key>
+	<string>replicateerror</string>
+	<key>mainInstruction</key>
+	<string>profileFrame</string>
+	<key>mainReduction</key>
+	<string>storename</string>
+	<key>methodAcceleration</key>
+	<string>bulletMargin</string>
+	<key>normalModel</key>
+	<string>animaterouter</string>
+	<key>processorvalidation</key>
+	<string>shouldPaintSensor</string>
+	<key>routeTint</key>
+	<string>sustainableLabel</string>
+	<key>symmetricVertex</key>
+	<string>schedulerState</string>
+</dict>
+</plist>

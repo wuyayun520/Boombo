@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ischannels</key>
+	<string>parsesizedbox</string>
+	<key>lastDecoration</key>
+	<string>parseGestureDetector</string>
+	<key>pageviewVelocity</key>
+	<string>documentHue</string>
+	<key>petduringcycle</key>
+	<string>retrieveAwait</string>
+	<key>rangeInset</key>
+	<string>calculateDecoration</string>
+	<key>shouldUnmountAspect</key>
+	<string>dedicatedPopup</string>
+	<key>shouldUpdateSizedBox</key>
+	<string>dismissResult</string>
+	<key>strengthappearance</key>
+	<string>cardInset</string>
+	<key>viewandadapter</key>
+	<string>requestTag</string>
+</dict>
+</plist>

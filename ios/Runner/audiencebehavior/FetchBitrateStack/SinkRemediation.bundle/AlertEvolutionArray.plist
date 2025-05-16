@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationalignment</key>
+	<string>radioEdge</string>
+	<key>composableProfile</key>
+	<string>layoutReduction</string>
+	<key>dedicatedProject</key>
+	<string>transformerMode</string>
+	<key>operationshader</key>
+	<string>usageStage</string>
+	<key>permanentTechnique</key>
+	<string>pointBuffer</string>
+	<key>reactiveScreen</key>
+	<string>streamCatalyst</string>
+	<key>resizableScene</key>
+	<string>activatedModule</string>
+	<key>tappableMedia</key>
+	<string>basicmovement</string>
+</dict>
+</plist>

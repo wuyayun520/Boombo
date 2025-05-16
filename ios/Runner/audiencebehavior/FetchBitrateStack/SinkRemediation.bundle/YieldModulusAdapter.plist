@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncscheduler</key>
+	<string>continueMission</string>
+	<key>catalystOrientation</key>
+	<string>defaultoptimizer</string>
+	<key>crucialColor</key>
+	<string>observeTexture</string>
+	<key>fixedAnchor</key>
+	<string>mitigateSprite</string>
+	<key>inkwellPadding</key>
+	<string>sensorInterval</string>
+	<key>isspecifier</key>
+	<string>canUnmountDimension</string>
+	<key>respondcharacter</key>
+	<string>canHandleStateless</string>
+	<key>uniformScreen</key>
+	<string>orchestrateLayer</string>
+</dict>
+</plist>

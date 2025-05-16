@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAnimatedContainer</key>
+	<string>canRestartCube</string>
+	<key>consumerIndex</key>
+	<string>singletonwithoperation</string>
+	<key>dedicatedChart</key>
+	<string>canBindBatch</string>
+	<key>polyfillFrequency</key>
+	<string>buttonedge</string>
+	<key>shouldTransitionConsumer</key>
+	<string>annotateaspect</string>
+	<key>sophisticatedPublisher</key>
+	<string>usedEntity</string>
+	<key>widgetrotation</key>
+	<string>containerLevel</string>
+</dict>
+</plist>

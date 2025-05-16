@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSwift</key>
+	<string>independentArithmetic</string>
+	<key>firstMultiplication</key>
+	<string>canInflateAppBar</string>
+	<key>grainframe</key>
+	<string>oldunary</string>
+</dict>
+</plist>

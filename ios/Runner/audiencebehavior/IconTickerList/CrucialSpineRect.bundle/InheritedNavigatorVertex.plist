@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCursor</key>
+	<string>retainLayer</string>
+	<key>catalystinteraction</key>
+	<string>configurationlocation</string>
+	<key>displayableCapacities</key>
+	<string>channelsMemento</string>
+	<key>loopuntilphase</key>
+	<string>elasticimpact</string>
+	<key>selectedborder</key>
+	<string>resilientrange</string>
+	<key>sharedStateful</key>
+	<string>lostSubscriber</string>
+	<key>shouldLayoutThread</key>
+	<string>matrixKind</string>
+	<key>synchronousAction</key>
+	<string>canDisconnectAnchor</string>
+</dict>
+</plist>

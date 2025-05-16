@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorAppearance</key>
+	<string>alertDuration</string>
+	<key>completionBehavior</key>
+	<string>videoCenter</string>
+	<key>dataFormat</key>
+	<string>backwardTransition</string>
+	<key>directError</key>
+	<string>unregistersample</string>
+	<key>easyMethod</key>
+	<string>localPolyfill</string>
+	<key>oldTangent</key>
+	<string>dynamicInfo</string>
+	<key>processorForce</key>
+	<string>unactivatedOperation</string>
+	<key>streamexponent</key>
+	<string>heropressure</string>
+	<key>substantialnotificationbrightness</key>
+	<string>normalTriangles</string>
+</dict>
+</plist>

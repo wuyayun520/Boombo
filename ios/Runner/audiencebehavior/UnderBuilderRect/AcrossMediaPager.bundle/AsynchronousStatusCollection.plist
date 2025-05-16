@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentselector</key>
+	<string>primaryCallback</string>
+	<key>cupertinoPreview</key>
+	<string>workflowcenter</string>
+	<key>curveResponse</key>
+	<string>webSplitter</string>
+	<key>denseInfo</key>
+	<string>shouldRebuildSpot</string>
+	<key>listviewoffset</key>
+	<string>numericalschema</string>
+	<key>mutableKernel</key>
+	<string>scaffoldbound</string>
+	<key>playbackOrigin</key>
+	<string>pivotalUnary</string>
+	<key>shouldDetachLabel</key>
+	<string>graphicScale</string>
+	<key>storyboardType</key>
+	<string>paddingscene</string>
+	<key>subpixeltint</key>
+	<string>parallelSprite</string>
+</dict>
+</plist>

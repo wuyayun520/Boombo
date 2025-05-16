@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFeedback</key>
+	<string>canReplaceProtocol</string>
+	<key>animatedcontainerperstyle</key>
+	<string>capsulebridgetag</string>
+	<key>autoNib</key>
+	<string>lostSprite</string>
+	<key>mediaquerytransformer</key>
+	<string>viewFlags</string>
+	<key>parallelState</key>
+	<string>disabledDialogs</string>
+	<key>visualizescaffold</key>
+	<string>brushcontextstyle</string>
+</dict>
+</plist>

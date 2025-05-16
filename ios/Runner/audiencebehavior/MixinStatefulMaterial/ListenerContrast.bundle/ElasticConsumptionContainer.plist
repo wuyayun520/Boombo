@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeobserver</key>
+	<string>shouldProcessCard</string>
+	<key>generatescene</key>
+	<string>skinMethod</string>
+	<key>interactiveVolume</key>
+	<string>staticTransition</string>
+	<key>lazyScenario</key>
+	<string>similarcubitalignment</string>
+	<key>localProvider</key>
+	<string>fixedTabView</string>
+	<key>platemediatorappearance</key>
+	<string>canSetStateStateless</string>
+	<key>reactivesubscriptionscale</key>
+	<string>temporaryStroke</string>
+	<key>shouldFetchContainer</key>
+	<string>cupertinoFrequency</string>
+	<key>shouldFinishSwitch</key>
+	<string>asynchronousDependency</string>
+	<key>storageTint</key>
+	<string>singleCubit</string>
+</dict>
+</plist>

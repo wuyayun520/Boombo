@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblestatefuldistance</key>
+	<string>mergerFrequency</string>
+	<key>cancelalpha</key>
+	<string>remediationDistance</string>
+	<key>dedicatedlayoutcontrast</key>
+	<string>priorityMargin</string>
+	<key>interfacetasktop</key>
+	<string>discoverDelegate</string>
+	<key>shouldInflateObserver</key>
+	<string>asynchronousmediaopacity</string>
+	<key>shouldSerializePrecision</key>
+	<string>euclideanSubscriber</string>
+	<key>switchresource</key>
+	<string>iterativeState</string>
+	<key>unactivatedConfiguration</key>
+	<string>declarativeconfiguration</string>
+	<key>validategradient</key>
+	<string>shouldKeepCompletion</string>
+</dict>
+</plist>

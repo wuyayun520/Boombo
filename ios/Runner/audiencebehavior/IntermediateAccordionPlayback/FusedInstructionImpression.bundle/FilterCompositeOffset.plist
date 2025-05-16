@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsfeature</key>
+	<string>thresholdValidation</string>
+	<key>custompaintanimation</key>
+	<string>usedGridView</string>
+	<key>custompaintexception</key>
+	<string>statusAlignment</string>
+	<key>displayablePadding</key>
+	<string>currentLoop</string>
+	<key>mitigatetask</key>
+	<string>computeGrid</string>
+	<key>nativeHandler</key>
+	<string>createTable</string>
+	<key>normaltask</key>
+	<string>mendcenter</string>
+	<key>shouldKeepSignature</key>
+	<string>activeTabBar</string>
+	<key>shouldLayoutStack</key>
+	<string>rapidChapter</string>
+</dict>
+</plist>

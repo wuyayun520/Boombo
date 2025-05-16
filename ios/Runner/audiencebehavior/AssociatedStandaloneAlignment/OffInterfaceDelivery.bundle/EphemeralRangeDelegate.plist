@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisbridgeoffset</key>
+	<string>bitrateAction</string>
+	<key>baseBrightness</key>
+	<string>resourceCoord</string>
+	<key>characteristicTint</key>
+	<string>resizableShader</string>
+	<key>displayableEffect</key>
+	<string>rectangleSkewY</string>
+	<key>dropdownbuttonzone</key>
+	<string>shouldfetchicon</string>
+	<key>factorymodecount</key>
+	<string>euclideanScene</string>
+	<key>lastWorkflow</key>
+	<string>cupertinoMesh</string>
+</dict>
+</plist>

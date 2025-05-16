@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoExtension</key>
+	<string>hyperbolicusecaseleft</string>
+	<key>beginnermetadata</key>
+	<string>liteMenu</string>
+	<key>concreteDropdownButton</key>
+	<string>tweenlatency</string>
+	<key>disabledAllocator</key>
+	<string>futureCommand</string>
+	<key>entityCoord</key>
+	<string>declarativeCharacter</string>
+	<key>semanticCombiner</key>
+	<string>easysignature</string>
+	<key>specifierInteraction</key>
+	<string>shouldHandleSubpixel</string>
+	<key>taskDuration</key>
+	<string>tensorJoiner</string>
+	<key>visibleMission</key>
+	<string>shouldUpdateCompletion</string>
+</dict>
+</plist>

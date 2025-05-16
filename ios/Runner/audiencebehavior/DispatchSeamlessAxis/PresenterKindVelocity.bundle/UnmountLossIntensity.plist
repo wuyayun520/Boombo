@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardcubit</key>
+	<string>shouldshowbuilder</string>
+	<key>handlervarresponse</key>
+	<string>markView</string>
+	<key>injectionSize</key>
+	<string>numericalBoxShadow</string>
+	<key>keyView</key>
+	<string>lazyCanvas</string>
+	<key>missedRestriction</key>
+	<string>animatedcontainerCenter</string>
+	<key>nativeCompletion</key>
+	<string>indicatorTask</string>
+	<key>shouldDisconnectSymbol</key>
+	<string>associatedState</string>
+	<key>webSorter</key>
+	<string>discardedRemainder</string>
+</dict>
+</plist>

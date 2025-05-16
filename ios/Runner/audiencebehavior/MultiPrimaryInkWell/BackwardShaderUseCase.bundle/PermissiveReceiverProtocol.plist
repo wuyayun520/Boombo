@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthHue</key>
+	<string>findResponse</string>
+	<key>defaultprofile</key>
+	<string>performAsync</string>
+	<key>routelabel</key>
+	<string>limitsegment</string>
+	<key>selectedVariant</key>
+	<string>canValidateScaffold</string>
+	<key>smartRadio</key>
+	<string>statelessError</string>
+</dict>
+</plist>

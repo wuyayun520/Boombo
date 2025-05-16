@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleStyle</key>
+	<string>fetchanchor</string>
+	<key>explicitequivalent</key>
+	<string>curveVariable</string>
+	<key>integertext</key>
+	<string>deployVector</string>
+	<key>mediocreObserver</key>
+	<string>pauseGrayscale</string>
+	<key>parallelTicker</key>
+	<string>mobilelifecycle</string>
+	<key>sequentialSize</key>
+	<string>colorLeft</string>
+	<key>shouldSerializePlate</key>
+	<string>parseWidget</string>
+	<key>spotRight</key>
+	<string>euclideanAlpha</string>
+	<key>tensorLog</key>
+	<string>switchCount</string>
+	<key>uniquePager</key>
+	<string>eventFramework</string>
+</dict>
+</plist>

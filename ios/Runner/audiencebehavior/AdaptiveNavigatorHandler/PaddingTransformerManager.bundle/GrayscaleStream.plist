@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedSwift</key>
+	<string>shouldParseContainer</string>
+	<key>inactiveClipper</key>
+	<string>bulletInteraction</string>
+	<key>mediumLabel</key>
+	<string>kerneltransparency</string>
+	<key>requiredstepmargin</key>
+	<string>metadatashape</string>
+	<key>shouldTransitionDialogs</key>
+	<string>decorationappearance</string>
+	<key>significantMesh</key>
+	<string>shouldformatfragment</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchoruntilscope</key>
+	<string>canCancelCanvas</string>
+	<key>cartesianNotation</key>
+	<string>eagerGrayscale</string>
+	<key>characterContrast</key>
+	<string>shouldPrepareListView</string>
+	<key>contrastskewx</key>
+	<string>desktopSegment</string>
+	<key>cupertinoView</key>
+	<string>shouldPushIcon</string>
+	<key>fixedStamp</key>
+	<string>queueTension</string>
+	<key>indicatorrenderer</key>
+	<string>mobileintensity</string>
+	<key>inheritedrowleft</key>
+	<string>shouldRoutePageView</string>
+	<key>resizableNorm</key>
+	<string>substantialExpanded</string>
+	<key>touchOffset</key>
+	<string>metricsOrientation</string>
+</dict>
+</plist>

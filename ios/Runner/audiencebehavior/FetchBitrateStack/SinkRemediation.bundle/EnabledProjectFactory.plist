@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformnotification</key>
+	<string>canRebuildSlider</string>
+	<key>constraintstrategyspacing</key>
+	<string>resetCubit</string>
+	<key>crucialTool</key>
+	<string>originalCache</string>
+	<key>multilayerlocation</key>
+	<string>compileTween</string>
+	<key>pushcontroller</key>
+	<string>touchLoop</string>
+	<key>reductionlabel</key>
+	<string>canBuildOption</string>
+	<key>screenshapetheme</key>
+	<string>yieldArithmetic</string>
+	<key>smallModule</key>
+	<string>sinkSpacing</string>
+</dict>
+</plist>

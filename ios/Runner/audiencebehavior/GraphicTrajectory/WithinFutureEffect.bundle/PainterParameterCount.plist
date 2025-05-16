@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>processgraphic</key>
+	<string>hassine</string>
+	<key>shouldDismissWidget</key>
+	<string>canListenTransition</string>
+	<key>shouldMountedSpecifier</key>
+	<string>capacitiesimpression</string>
+	<key>shouldParseMedia</key>
+	<string>unsortedEquipment</string>
+	<key>storyboardstyle</key>
+	<string>notifyListener</string>
+</dict>
+</plist>

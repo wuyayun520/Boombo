@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTag</key>
+	<string>effectinterpreterdelay</string>
+	<key>columntriangles</key>
+	<string>keyformat</string>
+	<key>missedGram</key>
+	<string>canCacheView</string>
+	<key>mobileVector</key>
+	<string>isicon</string>
+	<key>reusablelossstatus</key>
+	<string>fragmentsRate</string>
+	<key>shouldDeserializeSwift</key>
+	<string>canStartIcon</string>
+	<key>shouldTrainSkirt</key>
+	<string>sizeAppearance</string>
+</dict>
+</plist>

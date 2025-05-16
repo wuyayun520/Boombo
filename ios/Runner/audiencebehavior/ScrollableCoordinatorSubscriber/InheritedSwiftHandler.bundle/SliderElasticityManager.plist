@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeComponent</key>
+	<string>advancedButton</string>
+	<key>reactivePicker</key>
+	<string>segueedge</string>
+	<key>sequentialMargin</key>
+	<string>shouldCreateLabel</string>
+	<key>staticOccasion</key>
+	<string>listenprovider</string>
+</dict>
+</plist>

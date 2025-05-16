@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentnumberkind</key>
+	<string>pendingCard</string>
+	<key>animationbrightness</key>
+	<string>specifyAspect</string>
+	<key>annotateaction</key>
+	<string>plateTag</string>
+	<key>equivalentSpacing</key>
+	<string>singletonStyle</string>
+	<key>specifyFragment</key>
+	<string>iterativeBorder</string>
+	<key>statustint</key>
+	<string>releaseConfiguration</string>
+	<key>thresholdPadding</key>
+	<string>paintBitrate</string>
+	<key>unactivatedRequest</key>
+	<string>compositionalAperture</string>
+</dict>
+</plist>

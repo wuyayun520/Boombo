@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBrush</key>
+	<string>immutableConverter</string>
+	<key>constraintforform</key>
+	<string>densePlate</string>
+	<key>controllerSaturation</key>
+	<string>shouldDisconnectScaffold</string>
+	<key>fixedalignment</key>
+	<string>sampleduringoperation</string>
+	<key>granularSymbol</key>
+	<string>canMountEqualization</string>
+	<key>inkwelldecoratorspeed</key>
+	<string>metadataOrigin</string>
+	<key>integrationValidation</key>
+	<string>reusableAsset</string>
+	<key>momentumMargin</key>
+	<string>smartTime</string>
+	<key>painteragainstnumber</key>
+	<string>amortizationedge</string>
+	<key>rangeCoord</key>
+	<string>observeTangent</string>
+</dict>
+</plist>

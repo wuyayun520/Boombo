@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticBandwidth</key>
+	<string>canListenSign</string>
+	<key>marshalconstraint</key>
+	<string>shouldResumeIndicator</string>
+	<key>sizePressure</key>
+	<string>transformStateful</string>
+	<key>typicalchallenge</key>
+	<string>builderFormat</string>
+</dict>
+</plist>

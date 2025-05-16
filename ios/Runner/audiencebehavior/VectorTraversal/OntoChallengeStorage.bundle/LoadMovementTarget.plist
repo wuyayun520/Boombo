@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryPadding</key>
+	<string>accessibleDispatcher</string>
+	<key>managerFormat</key>
+	<string>mediaBuffer</string>
+	<key>priorityincludeshape</key>
+	<string>ignoredProvision</string>
+	<key>repositoryValidation</key>
+	<string>topicskewy</string>
+	<key>shouldRouteCustomPaint</key>
+	<string>activeCube</string>
+	<key>similarActivity</key>
+	<string>geometricCubit</string>
+	<key>specifyQueue</key>
+	<string>normacceleration</string>
+</dict>
+</plist>

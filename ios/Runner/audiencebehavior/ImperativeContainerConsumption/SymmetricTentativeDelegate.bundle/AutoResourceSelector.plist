@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideantablealignment</key>
+	<string>restrictionRate</string>
+	<key>mitigatefeature</key>
+	<string>decodeTween</string>
+	<key>shouldTrainCube</key>
+	<string>shouldcreatescale</string>
+	<key>sinkResponse</key>
+	<string>sequentialreducer</string>
+	<key>stampMode</key>
+	<string>routepublisher</string>
+	<key>visibleArithmetic</key>
+	<string>resetHandler</string>
+</dict>
+</plist>

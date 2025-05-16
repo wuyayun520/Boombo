@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatoratkind</key>
+	<string>oncubechanged</string>
+	<key>descriptionShade</key>
+	<string>efficiencyLeft</string>
+	<key>desktopdecorationcontrast</key>
+	<string>singletonAction</string>
+	<key>immediateShader</key>
+	<string>mainFilter</string>
+	<key>processcollection</key>
+	<string>canRouteAnchor</string>
+	<key>shouldPauseListView</key>
+	<string>precisiontierformat</string>
+	<key>smallInterpolation</key>
+	<string>nextNotifier</string>
+	<key>sortedResource</key>
+	<string>respectiveTriangles</string>
+</dict>
+</plist>

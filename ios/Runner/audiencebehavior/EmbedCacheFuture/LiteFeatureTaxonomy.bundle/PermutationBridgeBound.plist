@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOrientation</key>
+	<string>gridviewzone</string>
+	<key>displayableConvolution</key>
+	<string>scrollerTint</string>
+	<key>parsecosine</key>
+	<string>registerInterface</string>
+	<key>routevertex</key>
+	<string>numericalprovider</string>
+	<key>shouldMountBox</key>
+	<string>managerorprototype</string>
+	<key>shouldPauseResource</key>
+	<string>requestInteractor</string>
+	<key>shouldPrepareExpanded</key>
+	<string>publisherHue</string>
+</dict>
+</plist>

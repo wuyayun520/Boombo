@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerFormat</key>
+	<string>provideticker</string>
+	<key>notifyloop</key>
+	<string>activitySize</string>
+	<key>stateAlignment</key>
+	<string>canRenderSizedBox</string>
+	<key>tappableMission</key>
+	<string>hardRemainder</string>
+</dict>
+</plist>

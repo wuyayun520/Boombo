@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentprotocol</key>
+	<string>activeInteractor</string>
+	<key>convolutionName</key>
+	<string>evaluateCubit</string>
+	<key>herosize</key>
+	<string>heroScale</string>
+	<key>mutableEqualization</key>
+	<string>missedTangent</string>
+	<key>pinchableEvaluation</key>
+	<string>disabledService</string>
+	<key>primaryRepository</key>
+	<string>shouldPopMaster</string>
+</dict>
+</plist>

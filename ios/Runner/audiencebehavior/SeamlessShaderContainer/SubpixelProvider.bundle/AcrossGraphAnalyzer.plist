@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTexture</key>
+	<string>granularMedia</string>
+	<key>checkinteractor</key>
+	<string>streamlineOffset</string>
+	<key>customstreaminterval</key>
+	<string>shouldDispatchDrawer</string>
+	<key>declarativeCursor</key>
+	<string>independentTabBar</string>
+	<key>fusedcompleterdistance</key>
+	<string>ignoredEvent</string>
+	<key>handlerInset</key>
+	<string>projectionColor</string>
+	<key>kernelInset</key>
+	<string>webPoint</string>
+	<key>mediocreGrayscale</key>
+	<string>compositionalScheduler</string>
+	<key>permanentCollection</key>
+	<string>consultativeIntegration</string>
+	<key>provisionRate</key>
+	<string>prepareDescriptor</string>
+</dict>
+</plist>

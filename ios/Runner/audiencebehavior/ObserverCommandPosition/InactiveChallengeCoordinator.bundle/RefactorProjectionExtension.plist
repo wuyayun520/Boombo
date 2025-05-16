@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedLogarithm</key>
+	<string>defaultgrayscale</string>
+	<key>greatScope</key>
+	<string>shouldYieldBase</string>
+	<key>interpolationposition</key>
+	<string>asyncLevel</string>
+	<key>resourceframe</key>
+	<string>deserializeMap</string>
+	<key>storyboardAcceleration</key>
+	<string>sinetint</string>
+</dict>
+</plist>

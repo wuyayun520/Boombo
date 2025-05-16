@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>findnavigation</key>
+	<string>unactivatedAxis</string>
+	<key>firstOption</key>
+	<string>cartesianGesture</string>
+	<key>layerShade</key>
+	<string>prioritySkewX</string>
+	<key>mediocrePainter</key>
+	<string>draggableSymbol</string>
+	<key>permutationName</key>
+	<string>storebesideparameter</string>
+	<key>primaryTable</key>
+	<string>initializeChart</string>
+	<key>resilientComponent</key>
+	<string>shouldPrepareProjection</string>
+	<key>techniquevisibility</key>
+	<string>heapScale</string>
+	<key>validateskirt</key>
+	<string>shouldSubscribeMediaQuery</string>
+</dict>
+</plist>

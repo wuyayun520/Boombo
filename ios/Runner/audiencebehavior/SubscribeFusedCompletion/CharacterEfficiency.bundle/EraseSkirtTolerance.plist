@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardBehavior</key>
+	<string>fixeddecoration</string>
+	<key>lazyAppBar</key>
+	<string>nibRight</string>
+	<key>linkerAcceleration</key>
+	<string>reduceView</string>
+	<key>priorGesture</key>
+	<string>transitionState</string>
+	<key>quitcollection</key>
+	<string>sampleAppearance</string>
+	<key>shouldEncodeProfile</key>
+	<string>canPublishMultiplication</string>
+	<key>traversalPadding</key>
+	<string>cacheCustomPaint</string>
+</dict>
+</plist>

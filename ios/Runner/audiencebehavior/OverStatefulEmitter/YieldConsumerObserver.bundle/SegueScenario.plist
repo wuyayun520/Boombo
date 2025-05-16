@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyTheme</key>
+	<string>eagerMesh</string>
+	<key>lostParticle</key>
+	<string>profileSpacing</string>
+	<key>missedDelegate</key>
+	<string>subtleText</string>
+	<key>pinchableCycle</key>
+	<string>routerProxy</string>
+	<key>rapidMatrix</key>
+	<string>coordinatorparamdistance</string>
+	<key>reducerVisible</key>
+	<string>shouldSerializeMediaQuery</string>
+	<key>relationalSlash</key>
+	<string>canFinishStamp</string>
+	<key>spinematerializer</key>
+	<string>schedulerLocation</string>
+	<key>tabbarHead</key>
+	<string>cartesianDimension</string>
+</dict>
+</plist>

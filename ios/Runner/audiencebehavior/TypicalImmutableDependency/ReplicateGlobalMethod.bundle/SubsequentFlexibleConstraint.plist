@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeStateless</key>
+	<string>shouldCachePlate</string>
+	<key>adaptiveTangent</key>
+	<string>linkerInset</string>
+	<key>reusableplate</key>
+	<string>synchronizeTransition</string>
+	<key>sampleinterval</key>
+	<string>imperativeTime</string>
+	<key>shouldEncodeSpot</key>
+	<string>factoryofdecorator</string>
+	<key>sizedboxchainfeedback</key>
+	<string>prepareBitrate</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseType</key>
+	<string>chapterVar</string>
+	<key>explicitGift</key>
+	<string>notationBrightness</string>
+	<key>gateResponse</key>
+	<string>shouldReplaceFragment</string>
+	<key>parallelBaseline</key>
+	<string>shouldObserveEqualization</string>
+	<key>statefulworktag</key>
+	<string>smartSine</string>
+	<key>vectorizehandler</key>
+	<string>canLoadAnchor</string>
+</dict>
+</plist>

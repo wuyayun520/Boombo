@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerSpacing</key>
+	<string>mediumPreview</string>
+	<key>disabledMechanism</key>
+	<string>canProcessRichText</string>
+	<key>inheritedPlayback</key>
+	<string>modulusFormat</string>
+	<key>oldMusic</key>
+	<string>modalFramework</string>
+	<key>shouldCreateMomentum</key>
+	<string>imperativeBuffer</string>
+	<key>shouldPresentPositioned</key>
+	<string>hyperbolicPlayback</string>
+	<key>shouldPublishColumn</key>
+	<string>shouldObserveCapsule</string>
+	<key>unsortedAxis</key>
+	<string>streamfacadedelay</string>
+</dict>
+</plist>

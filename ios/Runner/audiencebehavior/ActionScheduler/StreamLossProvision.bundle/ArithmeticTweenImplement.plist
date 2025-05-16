@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateDepth</key>
+	<string>cosineScope</string>
+	<key>draggableFeature</key>
+	<string>pivotalOperation</string>
+	<key>playbackhue</key>
+	<string>optionSpeed</string>
+	<key>priorRoute</key>
+	<string>continuesprite</string>
+	<key>shouldLayoutView</key>
+	<string>responsiveEvolution</string>
+	<key>smartStream</key>
+	<string>discardedMatrix</string>
+	<key>sophisticatedconsumption</key>
+	<string>mainSlider</string>
+	<key>unsortedrolebound</key>
+	<string>selectedSpot</string>
+</dict>
+</plist>

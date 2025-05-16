@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedProfile</key>
+	<string>shouldPauseSegment</string>
+	<key>descriptiontype</key>
+	<string>canStreamExtension</string>
+	<key>gemOrigin</key>
+	<string>createMonster</string>
+	<key>gestureDuration</key>
+	<string>shouldLayoutKernel</string>
+	<key>imperativeMatrix</key>
+	<string>cardSystem</string>
+	<key>loaderCoord</key>
+	<string>freeinterpolation</string>
+	<key>popupCount</key>
+	<string>unsortedReducer</string>
+	<key>rapidListener</key>
+	<string>canBindBrush</string>
+	<key>subsequentnode</key>
+	<string>multiplicationBrightness</string>
+</dict>
+</plist>

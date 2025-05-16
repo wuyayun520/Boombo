@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetmodemomentum</key>
+	<string>controllerVelocity</string>
+	<key>callbackoutsidevar</key>
+	<string>similarProvider</string>
+	<key>cartesianTransformer</key>
+	<string>persistentAxis</string>
+	<key>deferredChannels</key>
+	<string>normoffset</string>
+	<key>numericalevent</key>
+	<string>canRenderScreen</string>
+	<key>shouldPopOption</key>
+	<string>stepDepth</string>
+</dict>
+</plist>

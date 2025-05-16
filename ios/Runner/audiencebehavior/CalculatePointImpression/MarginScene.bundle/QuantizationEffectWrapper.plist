@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectFlags</key>
+	<string>bindPriority</string>
+	<key>sequentialmonster</key>
+	<string>permissiveMediaQuery</string>
+	<key>shouldResumeScaffold</key>
+	<string>connectSign</string>
+	<key>signContrast</key>
+	<string>measureDelegate</string>
+	<key>standaloneIntegration</key>
+	<string>shouldPauseMap</string>
+</dict>
+</plist>

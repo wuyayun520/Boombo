@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCube</key>
+	<string>agileLogarithm</string>
+	<key>criticalTernary</key>
+	<string>boxRate</string>
+	<key>ephemeralConvolution</key>
+	<string>deflateConstraint</string>
+	<key>evaluationAcceleration</key>
+	<string>pointstate</string>
+	<key>keyItem</key>
+	<string>sequentialTask</string>
+	<key>textOffset</key>
+	<string>navigationVelocity</string>
+</dict>
+</plist>

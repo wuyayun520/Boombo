@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSchema</key>
+	<string>cancelBaseline</string>
+	<key>delegatechapter</key>
+	<string>pivotalInkWell</string>
+	<key>independentInkWell</key>
+	<string>shouldReplaceCollection</string>
+	<key>lostStroke</key>
+	<string>prevFinder</string>
+	<key>normalScalability</key>
+	<string>canTransitionInkWell</string>
+	<key>presenterscenario</key>
+	<string>movementversuspattern</string>
+	<key>respondslash</key>
+	<string>shouldValidateImage</string>
+	<key>routeofvariable</key>
+	<string>decorationdirection</string>
+</dict>
+</plist>

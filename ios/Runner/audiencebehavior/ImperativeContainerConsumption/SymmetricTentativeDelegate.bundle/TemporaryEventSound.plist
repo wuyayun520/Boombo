@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardAccessory</key>
+	<string>groupVelocity</string>
+	<key>previewmetrics</key>
+	<string>showInterpolation</string>
+	<key>shouldPresentPositioned</key>
+	<string>temporaryModule</string>
+	<key>shouldSerializeInstruction</key>
+	<string>immediateMomentum</string>
+	<key>shouldStreamChecklist</key>
+	<string>resumeReduction</string>
+	<key>shouldSubscribeCertificate</key>
+	<string>shouldYieldSwift</string>
+	<key>shouldroutearithmetic</key>
+	<string>deferredFinder</string>
+	<key>viewasaction</key>
+	<string>confidentialityShade</string>
+</dict>
+</plist>

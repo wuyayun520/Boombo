@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowTop</key>
+	<string>cartesianScheduler</string>
+	<key>materialtopicinteraction</key>
+	<string>diffableAspect</string>
+	<key>oldContainer</key>
+	<string>streamlineSink</string>
+	<key>progressbarstatevelocity</key>
+	<string>themeSpacing</string>
+	<key>segmentrotation</key>
+	<string>sequentialInterface</string>
+	<key>shouldEndCustomPaint</key>
+	<string>robustTriangles</string>
+	<key>unregisterduration</key>
+	<string>respectiveConstraint</string>
+</dict>
+</plist>

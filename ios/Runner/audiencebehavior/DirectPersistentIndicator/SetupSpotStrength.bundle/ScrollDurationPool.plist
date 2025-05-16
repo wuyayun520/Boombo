@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBox</key>
+	<string>mediaPosition</string>
+	<key>customizedGrain</key>
+	<string>emitDropdownButton</string>
+	<key>navigatorStatus</key>
+	<string>localInformation</string>
+	<key>shouldKeepAlert</key>
+	<string>dropdownbuttonMemento</string>
+</dict>
+</plist>

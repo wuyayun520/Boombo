@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalStore</key>
+	<string>modulusDepth</string>
+	<key>liteConstraint</key>
+	<string>enabledVariant</string>
+	<key>materialPolygon</key>
+	<string>priorsymbolcoord</string>
+	<key>presenteralongstyle</key>
+	<string>canCancelProvider</string>
+	<key>selectorInset</key>
+	<string>replaceTexture</string>
+	<key>shouldtransformequipment</key>
+	<string>canDisconnectFuture</string>
+	<key>textfieldcontrast</key>
+	<string>enabledInteractor</string>
+</dict>
+</plist>

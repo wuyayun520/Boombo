@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletOffset</key>
+	<string>tableShape</string>
+	<key>newestCompletion</key>
+	<string>equipmentShade</string>
+	<key>responsiveawait</key>
+	<string>shouldFormatOverlay</string>
+	<key>shouldPrepareCanvas</key>
+	<string>keepchannel</string>
+</dict>
+</plist>

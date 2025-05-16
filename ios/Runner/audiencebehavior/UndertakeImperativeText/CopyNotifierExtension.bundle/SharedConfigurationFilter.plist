@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayabledelegate</key>
+	<string>canInflateBorder</string>
+	<key>endsink</key>
+	<string>hardImpression</string>
+	<key>protectedModal</key>
+	<string>writePopup</string>
+	<key>shaderType</key>
+	<string>bindMember</string>
+	<key>subsequentConsumption</key>
+	<string>delegateIntensity</string>
+	<key>subsequentInterface</key>
+	<string>scenecontainprototype</string>
+</dict>
+</plist>

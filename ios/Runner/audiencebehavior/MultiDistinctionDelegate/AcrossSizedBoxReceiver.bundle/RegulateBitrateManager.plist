@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionFeedback</key>
+	<string>greatColor</string>
+	<key>parallelAspectRatio</key>
+	<string>channelcolor</string>
+	<key>resilientVolume</key>
+	<string>shouldpausechannels</string>
+	<key>resizableMenu</key>
+	<string>blocthroughcycle</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonmomentum</key>
+	<string>shouldDisconnectBaseline</string>
+	<key>dimensionconsumer</key>
+	<string>mainMember</string>
+	<key>easyTouch</key>
+	<string>greatCubit</string>
+	<key>monsterDepth</key>
+	<string>intensityduration</string>
+	<key>normName</key>
+	<string>buildercreator</string>
+	<key>shouldstartdrawer</key>
+	<string>priorTransition</string>
+	<key>shouldsubscribestack</key>
+	<string>asynchronousradiusskewy</string>
+	<key>specifyDrawer</key>
+	<string>canPresentDecoration</string>
+	<key>usedMaster</key>
+	<string>concreteBuilder</string>
+</dict>
+</plist>

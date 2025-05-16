@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedDocument</key>
+	<string>mediumGraph</string>
+	<key>handlecube</key>
+	<string>ondescriptortap</string>
+	<key>lazyAnalyzer</key>
+	<string>documentHue</string>
+	<key>shouldUpdateCertificate</key>
+	<string>canAttachTernary</string>
+	<key>skinPadding</key>
+	<string>swiftPrototype</string>
+</dict>
+</plist>

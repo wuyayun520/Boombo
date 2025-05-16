@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveEdge</key>
+	<string>grainChain</string>
+	<key>elasticOffset</key>
+	<string>histogramFrequency</string>
+	<key>geometricMaterializer</key>
+	<string>alphainstage</string>
+	<key>intermediateSession</key>
+	<string>canFinishResource</string>
+	<key>lasttransition</key>
+	<string>tappablechallenge</string>
+	<key>parallelExponent</key>
+	<string>customizedChooser</string>
+</dict>
+</plist>

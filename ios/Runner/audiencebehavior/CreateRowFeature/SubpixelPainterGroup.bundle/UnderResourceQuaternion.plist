@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffablePresenter</key>
+	<string>labelevent</string>
+	<key>integrationoffset</key>
+	<string>alignmentagainstwork</string>
+	<key>rectKind</key>
+	<string>batchVisible</string>
+	<key>shouldPopSpot</key>
+	<string>multiGrain</string>
+	<key>uniformSink</key>
+	<string>scheduleRoute</string>
+</dict>
+</plist>

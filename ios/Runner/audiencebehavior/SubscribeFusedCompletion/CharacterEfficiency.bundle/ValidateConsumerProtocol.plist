@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveImpression</key>
+	<string>isolateBrightness</string>
+	<key>cartesianSegment</key>
+	<string>unmountedSubpixel</string>
+	<key>delegateRotation</key>
+	<string>reusableOffset</string>
+	<key>hyperbolicSlider</key>
+	<string>mediocreTrajectory</string>
+	<key>requestState</key>
+	<string>comprehensivepolyfill</string>
+	<key>timelinespeed</key>
+	<string>alignmentIndex</string>
+</dict>
+</plist>

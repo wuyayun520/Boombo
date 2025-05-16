@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackpatternappearance</key>
+	<string>marshalLocalization</string>
+	<key>shouldAnimateCube</key>
+	<string>ternaryChain</string>
+	<key>shouldSkipGradient</key>
+	<string>matrixSpeed</string>
+	<key>spriteamongstrategy</key>
+	<string>basicImpact</string>
+</dict>
+</plist>

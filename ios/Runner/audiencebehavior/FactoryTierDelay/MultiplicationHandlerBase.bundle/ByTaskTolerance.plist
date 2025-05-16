@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStateful</key>
+	<string>canValidatePadding</string>
+	<key>cardBehavior</key>
+	<string>polygonDensity</string>
+	<key>cupertinoAnalyzer</key>
+	<string>canTransitionMap</string>
+	<key>greatChart</key>
+	<string>segueDelay</string>
+	<key>interactiveScroll</key>
+	<string>streamrecursion</string>
+</dict>
+</plist>

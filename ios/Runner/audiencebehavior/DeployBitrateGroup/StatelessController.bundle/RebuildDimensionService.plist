@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSign</key>
+	<string>activeeffectcontrast</string>
+	<key>aperturebridgedelay</key>
+	<string>grayscaleconstant</string>
+	<key>compositionmethod</key>
+	<string>tweenInteraction</string>
+	<key>independentFactory</key>
+	<string>nativeModel</string>
+	<key>segmentlatency</key>
+	<string>canDecodeLabel</string>
+	<key>shouldTransitionBloc</key>
+	<string>plateComposite</string>
+	<key>spritebehavior</key>
+	<string>unsorteddrawer</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderMargin</key>
+	<string>alertType</string>
+	<key>contractionPadding</key>
+	<string>fixedItem</string>
+	<key>customCycle</key>
+	<string>cycleStatus</string>
+	<key>descriptiontail</key>
+	<string>reliabilityResponse</string>
+	<key>iterativeResult</key>
+	<string>multiChannel</string>
+	<key>materializerOrigin</key>
+	<string>shouldCreateSpecifier</string>
+	<key>rendererBehavior</key>
+	<string>presentText</string>
+</dict>
+</plist>

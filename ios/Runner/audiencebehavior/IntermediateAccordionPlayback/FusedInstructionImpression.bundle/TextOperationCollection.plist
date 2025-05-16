@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelBehavior</key>
+	<string>intermediateSubscriber</string>
+	<key>localizationDensity</key>
+	<string>singleindicatortag</string>
+	<key>numericalOffset</key>
+	<string>clipperFramework</string>
+	<key>shouldLoadNavigation</key>
+	<string>localAnimatedContainer</string>
+	<key>similarconverter</key>
+	<string>loadPriority</string>
+	<key>sinePosition</key>
+	<string>queueSkewX</string>
+</dict>
+</plist>

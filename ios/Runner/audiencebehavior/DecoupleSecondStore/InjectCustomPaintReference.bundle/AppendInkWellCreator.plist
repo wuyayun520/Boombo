@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loaderOpacity</key>
+	<string>overlaycompositespeed</string>
+	<key>robustBinder</key>
+	<string>analyzerLocation</string>
+	<key>sortedFactory</key>
+	<string>sineSkewX</string>
+	<key>subtleBuffer</key>
+	<string>shouldPushInteger</string>
+</dict>
+</plist>

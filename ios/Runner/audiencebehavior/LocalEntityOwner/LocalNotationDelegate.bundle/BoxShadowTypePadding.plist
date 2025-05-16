@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainercenter</key>
+	<string>particleBrightness</string>
+	<key>beginnerdurationfrequency</key>
+	<string>sequentialdrawerleft</string>
+	<key>disparateCheckbox</key>
+	<string>canSetStateSizedBox</string>
+	<key>findrow</key>
+	<string>interactiveSkin</string>
+	<key>lastcompletionpadding</key>
+	<string>contractionOffset</string>
+	<key>mechanismLocation</key>
+	<string>robusttitle</string>
+	<key>serviceState</key>
+	<string>ascentFeedback</string>
+	<key>shouldemitnotifier</key>
+	<string>multiCache</string>
+</dict>
+</plist>

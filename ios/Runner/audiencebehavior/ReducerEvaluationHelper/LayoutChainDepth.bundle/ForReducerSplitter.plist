@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comparerow</key>
+	<string>normalscale</string>
+	<key>coordinatorsincefunction</key>
+	<string>diversifiedPadding</string>
+	<key>disabledBandwidth</key>
+	<string>pinchableThreshold</string>
+	<key>encodeanimation</key>
+	<string>canDismissBloc</string>
+	<key>intermediateEmitter</key>
+	<string>mixinTween</string>
+	<key>intuitiveStore</key>
+	<string>granularReceiver</string>
+	<key>mainSubscriber</key>
+	<string>paintAccessory</string>
+	<key>navigatoroperationedge</key>
+	<string>shouldTransformRow</string>
+	<key>observerborder</key>
+	<string>reflectSlider</string>
+	<key>streamprototypebrightness</key>
+	<string>markTransformer</string>
+</dict>
+</plist>

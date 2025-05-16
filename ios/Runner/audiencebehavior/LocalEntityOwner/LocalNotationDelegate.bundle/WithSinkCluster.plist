@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaDensity</key>
+	<string>shouldPaintSwitch</string>
+	<key>litePageView</key>
+	<string>disposeTouch</string>
+	<key>metadatafeedback</key>
+	<string>notifycard</string>
+	<key>mixinrow</key>
+	<string>shouldResumeCatalyst</string>
+	<key>staticMobile</key>
+	<string>liteChooser</string>
+</dict>
+</plist>

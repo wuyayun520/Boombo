@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticChecklist</key>
+	<string>shouldstartcaption</string>
+	<key>difficultMerger</key>
+	<string>keyAnimatedContainer</string>
+	<key>listenerduration</key>
+	<string>menuColor</string>
+	<key>multiSegue</key>
+	<string>publicAlpha</string>
+	<key>responsiveAspect</key>
+	<string>listenRemainder</string>
+	<key>shouldEndCharacter</key>
+	<string>screenBridge</string>
+	<key>shouldValidateConstraint</key>
+	<string>shouldPublishWorkflow</string>
+	<key>splitterHead</key>
+	<string>spriteMode</string>
+	<key>storyboardSaturation</key>
+	<string>generateQueue</string>
+	<key>unregisterbrush</key>
+	<string>customizedGestureDetector</string>
+</dict>
+</plist>

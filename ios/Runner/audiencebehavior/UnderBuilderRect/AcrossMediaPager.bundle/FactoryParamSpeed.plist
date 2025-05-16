@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentCount</key>
+	<string>largeResult</string>
+	<key>animatedFilter</key>
+	<string>prepareCursor</string>
+	<key>backwardScheduler</key>
+	<string>flexloop</string>
+	<key>currentObject</key>
+	<string>liteobserver</string>
+	<key>imperativeAsset</key>
+	<string>uniqueBoxShadow</string>
+	<key>respectiveSkirt</key>
+	<string>shouldemitchannels</string>
+	<key>shouldDispatchMargin</key>
+	<string>spineFlags</string>
+	<key>sortedcallback</key>
+	<string>composableSprite</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeData</key>
+	<string>firstPager</string>
+	<key>disclaimerRate</key>
+	<string>signatureRight</string>
+	<key>navigationspeed</key>
+	<string>tensorNotifier</string>
+	<key>recursionPressure</key>
+	<string>consumerBridge</string>
+</dict>
+</plist>

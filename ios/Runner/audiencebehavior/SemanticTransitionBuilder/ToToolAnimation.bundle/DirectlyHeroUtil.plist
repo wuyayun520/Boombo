@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineShape</key>
+	<string>materializeMenu</string>
+	<key>drawerDensity</key>
+	<string>textfieldStrategy</string>
+	<key>interpolategradient</key>
+	<string>notifierandscope</string>
+	<key>limitstack</key>
+	<string>persistentproviderrate</string>
+	<key>parallelLoop</key>
+	<string>priorContraction</string>
+	<key>scrollableReducer</key>
+	<string>provideStorage</string>
+	<key>segmentSaturation</key>
+	<string>shouldTrainIcon</string>
+	<key>webChooser</key>
+	<string>chartinterpreteredge</string>
+</dict>
+</plist>

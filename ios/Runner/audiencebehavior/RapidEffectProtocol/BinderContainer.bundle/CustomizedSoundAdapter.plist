@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterTint</key>
+	<string>makerow</string>
+	<key>directComponent</key>
+	<string>mobileMediator</string>
+	<key>gesturebesidevariable</key>
+	<string>originalUsage</string>
+	<key>oldAsync</key>
+	<string>aspectratioefficiency</string>
+	<key>oldStore</key>
+	<string>addAsync</string>
+	<key>permissiveDescriptor</key>
+	<string>originalConsumer</string>
+</dict>
+</plist>

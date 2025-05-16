@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledOption</key>
+	<string>poptransformer</string>
+	<key>hastextfield</key>
+	<string>paintHeap</string>
+	<key>immutableboxshadowspeed</key>
+	<string>previewWork</string>
+	<key>prevSchema</key>
+	<string>shouldProcessOption</string>
+	<key>reusableTriangles</key>
+	<string>gridAlignment</string>
+	<key>sharedTable</key>
+	<string>fixedConverter</string>
+	<key>shouldResumeCollection</key>
+	<string>progressbardensity</string>
+	<key>shouldinflatethread</key>
+	<string>mutableCell</string>
+	<key>symboldepth</key>
+	<string>themeOffset</string>
+</dict>
+</plist>

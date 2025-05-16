@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncValidation</key>
+	<string>tweakOrientation</string>
+	<key>baselinePadding</key>
+	<string>notifyUseCase</string>
+	<key>mobileThroughput</key>
+	<string>notificationCount</string>
+	<key>objectright</key>
+	<string>scaleSystem</string>
+	<key>timerAlignment</key>
+	<string>streamPlatform</string>
+</dict>
+</plist>

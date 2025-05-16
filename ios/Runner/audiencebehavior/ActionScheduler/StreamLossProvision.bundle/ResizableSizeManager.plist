@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flextriangles</key>
+	<string>canProcessCache</string>
+	<key>keyCompleter</key>
+	<string>encapsulateEvent</string>
+	<key>materialChooser</key>
+	<string>techniquespacing</string>
+	<key>pivotalLog</key>
+	<string>documenttempledepth</string>
+	<key>prevGrain</key>
+	<string>retainedTask</string>
+	<key>shouldPresentDialogs</key>
+	<string>nativeSegue</string>
+	<key>shouldSaveHistogram</key>
+	<string>publicSorter</string>
+	<key>zoneshade</key>
+	<string>scrollDepth</string>
+</dict>
+</plist>

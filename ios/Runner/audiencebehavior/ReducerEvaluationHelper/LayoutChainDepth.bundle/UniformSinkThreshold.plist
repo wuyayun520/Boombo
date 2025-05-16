@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sequentialBitrate</key>
+	<string>materializecanvas</string>
+	<key>shoulddispatchtransition</key>
+	<string>canValidateCurve</string>
+	<key>singletonSaturation</key>
+	<string>navigatecapsule</string>
+	<key>transitionawaybridge</key>
+	<string>mainLoop</string>
+</dict>
+</plist>

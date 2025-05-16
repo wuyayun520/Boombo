@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionselector</key>
+	<string>stepright</string>
+	<key>crucialElement</key>
+	<string>cupertinoAsync</string>
+	<key>easyFlex</key>
+	<string>bulletTint</string>
+	<key>nativeBatch</key>
+	<string>transformBaseline</string>
+	<key>oldComposition</key>
+	<string>saveCharacter</string>
+	<key>parallelParticle</key>
+	<string>nodeAcceleration</string>
+	<key>permanentunary</key>
+	<string>popController</string>
+</dict>
+</plist>

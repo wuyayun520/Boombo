@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteBase</key>
+	<string>responsiveactivityindex</string>
+	<key>consultativeDropdownButton</key>
+	<string>oldButton</string>
+	<key>directlyProjection</key>
+	<string>smallDropdownButton</string>
+	<key>notificationCount</key>
+	<string>shouldConnectSpecifier</string>
+	<key>permutationSpacing</key>
+	<string>defaultTechnique</string>
+	<key>shouldcreategrayscale</key>
+	<string>masterStyle</string>
+	<key>standaloneScalability</key>
+	<string>relationalAnimator</string>
+	<key>tensorComposition</key>
+	<string>priorityTop</string>
+</dict>
+</plist>

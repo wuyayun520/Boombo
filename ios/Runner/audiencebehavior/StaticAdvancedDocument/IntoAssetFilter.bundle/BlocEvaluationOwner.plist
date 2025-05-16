@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvassaturation</key>
+	<string>euclideanCosine</string>
+	<key>formatbatch</key>
+	<string>accelerateGrid</string>
+	<key>mutableChallenge</key>
+	<string>injectionIndex</string>
+	<key>petbloc</key>
+	<string>connectInteger</string>
+	<key>rapidModule</key>
+	<string>shouldBindTechnique</string>
+	<key>similarHandler</key>
+	<string>fetchRichText</string>
+</dict>
+</plist>

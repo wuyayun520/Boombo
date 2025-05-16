@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorvarsize</key>
+	<string>nextAxis</string>
+	<key>displayableActivity</key>
+	<string>computecallback</string>
+	<key>instantiatemovement</key>
+	<string>independentDocument</string>
+	<key>previewshade</key>
+	<string>fixedStrength</string>
+	<key>tappableprofileinterval</key>
+	<string>prevSegue</string>
+</dict>
+</plist>

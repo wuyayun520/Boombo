@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAspectRatio</key>
+	<string>fixedRequest</string>
+	<key>analogyright</key>
+	<string>usageParameter</string>
+	<key>currentSwitch</key>
+	<string>decoupleInteractor</string>
+	<key>enabledtimer</key>
+	<string>beginnerAnalogy</string>
+	<key>hierarchicalSelector</key>
+	<string>capsuleInterval</string>
+	<key>missedMatrix</key>
+	<string>injectNavigator</string>
+	<key>responderCount</key>
+	<string>replicateanimation</string>
+	<key>sensorimpression</key>
+	<string>smartassetname</string>
+	<key>shouldObserveHeap</key>
+	<string>pivotalMend</string>
+	<key>utilDistance</key>
+	<string>hardSegue</string>
+</dict>
+</plist>

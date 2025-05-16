@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerBoxShadow</key>
+	<string>shouldObserveTangent</string>
+	<key>fixedCard</key>
+	<string>globalSizedBox</string>
+	<key>largeIsolate</key>
+	<string>retainedStamp</string>
+	<key>mediocreprofile</key>
+	<string>storageLayer</string>
+	<key>nextResponse</key>
+	<string>canDispatchBehavior</string>
+	<key>pinchableInteraction</key>
+	<string>canEndSwift</string>
+	<key>shouldAnimateProject</key>
+	<string>statefulGesture</string>
+</dict>
+</plist>

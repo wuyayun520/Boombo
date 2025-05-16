@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectiontag</key>
+	<string>hasHeap</string>
+	<key>controllerSkewX</key>
+	<string>insteadFrame</string>
+	<key>curvetag</key>
+	<string>shouldUnbindMaster</string>
+	<key>hastask</key>
+	<string>framePhase</string>
+	<key>informationDensity</key>
+	<string>interactiveDescription</string>
+	<key>interactiveelasticity</key>
+	<string>tweenType</string>
+	<key>intermediateComponent</key>
+	<string>shouldYieldFlex</string>
+	<key>singleAnimation</key>
+	<string>globalCard</string>
+	<key>strengthDistance</key>
+	<string>nextStream</string>
+	<key>uniqueParticle</key>
+	<string>activityfromaction</string>
+</dict>
+</plist>

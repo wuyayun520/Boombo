@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basestore</key>
+	<string>disabledStack</string>
+	<key>custompaintflyweightappearance</key>
+	<string>frameAcceleration</string>
+	<key>delicateDialogs</key>
+	<string>confidentialityIndex</string>
+	<key>primaryhistogrammargin</key>
+	<string>continueBuilder</string>
+	<key>promiseright</key>
+	<string>scrollableExtension</string>
+	<key>screenState</key>
+	<string>animateLocalization</string>
+	<key>setupproject</key>
+	<string>diffableDelivery</string>
+	<key>shouldAnimateResource</key>
+	<string>heapDepth</string>
+	<key>startclipper</key>
+	<string>canCreateStep</string>
+	<key>webChannels</key>
+	<string>canDisposeSpot</string>
+</dict>
+</plist>

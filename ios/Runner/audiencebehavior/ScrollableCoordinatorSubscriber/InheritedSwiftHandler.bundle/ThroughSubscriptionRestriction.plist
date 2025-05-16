@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compareprovider</key>
+	<string>mixinChapter</string>
+	<key>discardedDropdownButton</key>
+	<string>euclideanpreview</string>
+	<key>ephemeralresult</key>
+	<string>temporaryTopic</string>
+	<key>parallelRow</key>
+	<string>createscreen</string>
+	<key>servicemargin</key>
+	<string>sequentialMesh</string>
+	<key>shouldReplaceNotification</key>
+	<string>tappableIsolate</string>
+	<key>transitionOpacity</key>
+	<string>challengeSingleton</string>
+</dict>
+</plist>

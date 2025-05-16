@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetStatus</key>
+	<string>delicateItem</string>
+	<key>invisibleCursor</key>
+	<string>statelessCluster</string>
+	<key>keySwitch</key>
+	<string>skipChecklist</string>
+	<key>makestate</key>
+	<string>featureversusprototype</string>
+	<key>priorResponse</key>
+	<string>listenModulus</string>
+	<key>routeSkewX</key>
+	<string>prepareshader</string>
+	<key>shouldEncodeBinary</key>
+	<string>shouldAttachBoxShadow</string>
+	<key>shouldEndTool</key>
+	<string>binaryphasetag</string>
+	<key>traversalKind</key>
+	<string>otherSlash</string>
+</dict>
+</plist>

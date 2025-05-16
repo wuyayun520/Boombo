@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopqueue</key>
+	<string>shouldpushcertificate</string>
+	<key>finderTint</key>
+	<string>pointVisible</string>
+	<key>firstRestriction</key>
+	<string>publisherspacing</string>
+	<key>hashperstate</key>
+	<string>meshForce</string>
+	<key>locatechecklist</key>
+	<string>mobileEqualization</string>
+	<key>nativeImpression</key>
+	<string>vectorbesidestrategy</string>
+	<key>semanticScroll</key>
+	<string>emitSizedBox</string>
+	<key>shaderstyletail</key>
+	<string>inheritedPresenter</string>
+	<key>strokeTension</key>
+	<string>substantialAnalogy</string>
+</dict>
+</plist>

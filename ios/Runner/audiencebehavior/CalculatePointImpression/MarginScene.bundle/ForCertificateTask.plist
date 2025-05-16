@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basecomponent</key>
+	<string>canShowExponent</string>
+	<key>gemScale</key>
+	<string>backwardPoint</string>
+	<key>modulusOffset</key>
+	<string>reusableIntensity</string>
+	<key>providerFeedback</key>
+	<string>ephemeralGesture</string>
+	<key>rowasactivity</key>
+	<string>endGestureDetector</string>
+</dict>
+</plist>

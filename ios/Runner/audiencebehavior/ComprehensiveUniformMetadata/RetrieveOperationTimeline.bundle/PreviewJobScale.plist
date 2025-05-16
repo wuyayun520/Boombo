@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loaderBehavior</key>
+	<string>baseState</string>
+	<key>nodeAlignment</key>
+	<string>handleHandler</string>
+	<key>persistentbuilder</key>
+	<string>publishPet</string>
+	<key>scopeinterval</key>
+	<string>symmetricPicker</string>
+</dict>
+</plist>

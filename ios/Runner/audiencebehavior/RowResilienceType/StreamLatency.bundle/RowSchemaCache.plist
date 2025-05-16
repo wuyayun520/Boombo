@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorcreator</key>
+	<string>notifyActivity</string>
+	<key>controllerstatus</key>
+	<string>compositionandtask</string>
+	<key>flexacceleration</key>
+	<string>gesturefeedback</string>
+	<key>graphuntiltemple</key>
+	<string>standaloneProcessor</string>
+	<key>lostActivity</key>
+	<string>layoutstate</string>
+	<key>numericalExtension</key>
+	<string>primarynorm</string>
+	<key>replaceaccessory</key>
+	<string>overlayHue</string>
+	<key>shouldUnmountCapsule</key>
+	<string>encodeTabBar</string>
+	<key>signBehavior</key>
+	<string>shouldsetstatemission</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedCycle</key>
+	<string>toolStyle</string>
+	<key>gesturedetectormechanism</key>
+	<string>uniquecosine</string>
+	<key>inflatechecklist</key>
+	<string>shouldSkipTool</string>
+	<key>loaderType</key>
+	<string>staticRadius</string>
+	<key>shouldSubscribeCell</key>
+	<string>emitSizedBox</string>
+	<key>tentativeSpeed</key>
+	<string>canNavigateNavigation</string>
+</dict>
+</plist>

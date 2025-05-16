@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalStep</key>
+	<string>firstunary</string>
+	<key>imperativeObserver</key>
+	<string>framedetector</string>
+	<key>integerSize</key>
+	<string>canSkipBrush</string>
+	<key>momentumType</key>
+	<string>ascentKind</string>
+	<key>shouldFinishCertificate</key>
+	<string>buttonselector</string>
+</dict>
+</plist>

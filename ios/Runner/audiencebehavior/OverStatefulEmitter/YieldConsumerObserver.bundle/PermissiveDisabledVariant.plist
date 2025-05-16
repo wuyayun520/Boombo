@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeTaxonomy</key>
+	<string>detachSubpixel</string>
+	<key>currentExpanded</key>
+	<string>axisTransparency</string>
+	<key>disparateinterpolationtype</key>
+	<string>pushalignment</string>
+	<key>intensitymapper</key>
+	<string>diffableMember</string>
+	<key>layouttheme</key>
+	<string>dispatchCurve</string>
+	<key>permissiveConvolution</key>
+	<string>benchmarktween</string>
+	<key>replicaBrightness</key>
+	<string>gramLayer</string>
+	<key>scaffoldVisible</key>
+	<string>canUnmountedIndicator</string>
+	<key>setstatenotifier</key>
+	<string>independentHandler</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disclaimershape</key>
+	<string>titleLocation</string>
+	<key>opaqueData</key>
+	<string>overrideLayout</string>
+	<key>shouldStartStateful</key>
+	<string>constantOffset</string>
+	<key>uniformSprite</key>
+	<string>notificationdelay</string>
+</dict>
+</plist>

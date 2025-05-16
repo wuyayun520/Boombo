@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedStack</key>
+	<string>prepareparticle</string>
+	<key>extensionAlignment</key>
+	<string>expandedDecorator</string>
+	<key>giftBrightness</key>
+	<string>permissiveUseCase</string>
+	<key>gridDistance</key>
+	<string>draggablePolygon</string>
+	<key>invisibleComposition</key>
+	<string>canNotifyPromise</string>
+	<key>notifiertint</key>
+	<string>shouldTrainGestureDetector</string>
+</dict>
+</plist>

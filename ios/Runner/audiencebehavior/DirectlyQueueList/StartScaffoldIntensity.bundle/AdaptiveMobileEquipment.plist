@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponenttask</key>
+	<string>shouldBindModal</string>
+	<key>featureTop</key>
+	<string>objectOpacity</string>
+	<key>instructionawaymediator</key>
+	<string>permanentSegue</string>
+	<key>newestMetadata</key>
+	<string>meshorigin</string>
+	<key>sharedsink</key>
+	<string>lazyTitle</string>
+	<key>shouldBuildBrush</key>
+	<string>descriptorDuration</string>
+	<key>tangenttierskewx</key>
+	<string>listenStateful</string>
+</dict>
+</plist>

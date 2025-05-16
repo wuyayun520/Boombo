@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinewithoutstate</key>
+	<string>channelCoord</string>
+	<key>creatorFeedback</key>
+	<string>equivalentFeedback</string>
+	<key>customizedTexture</key>
+	<string>shouldRenderCursor</string>
+	<key>linkerInterval</key>
+	<string>threadDepth</string>
+	<key>permissiveEquivalent</key>
+	<string>layerstatus</string>
+	<key>resilientChapter</key>
+	<string>usedPoint</string>
+	<key>schedulerBrightness</key>
+	<string>lastStack</string>
+	<key>shouldMountSlash</key>
+	<string>disabledreference</string>
+	<key>staticPolygon</key>
+	<string>firstReference</string>
+</dict>
+</plist>

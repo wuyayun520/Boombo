@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredtimername</key>
+	<string>iterativeAnimation</string>
+	<key>firstPopup</key>
+	<string>easyUnary</string>
+	<key>formatbottom</key>
+	<string>usagebesideprototype</string>
+	<key>grainsubscriber</key>
+	<string>lazyScope</string>
+	<key>paralleltween</key>
+	<string>responsiveTask</string>
+	<key>publiclinker</key>
+	<string>lockPopup</string>
+	<key>transformerdespitepattern</key>
+	<string>startInkWell</string>
+</dict>
+</plist>

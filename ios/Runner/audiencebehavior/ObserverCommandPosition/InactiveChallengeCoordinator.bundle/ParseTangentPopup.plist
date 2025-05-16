@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticaldrawer</key>
+	<string>accordionCube</string>
+	<key>globalContainer</key>
+	<string>precisionWork</string>
+	<key>onconvolutionchanged</key>
+	<string>mountprogressbar</string>
+	<key>selectedremainder</key>
+	<string>documentBottom</string>
+	<key>sharedinkwell</key>
+	<string>completionVariable</string>
+	<key>throughputBrightness</key>
+	<string>prismaticLoader</string>
+</dict>
+</plist>

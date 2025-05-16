@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSegue</key>
+	<string>flexibleImage</string>
+	<key>cursorDepth</key>
+	<string>customizedconstraintorientation</string>
+	<key>desktopUseCase</key>
+	<string>crudeCapsule</string>
+	<key>firstController</key>
+	<string>mainCatalyst</string>
+	<key>globalManager</key>
+	<string>shouldmountedtask</string>
+	<key>invisibleRichText</key>
+	<string>symmetricConverter</string>
+	<key>listenerBrightness</key>
+	<string>missedIsolate</string>
+	<key>rectangleVisible</key>
+	<string>semanticMend</string>
+	<key>unactivatedUtil</key>
+	<string>chartLeft</string>
+</dict>
+</plist>

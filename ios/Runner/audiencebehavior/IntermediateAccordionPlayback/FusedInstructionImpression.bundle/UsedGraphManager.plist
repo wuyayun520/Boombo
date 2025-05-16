@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedBinary</key>
+	<string>monsterDirection</string>
+	<key>gateSkewY</key>
+	<string>scrollVar</string>
+	<key>showlabel</key>
+	<string>cartesianContrast</string>
+	<key>sizevideo</key>
+	<string>notifyCatalyst</string>
+	<key>standaloneusecase</key>
+	<string>composablePolyfill</string>
+	<key>statefulMatrix</key>
+	<string>decorationcontrast</string>
+	<key>visibleReducer</key>
+	<string>cartesianSwitch</string>
+</dict>
+</plist>

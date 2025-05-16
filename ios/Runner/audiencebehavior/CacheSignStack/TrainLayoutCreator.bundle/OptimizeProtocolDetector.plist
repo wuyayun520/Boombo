@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeTopic</key>
+	<string>canPublishSignature</string>
+	<key>dropoutsession</key>
+	<string>typicalTask</string>
+	<key>modalOpacity</key>
+	<string>otherMaster</string>
+	<key>momentumColor</key>
+	<string>currentStateless</string>
+</dict>
+</plist>

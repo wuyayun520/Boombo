@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaValidation</key>
+	<string>marshalCallback</string>
+	<key>inactiveReference</key>
+	<string>clipLocalization</string>
+	<key>intuitiveCollection</key>
+	<string>referenceParameter</string>
+	<key>specifierframe</key>
+	<string>shouldProcessColumn</string>
+	<key>statusMode</key>
+	<string>mountCache</string>
+	<key>symbolskewx</key>
+	<string>robustLoss</string>
+</dict>
+</plist>

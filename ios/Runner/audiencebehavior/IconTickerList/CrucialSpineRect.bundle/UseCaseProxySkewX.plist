@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customCube</key>
+	<string>scrollableDuration</string>
+	<key>inactiveSample</key>
+	<string>techniqueInterval</string>
+	<key>multiMaterial</key>
+	<string>clearAnimation</string>
+	<key>subtleInjection</key>
+	<string>similarGridView</string>
+	<key>tweenEdge</key>
+	<string>durationevent</string>
+</dict>
+</plist>

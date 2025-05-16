@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTexture</key>
+	<string>menuComposite</string>
+	<key>assetevent</key>
+	<string>synchronousIntensity</string>
+	<key>rectangleRotation</key>
+	<string>imperativeExpanded</string>
+	<key>shadertop</key>
+	<string>checkboxBound</string>
+	<key>shouldInflateCatalyst</key>
+	<string>synchronousProfile</string>
+	<key>shouldStreamStateful</key>
+	<string>lazyResult</string>
+	<key>textfieldHead</key>
+	<string>positionedForm</string>
+	<key>transposelabel</key>
+	<string>storePressure</string>
+</dict>
+</plist>

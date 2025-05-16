@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerBehavior</key>
+	<string>scrollableNavigation</string>
+	<key>comprehensivebutton</key>
+	<string>canStartCharacter</string>
+	<key>differentiatetextfield</key>
+	<string>enumerateDependency</string>
+	<key>integercommandbound</key>
+	<string>subtleState</string>
+	<key>sessionDistance</key>
+	<string>routeorprocess</string>
+	<key>smartModal</key>
+	<string>aspectbutton</string>
+	<key>subpixelinvar</key>
+	<string>rangeTint</string>
+	<key>textenvironmenthue</key>
+	<string>unbindAnimatedContainer</string>
+</dict>
+</plist>

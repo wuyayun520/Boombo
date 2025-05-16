@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyDirection</key>
+	<string>prepareDocument</string>
+	<key>explicitSign</key>
+	<string>metadataPosition</string>
+	<key>immutablePublisher</key>
+	<string>asynchronousTitle</string>
+	<key>latencyAppearance</key>
+	<string>coordinatorSingleton</string>
+	<key>materializerbound</key>
+	<string>statefulcursorcolor</string>
+	<key>responsebymode</key>
+	<string>unsortedRect</string>
+	<key>shouldkeeptheme</key>
+	<string>greatScalability</string>
+	<key>spotactivityskewy</key>
+	<string>connectorTransparency</string>
+</dict>
+</plist>

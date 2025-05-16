@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logsize</key>
+	<string>validateHeap</string>
+	<key>prevChapter</key>
+	<string>positionShape</string>
+	<key>semanticBinary</key>
+	<string>seconddimensionbound</string>
+	<key>shouldUpdateSegment</key>
+	<string>presenterBuffer</string>
+	<key>storyboardCenter</key>
+	<string>responseLocation</string>
+</dict>
+</plist>

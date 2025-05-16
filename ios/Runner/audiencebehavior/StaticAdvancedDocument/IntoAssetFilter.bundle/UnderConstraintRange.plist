@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackfromcycle</key>
+	<string>backwardPromise</string>
+	<key>cartesianEntity</key>
+	<string>canRestartTransition</string>
+	<key>checklistVelocity</key>
+	<string>iterativePositioned</string>
+	<key>delicateScroller</key>
+	<string>distinctionVisibility</string>
+	<key>inactiveMultiplication</key>
+	<string>smallThreshold</string>
+</dict>
+</plist>

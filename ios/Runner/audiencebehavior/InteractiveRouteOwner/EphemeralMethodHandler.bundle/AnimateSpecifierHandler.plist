@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalAlert</key>
+	<string>materialdurationflags</string>
+	<key>customSemantics</key>
+	<string>firstVideo</string>
+	<key>explicittitleforce</key>
+	<string>chapterbrightness</string>
+	<key>permutationEdge</key>
+	<string>unactivatedScroll</string>
+	<key>presenterpicker</key>
+	<string>responseforprototype</string>
+	<key>shouldPaintGift</key>
+	<string>injectionactiontail</string>
+	<key>shouldRouteSegment</key>
+	<string>canPresentMatrix</string>
+	<key>unactivatedPosition</key>
+	<string>cosineContext</string>
+</dict>
+</plist>

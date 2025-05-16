@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonOverlay</key>
+	<string>threadvariablehue</string>
+	<key>dismissdescription</key>
+	<string>mediumLayout</string>
+	<key>oldspritemomentum</key>
+	<string>nativePosition</string>
+	<key>opaqueCaption</key>
+	<string>backwardBox</string>
+	<key>replicatechart</key>
+	<string>isLabel</string>
+	<key>shouldProcessCurve</key>
+	<string>canKeepSpecifier</string>
+</dict>
+</plist>

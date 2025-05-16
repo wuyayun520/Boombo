@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAudio</key>
+	<string>custompaintscopeorigin</string>
+	<key>eagerLoop</key>
+	<string>elementRotation</string>
+	<key>heroFlags</key>
+	<string>originalManager</string>
+	<key>independentsprite</key>
+	<string>uniformTransition</string>
+	<key>labelFrequency</key>
+	<string>binarySingleton</string>
+	<key>otherBehavior</key>
+	<string>protectedVariant</string>
+	<key>sequentialstrength</key>
+	<string>shouldResumeStream</string>
+	<key>shouldPrepareChannels</key>
+	<string>hierarchicalutilcenter</string>
+</dict>
+</plist>

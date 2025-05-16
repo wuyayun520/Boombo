@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sensorOffset</key>
+	<string>allocatorChain</string>
+	<key>shouldListenBox</key>
+	<string>stopPainter</string>
+	<key>shouldtransformreference</key>
+	<string>canRenderCycle</string>
+	<key>sortedTask</key>
+	<string>extensionsingletontag</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredLoop</key>
+	<string>obtainObserver</string>
+	<key>elasticArithmetic</key>
+	<string>priorFrame</string>
+	<key>granularStore</key>
+	<string>opaqueResilience</string>
+	<key>musicName</key>
+	<string>shouldTransformProject</string>
+	<key>persistentFrame</key>
+	<string>histogrampadding</string>
+	<key>themesound</key>
+	<string>permutationsaturation</string>
+</dict>
+</plist>

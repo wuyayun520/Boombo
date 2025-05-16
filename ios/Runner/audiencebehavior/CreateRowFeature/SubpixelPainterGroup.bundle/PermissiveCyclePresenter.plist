@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvebottom</key>
+	<string>profilespacing</string>
+	<key>scrollableRole</key>
+	<string>canTrainEqualization</string>
+	<key>textHead</key>
+	<string>unsortedSession</string>
+	<key>videoInset</key>
+	<string>statelessbehavior</string>
+</dict>
+</plist>

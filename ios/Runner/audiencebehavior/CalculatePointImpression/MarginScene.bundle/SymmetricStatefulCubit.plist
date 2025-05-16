@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPicker</key>
+	<string>observerDensity</string>
+	<key>connectinteractor</key>
+	<string>resolveOffset</string>
+	<key>crudeNavigator</key>
+	<string>semanticInstruction</string>
+	<key>disabledAccessory</key>
+	<string>canUnmountUsage</string>
+	<key>granularConsumption</key>
+	<string>sinkTint</string>
+	<key>liteWorkflow</key>
+	<string>scrollablePopup</string>
+	<key>tickerIndex</key>
+	<string>subscriberborder</string>
+</dict>
+</plist>

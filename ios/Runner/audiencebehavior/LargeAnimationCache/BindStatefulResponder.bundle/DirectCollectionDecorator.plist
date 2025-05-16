@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isolateworkorientation</key>
+	<string>currentQuaternion</string>
+	<key>primaryExpanded</key>
+	<string>canvasLayer</string>
+	<key>profileduration</key>
+	<string>flexForce</string>
+	<key>reusableconvolution</key>
+	<string>newestEquivalent</string>
+	<key>schemaRate</key>
+	<string>cupertinoCheckbox</string>
+</dict>
+</plist>

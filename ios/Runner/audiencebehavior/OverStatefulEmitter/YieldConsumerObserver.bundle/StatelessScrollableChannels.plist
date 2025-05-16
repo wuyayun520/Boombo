@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controlleranimator</key>
+	<string>crudeGate</string>
+	<key>histogramsystemscale</key>
+	<string>canHandleCosine</string>
+	<key>interactiveDetector</key>
+	<string>immutableContraction</string>
+	<key>mediocreSpot</key>
+	<string>retrieveAction</string>
+	<key>multiEvent</key>
+	<string>annotatetable</string>
+	<key>sequentialResponder</key>
+	<string>encodeRow</string>
+	<key>shouldFinishBinary</key>
+	<string>localizationFunction</string>
+	<key>threadvalidation</key>
+	<string>protectedTimer</string>
+	<key>updatechecklist</key>
+	<string>unmarshalBuffer</string>
+	<key>workflowDistance</key>
+	<string>combinerflags</string>
+</dict>
+</plist>

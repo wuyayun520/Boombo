@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentHead</key>
+	<string>taskName</string>
+	<key>isolateSkewX</key>
+	<string>painterSkewX</string>
+	<key>mechanismShape</key>
+	<string>explicitItem</string>
+	<key>mutableAnimation</key>
+	<string>canKeepMultiplication</string>
+</dict>
+</plist>

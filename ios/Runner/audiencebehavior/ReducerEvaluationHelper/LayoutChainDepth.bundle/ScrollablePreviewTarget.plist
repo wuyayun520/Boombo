@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationindex</key>
+	<string>lastSegue</string>
+	<key>defaultChecklist</key>
+	<string>canRouteHistogram</string>
+	<key>defaultOptimizer</key>
+	<string>activatedLifecycle</string>
+	<key>persistentGridView</key>
+	<string>criticalTime</string>
+	<key>rangeScale</key>
+	<string>singleSingleton</string>
+	<key>shouldCachePet</key>
+	<string>originalBullet</string>
+</dict>
+</plist>

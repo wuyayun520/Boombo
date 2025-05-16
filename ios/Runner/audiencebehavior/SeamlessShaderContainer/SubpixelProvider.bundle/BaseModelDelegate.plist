@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationmementolocation</key>
+	<string>canCacheScroll</string>
+	<key>independentcombiner</key>
+	<string>particleDistance</string>
+	<key>observerBottom</key>
+	<string>touchHandler</string>
+	<key>shouldAttachRow</key>
+	<string>primaryTriangles</string>
+	<key>specifysymbolinteraction</key>
+	<string>mediocreInteractor</string>
+	<key>stampSkewY</key>
+	<string>mixinSink</string>
+	<key>tappableTraversal</key>
+	<string>rectstatefeedback</string>
+</dict>
+</plist>

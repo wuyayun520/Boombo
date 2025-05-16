@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerInteraction</key>
+	<string>hyperbolicLayer</string>
+	<key>comprehensivePrecision</key>
+	<string>pinchableRect</string>
+	<key>monsterrotation</key>
+	<string>extendOffset</string>
+	<key>particleBound</key>
+	<string>canDispatchListView</string>
+	<key>subtleVector</key>
+	<string>sortedDescription</string>
+	<key>usecaseoutsidestyle</key>
+	<string>taxonomyStyle</string>
+</dict>
+</plist>

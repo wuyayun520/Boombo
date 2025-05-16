@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureStyle</key>
+	<string>immutableTimeline</string>
+	<key>lostCharacteristic</key>
+	<string>exceptionPressure</string>
+	<key>rectangleSpacing</key>
+	<string>searcherRotation</string>
+	<key>resultcharacteristic</key>
+	<string>zoneChain</string>
+	<key>shouldStopMultiplication</key>
+	<string>interactorDensity</string>
+	<key>threadDelay</key>
+	<string>shouldCacheStoryboard</string>
+</dict>
+</plist>

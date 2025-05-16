@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nextAnimatedContainer</key>
+	<string>advancedSemantics</string>
+	<key>scopeBorder</key>
+	<string>oninstructionchanged</string>
+	<key>screenOrigin</key>
+	<string>discardedSensor</string>
+	<key>widgetCoord</key>
+	<string>offsetofmediator</string>
+	<key>zonelocation</key>
+	<string>cubitbymediator</string>
+</dict>
+</plist>

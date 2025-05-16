@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationtype</key>
+	<string>memberticker</string>
+	<key>dynamiccontractionscale</key>
+	<string>challengeFacade</string>
+	<key>easyLoader</key>
+	<string>aperturetail</string>
+	<key>priorityfunctioninset</key>
+	<string>createListView</string>
+	<key>shouldStopExpanded</key>
+	<string>heroScope</string>
+	<key>tooltop</key>
+	<string>independentCompletion</string>
+	<key>unbinderror</key>
+	<string>shouldSubscribeImage</string>
+	<key>uniqueTable</key>
+	<string>resizableVector</string>
+</dict>
+</plist>

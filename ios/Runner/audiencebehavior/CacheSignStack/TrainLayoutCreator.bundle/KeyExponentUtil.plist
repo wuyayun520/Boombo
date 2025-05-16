@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationcoordinator</key>
+	<string>fragmentsinterval</string>
+	<key>executedrawer</key>
+	<string>canSaveComposition</string>
+	<key>gesturewithoutshape</key>
+	<string>semanticContraction</string>
+	<key>intensityLeft</key>
+	<string>durationedge</string>
+	<key>permissivecharacteristic</key>
+	<string>reductiontierstate</string>
+	<key>routePadding</key>
+	<string>skinBuffer</string>
+	<key>shouldTransitionDropdownButton</key>
+	<string>themeStyle</string>
+</dict>
+</plist>

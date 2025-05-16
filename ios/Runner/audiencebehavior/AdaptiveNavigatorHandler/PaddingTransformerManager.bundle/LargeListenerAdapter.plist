@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarrate</key>
+	<string>canStartCapacities</string>
+	<key>binderStyle</key>
+	<string>localizationAcceleration</string>
+	<key>combinerCenter</key>
+	<string>diffableAwait</string>
+	<key>cupertinoLeft</key>
+	<string>mountedCell</string>
+	<key>globalZone</key>
+	<string>uniformDescription</string>
+	<key>resilientCoordinator</key>
+	<string>movementLayer</string>
+	<key>shouldPaintCard</key>
+	<string>challengevariableappearance</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionInteraction</key>
+	<string>shouldAttachFragment</string>
+	<key>concurrentChapter</key>
+	<string>clipperinterpreterdirection</string>
+	<key>hierarchicalSplitter</key>
+	<string>liteBullet</string>
+	<key>multiprojectvisibility</key>
+	<string>deserializeContainer</string>
+	<key>promiseintensity</key>
+	<string>comparePreview</string>
+	<key>sequentialSlash</key>
+	<string>missedRestriction</string>
+	<key>shouldDismissSession</key>
+	<string>sortedreliability</string>
+	<key>shouldEmitPrecision</key>
+	<string>ignoredSine</string>
+	<key>traversalPosition</key>
+	<string>pointDensity</string>
+</dict>
+</plist>

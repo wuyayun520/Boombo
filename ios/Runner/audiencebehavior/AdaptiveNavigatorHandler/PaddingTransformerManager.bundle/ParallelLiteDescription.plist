@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedtimer</key>
+	<string>sliderParameter</string>
+	<key>arithmeticTrigger</key>
+	<string>customGridView</string>
+	<key>debugsample</key>
+	<string>substantialMetrics</string>
+	<key>declarativeProgressBar</key>
+	<string>textfieldFramework</string>
+	<key>descentFeedback</key>
+	<string>textureLeft</string>
+	<key>inheritedCache</key>
+	<string>kernelposition</string>
+	<key>spritedespiteinterpreter</key>
+	<string>localScroll</string>
+</dict>
+</plist>

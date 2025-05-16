@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructiondirection</key>
+	<string>clipperTag</string>
+	<key>responsetop</key>
+	<string>dedicatedPreview</string>
+	<key>shouldUpdateStream</key>
+	<string>customizedGroup</string>
+	<key>similarConnector</key>
+	<string>compareFactory</string>
+	<key>transformpresenter</key>
+	<string>particleWork</string>
+</dict>
+</plist>

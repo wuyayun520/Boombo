@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledState</key>
+	<string>imperativeCell</string>
+	<key>dynamicrectangle</key>
+	<string>dedicatedStatus</string>
+	<key>lostLoader</key>
+	<string>shouldprocessappbar</string>
+	<key>operationwithoutscope</key>
+	<string>concurrentCollection</string>
+	<key>tweenduration</key>
+	<string>persistentObserver</string>
+</dict>
+</plist>

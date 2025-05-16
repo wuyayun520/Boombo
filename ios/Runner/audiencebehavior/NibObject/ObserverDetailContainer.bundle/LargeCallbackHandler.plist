@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticscaffold</key>
+	<string>logBehavior</string>
+	<key>combinetouch</key>
+	<string>dismissEvent</string>
+	<key>customShader</key>
+	<string>synchronousArithmetic</string>
+	<key>integrationFrequency</key>
+	<string>renameresponse</string>
+	<key>movementBottom</key>
+	<string>disconnectLabel</string>
+	<key>offsetinsidetemple</key>
+	<string>masterRate</string>
+	<key>shouldCacheColumn</key>
+	<string>uniformRectangle</string>
+	<key>statefulReliability</key>
+	<string>keyBuilder</string>
+</dict>
+</plist>

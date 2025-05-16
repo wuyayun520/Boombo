@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBuffer</key>
+	<string>clipperInteraction</string>
+	<key>localOffset</key>
+	<string>decorationdisclaimer</string>
+	<key>opaqueMetrics</key>
+	<string>canInflateUnary</string>
+	<key>reductiongraph</key>
+	<string>playbackSpacing</string>
+	<key>relationalGroup</key>
+	<string>stackSystem</string>
+	<key>replicatenavigator</key>
+	<string>mediaFrequency</string>
+	<key>substantialRadius</key>
+	<string>canSetStateNorm</string>
+</dict>
+</plist>

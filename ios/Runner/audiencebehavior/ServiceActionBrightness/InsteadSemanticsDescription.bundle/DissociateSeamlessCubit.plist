@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncviasingleton</key>
+	<string>rapidConnector</string>
+	<key>custompaintinterface</key>
+	<string>touchTier</string>
+	<key>firstProvision</key>
+	<string>canAttachSpecifier</string>
+	<key>iconconstraint</key>
+	<string>initializeObserver</string>
+	<key>monsterspacing</key>
+	<string>opaqueBullet</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSpecifier</key>
+	<string>radiosensor</string>
+	<key>cellTint</key>
+	<string>consumptionInterval</string>
+	<key>decorationKind</key>
+	<string>schedulerkind</string>
+	<key>dialogsStyle</key>
+	<string>immediateConstraint</string>
+	<key>displayabletrigger</key>
+	<string>mountAnimation</string>
+	<key>oldAsset</key>
+	<string>dynamicResilience</string>
+	<key>sortedRadius</key>
+	<string>dialogsVisitor</string>
+</dict>
+</plist>

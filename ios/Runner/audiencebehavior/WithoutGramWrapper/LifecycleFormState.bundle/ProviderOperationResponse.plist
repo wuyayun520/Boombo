@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperpermutation</key>
+	<string>constantTint</string>
+	<key>criticalcursorvalidation</key>
+	<string>dependencyFacade</string>
+	<key>crudePrecision</key>
+	<string>selectedswift</string>
+	<key>denseCatalyst</key>
+	<string>delicateAlert</string>
+	<key>dissociatefuture</key>
+	<string>clearTask</string>
+	<key>labeltension</key>
+	<string>prevColor</string>
+	<key>masterstatus</key>
+	<string>alertDuration</string>
+	<key>mediaqueryshade</key>
+	<string>canShowSegue</string>
+	<key>persistentRadio</key>
+	<string>radiusInteraction</string>
+	<key>shouldNotifySkin</key>
+	<string>groupprocessposition</string>
+</dict>
+</plist>

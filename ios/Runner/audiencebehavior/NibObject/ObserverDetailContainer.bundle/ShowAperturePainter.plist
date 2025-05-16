@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferbytask</key>
+	<string>hasAxis</string>
+	<key>declarativeDialogs</key>
+	<string>lostCupertino</string>
+	<key>mediumSign</key>
+	<string>presenterEnvironment</string>
+	<key>synchronousBase</key>
+	<string>binaryalignment</string>
+</dict>
+</plist>

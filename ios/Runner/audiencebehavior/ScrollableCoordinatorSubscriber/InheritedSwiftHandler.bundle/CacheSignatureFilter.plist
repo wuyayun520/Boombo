@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeSkewX</key>
+	<string>symmetricTaxonomy</string>
+	<key>displayableAnimator</key>
+	<string>equalizationDirection</string>
+	<key>integerhead</key>
+	<string>shouldTrainProjection</string>
+	<key>integritystatus</key>
+	<string>currentSubpixel</string>
+	<key>medialabel</key>
+	<string>defaultmatrix</string>
+	<key>metadataawaycycle</key>
+	<string>offsetCurve</string>
+	<key>provisionOffset</key>
+	<string>gramvarlocation</string>
+	<key>requiredResponse</key>
+	<string>shouldRestartProjection</string>
+	<key>routertransformer</key>
+	<string>masterTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerActivity</key>
+	<string>logNumber</string>
+	<key>diversifiedRenderer</key>
+	<string>reactivepet</string>
+	<key>featurePosition</key>
+	<string>layeradapterdirection</string>
+	<key>normalAudio</key>
+	<string>permanentProgressBar</string>
+	<key>reusableMovement</key>
+	<string>aperturerate</string>
+	<key>shouldRouteProjection</key>
+	<string>cubeSkewX</string>
+	<key>shoulddisposemargin</key>
+	<string>renderBaseline</string>
+	<key>triggerResponse</key>
+	<string>liteUsage</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerInkWell</key>
+	<string>canRestartLabel</string>
+	<key>shouldAnimateProfile</key>
+	<string>remediationsize</string>
+	<key>shouldSetStateExpanded</key>
+	<string>apertureStrategy</string>
+	<key>uniqueAnimation</key>
+	<string>tappableBuffer</string>
+</dict>
+</plist>

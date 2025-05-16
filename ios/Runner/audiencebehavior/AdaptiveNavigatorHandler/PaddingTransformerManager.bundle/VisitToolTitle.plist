@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentActivity</key>
+	<string>performZone</string>
+	<key>originalSchema</key>
+	<string>permissiveTransition</string>
+	<key>resilientAnalyzer</key>
+	<string>keyModule</string>
+	<key>shouldUpdateProvider</key>
+	<string>disparateRange</string>
+	<key>skipdecoration</key>
+	<string>completerduringvar</string>
+</dict>
+</plist>

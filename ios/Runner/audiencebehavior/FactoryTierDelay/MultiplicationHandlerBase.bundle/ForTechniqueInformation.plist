@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationbeyondtype</key>
+	<string>elasticasync</string>
+	<key>disabledSlider</key>
+	<string>cubitleft</string>
+	<key>diversifiedFragment</key>
+	<string>touchTheme</string>
+	<key>flexBorder</key>
+	<string>significantGesture</string>
+	<key>itemAlignment</key>
+	<string>performGroup</string>
+	<key>pinchablebulletdistance</key>
+	<string>referenceNumber</string>
+	<key>sharedEvolution</key>
+	<string>rebuildFuture</string>
+	<key>specifierasync</key>
+	<string>screenFormat</string>
+	<key>subsequentReduction</key>
+	<string>certificateitem</string>
+</dict>
+</plist>

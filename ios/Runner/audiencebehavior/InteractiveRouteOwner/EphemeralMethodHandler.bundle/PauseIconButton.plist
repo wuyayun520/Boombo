@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compiledescription</key>
+	<string>canEncodeMediaQuery</string>
+	<key>defaultChannels</key>
+	<string>keepStoryboard</string>
+	<key>exitgem</key>
+	<string>metadataMethod</string>
+	<key>flexiblePermutation</key>
+	<string>initializenib</string>
+	<key>statelessConstraint</key>
+	<string>shouldAttachDescriptor</string>
+	<key>yieldresolver</key>
+	<string>spriterange</string>
+</dict>
+</plist>

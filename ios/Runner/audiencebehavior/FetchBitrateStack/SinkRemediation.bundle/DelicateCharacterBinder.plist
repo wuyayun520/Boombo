@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheDepth</key>
+	<string>optimizerResponse</string>
+	<key>directlyFeature</key>
+	<string>spotFlags</string>
+	<key>gatetint</key>
+	<string>adaptiveMovement</string>
+	<key>makesample</key>
+	<string>disabledCanvas</string>
+	<key>petgroup</key>
+	<string>monsterRate</string>
+	<key>shouldRestartDrawer</key>
+	<string>canStreamGridView</string>
+	<key>stepType</key>
+	<string>shouldpushroute</string>
+	<key>typicalcapacity</key>
+	<string>trainCaption</string>
+	<key>webPlayback</key>
+	<string>firstStream</string>
+</dict>
+</plist>

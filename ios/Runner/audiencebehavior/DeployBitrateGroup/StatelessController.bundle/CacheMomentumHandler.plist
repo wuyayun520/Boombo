@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintinsideshape</key>
+	<string>projectionLeft</string>
+	<key>infoTop</key>
+	<string>smallProjection</string>
+	<key>inheritedalignment</key>
+	<string>minSensor</string>
+	<key>shouldFormatDescriptor</key>
+	<string>gemcontroller</string>
+</dict>
+</plist>

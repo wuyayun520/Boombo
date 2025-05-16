@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradienttheme</key>
+	<string>requestContext</string>
+	<key>hyperbolicCupertino</key>
+	<string>desktopIsolate</string>
+	<key>materializereduction</key>
+	<string>resizableReduction</string>
+	<key>permissiveSign</key>
+	<string>multiplicationloader</string>
+	<key>restrictionRight</key>
+	<string>easyPromise</string>
+	<key>sustainablemediadirection</key>
+	<string>animatedVariant</string>
+</dict>
+</plist>

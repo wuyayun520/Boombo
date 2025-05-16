@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAsync</key>
+	<string>gemDecorator</string>
+	<key>alertflags</key>
+	<string>listenerTag</string>
+	<key>containerhue</key>
+	<string>creategate</string>
+	<key>customMapper</key>
+	<string>cubeTheme</string>
+	<key>gradientscale</key>
+	<string>advancedRenderer</string>
+	<key>notifierresponse</key>
+	<string>robustMetadata</string>
+	<key>plateLocation</key>
+	<string>canPopTangent</string>
+	<key>shouldObservePainter</key>
+	<string>methodSaturation</string>
+	<key>sinkprototypehue</key>
+	<string>checkTopic</string>
+	<key>textfieldSpacing</key>
+	<string>referenceContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTransformer</key>
+	<string>memberSpeed</string>
+	<key>animatedGrayscale</key>
+	<string>disabledScheduler</string>
+	<key>clustertransparency</key>
+	<string>animateAnimatedContainer</string>
+	<key>immutablePresenter</key>
+	<string>protectedSemantics</string>
+	<key>processorForce</key>
+	<string>routeChecklist</string>
+	<key>shouldNavigateMediaQuery</key>
+	<string>skinPadding</string>
+	<key>shouldTrainNorm</key>
+	<string>aggregatemanager</string>
+	<key>shouldserializesignature</key>
+	<string>unmountedHistogram</string>
+	<key>stackerror</key>
+	<string>layoutDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredLocalization</key>
+	<string>requiredTicker</string>
+	<key>mobileConfidentiality</key>
+	<string>providerFrequency</string>
+	<key>numericalchart</key>
+	<string>scalabilitySize</string>
+	<key>priorityjobindex</key>
+	<string>cupertinoShader</string>
+</dict>
+</plist>

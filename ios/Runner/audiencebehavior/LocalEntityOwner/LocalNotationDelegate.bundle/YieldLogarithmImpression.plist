@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterHue</key>
+	<string>gateFramework</string>
+	<key>compositionsingleton</key>
+	<string>nextMedia</string>
+	<key>diversifiedColumn</key>
+	<string>shouldEndCharacter</string>
+	<key>easyrow</key>
+	<string>canSaveRow</string>
+	<key>shouldsubscribeusage</key>
+	<string>graphicSize</string>
+	<key>titleDensity</key>
+	<string>minSegment</string>
+</dict>
+</plist>

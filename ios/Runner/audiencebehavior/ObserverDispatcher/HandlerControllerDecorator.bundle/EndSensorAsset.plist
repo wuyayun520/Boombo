@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferscalability</key>
+	<string>roleelasticity</string>
+	<key>operationSpacing</key>
+	<string>lazyCompleter</string>
+	<key>shouldStreamSwitch</key>
+	<string>canDisposeDescriptor</string>
+	<key>statelessawaitoffset</key>
+	<string>shouldPauseModulus</string>
+	<key>tickerbeyondwork</key>
+	<string>scenetierappearance</string>
+	<key>transformprecision</key>
+	<string>checkboxValue</string>
+	<key>uniformCard</key>
+	<string>detachsubscription</string>
+</dict>
+</plist>

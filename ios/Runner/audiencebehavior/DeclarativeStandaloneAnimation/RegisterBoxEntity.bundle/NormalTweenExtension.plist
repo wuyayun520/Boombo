@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserBrightness</key>
+	<string>streamdelivery</string>
+	<key>lostCombiner</key>
+	<string>curveSaturation</string>
+	<key>shouldTransitionConstraint</key>
+	<string>substantialFuture</string>
+	<key>spineposition</key>
+	<string>constrainttransparency</string>
+	<key>statefulpopup</key>
+	<string>canObserveContraction</string>
+</dict>
+</plist>

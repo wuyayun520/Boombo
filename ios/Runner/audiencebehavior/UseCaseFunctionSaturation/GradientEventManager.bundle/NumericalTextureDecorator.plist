@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopElasticity</key>
+	<string>listenMap</string>
+	<key>documentSaturation</key>
+	<string>shouldPublishStream</string>
+	<key>multiCombiner</key>
+	<string>canPublishUsage</string>
+	<key>nativeQueue</key>
+	<string>evaluationContrast</string>
+	<key>shouldFetchSemantics</key>
+	<string>shouldSaveNavigator</string>
+	<key>shouldValidateTernary</key>
+	<string>bulletVariable</string>
+	<key>shouldtraintechnique</key>
+	<string>parsedescription</string>
+	<key>sliderfeedback</key>
+	<string>reconcileHandler</string>
+</dict>
+</plist>

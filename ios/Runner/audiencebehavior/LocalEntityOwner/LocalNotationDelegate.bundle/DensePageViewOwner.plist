@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateBehavior</key>
+	<string>painterForce</string>
+	<key>nodenearmode</key>
+	<string>persistentcheckliststyle</string>
+	<key>rangeTint</key>
+	<string>normflyweighthue</string>
+	<key>reliabilityOrientation</key>
+	<string>schedulerOffset</string>
+	<key>shouldRenderProfile</key>
+	<string>tabbarBehavior</string>
+	<key>shouldUnmountSegue</key>
+	<string>signatureInterpreter</string>
+	<key>shouldhandlecurve</key>
+	<string>multiplyTask</string>
+	<key>shouldrendernavigator</key>
+	<string>textrenderer</string>
+	<key>strokeDelay</key>
+	<string>priorImpression</string>
+	<key>symmetricPicker</key>
+	<string>pivotalcreator</string>
+</dict>
+</plist>

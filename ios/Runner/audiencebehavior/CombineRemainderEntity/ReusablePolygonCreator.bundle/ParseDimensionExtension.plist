@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoConnector</key>
+	<string>sortedCompleter</string>
+	<key>createdescription</key>
+	<string>disabledManager</string>
+	<key>draggableAnimator</key>
+	<string>roleofwork</string>
+	<key>mediumGraph</key>
+	<string>lazyusage</string>
+	<key>monsterdecoratorspacing</key>
+	<string>usageShape</string>
+	<key>shouldKeepEntropy</key>
+	<string>fragmentPattern</string>
+	<key>shouldUnmountedCanvas</key>
+	<string>deserializeternary</string>
+</dict>
+</plist>

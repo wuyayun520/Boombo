@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustreduction</key>
+	<string>inkwellchapter</string>
+	<key>commonMember</key>
+	<string>behaviorVisitor</string>
+	<key>normallistener</key>
+	<string>diversifiedStateful</string>
+	<key>progressbarFormat</key>
+	<string>shouldEndSwift</string>
+	<key>shouldpushcell</key>
+	<string>localizationPrototype</string>
+</dict>
+</plist>

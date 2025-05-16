@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocDensity</key>
+	<string>mobileComposite</string>
+	<key>deferredgridviewdepth</key>
+	<string>shouldSetStateDocument</string>
+	<key>isAlpha</key>
+	<string>staticClipper</string>
+	<key>offsetentity</key>
+	<string>renderIcon</string>
+	<key>scenemodel</key>
+	<string>referenceMode</string>
+	<key>shouldEncodeColumn</key>
+	<string>viewoffset</string>
+</dict>
+</plist>

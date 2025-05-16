@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseMethod</key>
+	<string>crudeLoop</string>
+	<key>eagerCapacities</key>
+	<string>otherTrigger</string>
+	<key>playbackKind</key>
+	<string>itemFeedback</string>
+	<key>positionactionorigin</key>
+	<string>standaloneCosine</string>
+	<key>richtextawaydecorator</key>
+	<string>scaffoldstyle</string>
+	<key>sinkright</key>
+	<string>grayscaletransparency</string>
+	<key>widgetpainter</key>
+	<string>allocateMenu</string>
+</dict>
+</plist>

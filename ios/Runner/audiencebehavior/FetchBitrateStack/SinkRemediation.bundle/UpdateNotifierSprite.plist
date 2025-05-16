@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSelector</key>
+	<string>disparateZone</string>
+	<key>blocselector</key>
+	<string>newestGrain</string>
+	<key>capsuleSkewY</key>
+	<string>storeparameterrate</string>
+	<key>commonLabel</key>
+	<string>interceptLoop</string>
+	<key>hardSize</key>
+	<string>shouldDismissBase</string>
+	<key>replicaLeft</key>
+	<string>queuebesideflyweight</string>
+	<key>scrollableEffect</key>
+	<string>hyperbolicView</string>
+</dict>
+</plist>

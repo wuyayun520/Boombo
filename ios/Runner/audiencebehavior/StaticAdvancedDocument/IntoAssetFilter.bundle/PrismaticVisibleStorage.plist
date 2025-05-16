@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivecursor</key>
+	<string>shouldLayoutOperation</string>
+	<key>animationDuration</key>
+	<string>binaryFeedback</string>
+	<key>heaptransformer</key>
+	<string>hyperbolicCaption</string>
+	<key>independentBinary</key>
+	<string>smallImpact</string>
+	<key>screenevent</key>
+	<string>associatedChannels</string>
+	<key>shouldDecodeShader</key>
+	<string>progressbarPattern</string>
+	<key>sustainableresponse</key>
+	<string>fusedRole</string>
+	<key>usedConstraint</key>
+	<string>retainedRemainder</string>
+</dict>
+</plist>

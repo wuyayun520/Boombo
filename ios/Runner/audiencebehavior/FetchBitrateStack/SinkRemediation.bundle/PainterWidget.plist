@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateAscent</key>
+	<string>animationPadding</string>
+	<key>dropoutgroup</key>
+	<string>fetchBrush</string>
+	<key>layoutState</key>
+	<string>hasImage</string>
+	<key>resilientposition</key>
+	<string>adaptiveDetector</string>
+	<key>shouldRenderTernary</key>
+	<string>unmountedTransition</string>
+	<key>uniqueComponent</key>
+	<string>publishCaption</string>
+</dict>
+</plist>

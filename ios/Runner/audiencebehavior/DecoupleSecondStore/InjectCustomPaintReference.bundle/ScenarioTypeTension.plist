@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorContrast</key>
+	<string>shouldHandleCompletion</string>
+	<key>pinchableSelector</key>
+	<string>directSize</string>
+	<key>shouldShowInterpolation</key>
+	<string>blocAdapter</string>
+	<key>shouldUnbindSkin</key>
+	<string>granularPublisher</string>
+	<key>subsequentlocalization</key>
+	<string>mediafrequency</string>
+	<key>videoBrightness</key>
+	<string>relationalStep</string>
+</dict>
+</plist>

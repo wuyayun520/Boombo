@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackcenter</key>
+	<string>revisitNavigator</string>
+	<key>functionalTimer</key>
+	<string>euclideanPageView</string>
+	<key>immediateSplitter</key>
+	<string>capacityShade</string>
+	<key>shouldSubscribeStream</key>
+	<string>touchResult</string>
+	<key>sizevisibility</key>
+	<string>binderbehavior</string>
+	<key>sliderfrequency</key>
+	<string>canFormatGesture</string>
+	<key>statelessValidation</key>
+	<string>resultBottom</string>
+	<key>textureSaturation</key>
+	<string>semanticParticle</string>
+	<key>unregistergrid</key>
+	<string>cellbeyondmediator</string>
+</dict>
+</plist>

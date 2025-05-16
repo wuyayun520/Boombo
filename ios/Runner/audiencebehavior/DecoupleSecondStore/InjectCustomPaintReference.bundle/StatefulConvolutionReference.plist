@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialChecklist</key>
+	<string>shouldPublishSensor</string>
+	<key>deferredRect</key>
+	<string>sharedAnalyzer</string>
+	<key>deprecateshader</key>
+	<string>draggableReceiver</string>
+	<key>easyPermutation</key>
+	<string>shouldPublishActivity</string>
+	<key>gridOrientation</key>
+	<string>connectIsolate</string>
+	<key>reducerPosition</key>
+	<string>canMountedOption</string>
+	<key>sliderVisible</key>
+	<string>composableResponder</string>
+	<key>specifyWrapper</key>
+	<string>accordionDetector</string>
+</dict>
+</plist>

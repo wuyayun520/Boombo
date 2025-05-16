@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardRouter</key>
+	<string>setstatePlate</string>
+	<key>channelamongvar</key>
+	<string>shouldDisposeOption</string>
+	<key>coordinatorMode</key>
+	<string>canStartBitrate</string>
+	<key>denseTolerance</key>
+	<string>largeFragment</string>
+	<key>frameliketemple</key>
+	<string>canvasrate</string>
+	<key>matrixBound</key>
+	<string>disposeThread</string>
+</dict>
+</plist>

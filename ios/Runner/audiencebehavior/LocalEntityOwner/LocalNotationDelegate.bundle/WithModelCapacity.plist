@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMember</key>
+	<string>evolutionState</string>
+	<key>controllercommandlocation</key>
+	<string>axisasfacade</string>
+	<key>crudeFinder</key>
+	<string>canParseProfile</string>
+	<key>rolefrequency</key>
+	<string>pushsizedbox</string>
+	<key>shouldDisconnectButton</key>
+	<string>occasionSpacing</string>
+	<key>zonecluster</key>
+	<string>missiondespitetier</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectLocation</key>
+	<string>metadataviastage</string>
+	<key>hierarchicalstorage</key>
+	<string>shouldParsePainter</string>
+	<key>intermediatecallback</key>
+	<string>animatedClipper</string>
+	<key>mediumAspect</key>
+	<string>dispatcherPadding</string>
+	<key>modelversusparam</key>
+	<string>permanentSlash</string>
+	<key>sessionnumberfrequency</key>
+	<string>interpolateError</string>
+	<key>shouldRestartLabel</key>
+	<string>resolverCenter</string>
+</dict>
+</plist>

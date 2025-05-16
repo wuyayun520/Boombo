@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphainparam</key>
+	<string>threadTail</string>
+	<key>asyncRate</key>
+	<string>detachCursor</string>
+	<key>flexibleProvision</key>
+	<string>keyConsumption</string>
+	<key>particlevelocity</key>
+	<string>impactSaturation</string>
+	<key>permanentDetector</key>
+	<string>semanticStorage</string>
+	<key>sizeworkbound</key>
+	<string>geometricResilience</string>
+</dict>
+</plist>

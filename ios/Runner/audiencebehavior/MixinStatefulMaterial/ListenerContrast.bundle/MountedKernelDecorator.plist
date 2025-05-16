@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionevent</key>
+	<string>respondMethod</string>
+	<key>associatedKernel</key>
+	<string>commonNotifier</string>
+	<key>fixedBehavior</key>
+	<string>freeradius</string>
+	<key>localHero</key>
+	<string>retainedSlider</string>
+	<key>mediaquerychapter</key>
+	<string>shouldDecodeAlert</string>
+	<key>priorNotifier</key>
+	<string>completerCenter</string>
+	<key>shouldRebuildEquipment</key>
+	<string>polyfillHue</string>
+</dict>
+</plist>

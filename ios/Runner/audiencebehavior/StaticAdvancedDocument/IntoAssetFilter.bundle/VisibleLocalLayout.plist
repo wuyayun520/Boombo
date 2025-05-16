@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardView</key>
+	<string>findGrid</string>
+	<key>channelsmetadata</key>
+	<string>zonevelocity</string>
+	<key>shouldConnectDuration</key>
+	<string>prepareSegment</string>
+	<key>sortedStrength</key>
+	<string>searcherStatus</string>
+	<key>streamfromstructure</key>
+	<string>enabledQuaternion</string>
+</dict>
+</plist>

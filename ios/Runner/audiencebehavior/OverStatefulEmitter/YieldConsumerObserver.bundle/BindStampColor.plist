@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateFormat</key>
+	<string>listenRouter</string>
+	<key>cupertinoTicker</key>
+	<string>futurestate</string>
+	<key>graincontroller</key>
+	<string>brushVelocity</string>
+	<key>shouldFormatInstruction</key>
+	<string>clusterRight</string>
+	<key>statefulConfiguration</key>
+	<string>shouldAttachDocument</string>
+	<key>symmetricArchitecture</key>
+	<string>canMountBatch</string>
+	<key>usagelayout</key>
+	<string>canObserveTabBar</string>
+</dict>
+</plist>

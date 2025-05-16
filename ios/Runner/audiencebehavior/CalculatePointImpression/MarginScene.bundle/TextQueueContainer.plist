@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentCoordinator</key>
+	<string>ephemeralsample</string>
+	<key>gridviewEdge</key>
+	<string>shouldDecodeRemainder</string>
+	<key>immediateResponder</key>
+	<string>characterFlyweight</string>
+	<key>menupertask</key>
+	<string>scrollRotation</string>
+	<key>permanentConstraint</key>
+	<string>accessibleSelector</string>
+	<key>priorbitrate</key>
+	<string>multiNib</string>
+	<key>specifyparticletag</key>
+	<string>pageviewBuffer</string>
+	<key>synchronousMetadata</key>
+	<string>curveActivity</string>
+</dict>
+</plist>

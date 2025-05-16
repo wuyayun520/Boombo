@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basiczone</key>
+	<string>awaitMomentum</string>
+	<key>draggableWidget</key>
+	<string>easybutton</string>
+	<key>globalSpecifier</key>
+	<string>canDisconnectGridView</string>
+	<key>reactiveData</key>
+	<string>visibleDimension</string>
+	<key>retainlocalization</key>
+	<string>visibleClipper</string>
+	<key>shouldStartRichText</key>
+	<string>resourcereliability</string>
+	<key>tappablelifecycle</key>
+	<string>invisibleFormat</string>
+	<key>textfieldframeworkappearance</key>
+	<string>canAttachDuration</string>
+</dict>
+</plist>

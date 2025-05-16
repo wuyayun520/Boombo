@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDescription</key>
+	<string>eventFunction</string>
+	<key>flexVisible</key>
+	<string>canKeepBox</string>
+	<key>mobileAllocator</key>
+	<string>mendTop</string>
+	<key>seamlessScheduler</key>
+	<string>composableImpact</string>
+	<key>shouldhandlegesturedetector</key>
+	<string>specifyTernary</string>
+</dict>
+</plist>

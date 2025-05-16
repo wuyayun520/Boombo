@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicCustomPaint</key>
+	<string>offsetBuilder</string>
+	<key>fixedImage</key>
+	<string>observeAspectRatio</string>
+	<key>popupOpacity</key>
+	<string>sustainableGrain</string>
+	<key>profileformbehavior</key>
+	<string>keysearcher</string>
+	<key>reactiveStateless</key>
+	<string>resultSkewX</string>
+	<key>shouldCreateGestureDetector</key>
+	<string>erasestamp</string>
+	<key>shouldLoadCache</key>
+	<string>oldAccessory</string>
+	<key>statefulRate</key>
+	<string>shouldPushSpot</string>
+	<key>synchronousimagefeedback</key>
+	<string>canYieldGestureDetector</string>
+</dict>
+</plist>

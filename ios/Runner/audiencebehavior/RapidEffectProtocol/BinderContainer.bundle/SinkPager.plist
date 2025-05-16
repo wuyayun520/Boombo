@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyCenter</key>
+	<string>fillgroup</string>
+	<key>liteMethod</key>
+	<string>precisionFrequency</string>
+	<key>mobileRepository</key>
+	<string>shouldSubscribeNotification</string>
+	<key>reactiveanalyzer</key>
+	<string>descriptorCount</string>
+	<key>requiredStrength</key>
+	<string>catalystinterface</string>
+	<key>shouldFormatBase</key>
+	<string>shouldLoadMovement</string>
+</dict>
+</plist>

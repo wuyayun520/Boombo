@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeunaryinset</key>
+	<string>newestAnalogy</string>
+	<key>adaptiveSample</key>
+	<string>shouldNotifyShader</string>
+	<key>fusedCache</key>
+	<string>intermediateView</string>
+	<key>intermediateSubscription</key>
+	<string>retainedFuture</string>
+	<key>permissiveRecursion</key>
+	<string>staticProvider</string>
+	<key>slashScale</key>
+	<string>persistRoute</string>
+</dict>
+</plist>

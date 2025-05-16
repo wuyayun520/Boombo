@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousConsumer</key>
+	<string>tabbarasaction</string>
+	<key>desktopalpha</key>
+	<string>isRole</string>
+	<key>newestSubscription</key>
+	<string>enabledSchema</string>
+	<key>shouldAttachNavigation</key>
+	<string>canResumeCheckbox</string>
+	<key>shouldSaveMultiplication</key>
+	<string>euclideanmatrix</string>
+</dict>
+</plist>

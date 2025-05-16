@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioaction</key>
+	<string>shouldDispatchCustomPaint</string>
+	<key>asyncStatus</key>
+	<string>temporaryInteractor</string>
+	<key>cursorPosition</key>
+	<string>shouldPublishIndicator</string>
+	<key>painterDuration</key>
+	<string>gridviewTransparency</string>
+	<key>subscriptiontop</key>
+	<string>processComposition</string>
+	<key>tableMomentum</key>
+	<string>prioritycoord</string>
+</dict>
+</plist>

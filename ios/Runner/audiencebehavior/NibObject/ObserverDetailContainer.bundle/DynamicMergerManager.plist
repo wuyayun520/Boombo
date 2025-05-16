@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityorientation</key>
+	<string>listenChart</string>
+	<key>desktopPolyfill</key>
+	<string>skinState</string>
+	<key>resizablePublisher</key>
+	<string>debugTimer</string>
+	<key>restrictionDirection</key>
+	<string>discardedview</string>
+	<key>robustpreview</key>
+	<string>interfaceawayparameter</string>
+	<key>screenversusdecorator</key>
+	<string>buildUnary</string>
+	<key>shouldcancelsign</key>
+	<string>elasticScaffold</string>
+	<key>timeSpacing</key>
+	<string>encodeTable</string>
+</dict>
+</plist>

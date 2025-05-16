@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerNotation</key>
+	<string>canPushSizedBox</string>
+	<key>marginShape</key>
+	<string>seamlessisolatecolor</string>
+	<key>optimizerexceptpattern</key>
+	<string>challengeBorder</string>
+	<key>scaffoldnode</key>
+	<string>accessibleBehavior</string>
+	<key>shouldEncodeSpot</key>
+	<string>replicateCompleter</string>
+	<key>shouldStopChannels</key>
+	<string>boxOffset</string>
+	<key>usedEvent</key>
+	<string>shouldkeepnotifier</string>
+</dict>
+</plist>

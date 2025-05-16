@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachshader</key>
+	<string>canTransformMap</string>
+	<key>dimensionsearcher</key>
+	<string>canSetStateArithmetic</string>
+	<key>easyBehavior</key>
+	<string>sizedboxbinder</string>
+	<key>publisherSkewY</key>
+	<string>animatorPosition</string>
+	<key>requestState</key>
+	<string>polyfillBottom</string>
+	<key>shouldAttachHeap</key>
+	<string>sequentialMusic</string>
+	<key>significantMultiplication</key>
+	<string>componentBound</string>
+	<key>uniformEvaluation</key>
+	<string>lastCell</string>
+</dict>
+</plist>

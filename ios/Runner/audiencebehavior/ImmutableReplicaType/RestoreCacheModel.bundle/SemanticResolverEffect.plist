@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousInformation</key>
+	<string>canEndMusic</string>
+	<key>composableElement</key>
+	<string>logrotation</string>
+	<key>lostCheckbox</key>
+	<string>interactiveScroll</string>
+	<key>navigatetool</key>
+	<string>canMountPainter</string>
+	<key>responsiveresource</key>
+	<string>canvasFeedback</string>
+	<key>zonetransparency</key>
+	<string>mutableBandwidth</string>
+</dict>
+</plist>

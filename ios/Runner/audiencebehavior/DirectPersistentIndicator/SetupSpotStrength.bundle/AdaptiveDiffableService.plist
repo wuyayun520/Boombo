@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>notificationmethod</key>
+	<string>baselineDistance</string>
+	<key>permissiveManager</key>
+	<string>dedicatedNotification</string>
+	<key>prevGraph</key>
+	<string>kernelTail</string>
+	<key>referenceFrequency</key>
+	<string>deferredMediaQuery</string>
+	<key>shouldPauseSample</key>
+	<string>explicitQuaternion</string>
+	<key>sophisticatedError</key>
+	<string>assetSkewY</string>
+	<key>subtleCoordinator</key>
+	<string>hasAlpha</string>
+	<key>typicalGate</key>
+	<string>euclideanData</string>
+</dict>
+</plist>

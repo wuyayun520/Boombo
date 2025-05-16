@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateFlex</key>
+	<string>animationlevelspeed</string>
+	<key>dropdownbuttonincludesystem</key>
+	<string>alphaelasticity</string>
+	<key>dynamicanimation</key>
+	<string>curveParameter</string>
+	<key>scrollinflyweight</key>
+	<string>stepBuffer</string>
+	<key>viewdepth</key>
+	<string>heroMethod</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousImpact</key>
+	<string>unscheduleaccessory</string>
+	<key>euclideanDialogs</key>
+	<string>wrapperShade</string>
+	<key>immutableController</key>
+	<string>animatedDescriptor</string>
+	<key>insteadtopic</key>
+	<string>elasticityPosition</string>
+	<key>logarithmrecursion</key>
+	<string>shouldDispatchPlayback</string>
+	<key>lostbuffer</key>
+	<string>canvasTail</string>
+	<key>shouldPopTransition</key>
+	<string>vectorPadding</string>
+</dict>
+</plist>

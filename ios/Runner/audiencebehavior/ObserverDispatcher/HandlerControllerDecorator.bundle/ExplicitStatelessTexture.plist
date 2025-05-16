@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoOrientation</key>
+	<string>initializeService</string>
+	<key>signatureTheme</key>
+	<string>shouldDetachEquipment</string>
+	<key>storyboardbridgeresponse</key>
+	<string>standaloneRect</string>
+	<key>taskmediatordirection</key>
+	<string>characterDirection</string>
+	<key>unactivatedEvolution</key>
+	<string>buttonAcceleration</string>
+</dict>
+</plist>

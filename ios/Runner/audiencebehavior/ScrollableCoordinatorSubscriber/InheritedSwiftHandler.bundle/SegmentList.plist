@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateOpacity</key>
+	<string>performLoop</string>
+	<key>concreteSplitter</key>
+	<string>pivotalRecursion</string>
+	<key>difficultLoop</key>
+	<string>largeMusic</string>
+	<key>enabledAsync</key>
+	<string>optiontexture</string>
+	<key>fragmentsRate</key>
+	<string>floatprovider</string>
+	<key>iterativepresentervelocity</key>
+	<string>canUnmountCupertino</string>
+	<key>logarithmcurve</key>
+	<string>oldMap</string>
+	<key>respectiveCallback</key>
+	<string>stampAppearance</string>
+</dict>
+</plist>

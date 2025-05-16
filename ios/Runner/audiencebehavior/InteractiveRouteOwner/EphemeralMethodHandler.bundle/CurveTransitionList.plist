@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveequipmentindex</key>
+	<string>navigategift</string>
+	<key>basictabbar</key>
+	<string>standalonereference</string>
+	<key>directCurve</key>
+	<string>localizationFacade</string>
+	<key>discardedTool</key>
+	<string>shouldRenderAlert</string>
+	<key>interfaceawaysingleton</key>
+	<string>unmountborder</string>
+	<key>kernelSpacing</key>
+	<string>canEncodeMultiplication</string>
+	<key>momentumtimer</key>
+	<string>rebuildMaterial</string>
+	<key>relationalTolerance</key>
+	<string>parallelEvaluation</string>
+	<key>shouldPauseNorm</key>
+	<string>methodworkdirection</string>
+	<key>tweenbinder</key>
+	<string>directlyJoiner</string>
+</dict>
+</plist>

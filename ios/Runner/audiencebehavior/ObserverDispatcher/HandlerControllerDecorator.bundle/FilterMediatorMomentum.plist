@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionzone</key>
+	<string>progressbartime</string>
+	<key>concurrentPrecision</key>
+	<string>capacitiesskewy</string>
+	<key>cubitFrequency</key>
+	<string>interpolateProvider</string>
+	<key>prismaticController</key>
+	<string>normalrequeststatus</string>
+	<key>storageBorder</key>
+	<string>shouldConnectSession</string>
+	<key>streamMargin</key>
+	<string>deactivateReducer</string>
+	<key>synchronousObject</key>
+	<string>canLoadSegue</string>
+	<key>updatedelegate</key>
+	<string>brushPadding</string>
+</dict>
+</plist>

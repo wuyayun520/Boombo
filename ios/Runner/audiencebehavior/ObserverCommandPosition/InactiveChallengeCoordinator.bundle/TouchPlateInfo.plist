@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCharacteristic</key>
+	<string>combineTransformer</string>
+	<key>compositionalInfo</key>
+	<string>shouldRestartIcon</string>
+	<key>durationacceleration</key>
+	<string>dedicatedPager</string>
+	<key>exitlayout</key>
+	<string>capsuleTension</string>
+	<key>fusedChooser</key>
+	<string>pageviewCenter</string>
+	<key>largeGraphic</key>
+	<string>crudeHandler</string>
+	<key>pointtransparency</key>
+	<string>keyAllocator</string>
+	<key>projectpressure</key>
+	<string>subscribeCapacities</string>
+	<key>shouldUnmountStoryboard</key>
+	<string>originalContainer</string>
+	<key>textureAcceleration</key>
+	<string>shouldBindCache</string>
+</dict>
+</plist>

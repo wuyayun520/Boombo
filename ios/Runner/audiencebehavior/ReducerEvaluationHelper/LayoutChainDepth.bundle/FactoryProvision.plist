@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAppearance</key>
+	<string>publishPrecision</string>
+	<key>concurrentsizedbox</key>
+	<string>protectedTimeline</string>
+	<key>dedicatedUtil</key>
+	<string>smallAscent</string>
+	<key>immutablePriority</key>
+	<string>provideIsolate</string>
+	<key>performstack</key>
+	<string>independentProfile</string>
+	<key>shouldShowComposition</key>
+	<string>transformDrawer</string>
+	<key>shouldUpdateMember</key>
+	<string>textureColor</string>
+	<key>tasksaturation</key>
+	<string>oldAnchor</string>
+</dict>
+</plist>

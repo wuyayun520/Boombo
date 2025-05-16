@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerProtocol</key>
+	<string>kernelRight</string>
+	<key>callbackduringphase</key>
+	<string>checkRequest</string>
+	<key>chooserforce</key>
+	<string>dialogsScope</string>
+	<key>consultativeEntropy</key>
+	<string>basicLoop</string>
+	<key>elasticInteraction</key>
+	<string>lastGrid</string>
+	<key>originalSine</key>
+	<string>offsetevent</string>
+	<key>reactiveInteger</key>
+	<string>blocamongform</string>
+	<key>sustainableDescription</key>
+	<string>saveRadio</string>
+</dict>
+</plist>

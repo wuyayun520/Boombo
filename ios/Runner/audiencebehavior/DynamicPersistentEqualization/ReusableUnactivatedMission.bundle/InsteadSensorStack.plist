@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionasync</key>
+	<string>requiredView</string>
+	<key>diffableIsolate</key>
+	<string>shouldSubscribeReference</string>
+	<key>dynamicconfigurationoffset</key>
+	<string>draggableData</string>
+	<key>granularAlignment</key>
+	<string>storyboardDensity</string>
+	<key>numericalMediaQuery</key>
+	<string>canNotifySpine</string>
+	<key>oldDecoration</key>
+	<string>sortedStoryboard</string>
+	<key>shouldLoadDocument</key>
+	<string>visibleTernary</string>
+</dict>
+</plist>

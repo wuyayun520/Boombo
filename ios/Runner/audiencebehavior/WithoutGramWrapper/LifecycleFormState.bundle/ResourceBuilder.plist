@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elementFeedback</key>
+	<string>flexLayer</string>
+	<key>interpolationgraph</key>
+	<string>commonMetadata</string>
+	<key>opaqueScroller</key>
+	<string>publishSwitch</string>
+	<key>responderForce</key>
+	<string>shouldCacheDelegate</string>
+	<key>resultbuilder</key>
+	<string>drawLabel</string>
+	<key>semanticsvisible</key>
+	<string>canvasMargin</string>
+	<key>shouldEmitStoryboard</key>
+	<string>protocolcompleter</string>
+	<key>shouldFinishBloc</key>
+	<string>delicateStrength</string>
+	<key>sophisticatedDescriptor</key>
+	<string>materialPadding</string>
+</dict>
+</plist>

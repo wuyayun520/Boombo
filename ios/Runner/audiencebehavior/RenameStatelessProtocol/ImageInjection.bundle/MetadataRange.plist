@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveBuilder</key>
+	<string>shouldresumenorm</string>
+	<key>lazydispatcher</key>
+	<string>publisherScale</string>
+	<key>repositoryOpacity</key>
+	<string>adaptiveError</string>
+	<key>scaffoldcluster</key>
+	<string>resizeController</string>
+	<key>shouldPushCustomPaint</key>
+	<string>flexibleStroke</string>
+	<key>zoneDensity</key>
+	<string>secondResponder</string>
+</dict>
+</plist>

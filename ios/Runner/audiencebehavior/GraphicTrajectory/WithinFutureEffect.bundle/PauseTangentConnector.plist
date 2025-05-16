@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deflatestorage</key>
+	<string>scalepager</string>
+	<key>mobilestorage</key>
+	<string>variantAcceleration</string>
+	<key>optimizeinterface</key>
+	<string>bindSwitch</string>
+	<key>persistentSubpixel</key>
+	<string>poolDuration</string>
+	<key>scalevarstatus</key>
+	<string>notificationName</string>
+	<key>sortedSegment</key>
+	<string>typicalMap</string>
+	<key>storageStyle</key>
+	<string>shouldAttachCoordinator</string>
+</dict>
+</plist>

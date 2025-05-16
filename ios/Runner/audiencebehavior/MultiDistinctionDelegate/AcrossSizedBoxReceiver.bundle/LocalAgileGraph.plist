@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorContrast</key>
+	<string>requiredProjection</string>
+	<key>dataSpacing</key>
+	<string>disabledCharacteristic</string>
+	<key>flexiblePet</key>
+	<string>shouldLayoutReduction</string>
+	<key>shouldSetStateCube</key>
+	<string>textfieldacceleration</string>
+</dict>
+</plist>

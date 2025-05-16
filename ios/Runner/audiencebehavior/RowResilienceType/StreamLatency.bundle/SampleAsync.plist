@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actioninterval</key>
+	<string>awaitLocation</string>
+	<key>activatedMethod</key>
+	<string>sizeduringtype</string>
+	<key>basequeue</key>
+	<string>attachIntensity</string>
+	<key>completionSize</key>
+	<string>insteadBuffer</string>
+	<key>denseGesture</key>
+	<string>customFactory</string>
+	<key>sharedallocatorinterval</key>
+	<string>customizedManager</string>
+	<key>skirtEdge</key>
+	<string>projectCoord</string>
+	<key>staticRange</key>
+	<string>hyperbolicMechanism</string>
+	<key>synchronousview</key>
+	<string>revisitInjection</string>
+</dict>
+</plist>

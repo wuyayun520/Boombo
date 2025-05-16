@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableScheduler</key>
+	<string>defaultLog</string>
+	<key>documentagainststate</key>
+	<string>tweakbound</string>
+	<key>filterBrightness</key>
+	<string>shouldFormatHistogram</string>
+	<key>shouldDismissPageView</key>
+	<string>injectBuilder</string>
+	<key>shouldPersistReference</key>
+	<string>accessoryOperation</string>
+	<key>smartmonsterleft</key>
+	<string>multiHero</string>
+	<key>substantialEffect</key>
+	<string>navigateModulus</string>
+</dict>
+</plist>

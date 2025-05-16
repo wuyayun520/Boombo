@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioRate</key>
+	<string>animateBuffer</string>
+	<key>isSpecifier</key>
+	<string>shouldTransitionInkWell</string>
+	<key>listviewphaseskewx</key>
+	<string>cubitviastyle</string>
+	<key>loaderDensity</key>
+	<string>singleCompleter</string>
+	<key>publicTraversal</key>
+	<string>shouldLayoutButton</string>
+	<key>scrollableFormat</key>
+	<string>advancedResult</string>
+	<key>significantConvolution</key>
+	<string>sequentialCompletion</string>
+	<key>significantDisclaimer</key>
+	<string>comprehensiveHistogram</string>
+	<key>smartslider</key>
+	<string>sessionschema</string>
+</dict>
+</plist>

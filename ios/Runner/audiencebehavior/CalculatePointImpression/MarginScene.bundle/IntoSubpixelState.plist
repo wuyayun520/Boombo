@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousComposition</key>
+	<string>largeActivity</string>
+	<key>explicitHash</key>
+	<string>mediocreBatch</string>
+	<key>granularScenario</key>
+	<string>shouldfetchsubpixel</string>
+	<key>parsescene</key>
+	<string>shouldCreateTangent</string>
+	<key>segmentStyle</key>
+	<string>explicitMesh</string>
+	<key>smallIsolate</key>
+	<string>opaqueLogarithm</string>
+	<key>temporaryStoryboard</key>
+	<string>backwardBitrate</string>
+	<key>temporarytimer</key>
+	<string>robustBinder</string>
+</dict>
+</plist>

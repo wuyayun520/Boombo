@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticVariant</key>
+	<string>fixedStore</string>
+	<key>confidentialityresponse</key>
+	<string>diversifiedDelegate</string>
+	<key>denseobject</key>
+	<string>saveAperture</string>
+	<key>eventreplica</key>
+	<string>subpixelCoord</string>
+	<key>greatTable</key>
+	<string>diffableinterpolationskewy</string>
+	<key>intuitiveEqualization</key>
+	<string>sensorinlayer</string>
+	<key>liteInterface</key>
+	<string>minProvider</string>
+	<key>managerState</key>
+	<string>combineException</string>
+	<key>managerbufferbound</key>
+	<string>transformerHue</string>
+	<key>routetime</key>
+	<string>firstController</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonelasticity</key>
+	<string>resultfunctionresponse</string>
+	<key>comprehensiveResponder</key>
+	<string>opaqueScheduler</string>
+	<key>cubitColor</key>
+	<string>resilientGrid</string>
+	<key>cupertinobesidedecorator</key>
+	<string>canEndCustomPaint</string>
+	<key>diversifiedAperture</key>
+	<string>substantialPermutation</string>
+	<key>giftinteraction</key>
+	<string>cartesianstampinterval</string>
+	<key>hyperbolicpicker</key>
+	<string>statefulpressure</string>
+	<key>numericalmusicrate</key>
+	<string>canCacheArithmetic</string>
+	<key>shouldAnimateNorm</key>
+	<string>playbackCoord</string>
+</dict>
+</plist>

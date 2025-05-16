@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>escalatepainter</key>
+	<string>eagerRectangle</string>
+	<key>euclideanScene</key>
+	<string>retainedAnimatedContainer</string>
+	<key>gridofobserver</key>
+	<string>shouldDisconnectStateless</string>
+	<key>ignoredChart</key>
+	<string>appbarparameterdistance</string>
+	<key>immutableTransition</key>
+	<string>shouldUpdateLoss</string>
+	<key>progressbarBorder</key>
+	<string>canParseFlex</string>
+	<key>singleAscent</key>
+	<string>shouldShowSlash</string>
+	<key>tensorRectangle</key>
+	<string>shouldPublishActivity</string>
+	<key>unregistercontainer</key>
+	<string>shouldTransformCompletion</string>
+</dict>
+</plist>

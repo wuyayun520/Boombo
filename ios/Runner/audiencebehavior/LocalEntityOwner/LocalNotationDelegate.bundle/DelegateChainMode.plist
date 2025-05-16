@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardposition</key>
+	<string>canSetStateExpanded</string>
+	<key>channelcontaintype</key>
+	<string>directInfo</string>
+	<key>difficultParticle</key>
+	<string>disconnectmenu</string>
+	<key>equalizationshape</key>
+	<string>canLayoutWorkflow</string>
+	<key>hierarchicalAnalogy</key>
+	<string>directMaterializer</string>
+	<key>mediocreGate</key>
+	<string>navigateCompletion</string>
+	<key>otherGridView</key>
+	<string>canCreateLogarithm</string>
+	<key>pageviewContrast</key>
+	<string>resourceright</string>
+	<key>widgetcharacteristic</key>
+	<string>spineVelocity</string>
+</dict>
+</plist>

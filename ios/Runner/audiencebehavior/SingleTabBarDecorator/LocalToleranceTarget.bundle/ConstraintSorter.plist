@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatoraroundflyweight</key>
+	<string>accessibleManager</string>
+	<key>aspectCount</key>
+	<string>significantLatency</string>
+	<key>shouldEndTheme</key>
+	<string>stateValidation</string>
+	<key>shouldrebuildconstraint</key>
+	<string>ignoredSignature</string>
+</dict>
+</plist>

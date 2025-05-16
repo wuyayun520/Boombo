@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentscheduler</key>
+	<string>reusabletaskfrequency</string>
+	<key>indicatorduration</key>
+	<string>popPlayback</string>
+	<key>overlayInteraction</key>
+	<string>opaqueUtil</string>
+	<key>publicnotifier</key>
+	<string>routeTouch</string>
+	<key>shouldDispatchBrush</key>
+	<string>moveGraph</string>
+	<key>shouldInflateProtocol</key>
+	<string>statefulAnimatedContainer</string>
+	<key>shouldResumeAppBar</key>
+	<string>requiredDrawer</string>
+	<key>statefulModel</key>
+	<string>fixedCollection</string>
+	<key>textureTint</key>
+	<string>threadInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSchema</key>
+	<string>consultativeEffect</string>
+	<key>composableEquipment</key>
+	<string>extensionOffset</string>
+	<key>converterColor</key>
+	<string>playbackLevel</string>
+	<key>eagerSplitter</key>
+	<string>shouldPresentAspectRatio</string>
+	<key>exponentcontrast</key>
+	<string>checkFrame</string>
+	<key>playbackstrategyduration</key>
+	<string>fetchModal</string>
+	<key>protectedConstant</key>
+	<string>subscriptionMargin</string>
+	<key>resetslider</key>
+	<string>provideStream</string>
+	<key>significantGroup</key>
+	<string>accordionImage</string>
+	<key>tableVelocity</key>
+	<string>multiColor</string>
+</dict>
+</plist>

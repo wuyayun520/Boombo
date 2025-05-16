@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardTint</key>
+	<string>decodeNotification</string>
+	<key>discardedConsumer</key>
+	<string>shouldEndDecoration</string>
+	<key>ephemeralState</key>
+	<string>euclideanTimeline</string>
+	<key>factoryBottom</key>
+	<string>searchInteractor</string>
+	<key>imperativeProgressBar</key>
+	<string>touchRotation</string>
+	<key>shouldConnectCupertino</key>
+	<string>rectTheme</string>
+	<key>shouldProcessSkin</key>
+	<string>multiAspect</string>
+</dict>
+</plist>

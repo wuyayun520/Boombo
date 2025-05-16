@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxInset</key>
+	<string>substantialAudio</string>
+	<key>defaultDialogs</key>
+	<string>shouldHandleButton</string>
+	<key>discardedbuffer</key>
+	<string>updateRadius</string>
+	<key>exceptiondensity</key>
+	<string>retrieveScene</string>
+	<key>localMovement</key>
+	<string>shouldSetStateAnchor</string>
+	<key>shouldconnectvariant</key>
+	<string>swiftDistance</string>
+	<key>slashFormat</key>
+	<string>mountContainer</string>
+	<key>substantialCompleter</key>
+	<string>eagerJoiner</string>
+	<key>variantflags</key>
+	<string>promiseTension</string>
+</dict>
+</plist>

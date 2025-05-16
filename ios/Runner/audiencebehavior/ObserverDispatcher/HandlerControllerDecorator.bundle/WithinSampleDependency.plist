@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesBrightness</key>
+	<string>clipperexceptaction</string>
+	<key>composableProgressBar</key>
+	<string>handleractionrotation</string>
+	<key>cubeCenter</key>
+	<string>finishMaterial</string>
+	<key>firstInkWell</key>
+	<string>signaturecommandbottom</string>
+	<key>flexibleReceiver</key>
+	<string>visualizeTween</string>
+	<key>retainedpresenter</key>
+	<string>visibleActivity</string>
+	<key>serviceindex</key>
+	<string>shouldLayoutContraction</string>
+	<key>viewinformation</key>
+	<string>isolateCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxtimeline</key>
+	<string>operationSkewY</string>
+	<key>disabledFragment</key>
+	<string>criticalSign</string>
+	<key>drawerandbridge</key>
+	<string>notifyPriority</string>
+	<key>preparebehavior</key>
+	<string>canRebuildOverlay</string>
+	<key>rectRate</key>
+	<string>missedListener</string>
+	<key>shouldMountShader</key>
+	<string>smallSwitch</string>
+	<key>shouldTransformMargin</key>
+	<string>parseMethod</string>
+	<key>shouldhandleborder</key>
+	<string>staticUsage</string>
+</dict>
+</plist>

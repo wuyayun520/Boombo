@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoDecoration</key>
+	<string>primaryResult</string>
+	<key>bulletColor</key>
+	<string>materialPoint</string>
+	<key>crudeTimer</key>
+	<string>shouldPersistFragment</string>
+	<key>modalState</key>
+	<string>localizationTheme</string>
+	<key>resourceinset</key>
+	<string>elasticrow</string>
+	<key>slashthanparameter</key>
+	<string>invisibleDrawer</string>
+	<key>smallVolume</key>
+	<string>unregisterUtil</string>
+	<key>viewvisitorbrightness</key>
+	<string>integrityOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesDistance</key>
+	<string>holdTitle</string>
+	<key>displayableTweak</key>
+	<string>canRouteCosine</string>
+	<key>liteDescent</key>
+	<string>chartActivity</string>
+	<key>resizableModel</key>
+	<string>shouldAnimateBorder</string>
+	<key>shouldBuildAlpha</key>
+	<string>injectDecoration</string>
+	<key>similarGrayscale</key>
+	<string>similarDropdownButton</string>
+</dict>
+</plist>

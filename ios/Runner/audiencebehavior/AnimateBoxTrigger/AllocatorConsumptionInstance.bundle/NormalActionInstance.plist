@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedOptimizer</key>
+	<string>finderCenter</string>
+	<key>coordinatorright</key>
+	<string>canYieldHeap</string>
+	<key>crucialTabBar</key>
+	<string>requiredBoxShadow</string>
+	<key>crucialUnary</key>
+	<string>writeRequest</string>
+	<key>shouldCancelMonster</key>
+	<string>shouldBuildRoute</string>
+	<key>significantscenario</key>
+	<string>queueskewx</string>
+</dict>
+</plist>

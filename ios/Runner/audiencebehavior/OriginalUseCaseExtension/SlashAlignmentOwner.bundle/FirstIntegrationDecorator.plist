@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionbottom</key>
+	<string>inheritedCycle</string>
+	<key>efficiencyShade</key>
+	<string>canShowConvolution</string>
+	<key>equipmentVisibility</key>
+	<string>mutableReference</string>
+	<key>euclideanAsset</key>
+	<string>sortedSkin</string>
+	<key>inactiveAnimatedContainer</key>
+	<string>modulusNumber</string>
+	<key>navigationDelay</key>
+	<string>visualizeGrid</string>
+	<key>oldAlpha</key>
+	<string>keysingleton</string>
+	<key>shouldDismissSegue</key>
+	<string>significantTheme</string>
+</dict>
+</plist>

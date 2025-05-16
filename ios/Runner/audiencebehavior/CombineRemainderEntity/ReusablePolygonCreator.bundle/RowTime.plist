@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerproxycount</key>
+	<string>basicPolyfill</string>
+	<key>shouldPauseUsage</key>
+	<string>shouldUnbindProfile</string>
+	<key>shouldcontinueconsumer</key>
+	<string>tentativeSaturation</string>
+	<key>texturetemplebound</key>
+	<string>drawdelegate</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionpermediator</key>
+	<string>refreshGrain</string>
+	<key>seamlessCurve</key>
+	<string>zonebrightness</string>
+	<key>segueAlignment</key>
+	<string>canDisconnectAnchor</string>
+	<key>spotindex</key>
+	<string>inflatePresenter</string>
+	<key>visibleTheme</key>
+	<string>canLayoutSensor</string>
+</dict>
+</plist>

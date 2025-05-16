@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainercharacteristic</key>
+	<string>storageforlayer</string>
+	<key>asynchronousData</key>
+	<string>shouldParseFlex</string>
+	<key>borderValidation</key>
+	<string>computeController</string>
+	<key>composablegrain</key>
+	<string>shouldParseMultiplication</string>
+	<key>globalTween</key>
+	<string>canReplaceCharacter</string>
+	<key>granularRouter</key>
+	<string>animationRotation</string>
+	<key>shouldUnmountedLabel</key>
+	<string>resizableElasticity</string>
+	<key>webcompositionresponse</key>
+	<string>listviewRotation</string>
+</dict>
+</plist>

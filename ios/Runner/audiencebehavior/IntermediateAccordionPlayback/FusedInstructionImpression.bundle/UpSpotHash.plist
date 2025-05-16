@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateScale</key>
+	<string>dismissOperation</string>
+	<key>draggableScheduler</key>
+	<string>mediaFlyweight</string>
+	<key>imperativeAppBar</key>
+	<string>propagateDuration</string>
+	<key>inheritedExpanded</key>
+	<string>canDetachBehavior</string>
+	<key>intermediateCombiner</key>
+	<string>defaultbatch</string>
+	<key>isusage</key>
+	<string>reliabilityinterval</string>
+	<key>mutableQueue</key>
+	<string>toolValidation</string>
+	<key>rapidTopic</key>
+	<string>disabledTweak</string>
+	<key>roleatobserver</key>
+	<string>shouldAnimateExponent</string>
+	<key>shouldSkipDialogs</key>
+	<string>usedScroll</string>
+</dict>
+</plist>

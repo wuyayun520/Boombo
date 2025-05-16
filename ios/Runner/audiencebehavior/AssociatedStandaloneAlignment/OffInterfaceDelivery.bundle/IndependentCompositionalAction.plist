@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedInjection</key>
+	<string>backwardDelivery</string>
+	<key>confidentialityRight</key>
+	<string>fixedworkflow</string>
+	<key>criticalEqualization</key>
+	<string>mixinsine</string>
+	<key>iterativeSwitch</key>
+	<string>smartSubpixel</string>
+	<key>permutationLeft</key>
+	<string>mapChain</string>
+	<key>popupprototypeinterval</key>
+	<string>priorImage</string>
+	<key>primaryinteractormode</key>
+	<string>localizationhead</string>
+	<key>viewCoord</key>
+	<string>drawerDelay</string>
+</dict>
+</plist>

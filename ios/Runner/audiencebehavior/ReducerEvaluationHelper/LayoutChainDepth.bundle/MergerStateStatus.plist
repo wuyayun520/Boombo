@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customInjection</key>
+	<string>seamlessArithmetic</string>
+	<key>diffableGraphic</key>
+	<string>linkerCount</string>
+	<key>evaluationDistance</key>
+	<string>mediocreStep</string>
+	<key>mobileIntegrity</key>
+	<string>expandedDepth</string>
+	<key>mutableConsumption</key>
+	<string>dismissNib</string>
+	<key>presenterVisible</key>
+	<string>clippermend</string>
+	<key>subtleAxis</key>
+	<string>checkLocalization</string>
+</dict>
+</plist>

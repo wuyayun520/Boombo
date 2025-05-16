@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintcycleformat</key>
+	<string>keepstateful</string>
+	<key>delicateCertificate</key>
+	<string>delegateposition</string>
+	<key>mediumAnimator</key>
+	<string>normalGroup</string>
+	<key>parallelCard</key>
+	<string>largeSkirt</string>
+	<key>shearskin</key>
+	<string>techniqueRotation</string>
+	<key>storeconstraint</key>
+	<string>shouldBindOverlay</string>
+	<key>uniformSpine</key>
+	<string>actionVisitor</string>
+</dict>
+</plist>

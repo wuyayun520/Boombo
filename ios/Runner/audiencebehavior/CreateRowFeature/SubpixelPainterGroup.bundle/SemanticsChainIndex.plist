@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isdocument</key>
+	<string>handlervisitorhead</string>
+	<key>optimizethread</key>
+	<string>resourceshade</string>
+	<key>requiredPrecision</key>
+	<string>localizationLocation</string>
+	<key>shaderBehavior</key>
+	<string>combinerDirection</string>
+	<key>sophisticatedCompleter</key>
+	<string>attachRichText</string>
+	<key>subscriberLocation</key>
+	<string>displayableDropdownButton</string>
+</dict>
+</plist>

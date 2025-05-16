@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturepager</key>
+	<string>geometricStoryboard</string>
+	<key>backwardDetector</key>
+	<string>adjustResponse</string>
+	<key>bordersubscriber</key>
+	<string>bitrateAdapter</string>
+	<key>diffableVariant</key>
+	<string>shouldSetStateCaption</string>
+	<key>previewFlags</key>
+	<string>cardInteraction</string>
+	<key>textagainstinterpreter</key>
+	<string>radiusStrategy</string>
+</dict>
+</plist>

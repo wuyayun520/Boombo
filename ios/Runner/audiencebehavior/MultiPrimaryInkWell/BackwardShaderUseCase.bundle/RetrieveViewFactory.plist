@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorPosition</key>
+	<string>navigatorProxy</string>
+	<key>channelthreshold</key>
+	<string>observePresenter</string>
+	<key>deliveryIndex</key>
+	<string>directlyInterpolation</string>
+	<key>entitylocation</key>
+	<string>paddingcontrast</string>
+	<key>firstLocalization</key>
+	<string>entityValidation</string>
+	<key>inactiveCard</key>
+	<string>sinkOperation</string>
+	<key>loopCenter</key>
+	<string>inactiveBoxShadow</string>
+	<key>onstacktap</key>
+	<string>taskVar</string>
+	<key>resilientIntensity</key>
+	<string>detachCharacter</string>
+	<key>titleformdistance</key>
+	<string>mutablepresenterbehavior</string>
+</dict>
+</plist>

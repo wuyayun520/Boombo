@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianScroll</key>
+	<string>shouldKeepEntropy</string>
+	<key>convolutionSkewY</key>
+	<string>immediateMetrics</string>
+	<key>customizedDisclaimer</key>
+	<string>maintainTransformer</string>
+	<key>handlebloc</key>
+	<string>triggerState</string>
+	<key>priorityKind</key>
+	<string>promiseMargin</string>
+	<key>reductionShade</key>
+	<string>respectiveBehavior</string>
+	<key>shouldInflateProfile</key>
+	<string>asynchronousElasticity</string>
+	<key>shouldRouteTouch</key>
+	<string>analyzerinset</string>
+	<key>singleSelector</key>
+	<string>executeFactory</string>
+	<key>uniformGradient</key>
+	<string>fetchCosine</string>
+</dict>
+</plist>

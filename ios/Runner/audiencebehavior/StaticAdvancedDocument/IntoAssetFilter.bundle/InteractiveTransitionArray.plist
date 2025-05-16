@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFormat</key>
+	<string>canDeserializeReference</string>
+	<key>crudeCollection</key>
+	<string>mapForm</string>
+	<key>listenernumbervisible</key>
+	<string>richtextResponse</string>
+	<key>momentumrate</key>
+	<string>observepromise</string>
+	<key>pointpressure</key>
+	<string>shouldpublishbehavior</string>
+	<key>shouldPushPriority</key>
+	<string>layoutcontainaction</string>
+</dict>
+</plist>

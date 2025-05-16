@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianInformation</key>
+	<string>largeWrapper</string>
+	<key>cubesprite</key>
+	<string>synchronousCanvas</string>
+	<key>drawertail</key>
+	<string>eagerRoute</string>
+	<key>iterativeHistogram</key>
+	<string>beginnerAmortization</string>
+	<key>overlayTransparency</key>
+	<string>firstPublisher</string>
+	<key>shouldDetachCycle</key>
+	<string>canMountedDecoration</string>
+	<key>shouldReplacePadding</key>
+	<string>canInflateLayout</string>
+	<key>shouldfinishbuilder</key>
+	<string>processAxis</string>
+	<key>smartLog</key>
+	<string>canDeserializeCharacter</string>
+</dict>
+</plist>

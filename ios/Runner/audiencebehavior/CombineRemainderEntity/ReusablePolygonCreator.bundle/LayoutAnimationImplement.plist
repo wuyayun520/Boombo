@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorRight</key>
+	<string>elasticPager</string>
+	<key>defaultcatalyst</key>
+	<string>buildReference</string>
+	<key>difficultTraversal</key>
+	<string>shouldProcessInteger</string>
+	<key>graphagainststyle</key>
+	<string>dimensionrectangle</string>
+	<key>immutableChannel</key>
+	<string>ephemeralLogarithm</string>
+	<key>resilientMomentum</key>
+	<string>kernelscene</string>
+	<key>singleAnimator</key>
+	<string>hardProgressBar</string>
+	<key>skipsample</key>
+	<string>largeSensor</string>
+	<key>stateFlags</key>
+	<string>transposeTransition</string>
+</dict>
+</plist>

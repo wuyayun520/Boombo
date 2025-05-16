@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infrastructureinteraction</key>
+	<string>normactionfeedback</string>
+	<key>mediocreReduction</key>
+	<string>subsequentLatency</string>
+	<key>offsetmapper</key>
+	<string>significantsegment</string>
+	<key>stateTail</key>
+	<string>observerResponse</string>
+	<key>unactivatedprotocolshade</key>
+	<string>temporaryThreshold</string>
+</dict>
+</plist>

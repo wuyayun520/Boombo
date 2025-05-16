@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorCoord</key>
+	<string>radiusScale</string>
+	<key>containerFlags</key>
+	<string>animateroute</string>
+	<key>pinchableRouter</key>
+	<string>shouldRouteSpot</string>
+	<key>reducerbynumber</key>
+	<string>defaultEffect</string>
+	<key>reusablestoryboardpadding</key>
+	<string>revisitmethod</string>
+	<key>sustainableFeature</key>
+	<string>relationalSensor</string>
+	<key>timelineDensity</key>
+	<string>accordionAsync</string>
+	<key>uniformallocatorshape</key>
+	<string>localizationframeworkinterval</string>
+	<key>yieldcollection</key>
+	<string>shouldParseModulus</string>
+</dict>
+</plist>

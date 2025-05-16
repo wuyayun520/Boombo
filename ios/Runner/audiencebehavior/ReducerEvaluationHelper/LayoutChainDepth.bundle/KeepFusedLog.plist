@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveMaterial</key>
+	<string>videoTop</string>
+	<key>easyMember</key>
+	<string>curveOrigin</string>
+	<key>materialScaffold</key>
+	<string>compareError</string>
+	<key>positionedDistance</key>
+	<string>curveactionsize</string>
+	<key>traversalMode</key>
+	<string>interpolationInteraction</string>
+	<key>usageResponse</key>
+	<string>keyPicker</string>
+</dict>
+</plist>

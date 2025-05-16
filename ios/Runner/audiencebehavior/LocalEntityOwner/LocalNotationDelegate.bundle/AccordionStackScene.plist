@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianDropdownButton</key>
+	<string>entityAppearance</string>
+	<key>groupMargin</key>
+	<string>bindView</string>
+	<key>nibOpacity</key>
+	<string>priorityPressure</string>
+	<key>profilehero</key>
+	<string>catalystPhase</string>
+	<key>promisereplica</key>
+	<string>difficultCapacity</string>
+	<key>signatureMargin</key>
+	<string>draggableListView</string>
+</dict>
+</plist>

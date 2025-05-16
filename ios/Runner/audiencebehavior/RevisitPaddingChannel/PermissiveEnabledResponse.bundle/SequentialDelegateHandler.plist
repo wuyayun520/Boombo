@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMediaQuery</key>
+	<string>materialReference</string>
+	<key>largeTraversal</key>
+	<string>primaryCube</string>
+	<key>lastDetector</key>
+	<string>detachCollection</string>
+	<key>scrollableassettop</key>
+	<string>mediaqueryinset</string>
+	<key>shouldSubscribeImage</key>
+	<string>lasttaskfrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autogate</key>
+	<string>pivotalHeap</string>
+	<key>currentcanvas</key>
+	<string>missedSelector</string>
+	<key>diffableChapter</key>
+	<string>screenMediator</string>
+	<key>multiSingleton</key>
+	<string>rowRotation</string>
+	<key>multiplicationedge</key>
+	<string>borderfeedback</string>
+	<key>rebuildscreen</key>
+	<string>cloneChannel</string>
+	<key>semanticsBrightness</key>
+	<string>subsequentAlpha</string>
+	<key>sizephaselocation</key>
+	<string>shouldCreateCanvas</string>
+	<key>uniqueAccessory</key>
+	<string>mapperStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarstate</key>
+	<string>shouldValidateClipper</string>
+	<key>backwardAmortization</key>
+	<string>retainedgraininterval</string>
+	<key>buttonnode</key>
+	<string>nextScroller</string>
+	<key>colorHue</key>
+	<string>shouldDisposeSemantics</string>
+	<key>framethroughsingleton</key>
+	<string>canTransformNotification</string>
+	<key>nibvisible</key>
+	<string>alignmentLevel</string>
+	<key>sliderMomentum</key>
+	<string>mechanismSpeed</string>
+</dict>
+</plist>

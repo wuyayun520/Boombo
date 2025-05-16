@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentSorter</key>
+	<string>canPrepareReduction</string>
+	<key>errorShade</key>
+	<string>displayableHistogram</string>
+	<key>missedgate</key>
+	<string>advancedShape</string>
+	<key>publicPainter</key>
+	<string>canDisposeView</string>
+	<key>requiredRadius</key>
+	<string>shouldContinueGradient</string>
+	<key>shouldDetachHistogram</key>
+	<string>remainderdepth</string>
+	<key>texturecolor</key>
+	<string>groupTier</string>
+</dict>
+</plist>

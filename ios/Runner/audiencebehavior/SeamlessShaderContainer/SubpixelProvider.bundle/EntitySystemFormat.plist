@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredManager</key>
+	<string>associatedRole</string>
+	<key>elasticConsumption</key>
+	<string>sliderInset</string>
+	<key>retainedGroup</key>
+	<string>infoSkewY</string>
+	<key>secondNavigator</key>
+	<string>animatedChallenge</string>
+	<key>sharedLabel</key>
+	<string>processorDistance</string>
+	<key>shouldListenListView</key>
+	<string>unsortedRepository</string>
+	<key>shouldcachegram</key>
+	<string>permanentRoute</string>
+</dict>
+</plist>

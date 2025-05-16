@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileConstant</key>
+	<string>shouldDisposeMember</string>
+	<key>beginnerHeap</key>
+	<string>storagecharacteristic</string>
+	<key>dedicatedSpine</key>
+	<string>multiAsync</string>
+	<key>fixedSymbol</key>
+	<string>configurationInterval</string>
+	<key>imperativeChannels</key>
+	<string>baselineFlyweight</string>
+	<key>inactiveSelector</key>
+	<string>inflateOption</string>
+	<key>localTimer</key>
+	<string>canEmitStep</string>
+	<key>provideroutsideoperation</key>
+	<string>inflateHistogram</string>
+	<key>shouldpresentreference</key>
+	<string>hyperbolicCache</string>
+</dict>
+</plist>

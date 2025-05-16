@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentInset</key>
+	<string>typicalTextField</string>
+	<key>explicitMetrics</key>
+	<string>autoAwait</string>
+	<key>heapmomentum</key>
+	<string>asyncbeyondlevel</string>
+	<key>hierarchicalScaffold</key>
+	<string>chapterVisitor</string>
+	<key>shouldParseColumn</key>
+	<string>canRebuildConstraint</string>
+	<key>shouldProcessComposition</key>
+	<string>significantconstraintscale</string>
+</dict>
+</plist>

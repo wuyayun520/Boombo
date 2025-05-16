@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedEquipment</key>
+	<string>detachDependency</string>
+	<key>analyzerBehavior</key>
+	<string>deserializeSubpixel</string>
+	<key>autoTraversal</key>
+	<string>canNavigateMedia</string>
+	<key>delegateMomentum</key>
+	<string>providerpublisher</string>
+	<key>difficultaxis</key>
+	<string>singleCubit</string>
+	<key>materialInteger</key>
+	<string>gridForce</string>
+	<key>publisherkind</key>
+	<string>scaffoldTag</string>
+</dict>
+</plist>

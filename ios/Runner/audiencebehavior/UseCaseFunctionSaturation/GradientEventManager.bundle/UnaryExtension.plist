@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>newestDetector</key>
+	<string>decouplecache</string>
+	<key>opaqueIntegrity</key>
+	<string>positionBrightness</string>
+	<key>presenteradapterspacing</key>
+	<string>shouldFetchTool</string>
+	<key>respectiveMechanism</key>
+	<string>tappableNib</string>
+	<key>resultOrigin</key>
+	<string>resourcepatternkind</string>
+	<key>sheargroup</key>
+	<string>dispatchBuilder</string>
+	<key>shouldCreateCertificate</key>
+	<string>declarativeschema</string>
+	<key>tensorDuration</key>
+	<string>saveappbar</string>
+	<key>usedTitle</key>
+	<string>scrollableCanvas</string>
+</dict>
+</plist>

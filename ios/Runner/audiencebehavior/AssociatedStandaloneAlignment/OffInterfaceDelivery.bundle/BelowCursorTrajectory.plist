@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localizationrotation</key>
+	<string>shouldSkipChallenge</string>
+	<key>nativeInteger</key>
+	<string>currentbloc</string>
+	<key>pinchableProtocol</key>
+	<string>streamasync</string>
+	<key>resilientNotifier</key>
+	<string>remediationVelocity</string>
+	<key>swiftName</key>
+	<string>responsiveCapsule</string>
+</dict>
+</plist>

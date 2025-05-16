@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMedia</key>
+	<string>blocAlignment</string>
+	<key>accessiblestream</key>
+	<string>shouldBindBinary</string>
+	<key>directresponse</key>
+	<string>interceptGrid</string>
+	<key>entitysensor</key>
+	<string>priorityRate</string>
+	<key>explicitEqualization</key>
+	<string>usagematrix</string>
+	<key>granularawait</key>
+	<string>pushSensor</string>
+	<key>tensorScenario</key>
+	<string>marginFunction</string>
+</dict>
+</plist>

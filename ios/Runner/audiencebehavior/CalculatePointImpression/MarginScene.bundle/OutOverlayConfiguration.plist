@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCursor</key>
+	<string>shouldPopGram</string>
+	<key>decorationSize</key>
+	<string>rebuildActivity</string>
+	<key>hasPriority</key>
+	<string>delicateCompleter</string>
+	<key>lazyScreen</key>
+	<string>relationalprogressbarorientation</string>
+	<key>optimizerhue</key>
+	<string>statefulBuffer</string>
+	<key>retainedBuilder</key>
+	<string>denseHeap</string>
+	<key>shaderforce</key>
+	<string>consumerchart</string>
+	<key>specifyScaffold</key>
+	<string>semanticTrigger</string>
+	<key>unactivatedsine</key>
+	<string>skipView</string>
+</dict>
+</plist>

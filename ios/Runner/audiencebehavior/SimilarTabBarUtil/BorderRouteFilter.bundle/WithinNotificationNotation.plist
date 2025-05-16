@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildercyclevisibility</key>
+	<string>lastDocument</string>
+	<key>draweracceleration</key>
+	<string>featureInterval</string>
+	<key>ephemeralModulus</key>
+	<string>shouldBindBorder</string>
+	<key>invisibleStep</key>
+	<string>analyzerIndex</string>
+	<key>publicAsync</key>
+	<string>provisionSpeed</string>
+	<key>shouldConnectInteger</key>
+	<string>formatShape</string>
+</dict>
+</plist>

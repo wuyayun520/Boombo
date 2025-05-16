@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalchapter</key>
+	<string>streamImage</string>
+	<key>managerSkewX</key>
+	<string>sharedStream</string>
+	<key>scrollableAnimator</key>
+	<string>segmentComposite</string>
+	<key>shouldCacheBorder</key>
+	<string>statemodel</string>
+	<key>signatureOffset</key>
+	<string>robustResponder</string>
+	<key>smallMesh</key>
+	<string>projectionSystem</string>
+	<key>storageValidation</key>
+	<string>bandwidthDepth</string>
+	<key>tappablescroller</key>
+	<string>skinpressure</string>
+	<key>unactivatedAlert</key>
+	<string>storyboardStage</string>
+	<key>undertakemanager</key>
+	<string>instantiateProvider</string>
+</dict>
+</plist>

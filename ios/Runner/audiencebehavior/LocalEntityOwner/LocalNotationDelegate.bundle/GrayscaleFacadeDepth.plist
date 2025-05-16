@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderStatus</key>
+	<string>descentFlags</string>
+	<key>exceptionPosition</key>
+	<string>resumeNavigation</string>
+	<key>nativehash</key>
+	<string>firstStrength</string>
+	<key>otherUtil</key>
+	<string>backwardSign</string>
+	<key>pivotalHash</key>
+	<string>globalLog</string>
+	<key>restoremedia</key>
+	<string>canSerializeScaffold</string>
+</dict>
+</plist>

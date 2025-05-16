@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferVisible</key>
+	<string>mediocreusecasepadding</string>
+	<key>buttonatflyweight</key>
+	<string>buildcallback</string>
+	<key>cardDelay</key>
+	<string>decodeMission</string>
+	<key>declarativeBinary</key>
+	<string>storeContext</string>
+	<key>displayableProgressBar</key>
+	<string>createallocator</string>
+	<key>mainTicker</key>
+	<string>associatedAudio</string>
+	<key>markrepository</key>
+	<string>prepareHeap</string>
+	<key>navigatestamp</key>
+	<string>firstsensor</string>
+	<key>shouldcancelgesturedetector</key>
+	<string>shouldDeserializeCatalyst</string>
+	<key>timerfrommemento</key>
+	<string>delicateEvent</string>
+</dict>
+</plist>

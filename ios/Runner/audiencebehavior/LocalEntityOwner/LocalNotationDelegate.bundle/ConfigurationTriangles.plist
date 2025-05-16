@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoleveldensity</key>
+	<string>constantDelay</string>
+	<key>customizedTouch</key>
+	<string>shouldpaintwidget</string>
+	<key>logVisible</key>
+	<string>animatedException</string>
+	<key>lostsymboldensity</key>
+	<string>textFlyweight</string>
+	<key>movementcontainprototype</key>
+	<string>consumervalidation</string>
+	<key>searcherBorder</key>
+	<string>radiusLocation</string>
+</dict>
+</plist>

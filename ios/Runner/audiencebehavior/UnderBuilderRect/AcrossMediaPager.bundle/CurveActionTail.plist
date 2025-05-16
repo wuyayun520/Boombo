@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonDistinction</key>
+	<string>tappableChannel</string>
+	<key>convolutionRight</key>
+	<string>pinchableAction</string>
+	<key>parallelprecisionvalidation</key>
+	<string>markAnimation</string>
+	<key>resizablebuttonvisible</key>
+	<string>shouldInflatePadding</string>
+	<key>shouldPaintDuration</key>
+	<string>attachmodulus</string>
+</dict>
+</plist>

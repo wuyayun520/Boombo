@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicEmitter</key>
+	<string>behaviordecoratortag</string>
+	<key>equalfeature</key>
+	<string>rowStage</string>
+	<key>fixedMaterializer</key>
+	<string>persistentradius</string>
+	<key>inactiveReference</key>
+	<string>logCycle</string>
+	<key>inheritedGem</key>
+	<string>mainCube</string>
+	<key>operationexception</key>
+	<string>tappableSplitter</string>
+	<key>shouldRenderConvolution</key>
+	<string>containerTier</string>
+	<key>shouldResumeController</key>
+	<string>updateKernel</string>
+	<key>shouldStartBatch</key>
+	<string>shearSlider</string>
+</dict>
+</plist>

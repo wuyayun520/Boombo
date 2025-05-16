@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentElement</key>
+	<string>descriptionSkewX</string>
+	<key>inheritedResource</key>
+	<string>shouldEmitScreen</string>
+	<key>lastHero</key>
+	<string>scheduleaxis</string>
+	<key>loaderInteraction</key>
+	<string>trainCosine</string>
+	<key>secondIsolate</key>
+	<string>indicatorBuffer</string>
+	<key>spineHue</key>
+	<string>connectThread</string>
+	<key>sustainableReference</key>
+	<string>canContinueRadio</string>
+</dict>
+</plist>

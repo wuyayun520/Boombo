@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderPosition</key>
+	<string>assetRate</string>
+	<key>challengeDirection</key>
+	<string>canDispatchComposition</string>
+	<key>converterFlags</key>
+	<string>blocviaproxy</string>
+	<key>cubeStyle</key>
+	<string>awaitLocation</string>
+	<key>iterativeTitle</key>
+	<string>textureName</string>
+	<key>materialText</key>
+	<string>minCatalyst</string>
+	<key>shouldYieldGraphic</key>
+	<string>remediationResponse</string>
+	<key>texturehue</key>
+	<string>sortedEmitter</string>
+	<key>traversalsize</key>
+	<string>yieldNotifier</string>
+</dict>
+</plist>

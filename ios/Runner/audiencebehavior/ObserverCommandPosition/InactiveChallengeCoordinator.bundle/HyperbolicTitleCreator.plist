@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackasbuffer</key>
+	<string>menuActivity</string>
+	<key>detailDuration</key>
+	<string>detectorFeedback</string>
+	<key>mobilequaternion</key>
+	<string>storyboardDistance</string>
+	<key>semanticsRate</key>
+	<string>serializeevent</string>
+	<key>serviceshade</key>
+	<string>measurefragment</string>
+	<key>stopanimation</key>
+	<string>canCacheAspectRatio</string>
+	<key>unactivatedOperation</key>
+	<string>statelessSignature</string>
+	<key>variantFlags</key>
+	<string>scaffoldParameter</string>
+</dict>
+</plist>

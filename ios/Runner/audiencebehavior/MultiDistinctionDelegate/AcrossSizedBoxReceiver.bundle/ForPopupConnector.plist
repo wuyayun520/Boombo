@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchoraction</key>
+	<string>finishSpecifier</string>
+	<key>formatbuilder</key>
+	<string>errorShape</string>
+	<key>fragmentsInteraction</key>
+	<string>ternaryPosition</string>
+	<key>significantBuffer</key>
+	<string>localTraversal</string>
+	<key>spritecommanddistance</key>
+	<string>diffableDimension</string>
+</dict>
+</plist>

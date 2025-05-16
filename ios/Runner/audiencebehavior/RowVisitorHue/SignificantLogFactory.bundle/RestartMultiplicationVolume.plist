@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousRichText</key>
+	<string>vectorChain</string>
+	<key>buttonValidation</key>
+	<string>normChain</string>
+	<key>compiledelegate</key>
+	<string>canDispatchDimension</string>
+	<key>descriptionshape</key>
+	<string>locateLabel</string>
+	<key>shouldMountedRadio</key>
+	<string>materializerDuration</string>
+</dict>
+</plist>

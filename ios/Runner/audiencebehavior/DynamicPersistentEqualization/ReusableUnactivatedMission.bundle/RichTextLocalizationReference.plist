@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveNotation</key>
+	<string>shouldpausecompletion</string>
+	<key>alertthroughshape</key>
+	<string>shouldRestartScale</string>
+	<key>discardedobserver</key>
+	<string>curveObserver</string>
+	<key>reactivePublisher</key>
+	<string>canFinishSemantics</string>
+	<key>schedulerFormat</key>
+	<string>encodecompleter</string>
+</dict>
+</plist>

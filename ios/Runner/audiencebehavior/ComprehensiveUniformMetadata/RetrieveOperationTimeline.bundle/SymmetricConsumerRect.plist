@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleTag</key>
+	<string>directMetrics</string>
+	<key>contractionshade</key>
+	<string>embracecallback</string>
+	<key>grainalignment</key>
+	<string>crudeNib</string>
+	<key>immediateSearcher</key>
+	<string>associateStore</string>
+	<key>mediumbrushtension</key>
+	<string>stepBorder</string>
+	<key>nextVolume</key>
+	<string>alignmentcenter</string>
+	<key>oldChannels</key>
+	<string>resizableSlash</string>
+	<key>respectiveEffect</key>
+	<string>previewRotation</string>
+	<key>standaloneTraversal</key>
+	<string>canHandleEntropy</string>
+</dict>
+</plist>

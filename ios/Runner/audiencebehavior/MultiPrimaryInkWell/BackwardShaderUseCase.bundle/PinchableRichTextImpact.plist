@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directPrecision</key>
+	<string>tickerFormat</string>
+	<key>elasticShape</key>
+	<string>shouldinflatealpha</string>
+	<key>isAperture</key>
+	<string>repositorywithoutcommand</string>
+	<key>routerScale</key>
+	<string>gradientVisible</string>
+	<key>shouldLayoutLogarithm</key>
+	<string>bulletSize</string>
+	<key>shouldRouteText</key>
+	<string>iconType</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveModulus</key>
+	<string>richtextParam</string>
+	<key>filterTension</key>
+	<string>robustCollection</string>
+	<key>publicCube</key>
+	<string>deferredView</string>
+	<key>shouldLoadScreen</key>
+	<string>subtleSprite</string>
+</dict>
+</plist>

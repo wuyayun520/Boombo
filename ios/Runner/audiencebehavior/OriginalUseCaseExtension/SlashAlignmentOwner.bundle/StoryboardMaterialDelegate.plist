@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionconstraint</key>
+	<string>dynamicThreshold</string>
+	<key>dependencyName</key>
+	<string>shouldRenderSegment</string>
+	<key>intensitystyleindex</key>
+	<string>completedSlash</string>
+	<key>mediumIsolate</key>
+	<string>buildExtension</string>
+	<key>onreferencetap</key>
+	<string>spinDecoration</string>
+	<key>permissiveFeature</key>
+	<string>binaryAlignment</string>
+	<key>quantizergrid</key>
+	<string>shouldContinueDropdownButton</string>
+	<key>respectiveResponse</key>
+	<string>canSetStateShader</string>
+	<key>tabbarType</key>
+	<string>textmode</string>
+</dict>
+</plist>

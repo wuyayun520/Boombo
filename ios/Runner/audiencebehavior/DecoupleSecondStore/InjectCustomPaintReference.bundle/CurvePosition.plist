@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateinterpolation</key>
+	<string>builderChain</string>
+	<key>bandwidthshade</key>
+	<string>observerProcess</string>
+	<key>channelsSpacing</key>
+	<string>shouldPrepareDuration</string>
+	<key>crucialLoop</key>
+	<string>routefacadekind</string>
+	<key>directEntropy</key>
+	<string>shouldConnectGem</string>
+	<key>effectlocation</key>
+	<string>widgetVelocity</string>
+	<key>integrationValidation</key>
+	<string>mixinPresenter</string>
+	<key>protocolatform</key>
+	<string>currentanimation</string>
+	<key>respectiveDependency</key>
+	<string>advancedMaterializer</string>
+	<key>scrollincludecommand</key>
+	<string>pushreduction</string>
+</dict>
+</plist>

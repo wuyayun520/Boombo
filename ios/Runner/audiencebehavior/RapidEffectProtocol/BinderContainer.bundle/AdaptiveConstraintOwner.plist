@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAppBar</key>
+	<string>shouldHandleNavigation</string>
+	<key>actionBorder</key>
+	<string>shouldInflateWorkflow</string>
+	<key>fusedAperture</key>
+	<string>continuebutton</string>
+	<key>globalcosine</key>
+	<string>pendingLoss</string>
+	<key>navigatescreen</key>
+	<string>smartbase</string>
+	<key>originalSemantics</key>
+	<string>symmetricCatalyst</string>
+	<key>reducerhue</key>
+	<string>webAspect</string>
+	<key>shouldroutesemantics</key>
+	<string>shouldHandleShader</string>
+	<key>standaloneChooser</key>
+	<string>unmountSemantics</string>
+</dict>
+</plist>

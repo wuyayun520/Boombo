@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustdependency</key>
+	<string>flexibleprecisionskewx</string>
+	<key>catalystcapacity</key>
+	<string>permissiveScroll</string>
+	<key>modulusAppearance</key>
+	<string>lazyIndicator</string>
+	<key>protocolasync</key>
+	<string>poplayout</string>
+	<key>shouldMountedMomentum</key>
+	<string>hasChannels</string>
+	<key>shouldUnmountedScale</key>
+	<string>granularbloc</string>
+	<key>standaloneFrame</key>
+	<string>momentumDirection</string>
+	<key>tensorRadius</key>
+	<string>disparateMonster</string>
+</dict>
+</plist>

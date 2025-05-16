@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPadding</key>
+	<string>liteActivity</string>
+	<key>entropyTag</key>
+	<string>builderoffset</string>
+	<key>explicitSplitter</key>
+	<string>requiredLoader</string>
+	<key>floatsizedbox</key>
+	<string>composableMetadata</string>
+	<key>seamlessalignment</key>
+	<string>asynchronousBandwidth</string>
+	<key>unsortedDescription</key>
+	<string>inactivePermutation</string>
+</dict>
+</plist>

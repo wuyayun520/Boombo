@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocscope</key>
+	<string>searchtextfield</string>
+	<key>deflatescale</key>
+	<string>temporaryLabel</string>
+	<key>desktopAperture</key>
+	<string>adaptiveChallenge</string>
+	<key>directlyAperture</key>
+	<string>dismissCollection</string>
+	<key>ephemeralOffset</key>
+	<string>shouldnavigategrayscale</string>
+	<key>locallistviewvalidation</key>
+	<string>formatScroll</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultSubpixel</key>
+	<string>singleProvision</string>
+	<key>disconnectcapsule</key>
+	<string>cardDistance</string>
+	<key>integerSpacing</key>
+	<string>indicatorEdge</string>
+	<key>isMaster</key>
+	<string>videoColor</string>
+	<key>missionedge</key>
+	<string>containerOffset</string>
+	<key>replaceintensity</key>
+	<string>shouldpublishmobile</string>
+	<key>statusStatus</key>
+	<string>activeMission</string>
+	<key>validatecolumn</key>
+	<string>memberContrast</string>
+</dict>
+</plist>

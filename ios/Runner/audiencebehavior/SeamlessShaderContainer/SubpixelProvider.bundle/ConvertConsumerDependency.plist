@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSubpixel</key>
+	<string>endSubpixel</string>
+	<key>animationremediation</key>
+	<string>statelessCharacter</string>
+	<key>builderconsumer</key>
+	<string>nibAlignment</string>
+	<key>defaultcharacter</key>
+	<string>disposecheckbox</string>
+	<key>euclideanlistenervalidation</key>
+	<string>compositionalButton</string>
+	<key>optimizerouter</key>
+	<string>shouldEmitCollection</string>
+	<key>parallelResilience</key>
+	<string>canConnectDocument</string>
+	<key>similarOperation</key>
+	<string>prismaticCharacteristic</string>
+</dict>
+</plist>

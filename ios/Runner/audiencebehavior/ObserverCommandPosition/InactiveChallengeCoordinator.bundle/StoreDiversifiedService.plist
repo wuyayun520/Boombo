@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerrotation</key>
+	<string>transposeNavigator</string>
+	<key>compositionalVideo</key>
+	<string>denseKernel</string>
+	<key>consultativeStoryboard</key>
+	<string>componentTheme</string>
+	<key>originalSemantics</key>
+	<string>retainedArchitecture</string>
+</dict>
+</plist>

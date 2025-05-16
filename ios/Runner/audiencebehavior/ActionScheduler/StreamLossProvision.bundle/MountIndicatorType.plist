@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildertint</key>
+	<string>accessoryForce</string>
+	<key>imperativeSwift</key>
+	<string>dropdownbuttonstate</string>
+	<key>imperativeTheme</key>
+	<string>multiplyButton</string>
+	<key>popupBrightness</key>
+	<string>tableBottom</string>
+	<key>retainedcosineskewy</key>
+	<string>easycolor</string>
+	<key>shouldDetachRichText</key>
+	<string>endCheckbox</string>
+</dict>
+</plist>

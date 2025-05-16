@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectextension</key>
+	<string>observerSpacing</string>
+	<key>delegatehash</key>
+	<string>immutableStack</string>
+	<key>partitionnavigation</key>
+	<string>stopKernel</string>
+	<key>sensorAppearance</key>
+	<string>metadataCoord</string>
+	<key>shouldSetStateTabBar</key>
+	<string>scrollableStorage</string>
+	<key>shouldfinishpriority</key>
+	<string>canStartSensor</string>
+	<key>unmountlogarithm</key>
+	<string>compositionalInteractor</string>
+	<key>usecasestagebottom</key>
+	<string>easyRenderer</string>
+</dict>
+</plist>

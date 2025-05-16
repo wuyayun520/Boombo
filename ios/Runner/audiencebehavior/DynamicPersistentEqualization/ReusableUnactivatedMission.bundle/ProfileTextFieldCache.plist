@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedEqualization</key>
+	<string>shouldPersistNavigator</string>
+	<key>buttontheme</key>
+	<string>extendError</string>
+	<key>futureInteraction</key>
+	<string>associatedTouch</string>
+	<key>gridtype</key>
+	<string>canDeserializeProjection</string>
+	<key>ignoredHistogram</key>
+	<string>discardedBorder</string>
+	<key>scrollabledescription</key>
+	<string>alphatail</string>
+	<key>semanticshue</key>
+	<string>originalImpression</string>
+	<key>topicsystemdensity</key>
+	<string>annotateParticle</string>
+	<key>typicalAnchor</key>
+	<string>resumebehavior</string>
+</dict>
+</plist>

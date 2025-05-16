@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advanceddescription</key>
+	<string>mapFormat</string>
+	<key>criticalAlert</key>
+	<string>requestEntity</string>
+	<key>graphPressure</key>
+	<string>mainSwitch</string>
+	<key>shouldTransformBloc</key>
+	<string>concurrentMediaQuery</string>
+	<key>shouldsubscribebullet</key>
+	<string>yieldconstraint</string>
+	<key>spotcontrast</key>
+	<string>retainedBrush</string>
+	<key>synchronousTimer</key>
+	<string>shouldKeepAccessory</string>
+</dict>
+</plist>

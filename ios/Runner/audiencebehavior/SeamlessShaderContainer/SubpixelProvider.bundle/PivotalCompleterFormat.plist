@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchnavigator</key>
+	<string>deferredProgressBar</string>
+	<key>difficultSubscription</key>
+	<string>chooserMargin</string>
+	<key>managerstrategyscale</key>
+	<string>shouldtransitioncontroller</string>
+	<key>priorityAlignment</key>
+	<string>defaultstream</string>
+	<key>reusableHandler</key>
+	<string>seguealignment</string>
+	<key>scrollableSegment</key>
+	<string>logdecoration</string>
+</dict>
+</plist>

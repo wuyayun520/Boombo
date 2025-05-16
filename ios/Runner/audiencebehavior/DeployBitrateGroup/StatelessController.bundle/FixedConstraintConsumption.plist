@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>menuandenvironment</key>
+	<string>appendTicker</string>
+	<key>notifierCoord</key>
+	<string>injectionSingleton</string>
+	<key>pageviewlayerlocation</key>
+	<string>prepareAccessory</string>
+	<key>reusableanalyzer</key>
+	<string>unsortedResolver</string>
+	<key>selectorvisibility</key>
+	<string>repositoryMethod</string>
+	<key>shouldDisconnectStoryboard</key>
+	<string>fetchCheckbox</string>
+	<key>stackFormat</key>
+	<string>assetVariable</string>
+	<key>statelessAppearance</key>
+	<string>shouldTransitionActivity</string>
+	<key>tweenpadding</key>
+	<string>rapidTime</string>
+	<key>yieldnib</key>
+	<string>projectBehavior</string>
+</dict>
+</plist>

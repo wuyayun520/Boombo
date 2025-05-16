@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocTheme</key>
+	<string>granularAlert</string>
+	<key>immediateCanvas</key>
+	<string>interactorFeedback</string>
+	<key>lastOffset</key>
+	<string>maxAppBar</string>
+	<key>traversalname</key>
+	<string>specifyRole</string>
+	<key>utilflyweightforce</key>
+	<string>capacityOrientation</string>
+</dict>
+</plist>

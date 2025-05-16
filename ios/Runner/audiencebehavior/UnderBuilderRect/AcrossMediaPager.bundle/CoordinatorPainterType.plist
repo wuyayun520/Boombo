@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitInterval</key>
+	<string>beginnerChecklist</string>
+	<key>displayablePager</key>
+	<string>injectionRotation</string>
+	<key>evaluationFormat</key>
+	<string>responsiveTicker</string>
+	<key>fixedtrigger</key>
+	<string>shouldRouteDocument</string>
+	<key>navigatorstatus</key>
+	<string>shouldNavigateAspectRatio</string>
+	<key>rapidscreentint</key>
+	<string>similardelivery</string>
+	<key>shouldRestartShader</key>
+	<string>canMountSizedBox</string>
+	<key>signKind</key>
+	<string>processRadius</string>
+	<key>threadSpacing</key>
+	<string>iterativeModal</string>
+</dict>
+</plist>

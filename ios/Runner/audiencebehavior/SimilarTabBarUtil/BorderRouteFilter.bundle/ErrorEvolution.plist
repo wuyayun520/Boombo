@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>priorStorage</key>
+	<string>formatchallenge</string>
+	<key>projectionPosition</key>
+	<string>canDisconnectScroll</string>
+	<key>responderVisible</key>
+	<string>greatScroll</string>
+	<key>shouldPrepareContraction</key>
+	<string>timelineVisible</string>
+	<key>shouldProcessColumn</key>
+	<string>imagescale</string>
+	<key>specifyLayer</key>
+	<string>canLoadLoss</string>
+	<key>sustainableConvolution</key>
+	<string>shouldDispatchRadio</string>
+	<key>symmetricItem</key>
+	<string>priorityParam</string>
+</dict>
+</plist>

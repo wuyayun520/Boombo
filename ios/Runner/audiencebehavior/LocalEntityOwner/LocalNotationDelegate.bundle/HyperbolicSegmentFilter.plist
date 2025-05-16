@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackshape</key>
+	<string>traversalorigin</string>
+	<key>cancelcapsule</key>
+	<string>directCallback</string>
+	<key>observerposition</key>
+	<string>newestResponse</string>
+	<key>shouldSetStateConvolution</key>
+	<string>regulateLabel</string>
+	<key>shouldStopModulus</key>
+	<string>obtainSize</string>
+	<key>timerphaserate</key>
+	<string>directConstraint</string>
+	<key>typicalDropdownButton</key>
+	<string>intermediateInkWell</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileBinary</key>
+	<string>techniqueinframework</string>
+	<key>baselineimage</key>
+	<string>crudePicker</string>
+	<key>fusedPicker</key>
+	<string>functionalRoute</string>
+	<key>skirtsound</key>
+	<string>channelselasticity</string>
+	<key>toolLeft</key>
+	<string>normalCollection</string>
+	<key>usagealongprocess</key>
+	<string>gatelocalization</string>
+	<key>visibleaspectinset</key>
+	<string>textfieldborder</string>
+</dict>
+</plist>

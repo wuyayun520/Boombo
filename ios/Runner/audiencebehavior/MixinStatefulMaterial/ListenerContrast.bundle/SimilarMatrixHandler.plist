@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>litevectorpressure</key>
+	<string>endrequest</string>
+	<key>missionBrightness</key>
+	<string>exponentCount</string>
+	<key>nativeInfo</key>
+	<string>canUnmountTechnique</string>
+	<key>oldListener</key>
+	<string>startContraction</string>
+	<key>rectangleformat</key>
+	<string>topicscenario</string>
+	<key>requiredDelegate</key>
+	<string>activatedfuture</string>
+	<key>shouldConnectDropdownButton</key>
+	<string>channelsBehavior</string>
+	<key>usedCapsule</key>
+	<string>currentAwait</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedQuaternion</key>
+	<string>fusedcurve</string>
+	<key>difficultConfidentiality</key>
+	<string>interfacearoundfunction</string>
+	<key>dropdownbuttoninmethod</key>
+	<string>canUnbindTangent</string>
+	<key>eagerSize</key>
+	<string>parallelSingleton</string>
+	<key>semanticRectangle</key>
+	<string>intermediateCheckbox</string>
+	<key>shouldLayoutUsage</key>
+	<string>shouldLayoutBullet</string>
+	<key>storagePosition</key>
+	<string>shouldContinueTool</string>
+</dict>
+</plist>

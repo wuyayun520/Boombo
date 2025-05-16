@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedNib</key>
+	<string>durationInteraction</string>
+	<key>firstAnalyzer</key>
+	<string>popCurve</string>
+	<key>masterhead</key>
+	<string>delegateScale</string>
+	<key>shouldBindBorder</key>
+	<string>requestRotation</string>
+	<key>shouldRebuildInteger</key>
+	<string>canConnectMedia</string>
+</dict>
+</plist>

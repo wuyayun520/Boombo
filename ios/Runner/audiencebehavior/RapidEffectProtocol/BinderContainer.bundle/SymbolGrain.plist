@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRole</key>
+	<string>screenSkewY</string>
+	<key>challengeInteraction</key>
+	<string>protocolappearance</string>
+	<key>consumptionVelocity</key>
+	<string>channelwithoutlayer</string>
+	<key>hyperboliccontroller</key>
+	<string>singlecolumn</string>
+	<key>interpolationstore</key>
+	<string>smartReduction</string>
+	<key>scaleinterpreterright</key>
+	<string>frameshade</string>
+</dict>
+</plist>

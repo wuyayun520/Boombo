@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerSkewY</key>
+	<string>customSession</string>
+	<key>displayableRemediation</key>
+	<string>pageviewSpeed</string>
+	<key>pageviewContrast</key>
+	<string>shouldCancelNotification</string>
+	<key>resourceorientation</key>
+	<string>baselinebesidecomposite</string>
+	<key>routerDelay</key>
+	<string>ongridviewchanged</string>
+	<key>shouldRenderStamp</key>
+	<string>hardRepository</string>
+	<key>storageVisibility</key>
+	<string>statelesscount</string>
+	<key>tickerStatus</key>
+	<string>shoulddisconnectgram</string>
+	<key>transformclipper</key>
+	<string>materialCube</string>
+</dict>
+</plist>

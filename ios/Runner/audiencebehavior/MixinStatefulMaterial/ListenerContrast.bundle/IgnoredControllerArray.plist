@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxBorder</key>
+	<string>spriteScale</string>
+	<key>compositionalremainderspacing</key>
+	<string>transformerworkflags</string>
+	<key>decodemedia</key>
+	<string>shoulddeserializestream</string>
+	<key>fixedPainter</key>
+	<string>prismaticAllocator</string>
+	<key>futurevector</key>
+	<string>mutableReference</string>
+	<key>layoutnumberleft</key>
+	<string>desktoptask</string>
+	<key>lifecycleState</key>
+	<string>utilthroughaction</string>
+	<key>localhashrotation</key>
+	<string>splitterInteraction</string>
+	<key>navigatorForce</key>
+	<string>discardedAction</string>
+	<key>transitionprovider</key>
+	<string>animateModel</string>
+</dict>
+</plist>

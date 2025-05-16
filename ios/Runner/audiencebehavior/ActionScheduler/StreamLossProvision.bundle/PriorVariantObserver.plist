@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystcommandorigin</key>
+	<string>animatorrotation</string>
+	<key>completionthroughput</key>
+	<string>finderCoord</string>
+	<key>missedHero</key>
+	<string>canProcessDescriptor</string>
+</dict>
+</plist>

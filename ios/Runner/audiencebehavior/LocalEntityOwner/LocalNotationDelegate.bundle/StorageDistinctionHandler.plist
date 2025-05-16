@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateEdge</key>
+	<string>itemBehavior</string>
+	<key>lastContraction</key>
+	<string>declarativeInterpolation</string>
+	<key>parallelBoxShadow</key>
+	<string>shouldSetStateDrawer</string>
+	<key>positionVisible</key>
+	<string>dispatchMargin</string>
+	<key>requiredUtil</key>
+	<string>canContinueReference</string>
+	<key>secondCaption</key>
+	<string>switchLevel</string>
+	<key>temporaryPageView</key>
+	<string>shouldSubscribeDimension</string>
+</dict>
+</plist>

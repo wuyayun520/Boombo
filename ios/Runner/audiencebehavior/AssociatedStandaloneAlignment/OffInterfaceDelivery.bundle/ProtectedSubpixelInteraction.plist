@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardMode</key>
+	<string>shouldConnectScreen</string>
+	<key>constraintPosition</key>
+	<string>touchPattern</string>
+	<key>layerVisibility</key>
+	<string>canProcessCaption</string>
+	<key>responsiveInformation</key>
+	<string>disposeMap</string>
+	<key>scaleVelocity</key>
+	<string>moduleTransparency</string>
+	<key>shouldLoadSign</key>
+	<string>uniformPager</string>
+	<key>shouldResumePageView</key>
+	<string>numericalSubpixel</string>
+	<key>shoulddecodegesture</key>
+	<string>resizableIntegration</string>
+	<key>sorterLocation</key>
+	<string>requestAnimation</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialSkin</key>
+	<string>shouldtransitiondrawer</string>
+	<key>grainVisible</key>
+	<string>baseNumber</string>
+	<key>ignoredReplica</key>
+	<string>exponentStatus</string>
+	<key>lazyTextField</key>
+	<string>immediateUtil</string>
+	<key>reducerType</key>
+	<string>cartesianAnimator</string>
+	<key>segmentPosition</key>
+	<string>constraintHead</string>
+	<key>shouldValidateExpanded</key>
+	<string>mountedMomentum</string>
+	<key>synchronousScreen</key>
+	<string>attachSwift</string>
+	<key>typicalMerger</key>
+	<string>heapinset</string>
+	<key>wrapnotification</key>
+	<string>connectScreen</string>
+</dict>
+</plist>

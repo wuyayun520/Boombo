@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianScheduler</key>
+	<string>mediocreTransition</string>
+	<key>difficultScroller</key>
+	<string>temporaryCycle</string>
+	<key>histogramskewy</key>
+	<string>oldRectangle</string>
+	<key>marginloader</key>
+	<string>iterativeDisclaimer</string>
+	<key>promiseDirection</key>
+	<string>regulateException</string>
+	<key>sensorvertex</key>
+	<string>subscriptionMode</string>
+	<key>tappableTransition</key>
+	<string>interceptstorage</string>
+	<key>webParticle</key>
+	<string>floatProvider</string>
+</dict>
+</plist>

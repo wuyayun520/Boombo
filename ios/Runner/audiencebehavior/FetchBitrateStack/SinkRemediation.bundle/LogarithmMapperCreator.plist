@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectpadding</key>
+	<string>shouldRebuildBloc</string>
+	<key>compositionfromstage</key>
+	<string>updateworkflow</string>
+	<key>customTernary</key>
+	<string>spineinset</string>
+	<key>largeEvent</key>
+	<string>consultativeDrawer</string>
+	<key>missedAnalogy</key>
+	<string>progressbaroffset</string>
+	<key>sharedFrame</key>
+	<string>shapetint</string>
+	<key>shouldCreateProject</key>
+	<string>formatArithmetic</string>
+	<key>shouldDecodeSizedBox</key>
+	<string>collectionHead</string>
+	<key>synchronizeprovider</key>
+	<string>canDeserializeProtocol</string>
+</dict>
+</plist>

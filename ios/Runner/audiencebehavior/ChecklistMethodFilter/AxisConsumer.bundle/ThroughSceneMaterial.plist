@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioBehavior</key>
+	<string>dispatcherInset</string>
+	<key>cartesianVideo</key>
+	<string>shouldDecodeGate</string>
+	<key>crudeRadius</key>
+	<string>primaryBase</string>
+	<key>dimensionTheme</key>
+	<string>shouldValidateWidget</string>
+	<key>euclideanconverter</key>
+	<string>traversalAppearance</string>
+	<key>fusedbasemomentum</key>
+	<string>largeSelector</string>
+	<key>instructiontension</key>
+	<string>observerOperation</string>
+	<key>rebuildgraphic</key>
+	<string>resizableAmortization</string>
+	<key>shouldInflateListView</key>
+	<string>permanentWrapper</string>
+	<key>timeBorder</key>
+	<string>draggableHeap</string>
+</dict>
+</plist>

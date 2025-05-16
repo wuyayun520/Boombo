@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelnavigation</key>
+	<string>canDetachTask</string>
+	<key>denseClipper</key>
+	<string>disabledmodelindex</string>
+	<key>shouldStopCosine</key>
+	<string>temporarySingleton</string>
+	<key>sinkbypattern</key>
+	<string>publicVideo</string>
+</dict>
+</plist>

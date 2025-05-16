@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderTheme</key>
+	<string>retrieveVector</string>
+	<key>exponentconfidentiality</key>
+	<string>observerMode</string>
+	<key>publicDispatcher</key>
+	<string>canSaveNavigator</string>
+	<key>shouldEmitDimension</key>
+	<string>shouldrendervariant</string>
+	<key>shouldKeepTabView</key>
+	<string>canTrainHeap</string>
+	<key>shouldstopgem</key>
+	<string>measureTexture</string>
+</dict>
+</plist>

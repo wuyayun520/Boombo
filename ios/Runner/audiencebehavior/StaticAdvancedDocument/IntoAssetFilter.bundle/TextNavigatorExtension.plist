@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonsize</key>
+	<string>chapterversusadapter</string>
+	<key>customizedStatus</key>
+	<string>tappableThroughput</string>
+	<key>diffableSwitch</key>
+	<string>builderProxy</string>
+	<key>euclideanRow</key>
+	<string>lastbuttonskewx</string>
+	<key>exceptionsystemshape</key>
+	<string>callbacktierskewx</string>
+</dict>
+</plist>

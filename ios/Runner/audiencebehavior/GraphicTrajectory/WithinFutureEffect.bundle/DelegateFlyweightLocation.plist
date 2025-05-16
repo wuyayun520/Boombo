@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachcompleter</key>
+	<string>canUnmountEquipment</string>
+	<key>dynamicSink</key>
+	<string>connectFrame</string>
+	<key>hascache</key>
+	<string>provideconstraint</string>
+	<key>inheritedTween</key>
+	<string>escalateTween</string>
+	<key>normalRenderer</key>
+	<string>convolutioncoord</string>
+	<key>protocoluntillevel</key>
+	<string>mobileDetail</string>
+	<key>resizableResponse</key>
+	<string>multihashvisible</string>
+	<key>shouldFormatInterpolation</key>
+	<string>destroyDuration</string>
+	<key>shouldLoadSample</key>
+	<string>enabledSession</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeinterval</key>
+	<string>denseStorage</string>
+	<key>factorytaskskewx</key>
+	<string>mainMediaQuery</string>
+	<key>ignoredicon</key>
+	<string>themeTask</string>
+	<key>momentumIndex</key>
+	<string>shouldUpdatePlayback</string>
+	<key>retainedChallenge</key>
+	<string>mutablecatalystdensity</string>
+	<key>sinebystructure</key>
+	<string>shouldEmitSign</string>
+	<key>stepAlignment</key>
+	<string>canYieldCell</string>
+	<key>visibleDetail</key>
+	<string>streamLoss</string>
+	<key>webMission</key>
+	<string>streamaxis</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionmargin</key>
+	<string>unactivatedFeature</string>
+	<key>beginnerScheduler</key>
+	<string>trajectoryFrequency</string>
+	<key>builderorphase</key>
+	<string>specifyReducer</string>
+	<key>disparateThreshold</key>
+	<string>popupVelocity</string>
+	<key>flexibleStateful</key>
+	<string>boxVelocity</string>
+	<key>immutableResolver</key>
+	<string>keepContainer</string>
+	<key>notifyticker</key>
+	<string>resilientobserver</string>
+	<key>paintershape</key>
+	<string>canSubscribeSession</string>
+	<key>referenceFrequency</key>
+	<string>shouldDisconnectSegue</string>
+</dict>
+</plist>

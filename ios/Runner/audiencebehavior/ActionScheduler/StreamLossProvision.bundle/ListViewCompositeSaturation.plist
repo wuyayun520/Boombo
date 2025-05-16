@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyTitle</key>
+	<string>explicitDelivery</string>
+	<key>immediateFeature</key>
+	<string>notificationOrientation</string>
+	<key>persistentEqualization</key>
+	<string>shouldRestartEffect</string>
+	<key>semanticsradius</key>
+	<string>mediumRecursion</string>
+	<key>skinHue</key>
+	<string>shouldSaveProfile</string>
+	<key>sliderTag</key>
+	<string>declarativelocalizationpadding</string>
+	<key>subscriptionatcomposite</key>
+	<string>tweakFlags</string>
+</dict>
+</plist>

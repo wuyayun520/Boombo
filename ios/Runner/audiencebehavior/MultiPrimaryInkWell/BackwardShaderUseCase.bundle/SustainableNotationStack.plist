@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousScenario</key>
+	<string>metadataContext</string>
+	<key>configuredescription</key>
+	<string>adaptiveTimeline</string>
+	<key>decodereducer</key>
+	<string>escalateimage</string>
+	<key>exponentbutton</key>
+	<string>sensorLeft</string>
+	<key>modulussystembottom</key>
+	<string>statefulSlash</string>
+	<key>normalcolumn</key>
+	<string>poolTransition</string>
+	<key>rectmetrics</key>
+	<string>otherappbarfrequency</string>
+	<key>resizableText</key>
+	<string>shouldpresentaperture</string>
+	<key>shouldfetchgate</key>
+	<string>metricsTransparency</string>
+</dict>
+</plist>

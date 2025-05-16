@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>densePicker</key>
+	<string>canUpdateDuration</string>
+	<key>easyPopup</key>
+	<string>canPresentDropdownButton</string>
+	<key>finishaccessory</key>
+	<string>limitVector</string>
+	<key>multiplicationdecoratorinset</key>
+	<string>histogramInterpreter</string>
+	<key>secondDecoration</key>
+	<string>flexoffset</string>
+	<key>shouldDetachMomentum</key>
+	<string>canPauseNotifier</string>
+</dict>
+</plist>

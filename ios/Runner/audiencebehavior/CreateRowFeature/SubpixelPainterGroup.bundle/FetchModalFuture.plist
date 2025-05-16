@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileInterval</key>
+	<string>stackBridge</string>
+	<key>otherPriority</key>
+	<string>tappableBullet</string>
+	<key>scrollerValidation</key>
+	<string>updateShader</string>
+	<key>shouldPushInkWell</key>
+	<string>frameformlocation</string>
+	<key>slidermementopadding</key>
+	<string>evaluationdistance</string>
+</dict>
+</plist>

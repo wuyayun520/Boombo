@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAnimation</key>
+	<string>sophisticatedDropdownButton</string>
+	<key>ephemeralCheckbox</key>
+	<string>schedulerFlags</string>
+	<key>greatCurve</key>
+	<string>transformResource</string>
+	<key>latencyPosition</key>
+	<string>calculateAsset</string>
+	<key>marginforce</key>
+	<string>sanitizeLocalization</string>
+</dict>
+</plist>

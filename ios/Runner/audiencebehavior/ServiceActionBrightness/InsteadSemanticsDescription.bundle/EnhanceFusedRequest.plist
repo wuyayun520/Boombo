@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableEffect</key>
+	<string>disabledTweak</string>
+	<key>menulatency</key>
+	<string>tweenmediatordelay</string>
+	<key>resizableHash</key>
+	<string>commonDelivery</string>
+	<key>shouldCacheProtocol</key>
+	<string>shouldRouteSwift</string>
+	<key>shouldConnectContraction</key>
+	<string>missedTraversal</string>
+	<key>shouldFetchStateful</key>
+	<string>profileFunction</string>
+	<key>smartFlex</key>
+	<string>refactorCurve</string>
+	<key>switchTransparency</key>
+	<string>collectionduringphase</string>
+</dict>
+</plist>

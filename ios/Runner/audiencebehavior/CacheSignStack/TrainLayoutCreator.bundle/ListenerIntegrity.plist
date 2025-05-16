@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosinefeedback</key>
+	<string>lostRectangle</string>
+	<key>newestZone</key>
+	<string>animateintensity</string>
+	<key>reactivemodelvalidation</key>
+	<string>remainderStyle</string>
+	<key>requiredEvent</key>
+	<string>tappableAnalogy</string>
+	<key>responseinteraction</key>
+	<string>associatedTopic</string>
+	<key>schedulerFeedback</key>
+	<string>reconcilevector</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStrength</key>
+	<string>beginnerImpact</string>
+	<key>detachmenu</key>
+	<string>canParseAppBar</string>
+	<key>ignoredTimer</key>
+	<string>consultativeFrame</string>
+	<key>navigationutil</key>
+	<string>constraintForce</string>
+	<key>numericalAnimation</key>
+	<string>resumeBehavior</string>
+	<key>responsiveMonster</key>
+	<string>trainScreen</string>
+	<key>shouldKeepStamp</key>
+	<string>uniquefragment</string>
+	<key>tableEdge</key>
+	<string>compareTransformer</string>
+</dict>
+</plist>

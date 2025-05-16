@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPainter</key>
+	<string>quantizationPopup</string>
+	<key>buttonbyfunction</key>
+	<string>appendposition</string>
+	<key>kernelnumberhead</key>
+	<string>compositionalImage</string>
+	<key>labelvisitoropacity</key>
+	<string>enumerateSink</string>
+	<key>mediaqueryIndex</key>
+	<string>triggerSkewY</string>
+	<key>multiplicationobservercontrast</key>
+	<string>shouldTransitionConsumer</string>
+	<key>persistentTitle</key>
+	<string>dependencyMemento</string>
+</dict>
+</plist>

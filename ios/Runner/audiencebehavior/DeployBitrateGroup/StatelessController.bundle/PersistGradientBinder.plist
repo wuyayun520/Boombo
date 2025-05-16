@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardRequest</key>
+	<string>webLatency</string>
+	<key>fixedImpression</key>
+	<string>dispatcherappearance</string>
+	<key>lostGrayscale</key>
+	<string>publishGradient</string>
+	<key>modalPosition</key>
+	<string>associatedEvent</string>
+	<key>respectiveReplica</key>
+	<string>tableOrigin</string>
+	<key>scenarioDepth</key>
+	<string>smartUtil</string>
+	<key>shouldRebuildHistogram</key>
+	<string>detailState</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveanimation</key>
+	<string>pointScope</string>
+	<key>grainOrientation</key>
+	<string>materialfuturevalidation</string>
+	<key>grainVelocity</key>
+	<string>loopCount</string>
+	<key>ignoredtolerance</key>
+	<string>observertag</string>
+	<key>relationalconsumer</key>
+	<string>missedDescription</string>
+	<key>sophisticatedDropdownButton</key>
+	<string>computeLayout</string>
+</dict>
+</plist>

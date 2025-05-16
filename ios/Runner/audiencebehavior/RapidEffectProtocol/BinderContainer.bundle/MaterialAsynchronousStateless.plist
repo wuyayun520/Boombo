@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerRight</key>
+	<string>sizebesidevariable</string>
+	<key>gemasset</key>
+	<string>borderKind</string>
+	<key>moduleBrightness</key>
+	<string>resultmodebrightness</string>
+	<key>nextSignature</key>
+	<string>cycleDuration</string>
+	<key>pinchableConfidentiality</key>
+	<string>expandedFrequency</string>
+	<key>protectedHero</key>
+	<string>mapVisible</string>
+	<key>protectedspot</key>
+	<string>petFeedback</string>
+	<key>scrollhead</key>
+	<string>disconnecttransition</string>
+</dict>
+</plist>

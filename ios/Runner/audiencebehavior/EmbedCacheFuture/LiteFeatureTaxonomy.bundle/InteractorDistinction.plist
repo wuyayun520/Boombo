@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerbehavior</key>
+	<string>recursionFrequency</string>
+	<key>composablestore</key>
+	<string>animateButton</string>
+	<key>globalIntegrity</key>
+	<string>trajectoryOpacity</string>
+	<key>intuitiveVolume</key>
+	<string>smallChecklist</string>
+	<key>methodTint</key>
+	<string>accessibleConstant</string>
+	<key>multiStore</key>
+	<string>cosineContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedplayback</key>
+	<string>constructRequest</string>
+	<key>canvasShade</key>
+	<string>basicShape</string>
+	<key>descriptorvolume</key>
+	<string>streamAppearance</string>
+	<key>destroyrow</key>
+	<string>textfeedback</string>
+	<key>disabledRecursion</key>
+	<string>smartselector</string>
+	<key>permanentEfficiency</key>
+	<string>dissociatestoryboard</string>
+	<key>shouldDecodeMusic</key>
+	<string>invisibleStack</string>
+	<key>swiftstate</key>
+	<string>retainedTriangles</string>
+</dict>
+</plist>

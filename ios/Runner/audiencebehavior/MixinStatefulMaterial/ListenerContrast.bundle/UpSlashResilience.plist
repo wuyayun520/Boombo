@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanProject</key>
+	<string>disposeCapsule</string>
+	<key>fusedChooser</key>
+	<string>navigatorofsystem</string>
+	<key>mapperTop</key>
+	<string>shouldShowSymbol</string>
+	<key>priorityTint</key>
+	<string>canTrainSession</string>
+	<key>scenarioFrequency</key>
+	<string>prevPriority</string>
+	<key>shouldDispatchBehavior</key>
+	<string>layoutBottom</string>
+	<key>symmetricOffset</key>
+	<string>basicMission</string>
+</dict>
+</plist>

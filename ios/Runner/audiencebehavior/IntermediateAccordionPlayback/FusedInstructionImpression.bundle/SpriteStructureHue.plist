@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSkin</key>
+	<string>normalOccasion</string>
+	<key>fixedDisclaimer</key>
+	<string>secondRecursion</string>
+	<key>localizationBrightness</key>
+	<string>stampNumber</string>
+	<key>shouldSkipPainter</key>
+	<string>seekMenu</string>
+	<key>similarTweak</key>
+	<string>observeraboutlevel</string>
+	<key>singleTechnique</key>
+	<string>shouldDisposeBaseline</string>
+	<key>tappableStroke</key>
+	<string>replicateStream</string>
+	<key>tensorAccessory</key>
+	<string>shouldUpdatePlayback</string>
+	<key>tentativeColor</key>
+	<string>streamInterpreter</string>
+</dict>
+</plist>

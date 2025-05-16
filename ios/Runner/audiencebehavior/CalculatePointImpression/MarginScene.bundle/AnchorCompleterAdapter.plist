@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushSize</key>
+	<string>threadAlignment</string>
+	<key>controllerMomentum</key>
+	<string>canEndMember</string>
+	<key>directCharacter</key>
+	<string>optionvisibility</string>
+	<key>layoutsinceshape</key>
+	<string>canPopScreen</string>
+	<key>loopscale</key>
+	<string>mediumPolygon</string>
+	<key>rapidresolver</key>
+	<string>shapeVisibility</string>
+	<key>seamlessDrawer</key>
+	<string>assetScale</string>
+	<key>shouldPushClipper</key>
+	<string>canPresentSlash</string>
+	<key>shouldStreamSession</key>
+	<string>matrixShade</string>
+</dict>
+</plist>

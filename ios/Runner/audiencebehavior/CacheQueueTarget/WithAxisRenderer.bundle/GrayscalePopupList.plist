@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredStateless</key>
+	<string>showusecase</string>
+	<key>inheritedVariant</key>
+	<string>smallCombiner</string>
+	<key>mainPreview</key>
+	<string>immediateSemantics</string>
+	<key>mutableMap</key>
+	<string>enabledMapper</string>
+	<key>persistentDimension</key>
+	<string>customizedSlider</string>
+	<key>relationalCompletion</key>
+	<string>compositiondecoration</string>
+	<key>scrollablemonster</key>
+	<string>shouldConnectInkWell</string>
+	<key>specifyConstraint</key>
+	<string>histogramSpacing</string>
+</dict>
+</plist>

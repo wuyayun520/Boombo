@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerplate</key>
+	<string>accordionawaithead</string>
+	<key>firstSchema</key>
+	<string>serializeBase</string>
+	<key>scrollableRange</key>
+	<string>currentCurve</string>
+	<key>shouldfetchunary</key>
+	<string>selectedTable</string>
+	<key>sliderrange</key>
+	<string>stopusecase</string>
+	<key>transformerDuration</key>
+	<string>tensorSchema</string>
+	<key>tweenbeyondtier</key>
+	<string>crucialConverter</string>
+</dict>
+</plist>

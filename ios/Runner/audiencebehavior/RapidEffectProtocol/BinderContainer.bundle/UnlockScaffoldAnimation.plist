@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoWrapper</key>
+	<string>characteristicFeedback</string>
+	<key>crudeFragment</key>
+	<string>bandwidthoffset</string>
+	<key>injectionFormat</key>
+	<string>inactiveTween</string>
+	<key>methodlikeplatform</key>
+	<string>shouldYieldAlpha</string>
+	<key>parallelConnector</key>
+	<string>captionPlatform</string>
+	<key>parallelInteractor</key>
+	<string>overlayState</string>
+	<key>sustainableNavigator</key>
+	<string>ismodal</string>
+</dict>
+</plist>

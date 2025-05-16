@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledReference</key>
+	<string>navigationFeedback</string>
+	<key>imperativeWorkflow</key>
+	<string>loopTier</string>
+	<key>independentSkin</key>
+	<string>shouldAnimateRole</string>
+	<key>labelvisibility</key>
+	<string>grayscaleValue</string>
+	<key>opaqueNotification</key>
+	<string>intermediateAlignment</string>
+	<key>sequentialTolerance</key>
+	<string>unaryProxy</string>
+	<key>shouldobservesymbol</key>
+	<string>brushvisibility</string>
+</dict>
+</plist>

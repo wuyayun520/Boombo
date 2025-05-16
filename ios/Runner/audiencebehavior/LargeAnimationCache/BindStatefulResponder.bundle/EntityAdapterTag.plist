@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleartheme</key>
+	<string>quitNode</string>
+	<key>customizedState</key>
+	<string>descriptionRotation</string>
+	<key>hierarchicalZone</key>
+	<string>tweakShape</string>
+	<key>intensityoffset</key>
+	<string>uniqueTool</string>
+	<key>synchronousCupertino</key>
+	<string>shouldFetchTheme</string>
+	<key>traversalFrequency</key>
+	<string>skirtTag</string>
+	<key>wrapperEdge</key>
+	<string>explicitReduction</string>
+</dict>
+</plist>

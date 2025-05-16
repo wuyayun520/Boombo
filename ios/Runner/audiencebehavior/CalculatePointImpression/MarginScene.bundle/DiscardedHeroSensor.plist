@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistFrequency</key>
+	<string>appbarprocessresponse</string>
+	<key>confidentialityFeedback</key>
+	<string>mendContrast</string>
+	<key>fixedbaselinemargin</key>
+	<string>desktopMechanism</string>
+	<key>operationpolyfill</key>
+	<string>largeMission</string>
+	<key>routeruntilenvironment</key>
+	<string>immutableCustomPaint</string>
+	<key>threadtail</key>
+	<string>scrollBottom</string>
+	<key>usagetype</key>
+	<string>seamlessslider</string>
+</dict>
+</plist>

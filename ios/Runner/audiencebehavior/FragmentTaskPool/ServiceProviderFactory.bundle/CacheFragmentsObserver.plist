@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturemethodorigin</key>
+	<string>holdPreview</string>
+	<key>buttonContrast</key>
+	<string>captionTension</string>
+	<key>liteExtension</key>
+	<string>shearCubit</string>
+	<key>offsetForce</key>
+	<string>polyfillInteraction</string>
+	<key>responsiveDescription</key>
+	<string>symbolvariableinteraction</string>
+	<key>semanticAscent</key>
+	<string>streamConstraint</string>
+	<key>shouldSaveBorder</key>
+	<string>captionAdapter</string>
+	<key>statelessMaterial</key>
+	<string>dialogsVisible</string>
+	<key>tabbarspacing</key>
+	<string>enabledThread</string>
+	<key>tickerVisibility</key>
+	<string>registerService</string>
+</dict>
+</plist>

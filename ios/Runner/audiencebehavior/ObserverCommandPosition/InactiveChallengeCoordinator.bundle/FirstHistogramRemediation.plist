@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturechapter</key>
+	<string>receiveCurve</string>
+	<key>intermediateIntegrity</key>
+	<string>freeAlignment</string>
+	<key>marginPadding</key>
+	<string>dataSpeed</string>
+	<key>prevMend</key>
+	<string>metadataVar</string>
+	<key>scrollvolume</key>
+	<string>managerFlags</string>
+	<key>shouldDetachTabView</key>
+	<string>shouldLayoutDelegate</string>
+	<key>shouldpreparecell</key>
+	<string>connectAccessory</string>
+	<key>textCoord</key>
+	<string>invisibleExponent</string>
+	<key>widgetscopecoord</key>
+	<string>iconSaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableequipmenttheme</key>
+	<string>smallBaseline</string>
+	<key>easyremediation</key>
+	<string>positionedFunction</string>
+	<key>enabledchallenge</key>
+	<string>extendFeature</string>
+	<key>extendresult</key>
+	<string>constructRow</string>
+	<key>globalAspectRatio</key>
+	<string>invisibleRoute</string>
+	<key>menunumberspacing</key>
+	<string>mountedCursor</string>
+	<key>notationcolor</key>
+	<string>shouldUnmountChallenge</string>
+	<key>notifycapsule</key>
+	<string>directState</string>
+	<key>rangeLeft</key>
+	<string>frameinset</string>
+</dict>
+</plist>

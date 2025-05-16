@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentchallenge</key>
+	<string>shouldStopAperture</string>
+	<key>draggableMatrix</key>
+	<string>gramStage</string>
+	<key>fixedHero</key>
+	<string>slidervialayer</string>
+	<key>gemduration</key>
+	<string>stateStyle</string>
+	<key>pinchableRequest</key>
+	<string>displayableInkWell</string>
+	<key>queueandsingleton</key>
+	<string>pushStorage</string>
+	<key>requireddelegatetop</key>
+	<string>progressbarposition</string>
+	<key>sceneaboutframework</key>
+	<string>quantizerTopic</string>
+	<key>usedReliability</key>
+	<string>normalBandwidth</string>
+</dict>
+</plist>

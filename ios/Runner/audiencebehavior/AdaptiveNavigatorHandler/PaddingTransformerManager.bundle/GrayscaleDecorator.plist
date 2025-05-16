@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryprocessdensity</key>
+	<string>awaitFeedback</string>
+	<key>immediateProfile</key>
+	<string>canTransformSpine</string>
+	<key>resizableCube</key>
+	<string>startPoint</string>
+	<key>retainedinterpolation</key>
+	<string>shouldUnmountAlert</string>
+	<key>threadpadding</key>
+	<string>containertypetension</string>
+</dict>
+</plist>

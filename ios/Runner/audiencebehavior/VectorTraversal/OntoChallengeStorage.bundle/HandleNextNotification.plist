@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateMatrix</key>
+	<string>ternarymenu</string>
+	<key>inactiveItem</key>
+	<string>copyStorage</string>
+	<key>listviewtension</key>
+	<string>tablesearcher</string>
+	<key>newestequalization</key>
+	<string>euclideanAperture</string>
+	<key>sequentialModal</key>
+	<string>mediumLinker</string>
+	<key>shouldCacheIndicator</key>
+	<string>nativebehavior</string>
+</dict>
+</plist>

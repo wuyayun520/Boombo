@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>secondcoordinatorstatus</key>
+	<string>otherPresenter</string>
+	<key>shouldAttachClipper</key>
+	<string>canListenMonster</string>
+	<key>shouldCreateMobile</key>
+	<string>liteGate</string>
+	<key>shouldObserveStateless</key>
+	<string>sustainableMethod</string>
+	<key>shoulddismisssegment</key>
+	<string>textureBound</string>
+	<key>standaloneTabView</key>
+	<string>animateCycle</string>
+	<key>streamversuscommand</key>
+	<string>customContainer</string>
+	<key>temporaryFactory</key>
+	<string>displayablemethodcount</string>
+	<key>triggerColor</key>
+	<string>usecasescalability</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionContrast</key>
+	<string>shouldtrainsignature</string>
+	<key>discardedBuilder</key>
+	<string>diffableTabBar</string>
+	<key>enddescription</key>
+	<string>lazyRenderer</string>
+	<key>gesturedetectorfrequency</key>
+	<string>canTrainSlider</string>
+	<key>primaryEffect</key>
+	<string>overlayFormat</string>
+	<key>radiusHue</key>
+	<string>primaryInterpolation</string>
+	<key>resumeinteger</key>
+	<string>compositionIndex</string>
+	<key>shouldContinueSkirt</key>
+	<string>cartesianFormat</string>
+	<key>visibleFuture</key>
+	<string>lossMemento</string>
+</dict>
+</plist>

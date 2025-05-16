@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindswitch</key>
+	<string>resumeMaterial</string>
+	<key>fixedshaderdepth</key>
+	<string>constraintincludesystem</string>
+	<key>granularArithmetic</key>
+	<string>setupMethod</string>
+	<key>rapidtaskmode</key>
+	<string>serializeAperture</string>
+	<key>requiredGroup</key>
+	<string>utiltaskname</string>
+	<key>sequentialListView</key>
+	<string>shouldBindChannels</string>
+	<key>shouldEmitBuilder</key>
+	<string>shouldmountsine</string>
+	<key>thresholdDuration</key>
+	<string>radioPadding</string>
+</dict>
+</plist>

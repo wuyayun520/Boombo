@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTweak</key>
+	<string>disconnectbase</string>
+	<key>containercoord</key>
+	<string>canDisconnectCapsule</string>
+	<key>denseState</key>
+	<string>shouldDisconnectUnary</string>
+	<key>parallelbuilder</key>
+	<string>retrieveZone</string>
+	<key>rendererscale</key>
+	<string>shouldyieldchallenge</string>
+	<key>scrolljobdelay</key>
+	<string>cartesianTextField</string>
+	<key>shouldProcessCoordinator</key>
+	<string>concreteReliability</string>
+	<key>uniqueResult</key>
+	<string>momentumlevelcenter</string>
+</dict>
+</plist>

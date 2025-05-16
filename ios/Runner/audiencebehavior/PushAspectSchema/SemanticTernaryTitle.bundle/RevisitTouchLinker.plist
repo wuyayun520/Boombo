@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedRow</key>
+	<string>semanticTable</string>
+	<key>numericalPlayback</key>
+	<string>hyperbolicGroup</string>
+	<key>shouldbindnavigator</key>
+	<string>connectOperation</string>
+	<key>streamspine</key>
+	<string>finishcontainer</string>
+</dict>
+</plist>

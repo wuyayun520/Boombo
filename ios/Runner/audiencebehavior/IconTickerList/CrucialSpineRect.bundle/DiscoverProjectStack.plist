@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileModel</key>
+	<string>symmetricRestriction</string>
+	<key>bufferBottom</key>
+	<string>histogramIndex</string>
+	<key>largeStream</key>
+	<string>radiusFlyweight</string>
+	<key>presentstep</key>
+	<string>checkboxForm</string>
+	<key>switchstore</key>
+	<string>obtainTask</string>
+	<key>unsortedProvider</key>
+	<string>canTrainDialogs</string>
+</dict>
+</plist>

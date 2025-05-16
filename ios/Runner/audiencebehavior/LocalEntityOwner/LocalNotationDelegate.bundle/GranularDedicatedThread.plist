@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinetabview</key>
+	<string>actionnearframework</string>
+	<key>fusedRichText</key>
+	<string>shouldSkipArithmetic</string>
+	<key>fusedradio</key>
+	<string>buttonVelocity</string>
+	<key>largeException</key>
+	<string>sequentialChallenge</string>
+	<key>positionHead</key>
+	<string>basicradiustag</string>
+	<key>resourcefunctionsaturation</key>
+	<string>resourcetype</string>
+	<key>unmarshalscale</key>
+	<string>mutableimagescale</string>
+</dict>
+</plist>

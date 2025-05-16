@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblecontainertag</key>
+	<string>pickerColor</string>
+	<key>chapteraboutshape</key>
+	<string>debugAsset</string>
+	<key>intensityTheme</key>
+	<string>durationStatus</string>
+	<key>responsiveAudio</key>
+	<string>interpolationPadding</string>
+	<key>robustCycle</key>
+	<string>gradientFramework</string>
+	<key>shouldRouteSlider</key>
+	<string>repositoryMethod</string>
+	<key>statefulvarhead</key>
+	<string>prevModule</string>
+	<key>tensorobserver</key>
+	<string>missionTop</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorShape</key>
+	<string>menuBottom</string>
+	<key>endcompleter</key>
+	<string>geometricDimension</string>
+	<key>popbloc</key>
+	<string>threadStatus</string>
+	<key>responseorientation</key>
+	<string>manageroperationspeed</string>
+	<key>timertypedirection</key>
+	<string>pointFrequency</string>
+</dict>
+</plist>

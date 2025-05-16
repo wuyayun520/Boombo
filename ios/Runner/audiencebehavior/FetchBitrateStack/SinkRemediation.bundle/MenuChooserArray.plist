@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelstrategytransparency</key>
+	<string>cycleTint</string>
+	<key>dynamicCard</key>
+	<string>crudeTime</string>
+	<key>keyExtension</key>
+	<string>canRestartMaster</string>
+	<key>shouldShowUsage</key>
+	<string>liteAspect</string>
+</dict>
+</plist>

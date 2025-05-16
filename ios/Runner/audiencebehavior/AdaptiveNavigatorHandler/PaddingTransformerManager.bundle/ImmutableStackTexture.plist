@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentRight</key>
+	<string>eraseChart</string>
+	<key>backwardIcon</key>
+	<string>wrapperspeed</string>
+	<key>columnVelocity</key>
+	<string>declarativeCosine</string>
+	<key>flexibleStroke</key>
+	<string>logarithmHue</string>
+	<key>heroBottom</key>
+	<string>undertakeBuilder</string>
+	<key>keyLifecycle</key>
+	<string>diversifiedScene</string>
+	<key>positionedDuration</key>
+	<string>videoRate</string>
+	<key>robusttitletag</key>
+	<string>shouldPauseResource</string>
+	<key>unactivatedSpine</key>
+	<string>queueBound</string>
+</dict>
+</plist>

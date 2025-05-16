@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatInkWell</key>
+	<string>bitratePressure</string>
+	<key>originalSemantics</key>
+	<string>connectorDirection</string>
+	<key>sharedprotocoloffset</key>
+	<string>connectSpecifier</string>
+	<key>significantExtension</key>
+	<string>persistconstraint</string>
+	<key>timertrajectory</key>
+	<string>canTrainStream</string>
+	<key>typicalConnector</key>
+	<string>usedpainter</string>
+</dict>
+</plist>

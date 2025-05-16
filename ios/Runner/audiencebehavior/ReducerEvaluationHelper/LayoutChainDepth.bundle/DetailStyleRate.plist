@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparatepolygon</key>
+	<string>multiplyCallback</string>
+	<key>extendcontainer</key>
+	<string>heapParam</string>
+	<key>labelbound</key>
+	<string>floatManager</string>
+	<key>litetabbarfrequency</key>
+	<string>rolefilter</string>
+	<key>mobileSegment</key>
+	<string>substantialMapper</string>
+	<key>permissiveWorkflow</key>
+	<string>cartesianTask</string>
+	<key>profileInset</key>
+	<string>standaloneCapacity</string>
+	<key>skipsample</key>
+	<string>agileLayout</string>
+	<key>tappablestampinset</key>
+	<string>webOperation</string>
+	<key>tentativeLeft</key>
+	<string>compilepresenter</string>
+</dict>
+</plist>

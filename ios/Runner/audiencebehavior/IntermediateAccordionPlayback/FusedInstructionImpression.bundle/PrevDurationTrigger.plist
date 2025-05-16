@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishbaseline</key>
+	<string>canListenSkin</string>
+	<key>gridscale</key>
+	<string>respectiveCheckbox</string>
+	<key>screenBottom</key>
+	<string>otherScroller</string>
+	<key>shouldEmitButton</key>
+	<string>robustchannelsaturation</string>
+	<key>specifyLatency</key>
+	<string>queueprocessoffset</string>
+	<key>statefulsize</key>
+	<string>startProject</string>
+	<key>streamimpression</key>
+	<string>uniformCard</string>
+</dict>
+</plist>

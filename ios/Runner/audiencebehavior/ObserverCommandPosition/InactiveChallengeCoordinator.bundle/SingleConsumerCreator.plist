@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorybehavior</key>
+	<string>semanticUseCase</string>
+	<key>composableTextField</key>
+	<string>catalystForm</string>
+	<key>elasticSwitch</key>
+	<string>canUnbindBorder</string>
+	<key>shouldFinishBinary</key>
+	<string>sharedProcessor</string>
+	<key>sliderCoord</key>
+	<string>singleTheme</string>
+	<key>tensorItem</key>
+	<string>functionalAnalogy</string>
+</dict>
+</plist>

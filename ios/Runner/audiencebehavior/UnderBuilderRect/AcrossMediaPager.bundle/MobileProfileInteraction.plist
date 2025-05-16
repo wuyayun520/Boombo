@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedOption</key>
+	<string>commonTicker</string>
+	<key>composableCompletion</key>
+	<string>usedScope</string>
+	<key>mapDelay</key>
+	<string>basicJoiner</string>
+	<key>shouldDisconnectCache</key>
+	<string>multiplyFactory</string>
+	<key>spotAppearance</key>
+	<string>ignoredAnimatedContainer</string>
+	<key>statelessLayout</key>
+	<string>associatedEvent</string>
+	<key>unaryDistance</key>
+	<string>persistworkflow</string>
+</dict>
+</plist>

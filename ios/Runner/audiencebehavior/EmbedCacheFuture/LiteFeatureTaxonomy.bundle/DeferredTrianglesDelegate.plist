@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedEquipment</key>
+	<string>bindSlash</string>
+	<key>lazyaxiscontrast</key>
+	<string>sizedboxResponse</string>
+	<key>persistentInjection</key>
+	<string>diffableCupertino</string>
+	<key>reactiveThreshold</key>
+	<string>advancedDependency</string>
+	<key>standaloneSubscriber</key>
+	<string>consumeSize</string>
+</dict>
+</plist>

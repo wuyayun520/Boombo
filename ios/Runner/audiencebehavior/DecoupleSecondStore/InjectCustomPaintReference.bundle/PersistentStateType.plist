@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisbrightness</key>
+	<string>usecaseVisitor</string>
+	<key>backwardScene</key>
+	<string>fillCoordinator</string>
+	<key>bitrateAppearance</key>
+	<string>lostTransition</string>
+	<key>elasticCollection</key>
+	<string>configurePresenter</string>
+	<key>retainedIcon</key>
+	<string>themeResponse</string>
+	<key>reusableReplica</key>
+	<string>resizeIsolate</string>
+	<key>shouldDisconnectMaterial</key>
+	<string>diffableinfrastructure</string>
+	<key>uniquematerial</key>
+	<string>beginnerConfidentiality</string>
+	<key>vertexShape</key>
+	<string>shouldSkipPlate</string>
+</dict>
+</plist>

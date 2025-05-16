@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCheckbox</key>
+	<string>catalystStage</string>
+	<key>consultativeMetadata</key>
+	<string>drawerPosition</string>
+	<key>litespecifiervalidation</key>
+	<string>canDetachLoss</string>
+	<key>materialEmitter</key>
+	<string>routewithpattern</string>
+	<key>mediocreInteraction</key>
+	<string>componentForce</string>
+	<key>shouldInflateCube</key>
+	<string>endinteractor</string>
+	<key>widgetStyle</key>
+	<string>specifyIcon</string>
+</dict>
+</plist>

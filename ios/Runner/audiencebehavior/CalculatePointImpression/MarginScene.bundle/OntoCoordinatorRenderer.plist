@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerthreshold</key>
+	<string>radioTask</string>
+	<key>certificateofcontext</key>
+	<string>obtainQueue</string>
+	<key>customAlpha</key>
+	<string>firstAnimatedContainer</string>
+	<key>easySample</key>
+	<string>observerSpeed</string>
+	<key>inheritedAlignment</key>
+	<string>canReplaceListView</string>
+	<key>publicinterpolationtype</key>
+	<string>findDecoration</string>
+	<key>resourceTop</key>
+	<string>concurrentPicker</string>
+	<key>routeaction</key>
+	<string>boxComposite</string>
+</dict>
+</plist>

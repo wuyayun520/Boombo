@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeresultshape</key>
+	<string>tweenTransparency</string>
+	<key>injectionindex</key>
+	<string>typicaltexture</string>
+	<key>joinerFlags</key>
+	<string>profileDistance</string>
+	<key>previewStatus</key>
+	<string>synchronousRectangle</string>
+	<key>scrollableIcon</key>
+	<string>equipmentFlags</string>
+	<key>shouldDismissDuration</key>
+	<string>yieldPrecision</string>
+	<key>uniquePageView</key>
+	<string>detectorFormat</string>
+</dict>
+</plist>

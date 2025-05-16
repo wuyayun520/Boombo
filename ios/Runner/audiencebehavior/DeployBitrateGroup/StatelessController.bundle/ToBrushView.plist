@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasresponse</key>
+	<string>restartThread</string>
+	<key>gradientKind</key>
+	<string>subsequentMesh</string>
+	<key>logLocation</key>
+	<string>canSubscribeBrush</string>
+	<key>prevPosition</key>
+	<string>liteVideo</string>
+	<key>resizableCreator</key>
+	<string>enabledUseCase</string>
+	<key>shouldRouteInkWell</key>
+	<string>canFormatCycle</string>
+</dict>
+</plist>

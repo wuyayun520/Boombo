@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentAppearance</key>
+	<string>mountedLog</string>
+	<key>deserializerow</key>
+	<string>mediocreRow</string>
+	<key>displayableNotification</key>
+	<string>alertStyle</string>
+	<key>localTitle</key>
+	<string>activitycolor</string>
+	<key>prevgesturedetector</key>
+	<string>mitigateModel</string>
+	<key>shouldStreamLayout</key>
+	<string>deliverySpeed</string>
+	<key>shouldTrainTheme</key>
+	<string>relationalSegue</string>
+	<key>taskBottom</key>
+	<string>masterDelay</string>
+	<key>toleranceKind</key>
+	<string>dedicatedLatency</string>
+	<key>usecasebrightness</key>
+	<string>displayabledurationorientation</string>
+</dict>
+</plist>

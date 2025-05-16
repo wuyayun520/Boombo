@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorMargin</key>
+	<string>shouldConnectMediaQuery</string>
+	<key>globalCapacity</key>
+	<string>customFactory</string>
+	<key>heaparoundvar</key>
+	<string>uniformFormat</string>
+	<key>shouldAnimateRoute</key>
+	<string>repositoryanimation</string>
+	<key>shouldAttachPriority</key>
+	<string>shouldFinishIndicator</string>
+	<key>standalonetext</key>
+	<string>multibuilder</string>
+</dict>
+</plist>

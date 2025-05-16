@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetdepth</key>
+	<string>zoneStyle</string>
+	<key>coordinatordispatcher</key>
+	<string>resizableThroughput</string>
+	<key>dispatcherTint</key>
+	<string>immediatePoint</string>
+	<key>frameaslevel</key>
+	<string>deferredDimension</string>
+	<key>ignoredinterface</key>
+	<string>skipMovement</string>
+	<key>largeLoss</key>
+	<string>errorvariablecount</string>
+	<key>pinchableAmortization</key>
+	<string>newestProgressBar</string>
+	<key>reactiveException</key>
+	<string>reductionInteraction</string>
+	<key>shouldUnmountedGradient</key>
+	<string>pagerTint</string>
+</dict>
+</plist>

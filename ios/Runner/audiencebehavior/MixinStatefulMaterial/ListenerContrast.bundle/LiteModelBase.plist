@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorFrequency</key>
+	<string>mountprecision</string>
+	<key>deliverySpeed</key>
+	<string>mediocrePlate</string>
+	<key>intuitiveMaterial</key>
+	<string>moduleStatus</string>
+	<key>isbox</key>
+	<string>mountArithmetic</string>
+	<key>navigatorcontroller</key>
+	<string>cartesianMaterializer</string>
+	<key>originalButton</key>
+	<string>aspectratioInterpreter</string>
+	<key>previewTint</key>
+	<string>priorText</string>
+	<key>shouldSubscribeSegue</key>
+	<string>shouldUpdateSegue</string>
+	<key>slashPosition</key>
+	<string>unschedulelabel</string>
+</dict>
+</plist>

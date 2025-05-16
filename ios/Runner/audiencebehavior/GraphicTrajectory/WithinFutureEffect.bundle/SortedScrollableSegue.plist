@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAccessory</key>
+	<string>profilesubscription</string>
+	<key>inactiveScroller</key>
+	<string>canDispatchTask</string>
+	<key>progressbarKind</key>
+	<string>disabledHero</string>
+	<key>rapidCube</key>
+	<string>loopInterval</string>
+	<key>requestForce</key>
+	<string>shouldEmitTernary</string>
+	<key>shouldPublishGesture</key>
+	<string>immutableInstruction</string>
+	<key>sophisticatedCaption</key>
+	<string>consumptionVisibility</string>
+	<key>subsequentPageView</key>
+	<string>navigateoption</string>
+</dict>
+</plist>

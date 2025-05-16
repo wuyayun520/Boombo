@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedComponent</key>
+	<string>accessibleFilter</string>
+	<key>declarativetopic</key>
+	<string>cellStatus</string>
+	<key>hierarchicalEvent</key>
+	<string>blocsincesingleton</string>
+	<key>interactionSpeed</key>
+	<string>rowIndex</string>
+	<key>musicresilience</key>
+	<string>yieldCheckbox</string>
+	<key>seekpainter</key>
+	<string>offsetWidget</string>
+	<key>shouldPaintPromise</key>
+	<string>disabledLayer</string>
+	<key>shouldValidateMovement</key>
+	<string>overrideLayout</string>
+	<key>unsortedDelivery</key>
+	<string>shouldContinueMediaQuery</string>
+	<key>visiblenotification</key>
+	<string>statelessParam</string>
+</dict>
+</plist>

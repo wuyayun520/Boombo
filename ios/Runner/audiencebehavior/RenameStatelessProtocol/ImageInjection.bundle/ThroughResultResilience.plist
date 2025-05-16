@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianAspect</key>
+	<string>dataValidation</string>
+	<key>elasticCell</key>
+	<string>shouldResumeMobile</string>
+	<key>immutableTime</key>
+	<string>updateMission</string>
+	<key>pivotalTrigger</key>
+	<string>subscribeProvider</string>
+	<key>priorJoiner</key>
+	<string>shouldSkipCertificate</string>
+	<key>shouldStartGem</key>
+	<string>parallelPublisher</string>
+	<key>singlestateedge</key>
+	<string>viewarchitecture</string>
+	<key>subsequentMission</key>
+	<string>convolutioncharacteristic</string>
+</dict>
+</plist>

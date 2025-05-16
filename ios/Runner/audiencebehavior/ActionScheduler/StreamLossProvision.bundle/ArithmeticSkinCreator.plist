@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousController</key>
+	<string>onsampletap</string>
+	<key>charthead</key>
+	<string>shouldStopExtension</string>
+	<key>gridbystage</key>
+	<string>displayablePermutation</string>
+	<key>permissivemodulus</key>
+	<string>shouldstartcursor</string>
+	<key>presentgroup</key>
+	<string>lazyStrength</string>
+	<key>repositorycoord</key>
+	<string>unscheduleNavigator</string>
+	<key>tickerType</key>
+	<string>popupScope</string>
+</dict>
+</plist>

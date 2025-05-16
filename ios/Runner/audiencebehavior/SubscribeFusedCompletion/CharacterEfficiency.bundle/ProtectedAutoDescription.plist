@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBuffer</key>
+	<string>renderMomentum</string>
+	<key>comprehensiveSink</key>
+	<string>shouldEndMember</string>
+	<key>dedicatedBuffer</key>
+	<string>semanticGram</string>
+	<key>reduceresource</key>
+	<string>mediaqueryOpacity</string>
+	<key>shouldAttachMediaQuery</key>
+	<string>trajectoryrotation</string>
+	<key>timeStatus</key>
+	<string>canPaintCache</string>
+</dict>
+</plist>

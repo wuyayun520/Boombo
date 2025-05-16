@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledSubpixel</key>
+	<string>behaviorresponse</string>
+	<key>disposesemantics</key>
+	<string>rapidChannels</string>
+	<key>imageCoord</key>
+	<string>trainbuffer</string>
+	<key>persistentIndicator</key>
+	<string>canPaintAspectRatio</string>
+	<key>shouldfetchnotifier</key>
+	<string>replaceVariant</string>
+</dict>
+</plist>

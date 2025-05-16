@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charactername</key>
+	<string>resilientSegment</string>
+	<key>elasticException</key>
+	<string>optimizerTier</string>
+	<key>firstSize</key>
+	<string>measureMenu</string>
+	<key>joinerSkewY</key>
+	<string>detectorBrightness</string>
+	<key>modelincludeenvironment</key>
+	<string>errorVisible</string>
+	<key>navigatordistance</key>
+	<string>canDisposeCursor</string>
+	<key>rendererStyle</key>
+	<string>canPausePlate</string>
+	<key>singleData</key>
+	<string>layoutexpanded</string>
+	<key>staticProjection</key>
+	<string>canRebuildPromise</string>
+</dict>
+</plist>

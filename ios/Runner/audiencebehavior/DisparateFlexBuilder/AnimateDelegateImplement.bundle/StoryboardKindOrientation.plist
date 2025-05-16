@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicProgressBar</key>
+	<string>canMountCube</string>
+	<key>greatFrame</key>
+	<string>skinPhase</string>
+	<key>promiserestriction</key>
+	<string>tensorProvision</string>
+	<key>shouldSerializeWidget</key>
+	<string>parallelExtension</string>
+	<key>unactivatedNotation</key>
+	<string>enabledGradient</string>
+	<key>unmountedstream</key>
+	<string>shouldContinueLoss</string>
+</dict>
+</plist>

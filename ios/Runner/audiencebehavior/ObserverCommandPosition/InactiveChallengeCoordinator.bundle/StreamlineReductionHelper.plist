@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSize</key>
+	<string>reducertransformer</string>
+	<key>detectorOpacity</key>
+	<string>storyboardparticle</string>
+	<key>ephemeralcurve</key>
+	<string>concretelayer</string>
+	<key>otherTexture</key>
+	<string>pivotalwidget</string>
+	<key>shouldDecodeProject</key>
+	<string>replicaTint</string>
+	<key>trianglesVisible</key>
+	<string>directlyHandler</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundlequeue</key>
+	<string>notificationopacity</string>
+	<key>diversifiedRepository</key>
+	<string>shouldPersistNotification</string>
+	<key>euclideanSensor</key>
+	<string>streaminframework</string>
+	<key>integerSkewX</key>
+	<string>enabledSubscription</string>
+	<key>serializesession</key>
+	<string>inactiveLatency</string>
+	<key>similarCycle</key>
+	<string>smallSchema</string>
+	<key>textureHead</key>
+	<string>smallChannel</string>
+	<key>wrapactivity</key>
+	<string>canStopEntropy</string>
+</dict>
+</plist>

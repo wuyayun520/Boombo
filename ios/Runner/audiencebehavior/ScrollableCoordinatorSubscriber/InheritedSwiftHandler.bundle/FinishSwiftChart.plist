@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCard</key>
+	<string>activeSlash</string>
+	<key>currentanchor</key>
+	<string>quitresult</string>
+	<key>distinctionFlags</key>
+	<string>matrixOperation</string>
+	<key>grayscaleName</key>
+	<string>shouldPushNib</string>
+	<key>singletonInset</key>
+	<string>iterativeSignature</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionEvaluation</key>
+	<string>requiredplatefrequency</string>
+	<key>allocatorsingletonvisibility</key>
+	<string>inflateCurve</string>
+	<key>fetchlayout</key>
+	<string>iscupertino</string>
+	<key>hardMethod</key>
+	<string>switchBound</string>
+	<key>missedRoute</key>
+	<string>reflectLayout</string>
+	<key>shouldDetachSizedBox</key>
+	<string>synchronizeRadius</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationDistance</key>
+	<string>exitBloc</string>
+	<key>channelsLocation</key>
+	<string>singleMultiplication</string>
+	<key>responsiveSlider</key>
+	<string>performBuffer</string>
+	<key>shouldObserveTangent</key>
+	<string>durationadapteropacity</string>
+	<key>shouldTrainAperture</key>
+	<string>usednavigatorscale</string>
+</dict>
+</plist>

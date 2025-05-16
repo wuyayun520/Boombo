@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedHistogram</key>
+	<string>secondPageView</string>
+	<key>diffableOverlay</key>
+	<string>asynchronousAllocator</string>
+	<key>immediateinformation</key>
+	<string>materialanimationtop</string>
+	<key>inactiveSemantics</key>
+	<string>equipmentPadding</string>
+	<key>semanticContainer</key>
+	<string>standaloneTimeline</string>
+	<key>shouldPersistCharacter</key>
+	<string>webEvaluation</string>
+</dict>
+</plist>

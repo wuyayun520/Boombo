@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectiontransition</key>
+	<string>hierarchicalOperation</string>
+	<key>composabledocument</key>
+	<string>painterKind</string>
+	<key>criticalSize</key>
+	<string>resumeHeap</string>
+	<key>eagerTransformer</key>
+	<string>builderCount</string>
+	<key>sessionkinddirection</key>
+	<string>ignoredDetector</string>
+	<key>shouldReplaceMember</key>
+	<string>mitigateObserver</string>
+	<key>tickerIndex</key>
+	<string>prevDelegate</string>
+</dict>
+</plist>

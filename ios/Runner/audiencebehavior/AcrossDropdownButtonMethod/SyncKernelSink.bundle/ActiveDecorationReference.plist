@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMusic</key>
+	<string>paddingSaturation</string>
+	<key>mediumimage</key>
+	<string>vectorizeanimation</string>
+	<key>rowCoord</key>
+	<string>canRenderInteger</string>
+	<key>segueRight</key>
+	<string>discardedStrength</string>
+	<key>shouldResumeProjection</key>
+	<string>copyFrame</string>
+	<key>stateAppearance</key>
+	<string>unactivatedService</string>
+	<key>sustainableHash</key>
+	<string>inkwellScale</string>
+	<key>uniquePlate</key>
+	<string>intensityobject</string>
+</dict>
+</plist>

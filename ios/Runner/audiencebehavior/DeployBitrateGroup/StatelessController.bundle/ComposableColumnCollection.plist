@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentinterface</key>
+	<string>usecaseObserver</string>
+	<key>calculatecollection</key>
+	<string>consumertheme</string>
+	<key>consultativePainter</key>
+	<string>statefulQuaternion</string>
+	<key>crudeIndicator</key>
+	<string>specifyColumn</string>
+	<key>eagerTitle</key>
+	<string>onboxshadowchanged</string>
+	<key>optionSkewX</key>
+	<string>originalGrain</string>
+	<key>presentgesturedetector</key>
+	<string>canHandleExtension</string>
+	<key>prismaticCapacities</key>
+	<string>hasanimatedcontainer</string>
+	<key>protectedState</key>
+	<string>tensorSample</string>
+	<key>standaloneQuaternion</key>
+	<string>animatedComponent</string>
+</dict>
+</plist>

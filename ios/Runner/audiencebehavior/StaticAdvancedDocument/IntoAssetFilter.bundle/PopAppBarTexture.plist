@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitEmitter</key>
+	<string>shouldmountreduction</string>
+	<key>liteOption</key>
+	<string>pointParam</string>
+	<key>prismaticThread</key>
+	<string>rendererInterval</string>
+	<key>semanticSelector</key>
+	<string>canYieldAnimation</string>
+	<key>visibleScope</key>
+	<string>cupertinoAnimator</string>
+</dict>
+</plist>

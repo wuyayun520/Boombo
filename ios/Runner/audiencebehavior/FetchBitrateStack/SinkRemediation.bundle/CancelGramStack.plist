@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalResource</key>
+	<string>criticalVolume</string>
+	<key>injectionstrategyalignment</key>
+	<string>stopSegment</string>
+	<key>itemOrigin</key>
+	<string>screenbottom</string>
+	<key>lastResource</key>
+	<string>concatenatenotification</string>
+	<key>normalScaffold</key>
+	<string>interactorversusmemento</string>
+	<key>oldheap</key>
+	<string>pinchableCluster</string>
+	<key>replicaBottom</key>
+	<string>currentPosition</string>
+	<key>standalonetimerpressure</key>
+	<string>disclaimerhead</string>
+	<key>startshader</key>
+	<string>shouldMountMusic</string>
+	<key>storyboardFormat</key>
+	<string>restoreBuilder</string>
+</dict>
+</plist>

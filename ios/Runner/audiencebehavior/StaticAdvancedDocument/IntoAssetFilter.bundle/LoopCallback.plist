@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAlignment</key>
+	<string>heroSkewX</string>
+	<key>beginnerGram</key>
+	<string>marshallabel</string>
+	<key>compositionlabel</key>
+	<string>grayscaleasvisitor</string>
+	<key>discardedMediaQuery</key>
+	<string>loopStage</string>
+	<key>primaryPager</key>
+	<string>sharedConfiguration</string>
+	<key>requestbandwidth</key>
+	<string>activeBrush</string>
+	<key>shouldPrepareBullet</key>
+	<string>resizeOffset</string>
+</dict>
+</plist>

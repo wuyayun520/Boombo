@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsResponse</key>
+	<string>originalListener</string>
+	<key>emitterLeft</key>
+	<string>baseIndex</string>
+	<key>intermediateCapacities</key>
+	<string>agileProvider</string>
+	<key>ondelegatetap</key>
+	<string>canConnectConsumer</string>
+	<key>playbackFormat</key>
+	<string>protectedComposition</string>
+	<key>reducerrenderer</key>
+	<string>adaptiveModel</string>
+</dict>
+</plist>

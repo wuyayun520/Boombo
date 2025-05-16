@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMethod</key>
+	<string>reactiveTopic</string>
+	<key>aspectratiostatus</key>
+	<string>transformerpatternacceleration</string>
+	<key>presentinterface</key>
+	<string>canPaintNotification</string>
+	<key>prevInterface</key>
+	<string>functionalComponent</string>
+	<key>rendereracceleration</key>
+	<string>meshcount</string>
+	<key>semanticsHead</key>
+	<string>canPresentArithmetic</string>
+</dict>
+</plist>

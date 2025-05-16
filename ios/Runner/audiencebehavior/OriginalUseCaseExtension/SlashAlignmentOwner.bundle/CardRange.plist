@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationinteraction</key>
+	<string>customRestriction</string>
+	<key>cupertinoMap</key>
+	<string>interactionDuration</string>
+	<key>lastSize</key>
+	<string>storeSprite</string>
+	<key>richtexttag</key>
+	<string>canDisconnectDelegate</string>
+	<key>scrollTop</key>
+	<string>paddingStage</string>
+	<key>sharedtransitioninterval</key>
+	<string>moduluscontextbrightness</string>
+	<key>statelessCache</key>
+	<string>shouldUnbindMonster</string>
+	<key>subsequentSorter</key>
+	<string>clearMetadata</string>
+</dict>
+</plist>

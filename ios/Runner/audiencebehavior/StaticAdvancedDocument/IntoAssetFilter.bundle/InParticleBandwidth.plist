@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorSkewX</key>
+	<string>anchorLocation</string>
+	<key>firstGrain</key>
+	<string>canPaintAnimatedContainer</string>
+	<key>granularMesh</key>
+	<string>subpixelinteraction</string>
+	<key>hyperbolicThreshold</key>
+	<string>eagerCombiner</string>
+	<key>priorityRight</key>
+	<string>nativeScenario</string>
+	<key>shouldStartMember</key>
+	<string>fixedLabel</string>
+	<key>stampslider</key>
+	<string>persistentUtil</string>
+	<key>stepDepth</key>
+	<string>presentPageView</string>
+	<key>taskmementooffset</key>
+	<string>tabbarfeedback</string>
+</dict>
+</plist>

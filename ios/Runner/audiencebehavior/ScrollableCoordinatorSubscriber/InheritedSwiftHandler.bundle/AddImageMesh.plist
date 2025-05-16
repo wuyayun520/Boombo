@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityType</key>
+	<string>shouldunbindflex</string>
+	<key>concreteVolume</key>
+	<string>currentMember</string>
+	<key>factoryconsumption</key>
+	<string>constantPadding</string>
+	<key>quaternionValidation</key>
+	<string>segueIndex</string>
+	<key>secondAxis</key>
+	<string>currentProfile</string>
+	<key>slashagainstmode</key>
+	<string>animatorTag</string>
+	<key>sliderColor</key>
+	<string>shouldValidateMusic</string>
+	<key>techniqueexceptcommand</key>
+	<string>uniquePublisher</string>
+</dict>
+</plist>

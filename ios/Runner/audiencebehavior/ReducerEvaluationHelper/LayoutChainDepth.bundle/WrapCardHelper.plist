@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricBox</key>
+	<string>canUnbindMatrix</string>
+	<key>hashinteraction</key>
+	<string>smartScroller</string>
+	<key>lastAccessory</key>
+	<string>canNotifyKernel</string>
+	<key>relationalSegment</key>
+	<string>makeText</string>
+	<key>sortedAnimatedContainer</key>
+	<string>canRestartSegment</string>
+	<key>specifierCount</key>
+	<string>widgetcubit</string>
+</dict>
+</plist>

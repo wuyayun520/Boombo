@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captiontail</key>
+	<string>persistCube</string>
+	<key>hyperbolicLayout</key>
+	<string>replaceSign</string>
+	<key>invisiblePreview</key>
+	<string>optionPadding</string>
+	<key>methodDepth</key>
+	<string>shouldDisposeCard</string>
+	<key>sophisticatedTool</key>
+	<string>shouldTransformProject</string>
+	<key>thresholdIndex</key>
+	<string>escalateGrid</string>
+</dict>
+</plist>

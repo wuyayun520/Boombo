@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleprovider</key>
+	<string>agileStateful</string>
+	<key>densePositioned</key>
+	<string>deserializeCanvas</string>
+	<key>immutableButton</key>
+	<string>exceptionResponse</string>
+	<key>injectiontrajectory</key>
+	<string>entityBorder</string>
+	<key>prismaticLinker</key>
+	<string>deserializehash</string>
+	<key>repositoryName</key>
+	<string>combineLabel</string>
+	<key>resourceFrequency</key>
+	<string>matrixState</string>
+	<key>seamlessTrajectory</key>
+	<string>interpolationbuilder</string>
+	<key>shouldUnmountedTabView</key>
+	<string>contrastType</string>
+	<key>storefacadeindex</key>
+	<string>shouldSubscribePageView</string>
+</dict>
+</plist>

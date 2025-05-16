@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachchapter</key>
+	<string>hierarchicalReducer</string>
+	<key>crudeSwitch</key>
+	<string>tabbarorsingleton</string>
+	<key>deserializeview</key>
+	<string>animatorPadding</string>
+	<key>difficultNavigator</key>
+	<string>errorLocation</string>
+	<key>hyperbolicExpanded</key>
+	<string>shouldPresentPositioned</string>
+	<key>sequentialprovider</key>
+	<string>shouldYieldSignature</string>
+	<key>sineOffset</key>
+	<string>localChannels</string>
+	<key>temporaryComponent</key>
+	<string>uniformEquivalent</string>
+	<key>unsortedTable</key>
+	<string>layerVariable</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSink</key>
+	<string>canListenSegue</string>
+	<key>customizedAudio</key>
+	<string>listvieworientation</string>
+	<key>desktopOccasion</key>
+	<string>activeMonster</string>
+	<key>mobileMaterializer</key>
+	<string>emitNib</string>
+	<key>sorterCoord</key>
+	<string>trainMargin</string>
+	<key>specifyItem</key>
+	<string>declarativeUseCase</string>
+	<key>stepawaysingleton</key>
+	<string>viewstyle</string>
+	<key>symmetricMedia</key>
+	<string>taxonomyRight</string>
+	<key>visibleAxis</key>
+	<string>interceptmethod</string>
+</dict>
+</plist>

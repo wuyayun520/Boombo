@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedOffset</key>
+	<string>overlayAcceleration</string>
+	<key>overlayenvironmentmode</key>
+	<string>bitrateMethod</string>
+	<key>providerposition</key>
+	<string>actiontriangles</string>
+	<key>seamlessAlignment</key>
+	<string>shouldAttachCube</string>
+	<key>shouldPauseCaption</key>
+	<string>multiplicationInterpreter</string>
+	<key>shouldSubscribeNavigation</key>
+	<string>usedWrapper</string>
+	<key>statusSkewX</key>
+	<string>concatenatesubpixel</string>
+</dict>
+</plist>

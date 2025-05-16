@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableRemediation</key>
+	<string>mitigateGroup</string>
+	<key>discardedMaterializer</key>
+	<string>robustThread</string>
+	<key>hasSemantics</key>
+	<string>lockObserver</string>
+	<key>interfaceversusmemento</key>
+	<string>polyfillValidation</string>
+	<key>mediocreScreen</key>
+	<string>popTimer</string>
+	<key>shouldFormatLabel</key>
+	<string>oldStack</string>
+</dict>
+</plist>

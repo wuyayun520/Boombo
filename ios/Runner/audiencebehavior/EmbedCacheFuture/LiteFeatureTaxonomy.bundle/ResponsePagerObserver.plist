@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutMode</key>
+	<string>viewResponse</string>
+	<key>scalabilityRate</key>
+	<string>coordinatorformat</string>
+	<key>sceneAppearance</key>
+	<string>denseloop</string>
+	<key>shouldBuildExponent</key>
+	<string>specifierandshape</string>
+	<key>shouldContinueHistogram</key>
+	<string>lockProvider</string>
+	<key>shouldPrepareContraction</key>
+	<string>transformerinset</string>
+	<key>statefulcontainproxy</key>
+	<string>coordinatorjoiner</string>
+</dict>
+</plist>

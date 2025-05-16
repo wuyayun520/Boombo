@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedChapter</key>
+	<string>shouldformatcertificate</string>
+	<key>alertwithkind</key>
+	<string>newestCertificate</string>
+	<key>declarativeService</key>
+	<string>materialTouch</string>
+	<key>lazyBuffer</key>
+	<string>minAppBar</string>
+	<key>meshStyle</key>
+	<string>substantialMargin</string>
+	<key>prevMerger</key>
+	<string>apertureAdapter</string>
+	<key>shouldDisposeBloc</key>
+	<string>anchorObserver</string>
+	<key>shouldTransformTernary</key>
+	<string>topicTint</string>
+	<key>tappableplateformat</key>
+	<string>finishFlex</string>
+</dict>
+</plist>

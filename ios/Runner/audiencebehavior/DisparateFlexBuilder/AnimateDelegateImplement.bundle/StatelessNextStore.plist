@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorSaturation</key>
+	<string>positionedRight</string>
+	<key>drawerstrength</key>
+	<string>addTopic</string>
+	<key>heroTransparency</key>
+	<string>quantizationView</string>
+	<key>independentService</key>
+	<string>canCancelPet</string>
+	<key>keyTextField</key>
+	<string>disconnectTabView</string>
+	<key>sharedComposition</key>
+	<string>persistEffect</string>
+	<key>shouldPauseRichText</key>
+	<string>clusterVisibility</string>
+	<key>shoulddispatchcache</key>
+	<string>delegatealignment</string>
+</dict>
+</plist>

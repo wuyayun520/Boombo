@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>retainedSignature</key>
+	<string>reductionForce</string>
+	<key>scrollVelocity</key>
+	<string>nativeLifecycle</string>
+	<key>smallMaterializer</key>
+	<string>curveStructure</string>
+	<key>sortedInterpolation</key>
+	<string>reductionMemento</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticLoader</key>
+	<string>shouldUpdatePrecision</string>
+	<key>flexRight</key>
+	<string>disparateRichText</string>
+	<key>fusedTexture</key>
+	<string>seekwidget</string>
+	<key>keySubscription</key>
+	<string>shouldReplaceCharacter</string>
+	<key>nodestroke</key>
+	<string>maintainRadius</string>
+	<key>pivotalNorm</key>
+	<string>builderDelay</string>
+	<key>publishprogressbar</key>
+	<string>assetintegration</string>
+	<key>replaceanimation</key>
+	<string>captureStorage</string>
+	<key>shouldProcessAxis</key>
+	<string>scrollableJoiner</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationstroke</key>
+	<string>stringifyPresenter</string>
+	<key>enabledCombiner</key>
+	<string>mendFrequency</string>
+	<key>largeLayer</key>
+	<string>shouldNotifyAnimation</string>
+	<key>loadconsumer</key>
+	<string>shouldAnimateGate</string>
+	<key>modalstyle</key>
+	<string>shouldDismissCanvas</string>
+	<key>publicbuffer</key>
+	<string>checklistRotation</string>
+	<key>textcenter</key>
+	<string>orchestrateRequest</string>
+</dict>
+</plist>

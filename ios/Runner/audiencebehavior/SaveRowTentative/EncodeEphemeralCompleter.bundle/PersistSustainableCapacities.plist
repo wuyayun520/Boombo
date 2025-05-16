@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationexceptproxy</key>
+	<string>cubitObserver</string>
+	<key>elasticSchema</key>
+	<string>disabledallocator</string>
+	<key>impactMomentum</key>
+	<string>checklistInterval</string>
+	<key>prismaticreplica</key>
+	<string>scalabilityDelay</string>
+	<key>publicReceiver</key>
+	<string>roleKind</string>
+	<key>reusableLifecycle</key>
+	<string>layerPlatform</string>
+	<key>shouldBuildLayout</key>
+	<string>backwardMap</string>
+	<key>similarVertex</key>
+	<string>annotateResult</string>
+	<key>strengthhead</key>
+	<string>destroyFrame</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterposition</key>
+	<string>cacheRight</string>
+	<key>convolutionState</key>
+	<string>denseKernel</string>
+	<key>detachlistener</key>
+	<string>subpixelpadding</string>
+	<key>imperativeEntity</key>
+	<string>playTicker</string>
+	<key>shouldObserveSkin</key>
+	<string>paintreducer</string>
+	<key>shouldPauseCapacities</key>
+	<string>criticalUsage</string>
+</dict>
+</plist>

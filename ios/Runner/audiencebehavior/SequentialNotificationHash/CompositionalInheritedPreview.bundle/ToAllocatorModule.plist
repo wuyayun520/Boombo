@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activetransformer</key>
+	<string>consultativeTitle</string>
+	<key>allocatorhue</key>
+	<string>pickerBorder</string>
+	<key>iterativeMargin</key>
+	<string>shouldsavemediaquery</string>
+	<key>keyResponder</key>
+	<string>hashMemento</string>
+	<key>localTouch</key>
+	<string>nextReceiver</string>
+	<key>reactivebutton</key>
+	<string>disconnectCycle</string>
+	<key>routeutil</key>
+	<string>canSkipArithmetic</string>
+	<key>sizedboxstore</key>
+	<string>parallelModule</string>
+	<key>slashtaskopacity</key>
+	<string>notifyLoop</string>
+	<key>tablefactory</key>
+	<string>fusedMovement</string>
+</dict>
+</plist>

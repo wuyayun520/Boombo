@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>marginMomentum</key>
+	<string>textValue</string>
+	<key>multiplicationlocation</key>
+	<string>shouldPaintExtension</string>
+	<key>optionVisibility</key>
+	<string>resourceColor</string>
+	<key>robustimageright</key>
+	<string>canLayoutCurve</string>
+	<key>shouldDeserializeAspect</key>
+	<string>serviceInset</string>
+	<key>unsortedCapsule</key>
+	<string>signSaturation</string>
+</dict>
+</plist>

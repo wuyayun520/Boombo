@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationincludefacade</key>
+	<string>usedController</string>
+	<key>nativeAlignment</key>
+	<string>disabledzoneshape</string>
+	<key>opaqueRouter</key>
+	<string>publicAspect</string>
+	<key>primaryStore</key>
+	<string>efficiencyValidation</string>
+	<key>prismaticNode</key>
+	<string>spriteOffset</string>
+	<key>shouldUpdateBitrate</key>
+	<string>canUnmountPositioned</string>
+	<key>shouldemitradio</key>
+	<string>equalizationPrototype</string>
+	<key>uniformPolygon</key>
+	<string>intermediateEvent</string>
+</dict>
+</plist>

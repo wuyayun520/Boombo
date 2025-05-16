@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedlistview</key>
+	<string>shouldUnmountAperture</string>
+	<key>optionCount</key>
+	<string>firstRange</string>
+	<key>pinchablepicker</key>
+	<string>checkBuilder</string>
+	<key>previewplatformshade</key>
+	<string>seamlessInjection</string>
+	<key>requiredDescriptor</key>
+	<string>blocPhase</string>
+	<key>shouldObserveBox</key>
+	<string>staticCompleter</string>
+	<key>shouldSubscribeSymbol</key>
+	<string>localListener</string>
+	<key>stateAcceleration</key>
+	<string>marginVelocity</string>
+	<key>temporaryAsync</key>
+	<string>logarithmInset</string>
+</dict>
+</plist>

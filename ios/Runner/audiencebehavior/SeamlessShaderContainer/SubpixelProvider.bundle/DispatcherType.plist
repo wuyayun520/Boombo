@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousInterpolation</key>
+	<string>shouldDisposeChannels</string>
+	<key>crucialGrayscale</key>
+	<string>dynamicawaitoffset</string>
+	<key>fusedInjection</key>
+	<string>shoulddisconnectbrush</string>
+	<key>indicatorprogressbar</key>
+	<string>adjustaxis</string>
+	<key>specifyThread</key>
+	<string>musicstylename</string>
+	<key>webcubetail</key>
+	<string>scrollobserver</string>
+</dict>
+</plist>

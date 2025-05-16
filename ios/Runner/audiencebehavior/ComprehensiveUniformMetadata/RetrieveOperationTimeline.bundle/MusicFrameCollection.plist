@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedEvaluation</key>
+	<string>refactorDescription</string>
+	<key>deferredCollection</key>
+	<string>featureJob</string>
+	<key>descriptorColor</key>
+	<string>symmetricFormat</string>
+	<key>directBuilder</key>
+	<string>capsuleActivity</string>
+	<key>firstKernel</key>
+	<string>switchDecorator</string>
+	<key>localComponent</key>
+	<string>sceneSpacing</string>
+	<key>notificationoffset</key>
+	<string>flexColor</string>
+</dict>
+</plist>

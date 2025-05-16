@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalRecursion</key>
+	<string>equalizationBrightness</string>
+	<key>nibevent</key>
+	<string>shouldRestartRichText</string>
+	<key>stackPosition</key>
+	<string>pointOffset</string>
+	<key>usedStream</key>
+	<string>activatedConverter</string>
+</dict>
+</plist>

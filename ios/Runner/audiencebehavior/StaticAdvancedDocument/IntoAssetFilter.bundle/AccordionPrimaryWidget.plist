@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGate</key>
+	<string>asyncEdge</string>
+	<key>agilewidgetorigin</key>
+	<string>replacePreview</string>
+	<key>handlertype</key>
+	<string>startbuffer</string>
+	<key>instructiondensity</key>
+	<string>renderStack</string>
+	<key>integrationCoord</key>
+	<string>fusedGrid</string>
+	<key>providerconsumption</key>
+	<string>missedTween</string>
+	<key>shouldBuildDescriptor</key>
+	<string>customChapter</string>
+	<key>ternaryTail</key>
+	<string>gestureRate</string>
+</dict>
+</plist>

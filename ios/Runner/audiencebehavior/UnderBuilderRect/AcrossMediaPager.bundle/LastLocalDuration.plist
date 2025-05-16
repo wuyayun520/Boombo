@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAsync</key>
+	<string>evaluateQueue</string>
+	<key>gradientcontrast</key>
+	<string>pauseCanvas</string>
+	<key>mutableIsolate</key>
+	<string>captureChart</string>
+	<key>rowcommandrotation</key>
+	<string>particleRotation</string>
+	<key>shouldDetachProvider</key>
+	<string>textFunction</string>
+	<key>showreducer</key>
+	<string>shouldNavigateActivity</string>
+</dict>
+</plist>

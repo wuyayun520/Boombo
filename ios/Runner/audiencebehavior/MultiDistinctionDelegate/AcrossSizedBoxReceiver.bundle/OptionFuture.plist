@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeFilter</key>
+	<string>mergerSkewX</string>
+	<key>fixedExpanded</key>
+	<string>canShowView</string>
+	<key>prismaticUsage</key>
+	<string>shouldFormatPriority</string>
+	<key>rolekind</key>
+	<string>smartHero</string>
+	<key>scrollerAppearance</key>
+	<string>handleScroll</string>
+	<key>semanticscoord</key>
+	<string>pauseVariant</string>
+	<key>shouldPersistBaseline</key>
+	<string>directOverlay</string>
+</dict>
+</plist>

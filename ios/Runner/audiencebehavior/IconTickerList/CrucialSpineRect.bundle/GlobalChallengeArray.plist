@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinePadding</key>
+	<string>shouldtransformcomposition</string>
+	<key>missedPopup</key>
+	<string>typicalReference</string>
+	<key>originalMetrics</key>
+	<string>shouldNavigateNib</string>
+	<key>resolverDirection</key>
+	<string>shouldEncodeStream</string>
+	<key>sampleplatformtop</key>
+	<string>popStack</string>
+	<key>sharedDecoration</key>
+	<string>unmountGestureDetector</string>
+	<key>shouldloadprovider</key>
+	<string>keepThread</string>
+	<key>shouldsavecontraction</key>
+	<string>copyLocalization</string>
+	<key>textisolate</key>
+	<string>validateCheckbox</string>
+</dict>
+</plist>

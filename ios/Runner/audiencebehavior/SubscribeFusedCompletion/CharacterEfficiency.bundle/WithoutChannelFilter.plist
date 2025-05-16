@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushMode</key>
+	<string>overlayEnvironment</string>
+	<key>concatenatechapter</key>
+	<string>responsiveDialogs</string>
+	<key>multiAccessory</key>
+	<string>notificationContext</string>
+	<key>oldstream</key>
+	<string>shouldCancelPadding</string>
+	<key>remediationOrigin</key>
+	<string>serializeslider</string>
+	<key>resolverVisibility</key>
+	<string>validatecoordinator</string>
+	<key>widgetName</key>
+	<string>elasticgradientkind</string>
+</dict>
+</plist>

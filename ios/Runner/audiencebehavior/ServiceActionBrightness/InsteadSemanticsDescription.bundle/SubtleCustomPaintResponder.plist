@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianisolatestyle</key>
+	<string>richtextOpacity</string>
+	<key>collectionVisible</key>
+	<string>loadAnimatedContainer</string>
+	<key>enabledassetbrightness</key>
+	<string>collectionCommand</string>
+	<key>materialMargin</key>
+	<string>activatedChart</string>
+	<key>mediaAlignment</key>
+	<string>diffableAlignment</string>
+	<key>operationactiontag</key>
+	<string>shouldConnectMatrix</string>
+	<key>priorAnalogy</key>
+	<string>cupertinoCreator</string>
+	<key>shouldLoadCache</key>
+	<string>resolverMargin</string>
+	<key>shouldProcessCard</key>
+	<string>syncZone</string>
+	<key>spotvisible</key>
+	<string>shouldStartModal</string>
+</dict>
+</plist>

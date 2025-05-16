@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluationShade</key>
+	<string>webDuration</string>
+	<key>hardBullet</key>
+	<string>binaryflyweightdepth</string>
+	<key>parallelReducer</key>
+	<string>requestchainoffset</string>
+	<key>precisionskewy</key>
+	<string>compositionalCell</string>
+	<key>shouldValidateDocument</key>
+	<string>drawerInterval</string>
+	<key>smartDetector</key>
+	<string>explicitFeature</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeTop</key>
+	<string>pauseAlert</string>
+	<key>geometricReliability</key>
+	<string>parsePlayback</string>
+	<key>mediocreCursor</key>
+	<string>synchronousInteraction</string>
+	<key>permissiveExpanded</key>
+	<string>semanticStateful</string>
+	<key>reliabilityBorder</key>
+	<string>shouldBindPoint</string>
+</dict>
+</plist>

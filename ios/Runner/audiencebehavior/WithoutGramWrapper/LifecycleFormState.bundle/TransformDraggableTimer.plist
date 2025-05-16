@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inflateradio</key>
+	<string>shouldSetStateBinary</string>
+	<key>intermediateIntegration</key>
+	<string>relationalAudio</string>
+	<key>lifecycleEdge</key>
+	<string>labelduration</string>
+	<key>nativetriangles</key>
+	<string>displayCompleter</string>
+	<key>prevfeature</key>
+	<string>deferredDelivery</string>
+	<key>statefullistenerinterval</key>
+	<string>normplatformkind</string>
+	<key>unbindfuture</key>
+	<string>nativeMesh</string>
+</dict>
+</plist>

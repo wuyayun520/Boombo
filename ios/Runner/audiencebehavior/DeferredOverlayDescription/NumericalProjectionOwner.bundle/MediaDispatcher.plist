@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralUsage</key>
+	<string>provideLocalization</string>
+	<key>fusedLocalization</key>
+	<string>baseProxy</string>
+	<key>moduleVisible</key>
+	<string>graphLeft</string>
+	<key>temporarySignature</key>
+	<string>moduleSaturation</string>
+</dict>
+</plist>

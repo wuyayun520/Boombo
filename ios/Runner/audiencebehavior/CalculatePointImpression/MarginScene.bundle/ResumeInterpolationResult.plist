@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionInteraction</key>
+	<string>buttonAction</string>
+	<key>explicitLocalization</key>
+	<string>mediaqueryperform</string>
+	<key>layereffect</key>
+	<string>explicitController</string>
+	<key>subsequentGesture</key>
+	<string>listviewParameter</string>
+	<key>tableFeedback</key>
+	<string>minInstruction</string>
+</dict>
+</plist>

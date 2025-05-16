@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerAlignment</key>
+	<string>basicCollection</string>
+	<key>disparateMechanism</key>
+	<string>lostEffect</string>
+	<key>inactiveSearcher</key>
+	<string>shouldDismissProtocol</string>
+	<key>listenerFrequency</key>
+	<string>shouldDisconnectRow</string>
+	<key>liteProvider</key>
+	<string>tabviewDensity</string>
+	<key>relationalHeap</key>
+	<string>boxshadowDelay</string>
+	<key>shouldHandleMatrix</key>
+	<string>inactiveConsumption</string>
+</dict>
+</plist>

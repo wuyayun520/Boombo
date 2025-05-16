@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerColor</key>
+	<string>canEndMomentum</string>
+	<key>groupoutsideshape</key>
+	<string>canPaintTask</string>
+	<key>provisionopacity</key>
+	<string>observerBottom</string>
+	<key>synchronousSpot</key>
+	<string>canResumeBitrate</string>
+	<key>tappabletask</key>
+	<string>shouldConnectSwitch</string>
+</dict>
+</plist>

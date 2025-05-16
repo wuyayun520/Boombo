@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalTouch</key>
+	<string>efficiencyMomentum</string>
+	<key>materialGrain</key>
+	<string>logVisible</string>
+	<key>navigationTint</key>
+	<string>comprehensiveCollection</string>
+	<key>secondActivity</key>
+	<string>pointScale</string>
+	<key>sequentialTouch</key>
+	<string>toolVisible</string>
+</dict>
+</plist>

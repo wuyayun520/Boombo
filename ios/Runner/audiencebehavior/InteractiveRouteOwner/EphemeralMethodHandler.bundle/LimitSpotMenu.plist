@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSubscription</key>
+	<string>storeProxy</string>
+	<key>deferredEquipment</key>
+	<string>oldvectoralignment</string>
+	<key>navigatorbound</key>
+	<string>shouldUpdateTable</string>
+	<key>nodeLocation</key>
+	<string>staticTexture</string>
+	<key>profilefuture</key>
+	<string>parallelData</string>
+	<key>rectPressure</key>
+	<string>parallelMediaQuery</string>
+	<key>shouldAttachResource</key>
+	<string>formatPoint</string>
+	<key>tableduration</key>
+	<string>mediaqueryrotation</string>
+</dict>
+</plist>

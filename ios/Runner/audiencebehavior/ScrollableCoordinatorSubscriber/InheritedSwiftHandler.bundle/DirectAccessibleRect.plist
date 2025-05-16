@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerQuaternion</key>
+	<string>shouldListenSpot</string>
+	<key>issign</key>
+	<string>missedLoss</string>
+	<key>kernelBrightness</key>
+	<string>shouldFetchScaffold</string>
+	<key>localSubscriber</key>
+	<string>enabledSprite</string>
+	<key>reliabilityTag</key>
+	<string>layoutvisitorstate</string>
+	<key>selectedlistview</key>
+	<string>lastUseCase</string>
+	<key>shouldTransitionSpecifier</key>
+	<string>gridviewscene</string>
+</dict>
+</plist>

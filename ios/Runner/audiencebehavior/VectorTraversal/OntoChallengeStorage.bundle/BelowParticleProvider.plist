@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeAwait</key>
+	<string>consumerandnumber</string>
+	<key>firstKernel</key>
+	<string>enabledLayer</string>
+	<key>intensityFrequency</key>
+	<string>threadtasktype</string>
+	<key>pinchableMetrics</key>
+	<string>shouldNavigateBinary</string>
+	<key>schedulerVelocity</key>
+	<string>canMountSizedBox</string>
+	<key>shouldProcessCapacities</key>
+	<string>accessoryAction</string>
+	<key>shouldpersistprojection</key>
+	<string>scenePlatform</string>
+</dict>
+</plist>

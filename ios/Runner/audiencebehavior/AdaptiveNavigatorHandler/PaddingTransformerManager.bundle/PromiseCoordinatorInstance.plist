@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionHead</key>
+	<string>parallelGesture</string>
+	<key>declarativeTentative</key>
+	<string>intuitiveNotation</string>
+	<key>easySound</key>
+	<string>currentAction</string>
+	<key>profileFlags</key>
+	<string>intuitiveMargin</string>
+	<key>resultStatus</key>
+	<string>basicMusic</string>
+	<key>schemaSpacing</key>
+	<string>canReplaceFragment</string>
+</dict>
+</plist>

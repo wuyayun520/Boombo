@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperFormat</key>
+	<string>shouldCancelMission</string>
+	<key>observerLocation</key>
+	<string>expandedDirection</string>
+	<key>shouldNotifyModal</key>
+	<string>compositionalMovement</string>
+	<key>specifierDistance</key>
+	<string>animatedDuration</string>
+	<key>tappablePromise</key>
+	<string>respondRouter</string>
+</dict>
+</plist>

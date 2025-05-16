@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeSorter</key>
+	<string>shouldSkipMission</string>
+	<key>gesturedetectorType</key>
+	<string>enumerateDescription</string>
+	<key>globalData</key>
+	<string>encapsulateText</string>
+	<key>interactorInteraction</key>
+	<string>isanimation</string>
+	<key>playbackmementorotation</key>
+	<string>difficultUnary</string>
+	<key>shouldAnimateBinary</key>
+	<string>protectedBuffer</string>
+	<key>tangentsearcher</key>
+	<string>materialBase</string>
+	<key>usecaseVisibility</key>
+	<string>shouldShowTernary</string>
+</dict>
+</plist>

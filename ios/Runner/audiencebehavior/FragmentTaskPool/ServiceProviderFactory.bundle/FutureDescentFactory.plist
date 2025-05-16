@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultnotifier</key>
+	<string>scaleAlignment</string>
+	<key>difficultInfo</key>
+	<string>bindStamp</string>
+	<key>disclaimerColor</key>
+	<string>desktopanalyzer</string>
+	<key>scrollSpacing</key>
+	<string>typicalRequest</string>
+	<key>selectedImage</key>
+	<string>shouldFormatWidget</string>
+	<key>shouldLoadKernel</key>
+	<string>shouldEncodeTabView</string>
+</dict>
+</plist>

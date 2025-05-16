@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerPadding</key>
+	<string>usedgrambrightness</string>
+	<key>cartesianIndicator</key>
+	<string>startBaseline</string>
+	<key>elasticSize</key>
+	<string>setupError</string>
+	<key>lockmodal</key>
+	<string>anchorRight</string>
+	<key>webduration</key>
+	<string>isSegue</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectResponse</key>
+	<string>respondSprite</string>
+	<key>clippershape</key>
+	<string>inheritedStrength</string>
+	<key>intermediateScroll</key>
+	<string>continueBitrate</string>
+	<key>mediumListener</key>
+	<string>customactionsaturation</string>
+	<key>originalSession</key>
+	<string>processBullet</string>
+	<key>prevProject</key>
+	<string>unmarshalPosition</string>
+	<key>radiusVelocity</key>
+	<string>criticalcubitright</string>
+	<key>standaloneGrayscale</key>
+	<string>resourceloader</string>
+	<key>zoneLocation</key>
+	<string>handleSignature</string>
+</dict>
+</plist>

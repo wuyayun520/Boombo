@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBound</key>
+	<string>sizeName</string>
+	<key>columnasset</key>
+	<string>pinchableGroup</string>
+	<key>converterAlignment</key>
+	<string>responsedespitetask</string>
+	<key>dedicatedSchema</key>
+	<string>createBrush</string>
+	<key>responsivedistinction</key>
+	<string>robustPager</string>
+</dict>
+</plist>

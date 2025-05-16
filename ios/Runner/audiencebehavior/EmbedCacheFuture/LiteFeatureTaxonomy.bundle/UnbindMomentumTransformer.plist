@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMaterializer</key>
+	<string>zoneMode</string>
+	<key>dynamicAnimation</key>
+	<string>visibleLogarithm</string>
+	<key>fixedOptimizer</key>
+	<string>directlyAppBar</string>
+	<key>shouldEncodeDrawer</key>
+	<string>batchMomentum</string>
+</dict>
+</plist>

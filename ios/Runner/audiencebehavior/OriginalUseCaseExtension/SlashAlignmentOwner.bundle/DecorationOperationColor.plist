@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousdependencyorientation</key>
+	<string>intermediateVertex</string>
+	<key>comprehensiveUseCase</key>
+	<string>customInjection</string>
+	<key>dimensionSize</key>
+	<string>repositoryMemento</string>
+	<key>directAscent</key>
+	<string>shouldparsematrix</string>
+	<key>fusedRadius</key>
+	<string>searchview</string>
+	<key>gesturedetectoropacity</key>
+	<string>checkDependency</string>
+	<key>lossSaturation</key>
+	<string>receiverFrequency</string>
+	<key>specifyCupertino</key>
+	<string>zoneLayer</string>
+</dict>
+</plist>

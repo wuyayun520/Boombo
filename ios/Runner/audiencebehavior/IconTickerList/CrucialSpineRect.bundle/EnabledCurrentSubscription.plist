@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedNotification</key>
+	<string>immediateLoader</string>
+	<key>resilientEquipment</key>
+	<string>canUnmountAlert</string>
+	<key>scalabilityShape</key>
+	<string>bulletIndex</string>
+	<key>servicedelivery</key>
+	<string>memberPosition</string>
+	<key>shouldCacheNavigator</key>
+	<string>extendConfiguration</string>
+	<key>shouldSubscribeMediaQuery</key>
+	<string>shouldrouteprovider</string>
+	<key>shouldpresentgradient</key>
+	<string>graphOperation</string>
+	<key>statefulAllocator</key>
+	<string>textfieldShade</string>
+</dict>
+</plist>

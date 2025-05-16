@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerrate</key>
+	<string>emitTask</string>
+	<key>chapterColor</key>
+	<string>convolutionBorder</string>
+	<key>curvecontrast</key>
+	<string>prevtweenbottom</string>
+	<key>evaluationBehavior</key>
+	<string>shouldSetStateNotifier</string>
+	<key>previewPadding</key>
+	<string>sinknearprocess</string>
+	<key>prismaticChecklist</key>
+	<string>spritetrajectory</string>
+	<key>shouldfetchplate</key>
+	<string>shouldListenRadio</string>
+</dict>
+</plist>

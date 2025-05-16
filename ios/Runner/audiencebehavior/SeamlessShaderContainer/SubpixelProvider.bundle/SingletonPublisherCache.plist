@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderIndex</key>
+	<string>ephemeralmasterhead</string>
+	<key>bundleevent</key>
+	<string>storagesingletonborder</string>
+	<key>navigatestep</key>
+	<string>seamlessCluster</string>
+	<key>notifybrush</key>
+	<string>animatorindex</string>
+	<key>shouldsetstatethread</key>
+	<string>canAttachGradient</string>
+</dict>
+</plist>

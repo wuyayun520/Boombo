@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentCenter</key>
+	<string>emittertint</string>
+	<key>graphicCount</key>
+	<string>oldMesh</string>
+	<key>permanentAspect</key>
+	<string>canPublishRemainder</string>
+	<key>repositoryVisibility</key>
+	<string>wrapperflags</string>
+	<key>reusableanimation</key>
+	<string>linkerLocation</string>
+	<key>semanticvariantkind</key>
+	<string>similarPadding</string>
+	<key>singletonlinker</key>
+	<string>backwardPriority</string>
+	<key>tabviewinset</key>
+	<string>partitionChannel</string>
+	<key>traintext</key>
+	<string>dropdownbuttonStatus</string>
+	<key>viewrange</key>
+	<string>unsortedSink</string>
+</dict>
+</plist>

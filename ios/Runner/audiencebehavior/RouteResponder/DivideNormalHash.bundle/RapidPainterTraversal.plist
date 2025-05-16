@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoMission</key>
+	<string>searcherForce</string>
+	<key>interactiveEquipment</key>
+	<string>infoPressure</string>
+	<key>lifecycleType</key>
+	<string>instructionActivity</string>
+	<key>scalabilityBorder</key>
+	<string>localPublisher</string>
+	<key>shouldKeepNib</key>
+	<string>invokePosition</string>
+	<key>sortedTable</key>
+	<string>equaleffect</string>
+	<key>statelessProgressBar</key>
+	<string>groupObserver</string>
+	<key>threadRate</key>
+	<string>onlogtap</string>
+</dict>
+</plist>

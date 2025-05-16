@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoDrawer</key>
+	<string>agilethroughput</string>
+	<key>grayscaleSaturation</key>
+	<string>hardManager</string>
+	<key>hasmovement</key>
+	<string>processAwait</string>
+	<key>manageratform</key>
+	<string>invisibleRenderer</string>
+	<key>shouldDecodeBehavior</key>
+	<string>gridviewBorder</string>
+	<key>similarThreshold</key>
+	<string>processDescriptor</string>
+	<key>specifyPopup</key>
+	<string>shouldrendergesture</string>
+</dict>
+</plist>

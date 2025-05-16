@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicValidation</key>
+	<string>clipException</string>
+	<key>eagerSwitch</key>
+	<string>canPublishMap</string>
+	<key>elasticsize</key>
+	<string>originaleffect</string>
+	<key>enabledContraction</key>
+	<string>paddingCoord</string>
+	<key>ephemeralCard</key>
+	<string>shouldPushCanvas</string>
+	<key>invisibleCaption</key>
+	<string>deflateProgressBar</string>
+	<key>singlevectortension</key>
+	<string>shouldCacheSignature</string>
+	<key>spinecontextskewx</key>
+	<string>activatedContraction</string>
+</dict>
+</plist>

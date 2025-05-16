@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labeladapterinterval</key>
+	<string>shouldProcessMember</string>
+	<key>multiMetrics</key>
+	<string>parallelTimer</string>
+	<key>resizableAsync</key>
+	<string>alphaStyle</string>
+	<key>scalabilityTail</key>
+	<string>wrapperhead</string>
+	<key>semanticsalongvalue</key>
+	<string>explicitInstruction</string>
+	<key>shouldAttachMultiplication</key>
+	<string>builderAction</string>
+	<key>shouldDeserializeInteger</key>
+	<string>rowValue</string>
+	<key>spineState</key>
+	<string>singletonState</string>
+</dict>
+</plist>

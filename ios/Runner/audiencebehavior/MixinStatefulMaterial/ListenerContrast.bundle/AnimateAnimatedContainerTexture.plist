@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveEvaluation</key>
+	<string>persistChallenge</string>
+	<key>granularPicker</key>
+	<string>canAnimateKernel</string>
+	<key>hasmusic</key>
+	<string>keepSign</string>
+	<key>joinerContrast</key>
+	<string>containerdirection</string>
+	<key>repositoryBottom</key>
+	<string>builderedge</string>
+	<key>shouldInflateEffect</key>
+	<string>sizemargin</string>
+	<key>shouldRebuildButton</key>
+	<string>shouldPrepareSignature</string>
+	<key>shouldStopSemantics</key>
+	<string>canEndOptimizer</string>
+	<key>stacklayeralignment</key>
+	<string>musicstate</string>
+</dict>
+</plist>

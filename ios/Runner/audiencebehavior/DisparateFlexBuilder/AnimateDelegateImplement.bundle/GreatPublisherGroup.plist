@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianCompletion</key>
+	<string>displayableresource</string>
+	<key>detailOrientation</key>
+	<string>transitionCapsule</string>
+	<key>discardedCube</key>
+	<string>resilientSelector</string>
+	<key>histogramDepth</key>
+	<string>explicitTriangles</string>
+	<key>notificationOrigin</key>
+	<string>canMountedKernel</string>
+	<key>sharedInjection</key>
+	<string>listenaction</string>
+	<key>traindescriptor</key>
+	<string>heapvariableresponse</string>
+	<key>vectorlocation</key>
+	<string>entitycallback</string>
+</dict>
+</plist>

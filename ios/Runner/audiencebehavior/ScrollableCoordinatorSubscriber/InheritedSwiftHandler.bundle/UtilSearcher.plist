@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicEdge</key>
+	<string>positionLevel</string>
+	<key>flexibleTopic</key>
+	<string>euclideanGram</string>
+	<key>fusedArchitecture</key>
+	<string>impressionDirection</string>
+	<key>prismaticScroller</key>
+	<string>resilienceResponse</string>
+	<key>temporaryTimer</key>
+	<string>canTransitionCursor</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionprototypetheme</key>
+	<string>processCurve</string>
+	<key>alertTop</key>
+	<string>uniformTolerance</string>
+	<key>clipperTheme</key>
+	<string>canPushGradient</string>
+	<key>filterFormat</key>
+	<string>dedicatedOptimizer</string>
+	<key>liteoccasion</key>
+	<string>adaptivegatefeedback</string>
+	<key>makestorage</key>
+	<string>canBuildCollection</string>
+	<key>modelskewy</key>
+	<string>signSkewY</string>
+	<key>rapidEquipment</key>
+	<string>shouldTrainResource</string>
+	<key>usageoffset</key>
+	<string>nextArithmetic</string>
+</dict>
+</plist>

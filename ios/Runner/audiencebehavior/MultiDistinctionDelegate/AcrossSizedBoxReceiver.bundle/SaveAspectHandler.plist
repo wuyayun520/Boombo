@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardmenu</key>
+	<string>usedHandler</string>
+	<key>originalConsumer</key>
+	<string>exitManager</string>
+	<key>overlayType</key>
+	<string>shouldShowGraphic</string>
+	<key>propagateanimation</key>
+	<string>resilientNorm</string>
+	<key>reusableSprite</key>
+	<string>anchorValidation</string>
+	<key>shouldYieldTransition</key>
+	<string>emitChart</string>
+	<key>shouldstartbuilder</key>
+	<string>shouldDisposeTable</string>
+</dict>
+</plist>

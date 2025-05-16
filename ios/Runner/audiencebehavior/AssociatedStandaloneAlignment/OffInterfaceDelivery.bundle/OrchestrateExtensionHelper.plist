@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasMomentum</key>
+	<string>attachActivity</string>
+	<key>customizedChallenge</key>
+	<string>shouldFormatPainter</string>
+	<key>lastFrame</key>
+	<string>statelessTransformer</string>
+	<key>liteLinker</key>
+	<string>streamAppBar</string>
+	<key>polyfillCount</key>
+	<string>canUnbindScale</string>
+	<key>reactivetoolopacity</key>
+	<string>activatedTaxonomy</string>
+	<key>scrollableVariant</key>
+	<string>themeTag</string>
+	<key>shouldPauseScale</key>
+	<string>shouldkeepthread</string>
+	<key>textforactivity</key>
+	<string>fragmentBridge</string>
+</dict>
+</plist>

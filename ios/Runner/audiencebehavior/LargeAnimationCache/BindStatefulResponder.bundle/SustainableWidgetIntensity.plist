@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackPadding</key>
+	<string>euclideanternary</string>
+	<key>dedicatedTraversal</key>
+	<string>replaceCursor</string>
+	<key>offsetDirection</key>
+	<string>workflowPadding</string>
+	<key>updatereducer</key>
+	<string>localCheckbox</string>
+</dict>
+</plist>

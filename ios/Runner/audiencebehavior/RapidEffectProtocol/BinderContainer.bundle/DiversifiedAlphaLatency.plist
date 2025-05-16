@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryviavariable</key>
+	<string>canSetStateCycle</string>
+	<key>draggableConfidentiality</key>
+	<string>canListenCoordinator</string>
+	<key>ignoredTransition</key>
+	<string>brushdelegate</string>
+	<key>invisibleeventvisible</key>
+	<string>invisibleCharacter</string>
+	<key>isscale</key>
+	<string>constantDelay</string>
+	<key>mobileCollection</key>
+	<string>fixedconsumer</string>
+	<key>painterentity</key>
+	<string>notifierlocation</string>
+	<key>tensorMultiplication</key>
+	<string>checklistPressure</string>
+</dict>
+</plist>

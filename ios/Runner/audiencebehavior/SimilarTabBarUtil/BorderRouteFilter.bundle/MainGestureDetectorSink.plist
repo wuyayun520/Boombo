@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAmortization</key>
+	<string>copyMethod</string>
+	<key>crucialAspect</key>
+	<string>materialLocation</string>
+	<key>granularTween</key>
+	<string>baselineliketask</string>
+	<key>materialEqualization</key>
+	<string>canFinishSwitch</string>
+	<key>popawait</key>
+	<string>enabledbuffertag</string>
+	<key>reusablescaffoldrate</key>
+	<string>composableSplitter</string>
+	<key>transitionnumbermode</key>
+	<string>remediationAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionthroughscope</key>
+	<string>computeUtil</string>
+	<key>durationVelocity</key>
+	<string>featureFlyweight</string>
+	<key>intermediateModule</key>
+	<string>plateTint</string>
+	<key>localizationHue</key>
+	<string>enabledLog</string>
+	<key>metadataDuration</key>
+	<string>deserializeCube</string>
+	<key>resizablemusicbrightness</key>
+	<string>quaternionShape</string>
+	<key>specifyNavigator</key>
+	<string>canResumeCursor</string>
+</dict>
+</plist>

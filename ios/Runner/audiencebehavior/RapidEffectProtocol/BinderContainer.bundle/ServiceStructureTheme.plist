@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyPressure</key>
+	<string>graphicEdge</string>
+	<key>channelsinset</key>
+	<string>disabledgraphtheme</string>
+	<key>explicitProvision</key>
+	<string>clearRect</string>
+	<key>nextPosition</key>
+	<string>difficultUseCase</string>
+	<key>resilientEquipment</key>
+	<string>explicitThroughput</string>
+	<key>routeslider</key>
+	<string>disparateFuture</string>
+	<key>sustainableLatency</key>
+	<string>vectorBuffer</string>
+	<key>threadShape</key>
+	<string>shouldShowPet</string>
+</dict>
+</plist>

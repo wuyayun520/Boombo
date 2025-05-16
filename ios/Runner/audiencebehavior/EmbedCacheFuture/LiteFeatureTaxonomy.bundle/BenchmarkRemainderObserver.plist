@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentwithframework</key>
+	<string>emitterAcceleration</string>
+	<key>declarativeprecisionmode</key>
+	<string>inflateMethod</string>
+	<key>exceptionindex</key>
+	<string>synchronizerole</string>
+	<key>graphicDensity</key>
+	<string>gestureAcceleration</string>
+	<key>largeDelegate</key>
+	<string>replaceticker</string>
+	<key>oldWidget</key>
+	<string>canStopSegment</string>
+	<key>permissiveLatency</key>
+	<string>utiltint</string>
+	<key>prismaticCollection</key>
+	<string>sortedTransformer</string>
+	<key>scrollableUseCase</key>
+	<string>dispatchMaterial</string>
+	<key>staticmetadataindex</key>
+	<string>shouldUnmountCompletion</string>
+</dict>
+</plist>

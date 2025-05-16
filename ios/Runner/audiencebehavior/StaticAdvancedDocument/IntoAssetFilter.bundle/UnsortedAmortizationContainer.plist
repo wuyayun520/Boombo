@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectVelocity</key>
+	<string>detachHistogram</string>
+	<key>elasticimagedepth</key>
+	<string>temporaryContainer</string>
+	<key>missedEvaluation</key>
+	<string>challengeLocation</string>
+	<key>originalcharacteristic</key>
+	<string>criticalTransition</string>
+	<key>rowcomponent</key>
+	<string>selectedWidget</string>
+	<key>shouldpublishcache</key>
+	<string>publicReceiver</string>
+</dict>
+</plist>

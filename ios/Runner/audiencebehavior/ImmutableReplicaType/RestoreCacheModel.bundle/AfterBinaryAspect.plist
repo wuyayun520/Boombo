@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyvisible</key>
+	<string>primaryEmitter</string>
+	<key>disparateSensor</key>
+	<string>entityresponse</string>
+	<key>errorpatterninterval</key>
+	<string>mediumShader</string>
+	<key>lastLoader</key>
+	<string>canHandleInteger</string>
+	<key>layertweak</key>
+	<string>displayablerole</string>
+	<key>pinchableAlert</key>
+	<string>maintainTween</string>
+	<key>shouldMountedTangent</key>
+	<string>canvasDistance</string>
+	<key>skinFrequency</key>
+	<string>modalOperation</string>
+	<key>vertexVisible</key>
+	<string>inactiveTitle</string>
+</dict>
+</plist>

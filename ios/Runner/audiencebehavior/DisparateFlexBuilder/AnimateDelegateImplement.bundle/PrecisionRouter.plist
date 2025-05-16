@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBehavior</key>
+	<string>playbackMargin</string>
+	<key>creatorRotation</key>
+	<string>consultativeobserver</string>
+	<key>originalConvolution</key>
+	<string>heroskewy</string>
+	<key>otherInteractor</key>
+	<string>containerMediator</string>
+	<key>signatureMode</key>
+	<string>ternaryAlignment</string>
+</dict>
+</plist>

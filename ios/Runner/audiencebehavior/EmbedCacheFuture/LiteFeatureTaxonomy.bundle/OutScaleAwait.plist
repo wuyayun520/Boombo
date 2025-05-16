@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseDialogs</key>
+	<string>singletonawaystage</string>
+	<key>independentContainer</key>
+	<string>mainCharacter</string>
+	<key>isolatefrequency</key>
+	<string>shouldHandleMobile</string>
+	<key>publishutil</key>
+	<string>cupertinoShape</string>
+	<key>taskShape</key>
+	<string>flexibleMonster</string>
+	<key>traversalInset</key>
+	<string>impressionMomentum</string>
+</dict>
+</plist>

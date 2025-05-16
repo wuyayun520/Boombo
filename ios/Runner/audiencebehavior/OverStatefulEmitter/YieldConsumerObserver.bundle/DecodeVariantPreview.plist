@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityOrientation</key>
+	<string>writeGraph</string>
+	<key>curveMode</key>
+	<string>mediaMemento</string>
+	<key>dialogsLocation</key>
+	<string>temporaryIcon</string>
+	<key>directlyInterface</key>
+	<string>chartDirection</string>
+	<key>directlyReceiver</key>
+	<string>brushtheme</string>
+	<key>ephemeralSemantics</key>
+	<string>canCreateRoute</string>
+	<key>localResolver</key>
+	<string>instructionTransparency</string>
+	<key>mainremaindermode</key>
+	<string>fusedDelivery</string>
+	<key>tensorAllocator</key>
+	<string>executeFuture</string>
+</dict>
+</plist>

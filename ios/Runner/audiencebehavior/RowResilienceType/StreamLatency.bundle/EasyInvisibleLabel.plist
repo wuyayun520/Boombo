@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphainsidetier</key>
+	<string>nativeMaster</string>
+	<key>cleartween</key>
+	<string>canTransitionAxis</string>
+	<key>configurationFrequency</key>
+	<string>layoutdelay</string>
+	<key>disposenode</key>
+	<string>shouldContinueChallenge</string>
+	<key>dropdownbuttonOrigin</key>
+	<string>robustGraph</string>
+	<key>requiredtransformeracceleration</key>
+	<string>normEnvironment</string>
+	<key>retainedProjection</key>
+	<string>escalateStorage</string>
+	<key>synchronousReceiver</key>
+	<string>momentumscroller</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticMatrix</key>
+	<string>shouldNotifyDimension</string>
+	<key>immutableReducer</key>
+	<string>activeStorage</string>
+	<key>imperativeSpecifier</key>
+	<string>canUpdateBase</string>
+	<key>materialReference</key>
+	<string>connectorBottom</string>
+	<key>shouldPersistListView</key>
+	<string>evolutionRotation</string>
+</dict>
+</plist>

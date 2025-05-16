@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionOrientation</key>
+	<string>difficultGradient</string>
+	<key>largeCreator</key>
+	<string>canAnimatePlate</string>
+	<key>lastprocessor</key>
+	<string>responseParameter</string>
+	<key>processlistener</key>
+	<string>canDetachSymbol</string>
+	<key>shouldHandleDialogs</key>
+	<string>lazyListener</string>
+	<key>skipcatalyst</key>
+	<string>shapeCenter</string>
+</dict>
+</plist>

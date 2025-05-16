@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleOrigin</key>
+	<string>accelerateEvent</string>
+	<key>interactionBound</key>
+	<string>deliveryDelay</string>
+	<key>navigationShade</key>
+	<string>cupertinoBound</string>
+	<key>shouldHandleEqualization</key>
+	<string>advancedstatebrightness</string>
+	<key>shouldTransitionSwift</key>
+	<string>storyboardasvisitor</string>
+	<key>statelessanimatedcontainerorigin</key>
+	<string>largemultiplication</string>
+</dict>
+</plist>

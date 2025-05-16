@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedSubscriber</key>
+	<string>priorCoordinator</string>
+	<key>herooutsidevalue</key>
+	<string>pivotalIntegration</string>
+	<key>invisibleresilience</key>
+	<string>shouldKeepCaption</string>
+	<key>priorHistogram</key>
+	<string>canPushCompletion</string>
+	<key>publishstoryboard</key>
+	<string>sortedWrapper</string>
+	<key>robustHeap</key>
+	<string>niballocator</string>
+</dict>
+</plist>

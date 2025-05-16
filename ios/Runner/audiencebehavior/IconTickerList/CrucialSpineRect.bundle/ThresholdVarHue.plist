@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerRange</key>
+	<string>allocateFeature</string>
+	<key>composableBoxShadow</key>
+	<string>matrixShade</string>
+	<key>disparatePosition</key>
+	<string>resetmethod</string>
+	<key>marginDepth</key>
+	<string>specifyResult</string>
+	<key>opaqueStack</key>
+	<string>shouldSubscribeModulus</string>
+	<key>playstream</key>
+	<string>shouldSkipPadding</string>
+	<key>semanticState</key>
+	<string>comprehensiveScene</string>
+	<key>sortedNavigator</key>
+	<string>backwardSession</string>
+</dict>
+</plist>

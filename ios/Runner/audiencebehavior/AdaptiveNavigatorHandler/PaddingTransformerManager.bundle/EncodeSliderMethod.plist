@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTernary</key>
+	<string>stopProjection</string>
+	<key>impressionKind</key>
+	<string>writeCallback</string>
+	<key>reactiveDetail</key>
+	<string>globalModel</string>
+	<key>shouldRenderTabBar</key>
+	<string>asynchronousDescription</string>
+</dict>
+</plist>

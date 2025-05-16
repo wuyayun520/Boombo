@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishconsumer</key>
+	<string>publishComposition</string>
+	<key>moduleappearance</key>
+	<string>activeInteractor</string>
+	<key>prismaticSubpixel</key>
+	<string>shouldDisposeCertificate</string>
+	<key>shouldPrepareScale</key>
+	<string>dedicatedDisclaimer</string>
+	<key>statelessScale</key>
+	<string>createNorm</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheRotation</key>
+	<string>activeText</string>
+	<key>convolutionCoord</key>
+	<string>permanentInterpolation</string>
+	<key>directlyCapsule</key>
+	<string>spotFacade</string>
+	<key>mixinradio</key>
+	<string>marginTier</string>
+	<key>shouldNotifyCheckbox</key>
+	<string>positionParam</string>
+	<key>shouldUpdateCaption</key>
+	<string>offsetParticle</string>
+	<key>storyboardCenter</key>
+	<string>currentGraphic</string>
+</dict>
+</plist>

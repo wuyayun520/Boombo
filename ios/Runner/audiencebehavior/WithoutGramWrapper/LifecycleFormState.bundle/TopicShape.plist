@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticfrequency</key>
+	<string>heroshade</string>
+	<key>chooserSaturation</key>
+	<string>menuTheme</string>
+	<key>containerviaoperation</key>
+	<string>evaluationrate</string>
+	<key>dedicatedAllocator</key>
+	<string>basicText</string>
+	<key>dependencyTransparency</key>
+	<string>vectorizescroll</string>
+	<key>directlyalpha</key>
+	<string>backwardQueue</string>
+	<key>disparateBitrate</key>
+	<string>imperativePager</string>
+	<key>hashfactory</key>
+	<string>usedModal</string>
+	<key>screenallocator</key>
+	<string>routehue</string>
+</dict>
+</plist>

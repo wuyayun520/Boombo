@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorwithoutvar</key>
+	<string>completionFunction</string>
+	<key>functionalShader</key>
+	<string>lastTextField</string>
+	<key>inactiveEffect</key>
+	<string>equipmentSystem</string>
+	<key>progressbarTint</key>
+	<string>clearspecifier</string>
+	<key>shouldLoadPriority</key>
+	<string>gridorigin</string>
+	<key>shouldkeepwidget</key>
+	<string>canStopPrecision</string>
+</dict>
+</plist>

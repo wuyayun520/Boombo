@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAcceleration</key>
+	<string>usedasyncopacity</string>
+	<key>chapterLocation</key>
+	<string>pauseReduction</string>
+	<key>columnoutsidebuffer</key>
+	<string>quantizationResponse</string>
+	<key>gridBrightness</key>
+	<string>accordionChannel</string>
+	<key>materialAllocator</key>
+	<string>alignmentFeedback</string>
+	<key>permutationStatus</key>
+	<string>validateAppBar</string>
+	<key>pivotalHero</key>
+	<string>sophisticatedResilience</string>
+	<key>singleText</key>
+	<string>directWidget</string>
+	<key>utilasmemento</key>
+	<string>statelessparamstatus</string>
+</dict>
+</plist>

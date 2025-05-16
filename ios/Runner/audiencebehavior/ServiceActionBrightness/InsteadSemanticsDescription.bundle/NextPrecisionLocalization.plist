@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalheroshade</key>
+	<string>materialchallenge</string>
+	<key>iterativebasedirection</key>
+	<string>startRadio</string>
+	<key>shouldTrainAlpha</key>
+	<string>canDeserializeSlider</string>
+	<key>singleTitle</key>
+	<string>activatedAppBar</string>
+	<key>specifyScalability</key>
+	<string>canCreateSign</string>
+	<key>touchthanstage</key>
+	<string>canPauseCapacities</string>
+</dict>
+</plist>

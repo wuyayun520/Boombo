@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateprogressbarindex</key>
+	<string>shouldRouteConsumer</string>
+	<key>listenerspacing</key>
+	<string>scrolltop</string>
+	<key>secondBuilder</key>
+	<string>directlySorter</string>
+	<key>stackscroller</key>
+	<string>awaitScale</string>
+	<key>subtleStack</key>
+	<string>difficulthistogram</string>
+</dict>
+</plist>

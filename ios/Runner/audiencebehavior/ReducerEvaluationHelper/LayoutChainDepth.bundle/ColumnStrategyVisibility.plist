@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredTrajectory</key>
+	<string>consultativeamortization</string>
+	<key>processorIndex</key>
+	<string>responsiveScale</string>
+	<key>profileinterface</key>
+	<string>rolevelocity</string>
+	<key>shouldRebuildTextField</key>
+	<string>anchorForce</string>
+	<key>sorterinterval</key>
+	<string>shouldResumeSlider</string>
+	<key>streamparameterfrequency</key>
+	<string>concretemusicshape</string>
+	<key>unsortedTicker</key>
+	<string>mainThread</string>
+</dict>
+</plist>

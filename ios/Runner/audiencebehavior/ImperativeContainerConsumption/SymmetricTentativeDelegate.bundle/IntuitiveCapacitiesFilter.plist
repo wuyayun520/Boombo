@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxnavigator</key>
+	<string>buildScreen</string>
+	<key>criticalPopup</key>
+	<string>globalGraphic</string>
+	<key>linkerScale</key>
+	<string>webStorage</string>
+	<key>loopamongenvironment</key>
+	<string>symmetricProtocol</string>
+	<key>materialPicker</key>
+	<string>triggerName</string>
+	<key>missedScaffold</key>
+	<string>subpixelvariabletype</string>
+	<key>navigatorrange</key>
+	<string>routerLayer</string>
+	<key>resizableGestureDetector</key>
+	<string>handleloop</string>
+	<key>shouldDeserializeChecklist</key>
+	<string>composablemetrics</string>
+	<key>tangentHead</key>
+	<string>similarPositioned</string>
+</dict>
+</plist>

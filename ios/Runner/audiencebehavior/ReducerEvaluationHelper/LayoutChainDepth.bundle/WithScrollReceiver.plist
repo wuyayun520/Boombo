@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorDensity</key>
+	<string>borderMargin</string>
+	<key>disposenorm</key>
+	<string>baselineshape</string>
+	<key>greatLinker</key>
+	<string>heapChain</string>
+	<key>mainLatency</key>
+	<string>relationalAlert</string>
+	<key>numericalCatalyst</key>
+	<string>navigationAppearance</string>
+	<key>textmodel</key>
+	<string>radioTheme</string>
+</dict>
+</plist>

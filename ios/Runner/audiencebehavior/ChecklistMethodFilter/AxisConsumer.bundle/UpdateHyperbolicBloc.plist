@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteroute</key>
+	<string>transformBase</string>
+	<key>immutableRange</key>
+	<string>independentSpot</string>
+	<key>marshalalignment</key>
+	<string>customRow</string>
+	<key>nibLeft</key>
+	<string>canRouteBuilder</string>
+	<key>retrievequeue</key>
+	<string>shouldStreamScaffold</string>
+	<key>shouldPublishRadio</key>
+	<string>presentsize</string>
+	<key>singleActivity</key>
+	<string>canEmitCharacter</string>
+	<key>stampMode</key>
+	<string>shouldRenderMultiplication</string>
+</dict>
+</plist>

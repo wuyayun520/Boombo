@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationSaturation</key>
+	<string>difficultResilience</string>
+	<key>immediateMend</key>
+	<string>singletonBrightness</string>
+	<key>partitionsample</key>
+	<string>touchVisibility</string>
+	<key>shouldPresentInstruction</key>
+	<string>immediateResponder</string>
+	<key>subsequentTolerance</key>
+	<string>nativeStrength</string>
+	<key>variantplatformsaturation</key>
+	<string>concurrentConstraint</string>
+	<key>yieldstateful</key>
+	<string>invisibleSingleton</string>
+</dict>
+</plist>

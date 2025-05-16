@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAspectRatio</key>
+	<string>schedulePopup</string>
+	<key>challengeTail</key>
+	<string>canConnectProjection</string>
+	<key>gramFeedback</key>
+	<string>dropoutinstruction</string>
+	<key>hyperboliccontainerflags</key>
+	<string>deferredmenurate</string>
+	<key>listviewAppearance</key>
+	<string>explicitElement</string>
+	<key>remainderfromcommand</key>
+	<string>autoPicker</string>
+	<key>scenarioRotation</key>
+	<string>graphicdirection</string>
+	<key>synchronousscalability</key>
+	<string>shouldbindmomentum</string>
+	<key>visibleButton</key>
+	<string>canSerializeNotifier</string>
+</dict>
+</plist>

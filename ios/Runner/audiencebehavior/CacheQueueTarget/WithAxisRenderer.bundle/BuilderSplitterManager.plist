@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinefromcycle</key>
+	<string>nextMerger</string>
+	<key>dedicatedResilience</key>
+	<string>discardedAllocator</string>
+	<key>dependencyprovision</key>
+	<string>canDismissExpanded</string>
+	<key>largenotifierright</key>
+	<string>localstamp</string>
+	<key>mutableActivity</key>
+	<string>canMountModulus</string>
+	<key>responsiveNotifier</key>
+	<string>rebuildProtocol</string>
+</dict>
+</plist>

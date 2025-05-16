@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitresult</key>
+	<string>sequentialConsumption</string>
+	<key>gridinterval</key>
+	<string>projectionmenu</string>
+	<key>lazySize</key>
+	<string>staticService</string>
+	<key>menubesideaction</key>
+	<string>discoverStore</string>
+	<key>resilientresolvertype</key>
+	<string>joinerSaturation</string>
+	<key>symmetriccharacterbrightness</key>
+	<string>crudeMend</string>
+</dict>
+</plist>

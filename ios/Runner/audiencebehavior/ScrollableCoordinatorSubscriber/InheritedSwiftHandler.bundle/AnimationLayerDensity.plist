@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedrenderer</key>
+	<string>permanentImpression</string>
+	<key>distinctionLeft</key>
+	<string>canParseCertificate</string>
+	<key>shouldAttachRole</key>
+	<string>deliveryFlags</string>
+	<key>substantialOperation</key>
+	<string>shouldBindBorder</string>
+	<key>usedThreshold</key>
+	<string>extendController</string>
+</dict>
+</plist>

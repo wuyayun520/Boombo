@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>densePet</key>
+	<string>trajectoryrate</string>
+	<key>dispatchgroup</key>
+	<string>sensorValidation</string>
+	<key>haslogarithm</key>
+	<string>unscheduleRadius</string>
+	<key>numericalMesh</key>
+	<string>builderInterpreter</string>
+	<key>parallelimpact</key>
+	<string>publicAnalogy</string>
+	<key>positionedgroup</key>
+	<string>captionSystem</string>
+	<key>subpixelpainter</key>
+	<string>pushNorm</string>
+</dict>
+</plist>

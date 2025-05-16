@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoResilience</key>
+	<string>vectoreffect</string>
+	<key>diffableTransition</key>
+	<string>canUnmountUnary</string>
+	<key>featurePadding</key>
+	<string>scrollableStateful</string>
+	<key>independentSorter</key>
+	<string>canStreamLayout</string>
+	<key>scrollerOpacity</key>
+	<string>popupmaterializer</string>
+	<key>shouldEndDimension</key>
+	<string>tensorListener</string>
+</dict>
+</plist>

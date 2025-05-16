@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerColor</key>
+	<string>animationmodespeed</string>
+	<key>hierarchicalDimension</key>
+	<string>gateValue</string>
+	<key>inactiveSymbol</key>
+	<string>beginnerDuration</string>
+	<key>logInset</key>
+	<string>canShowMission</string>
+	<key>opaqueVariant</key>
+	<string>limitCubit</string>
+	<key>stateinterpreterbehavior</key>
+	<string>popupStructure</string>
+	<key>tableBound</key>
+	<string>shouldCancelMaterial</string>
+	<key>tappableArchitecture</key>
+	<string>functionalAudio</string>
+</dict>
+</plist>

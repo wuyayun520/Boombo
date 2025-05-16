@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedcapacities</key>
+	<string>shouldnavigatenorm</string>
+	<key>finderCount</key>
+	<string>localresilience</string>
+	<key>protectedExpanded</key>
+	<string>backwardDescriptor</string>
+	<key>remediationCenter</key>
+	<string>disclaimerCount</string>
+	<key>scrollerSkewX</key>
+	<string>observetopic</string>
+	<key>unactivatedInterpolation</key>
+	<string>navigationdespitefacade</string>
+	<key>uniformDetail</key>
+	<string>anchorFrequency</string>
+	<key>visibleRectangle</key>
+	<string>keepClipper</string>
+</dict>
+</plist>

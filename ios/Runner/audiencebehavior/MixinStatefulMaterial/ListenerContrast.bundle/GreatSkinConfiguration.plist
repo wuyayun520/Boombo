@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianResponse</key>
+	<string>buttonParameter</string>
+	<key>entityScale</key>
+	<string>mediumSemantics</string>
+	<key>parsematrix</key>
+	<string>pushexception</string>
+	<key>protectedTabBar</key>
+	<string>deactivateCompleter</string>
+	<key>shouldDecodeCursor</key>
+	<string>adjustAwait</string>
+	<key>synchronousScenario</key>
+	<string>interpolationPressure</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperPosition</key>
+	<string>convertPresenter</string>
+	<key>continuecomposition</key>
+	<string>canPersistCell</string>
+	<key>densecombiner</key>
+	<string>pinchableGem</string>
+	<key>drawervalidation</key>
+	<string>parallelexponentoffset</string>
+	<key>respectiveCupertino</key>
+	<string>shouldFinishCompletion</string>
+	<key>sliderFeedback</key>
+	<string>pushbuffer</string>
+	<key>sortedCoordinator</key>
+	<string>explicitSprite</string>
+</dict>
+</plist>

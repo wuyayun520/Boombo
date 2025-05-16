@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSchema</key>
+	<string>filterColor</string>
+	<key>desktopcardsaturation</key>
+	<string>replicateDependency</string>
+	<key>ignoredBuilder</key>
+	<string>previewbound</string>
+	<key>lostCell</key>
+	<string>shouldPopProject</string>
+	<key>resizableInteractor</key>
+	<string>baselineFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disconnectinterpolation</key>
+	<string>storageStrategy</string>
+	<key>musicCount</key>
+	<string>reusableAnalogy</string>
+	<key>parsedocument</key>
+	<string>transformChannels</string>
+	<key>permissiveMediaQuery</key>
+	<string>writeException</string>
+	<key>setstateskirt</key>
+	<string>lostInfo</string>
+	<key>sustainableDialogs</key>
+	<string>animatedSkirt</string>
+	<key>unactivatedSorter</key>
+	<string>shouldCancelProtocol</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticTabView</key>
+	<string>rapidShader</string>
+	<key>provisionHead</key>
+	<string>detachMovement</string>
+	<key>reactiveDescription</key>
+	<string>callbackDecorator</string>
+	<key>subscriberFlags</key>
+	<string>cacheForce</string>
+	<key>usedEvolution</key>
+	<string>swiftbeyondvar</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedLatency</key>
+	<string>responsemodule</string>
+	<key>customizedScope</key>
+	<string>publisherState</string>
+	<key>dismissrect</key>
+	<string>topicinset</string>
+	<key>hierarchicalMonster</key>
+	<string>layerwithoutstructure</string>
+	<key>observeraroundnumber</key>
+	<string>hasdialogs</string>
+	<key>selectorvisibility</key>
+	<string>shouldDispatchComposition</string>
+	<key>shouldRouteLog</key>
+	<string>interactorBound</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnertimeline</key>
+	<string>canSkipAspectRatio</string>
+	<key>disparateinteger</key>
+	<string>granularWorkflow</string>
+	<key>integerdistance</key>
+	<string>orchestratepresenter</string>
+	<key>mediocreGrain</key>
+	<string>mutableTask</string>
+	<key>sequentialEvolution</key>
+	<string>canPauseMonster</string>
+	<key>viewactionbottom</key>
+	<string>basicdispatcher</string>
+</dict>
+</plist>

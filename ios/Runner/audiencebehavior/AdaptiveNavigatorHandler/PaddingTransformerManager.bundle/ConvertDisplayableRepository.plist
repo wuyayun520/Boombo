@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalMusic</key>
+	<string>shouldFormatModulus</string>
+	<key>imageactionscale</key>
+	<string>dynamicPolygon</string>
+	<key>onpettap</key>
+	<string>starttask</string>
+	<key>queueframeworkvelocity</key>
+	<string>evolutionVisibility</string>
+	<key>shouldValidateOverlay</key>
+	<string>minCursor</string>
+</dict>
+</plist>

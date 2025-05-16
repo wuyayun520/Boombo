@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorInteraction</key>
+	<string>primaryDispatcher</string>
+	<key>criticalExtension</key>
+	<string>containerintegrity</string>
+	<key>decodebatch</key>
+	<string>mergerOffset</string>
+	<key>secondCompleter</key>
+	<string>arithmeticSine</string>
+	<key>stampName</key>
+	<string>typicalResponse</string>
+	<key>temporaryProvider</key>
+	<string>canObserveReference</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSine</key>
+	<string>notifierBound</string>
+	<key>completerandsingleton</key>
+	<string>onbasechanged</string>
+	<key>interactiveDescriptor</key>
+	<string>nibInterpreter</string>
+	<key>liteintensity</key>
+	<string>restartdescription</string>
+	<key>nativeCubit</key>
+	<string>shouldValidateLogarithm</string>
+	<key>notificationscale</key>
+	<string>responsiveLatency</string>
+	<key>shouldLoadColumn</key>
+	<string>substantialEntropy</string>
+	<key>specifyFeature</key>
+	<string>usedMediaQuery</string>
+	<key>subtleMap</key>
+	<string>appendSprite</string>
+</dict>
+</plist>

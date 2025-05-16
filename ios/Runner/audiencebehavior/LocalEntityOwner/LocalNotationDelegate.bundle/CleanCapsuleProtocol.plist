@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuepopup</key>
+	<string>reducerdelay</string>
+	<key>controllercompositeduration</key>
+	<string>capsuleCenter</string>
+	<key>formatconstraint</key>
+	<string>heapVariable</string>
+	<key>oldRect</key>
+	<string>hasexpanded</string>
+	<key>sophisticatedPreview</key>
+	<string>canDispatchScroll</string>
+</dict>
+</plist>

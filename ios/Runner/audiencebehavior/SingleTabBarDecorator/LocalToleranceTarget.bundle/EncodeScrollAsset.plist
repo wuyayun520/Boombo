@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureDirection</key>
+	<string>relationalFuture</string>
+	<key>commonAscent</key>
+	<string>nativeRoute</string>
+	<key>connectorlocation</key>
+	<string>bindCard</string>
+	<key>explicitMargin</key>
+	<string>lostRadius</string>
+	<key>inactiveChooser</key>
+	<string>controllerBridge</string>
+	<key>layoutTheme</key>
+	<string>canPaintBinary</string>
+	<key>prismaticAperture</key>
+	<string>efficiencyDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchPosition</key>
+	<string>unactivatedScene</string>
+	<key>dimensionTail</key>
+	<string>responsiveAccessory</string>
+	<key>entropystyle</key>
+	<string>scrollBehavior</string>
+	<key>gramPosition</key>
+	<string>musicCommand</string>
+	<key>mutablePopup</key>
+	<string>futureBridge</string>
+	<key>notifierVisibility</key>
+	<string>subtleBinary</string>
+	<key>swiftcolor</key>
+	<string>compositionalFactory</string>
+</dict>
+</plist>

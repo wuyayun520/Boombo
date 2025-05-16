@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedZone</key>
+	<string>sophisticatedalpha</string>
+	<key>buttonbuffer</key>
+	<string>touchMargin</string>
+	<key>configurationTension</key>
+	<string>awaitbound</string>
+	<key>gesturedetectorversusfunction</key>
+	<string>discoverFrame</string>
+	<key>nativechannelduration</key>
+	<string>fetchBaseline</string>
+	<key>shouldStopMultiplication</key>
+	<string>richtextSaturation</string>
+	<key>shoulddecodebullet</key>
+	<string>servicerotation</string>
+</dict>
+</plist>

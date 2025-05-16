@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticremediation</key>
+	<string>reliabilityOrientation</string>
+	<key>gesturedetectorLeft</key>
+	<string>emitoffset</string>
+	<key>keyVolume</key>
+	<string>projectionShade</string>
+	<key>onoptimizertap</key>
+	<string>alertAction</string>
+	<key>rendererIndex</key>
+	<string>checkboxValidation</string>
+	<key>shouldDisconnectProjection</key>
+	<string>gramtemplestate</string>
+	<key>smallTimeline</key>
+	<string>activatedFuture</string>
+	<key>stepName</key>
+	<string>canEmitAnchor</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterPosition</key>
+	<string>replaceTransformer</string>
+	<key>equipmentstylesaturation</key>
+	<string>toolchainscale</string>
+	<key>recursionInteraction</key>
+	<string>commonRestriction</string>
+	<key>semanticsessionleft</key>
+	<string>layoutEnvironment</string>
+	<key>shouldMountSubpixel</key>
+	<string>permissiveTool</string>
+	<key>shouldRouteEffect</key>
+	<string>globalHash</string>
+</dict>
+</plist>

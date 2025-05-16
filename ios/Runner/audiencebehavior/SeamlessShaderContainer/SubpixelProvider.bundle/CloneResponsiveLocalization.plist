@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticScenario</key>
+	<string>canMountAccessory</string>
+	<key>hasChallenge</key>
+	<string>lockTween</string>
+	<key>relationalMomentum</key>
+	<string>factoryShape</string>
+	<key>scrollableNib</key>
+	<string>resourceTension</string>
+	<key>shouldRebuildImage</key>
+	<string>endAnimation</string>
+	<key>textureDuration</key>
+	<string>customTouch</string>
+</dict>
+</plist>

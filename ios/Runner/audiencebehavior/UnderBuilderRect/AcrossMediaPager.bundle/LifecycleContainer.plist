@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleThreshold</key>
+	<string>navigatorscale</string>
+	<key>nativeCertificate</key>
+	<string>markChapter</string>
+	<key>prevCompleter</key>
+	<string>responderLocation</string>
+	<key>shouldattachchannels</key>
+	<string>sliderBrightness</string>
+	<key>uniformModal</key>
+	<string>navigateCheckbox</string>
+</dict>
+</plist>

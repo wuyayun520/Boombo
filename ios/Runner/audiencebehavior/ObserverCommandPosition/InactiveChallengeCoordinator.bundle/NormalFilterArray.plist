@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioContrast</key>
+	<string>builderBuffer</string>
+	<key>shouldRouteRow</key>
+	<string>futuredrawer</string>
+	<key>similarDimension</key>
+	<string>similarMechanism</string>
+</dict>
+</plist>

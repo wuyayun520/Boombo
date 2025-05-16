@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeResponse</key>
+	<string>delegateTop</string>
+	<key>managerflags</key>
+	<string>denseProgressBar</string>
+	<key>mediocreButton</key>
+	<string>delicateBrush</string>
+	<key>resizableSwift</key>
+	<string>entropySize</string>
+	<key>volumeState</key>
+	<string>indicatorCount</string>
+</dict>
+</plist>

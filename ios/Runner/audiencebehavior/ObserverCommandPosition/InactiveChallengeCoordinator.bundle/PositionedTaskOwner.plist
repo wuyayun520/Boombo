@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticScheduler</key>
+	<string>serviceormethod</string>
+	<key>drawloop</key>
+	<string>mediumMomentum</string>
+	<key>enabledCard</key>
+	<string>declarativetitle</string>
+	<key>firstSize</key>
+	<string>disabledCurve</string>
+	<key>liteCaption</key>
+	<string>independentSearcher</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainStep</key>
+	<string>ternarySingleton</string>
+	<key>respectiveMerger</key>
+	<string>crudeDocument</string>
+	<key>sinkTension</key>
+	<string>toleranceKind</string>
+</dict>
+</plist>

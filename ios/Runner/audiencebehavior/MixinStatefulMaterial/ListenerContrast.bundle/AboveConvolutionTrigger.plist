@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDependency</key>
+	<string>paintResource</string>
+	<key>firstCurve</key>
+	<string>integrationCenter</string>
+	<key>grainBottom</key>
+	<string>updateInkWell</string>
+	<key>intermediateVertex</key>
+	<string>modalDecorator</string>
+	<key>pageviewtexture</key>
+	<string>actionInterpreter</string>
+	<key>tabbarShade</key>
+	<string>substantialOperation</string>
+</dict>
+</plist>

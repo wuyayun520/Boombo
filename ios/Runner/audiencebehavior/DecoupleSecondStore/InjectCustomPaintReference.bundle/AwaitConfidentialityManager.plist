@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicTransformer</key>
+	<string>reduceNavigator</string>
+	<key>injectionorlevel</key>
+	<string>shouldPrepareCompletion</string>
+	<key>isNavigation</key>
+	<string>prevTimer</string>
+	<key>iterativeMerger</key>
+	<string>multiUsage</string>
+	<key>lazyQuaternion</key>
+	<string>newestChapter</string>
+	<key>metricsresponse</key>
+	<string>missedAsync</string>
+	<key>shouldEncodeNotifier</key>
+	<string>routeBridge</string>
+</dict>
+</plist>

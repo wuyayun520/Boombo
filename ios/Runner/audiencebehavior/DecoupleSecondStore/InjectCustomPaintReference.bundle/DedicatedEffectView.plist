@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalAnalyzer</key>
+	<string>iterativevideo</string>
+	<key>crucialCache</key>
+	<string>detachCertificate</string>
+	<key>immutableAspectRatio</key>
+	<string>eraseLocalization</string>
+	<key>shoulddisconnectcanvas</key>
+	<string>borderPhase</string>
+	<key>spriteDepth</key>
+	<string>joinerShade</string>
+	<key>toleranceResponse</key>
+	<string>stepstageopacity</string>
+	<key>unactivatedSprite</key>
+	<string>radiusSkewY</string>
+	<key>viewRight</key>
+	<string>ignoredSizedBox</string>
+</dict>
+</plist>

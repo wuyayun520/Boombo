@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleController</key>
+	<string>requiredScheduler</string>
+	<key>defaultAppBar</key>
+	<string>observemonster</string>
+	<key>diffableequipment</key>
+	<string>roleversusinterpreter</string>
+	<key>disabledCell</key>
+	<string>canAttachStamp</string>
+	<key>sharedScale</key>
+	<string>shouldFinishContraction</string>
+	<key>shouldLoadAspect</key>
+	<string>crucialSplitter</string>
+	<key>shouldLoadComposition</key>
+	<string>channelDuration</string>
+	<key>smalltriangles</key>
+	<string>dropoutHash</string>
+	<key>synchronousOptimizer</key>
+	<string>thresholdStyle</string>
+</dict>
+</plist>

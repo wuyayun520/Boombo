@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entitytail</key>
+	<string>quitSprite</string>
+	<key>functionalResponse</key>
+	<string>shouldAttachAnchor</string>
+	<key>lastSemantics</key>
+	<string>smartAsync</string>
+	<key>relationalCache</key>
+	<string>integrationCount</string>
+	<key>shouldLayoutSpot</key>
+	<string>draggablecontainervisibility</string>
+	<key>shouldUpdateStateless</key>
+	<string>detectorRate</string>
+	<key>shouldfinishpet</key>
+	<string>assetTheme</string>
+</dict>
+</plist>

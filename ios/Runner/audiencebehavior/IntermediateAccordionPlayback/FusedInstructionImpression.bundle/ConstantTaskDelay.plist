@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSplitter</key>
+	<string>canDispatchInteger</string>
+	<key>ascentOffset</key>
+	<string>durationcompleter</string>
+	<key>difficultSlider</key>
+	<string>removelayer</string>
+	<key>functionalReliability</key>
+	<string>rapidCombiner</string>
+	<key>mainSine</key>
+	<string>materialEvent</string>
+	<key>prismaticThroughput</key>
+	<string>inkwellProxy</string>
+	<key>resizableIcon</key>
+	<string>transpileText</string>
+	<key>shouldResumeTransition</key>
+	<string>canNotifyStream</string>
+	<key>shouldTransformCache</key>
+	<string>euclideanBatch</string>
+</dict>
+</plist>

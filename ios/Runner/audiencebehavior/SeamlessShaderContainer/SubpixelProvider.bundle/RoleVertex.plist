@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioContrast</key>
+	<string>shouldRenderLogarithm</string>
+	<key>associatedRemediation</key>
+	<string>seekState</string>
+	<key>localLog</key>
+	<string>completionSize</string>
+	<key>permanentTexture</key>
+	<string>mutableCreator</string>
+	<key>shouldDispatchGridView</key>
+	<string>directlyListView</string>
+	<key>shouldUpdateDialogs</key>
+	<string>statefulTheme</string>
+	<key>statefulSpecifier</key>
+	<string>initializeStore</string>
+</dict>
+</plist>

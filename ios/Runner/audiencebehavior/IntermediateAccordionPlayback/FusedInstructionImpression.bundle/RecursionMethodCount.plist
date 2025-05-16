@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionSpeed</key>
+	<string>implementconfiguration</string>
+	<key>painterState</key>
+	<string>bitrateSpeed</string>
+	<key>parselayout</key>
+	<string>seamlessInstruction</string>
+	<key>prismaticroute</key>
+	<string>mediaValue</string>
+	<key>spineSaturation</key>
+	<string>shouldUpdateRichText</string>
+	<key>stackframe</key>
+	<string>clusterDuration</string>
+	<key>stampSpacing</key>
+	<string>floatStorage</string>
+	<key>temporaryTransition</key>
+	<string>widgetstate</string>
+	<key>tensorRenderer</key>
+	<string>loopLocation</string>
+</dict>
+</plist>

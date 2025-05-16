@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPicker</key>
+	<string>featureIndex</string>
+	<key>resilienceSpacing</key>
+	<string>matrixResponse</string>
+	<key>shouldHandleConvolution</key>
+	<string>animateGrayscale</string>
+	<key>shouldfinishnib</key>
+	<string>specifyAllocator</string>
+	<key>soundBottom</key>
+	<string>animatedCache</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteservice</key>
+	<string>canMountedSlider</string>
+	<key>confidentialitydensity</key>
+	<string>canStreamView</string>
+	<key>dedicatedCube</key>
+	<string>combineCoordinator</string>
+	<key>notificationcount</key>
+	<string>sensorthroughfunction</string>
+	<key>parallelSelector</key>
+	<string>descriptorOperation</string>
+	<key>scrollbottom</key>
+	<string>canFormatPageView</string>
+	<key>substantialpaddingscale</key>
+	<string>lostInformation</string>
+	<key>viewFlags</key>
+	<string>canAttachSpot</string>
+	<key>widgetbinder</key>
+	<string>disabledSign</string>
+</dict>
+</plist>

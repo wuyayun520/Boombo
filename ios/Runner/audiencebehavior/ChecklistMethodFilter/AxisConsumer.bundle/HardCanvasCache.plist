@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableDisclaimer</key>
+	<string>transitionqueue</string>
+	<key>displayableCatalyst</key>
+	<string>cupertinoCursor</string>
+	<key>geometricAlert</key>
+	<string>dynamicPopup</string>
+	<key>logValidation</key>
+	<string>channelpercontext</string>
+	<key>memberdelay</key>
+	<string>listenIndicator</string>
+	<key>shouldUnmountedCharacter</key>
+	<string>shouldListenTheme</string>
+	<key>tensorTable</key>
+	<string>accordionEquipment</string>
+	<key>tickerinsideactivity</key>
+	<string>criticalState</string>
+	<key>unsortedRestriction</key>
+	<string>desktopProcessor</string>
+</dict>
+</plist>

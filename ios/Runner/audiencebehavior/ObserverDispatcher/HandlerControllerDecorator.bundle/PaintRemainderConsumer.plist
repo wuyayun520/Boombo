@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionConnector</key>
+	<string>beginnerBloc</string>
+	<key>adaptiveSine</key>
+	<string>baselineLevel</string>
+	<key>advancedCosine</key>
+	<string>lossScope</string>
+	<key>interactorStatus</key>
+	<string>streamlinerect</string>
+	<key>requiredvectormode</key>
+	<string>currentAxis</string>
+	<key>shouldListenSpecifier</key>
+	<string>analyzeticker</string>
+	<key>usagecenter</key>
+	<string>adaptiveCube</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationTension</key>
+	<string>continueActivity</string>
+	<key>currentlistviewinset</key>
+	<string>publicNib</string>
+	<key>dynamicScenario</key>
+	<string>associatedRow</string>
+	<key>isWidget</key>
+	<string>shouldStopBox</string>
+	<key>lazyCatalyst</key>
+	<string>precisionbehavior</string>
+	<key>shouldSetStateMovement</key>
+	<string>workflowcoord</string>
+	<key>synchronousroutersaturation</key>
+	<string>writeHandler</string>
+</dict>
+</plist>

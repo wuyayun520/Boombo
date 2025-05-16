@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateIndex</key>
+	<string>radioInteraction</string>
+	<key>delegatestageshape</key>
+	<string>diffableBuilder</string>
+	<key>diffableFeature</key>
+	<string>stepDistance</string>
+	<key>injectionresponse</key>
+	<string>immediateMobile</string>
+	<key>persistentmodule</key>
+	<string>mainDetector</string>
+	<key>seamlessMenu</key>
+	<string>fetchCursor</string>
+	<key>searcherFormat</key>
+	<string>loadCertificate</string>
+</dict>
+</plist>

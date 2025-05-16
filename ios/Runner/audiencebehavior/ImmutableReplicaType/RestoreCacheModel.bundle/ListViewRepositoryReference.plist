@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentProjection</key>
+	<string>functionalSpine</string>
+	<key>permanentContraction</key>
+	<string>draggablePolyfill</string>
+	<key>permanentCustomPaint</key>
+	<string>decorationCenter</string>
+	<key>richtextBehavior</key>
+	<string>undertakeHash</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushbuffermode</key>
+	<string>deserializeMediaQuery</string>
+	<key>capacitiesallocator</key>
+	<string>cacheSegment</string>
+	<key>criticalMomentum</key>
+	<string>tangentcomponent</string>
+	<key>drawerState</key>
+	<string>checklistTier</string>
+	<key>heapKind</key>
+	<string>undertakescene</string>
+	<key>lostContainer</key>
+	<string>savePainter</string>
+	<key>restoredimension</key>
+	<string>cleanCallback</string>
+	<key>shouldObserveContainer</key>
+	<string>retainedInformation</string>
+	<key>tappablequeue</key>
+	<string>otherIntegration</string>
+</dict>
+</plist>

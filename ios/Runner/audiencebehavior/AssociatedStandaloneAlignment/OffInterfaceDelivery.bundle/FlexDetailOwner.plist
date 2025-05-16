@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>priorityCenter</key>
+	<string>cacheWidget</string>
+	<key>reductionOrigin</key>
+	<string>shouldSubscribeCell</string>
+	<key>shouldvalidatehistogram</key>
+	<string>tabviewProcess</string>
+	<key>smartTabView</key>
+	<string>shouldpersistpromise</string>
+	<key>tolerancetype</key>
+	<string>beginnerSensor</string>
+	<key>uniformTaxonomy</key>
+	<string>pushNode</string>
+</dict>
+</plist>

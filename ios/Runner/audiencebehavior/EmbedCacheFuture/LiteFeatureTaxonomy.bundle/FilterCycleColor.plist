@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoScenario</key>
+	<string>stopasset</string>
+	<key>binderInteraction</key>
+	<string>capacityVisible</string>
+	<key>draggableTechnique</key>
+	<string>handlermargin</string>
+	<key>nativePager</key>
+	<string>batchspacing</string>
+	<key>onscaletap</key>
+	<string>synchronousContrast</string>
+	<key>publicThreshold</key>
+	<string>dissociateconsumer</string>
+	<key>resultOffset</key>
+	<string>unsortedSelector</string>
+	<key>shouldAttachModal</key>
+	<string>factoryTint</string>
+	<key>tangentdecoratormomentum</key>
+	<string>shouldSerializeSymbol</string>
+	<key>thresholdbottom</key>
+	<string>custompaintFacade</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedView</key>
+	<string>monstercoordinator</string>
+	<key>cupertinoPolyfill</key>
+	<string>quantizerSprite</string>
+	<key>dropdownbuttonposition</key>
+	<string>lazyGrain</string>
+	<key>observerlinker</key>
+	<string>calculateResolver</string>
+	<key>sceneactionformat</key>
+	<string>asyncperwork</string>
+	<key>statefulLayer</key>
+	<string>disparateListView</string>
+	<key>timelineResponse</key>
+	<string>tickerfunctionappearance</string>
+</dict>
+</plist>

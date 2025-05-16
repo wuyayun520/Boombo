@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modulusstatus</key>
+	<string>symbolconfiguration</string>
+	<key>rapidOperation</key>
+	<string>canSetStateRadio</string>
+	<key>requiredBullet</key>
+	<string>optimizebrush</string>
+	<key>respectiveBuilder</key>
+	<string>canAttachNotifier</string>
+	<key>sharedTitle</key>
+	<string>shouldObserveMonster</string>
+	<key>throughputShape</key>
+	<string>geometricDialogs</string>
+</dict>
+</plist>

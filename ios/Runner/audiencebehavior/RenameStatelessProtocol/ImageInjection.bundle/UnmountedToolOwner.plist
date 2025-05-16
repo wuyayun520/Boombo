@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRouter</key>
+	<string>consultativeDropdownButton</string>
+	<key>animatedInfrastructure</key>
+	<string>zoneStatus</string>
+	<key>captionContrast</key>
+	<string>tentativeRate</string>
+	<key>commonSpine</key>
+	<string>shouldRenderLabel</string>
+	<key>mutablePlayback</key>
+	<string>shouldUnbindStateless</string>
+	<key>preparegesture</key>
+	<string>statusDensity</string>
+	<key>scrollerOrientation</key>
+	<string>emitrole</string>
+	<key>shouldValidateContainer</key>
+	<string>marginFacade</string>
+	<key>shouldsubscribebaseline</key>
+	<string>singletabbar</string>
+</dict>
+</plist>

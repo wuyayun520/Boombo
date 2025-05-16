@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioawait</key>
+	<string>popHash</string>
+	<key>aspectratioprovider</key>
+	<string>overlayappearance</string>
+	<key>fragmentsDepth</key>
+	<string>agileCube</string>
+	<key>gateState</key>
+	<string>colorDistance</string>
+	<key>localizationdrawer</key>
+	<string>recursionOrigin</string>
+	<key>nextCombiner</key>
+	<string>skinkind</string>
+	<key>numericalSwift</key>
+	<string>canResumeBox</string>
+	<key>timelineFlags</key>
+	<string>masterCenter</string>
+</dict>
+</plist>

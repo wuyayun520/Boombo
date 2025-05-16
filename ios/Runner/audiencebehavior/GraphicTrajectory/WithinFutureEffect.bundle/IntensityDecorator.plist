@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianMaterializer</key>
+	<string>specifierappearance</string>
+	<key>commonMargin</key>
+	<string>enhanceTransition</string>
+	<key>exceptiondespitedecorator</key>
+	<string>dependencyCycle</string>
+	<key>invisibleFinder</key>
+	<string>cellStrategy</string>
+	<key>largeQueue</key>
+	<string>promiseCommand</string>
+	<key>previewCenter</key>
+	<string>zoneLayer</string>
+	<key>shouldDecodeWorkflow</key>
+	<string>minCursor</string>
+	<key>statefulsegment</key>
+	<string>entityEdge</string>
+	<key>subsequentWrapper</key>
+	<string>consultativeSegment</string>
+	<key>touchTransparency</key>
+	<string>handleGestureDetector</string>
+</dict>
+</plist>

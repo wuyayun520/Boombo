@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonbulletorientation</key>
+	<string>navigateMission</string>
+	<key>customShape</key>
+	<string>callbackOffset</string>
+	<key>directlytexturefrequency</key>
+	<string>subpixelSaturation</string>
+	<key>exceptionTransparency</key>
+	<string>diffableLayer</string>
+	<key>respectiveItem</key>
+	<string>usecaseDuration</string>
+	<key>semanticModule</key>
+	<string>seamlessAction</string>
+	<key>statefulGram</key>
+	<string>statelessCurve</string>
+	<key>transposetween</key>
+	<string>shouldPushChallenge</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bordertolerance</key>
+	<string>publicCubit</string>
+	<key>capacitiesFeedback</key>
+	<string>zoneduringtask</string>
+	<key>ephemeralError</key>
+	<string>permissivealignment</string>
+	<key>interactiveConsumer</key>
+	<string>replaceBoxShadow</string>
+	<key>newestTween</key>
+	<string>maxReference</string>
+	<key>platebuffervelocity</key>
+	<string>shouldPublishGesture</string>
+	<key>shouldConnectCustomPaint</key>
+	<string>resettable</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheequipment</key>
+	<string>nativeEntity</string>
+	<key>colorfrequency</key>
+	<string>entityawaynumber</string>
+	<key>keyManager</key>
+	<string>diversifiedDependency</string>
+	<key>resilientCharacteristic</key>
+	<string>encodeLayer</string>
+	<key>standaloneButton</key>
+	<string>independentConsumption</string>
+</dict>
+</plist>

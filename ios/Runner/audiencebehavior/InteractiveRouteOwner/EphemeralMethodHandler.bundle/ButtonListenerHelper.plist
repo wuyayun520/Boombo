@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellKind</key>
+	<string>firstSwitch</string>
+	<key>chartMargin</key>
+	<string>largeBoxShadow</string>
+	<key>crucialStorage</key>
+	<string>sharedSession</string>
+	<key>draggableTransformer</key>
+	<string>entityinoperation</string>
+	<key>enabledThroughput</key>
+	<string>streamDescriptor</string>
+	<key>layerbottom</key>
+	<string>movementHead</string>
+	<key>onprojecttap</key>
+	<string>activeArchitecture</string>
+	<key>staticObject</key>
+	<string>currentfragment</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledspriteflags</key>
+	<string>relationalSpine</string>
+	<key>documentcolor</key>
+	<string>generaterouter</string>
+	<key>hierarchicalusageinteraction</key>
+	<string>minSemantics</string>
+	<key>sharedLayout</key>
+	<string>connectsemantics</string>
+	<key>shouldDetachProjection</key>
+	<string>invisibleStack</string>
+	<key>shouldPrepareRole</key>
+	<string>sustainableLocalization</string>
+	<key>shouldReplaceInkWell</key>
+	<string>scaffoldMemento</string>
+	<key>subpixelshapeposition</key>
+	<string>startgradient</string>
+	<key>timermaterial</key>
+	<string>enabledProjection</string>
+	<key>vectorBrightness</key>
+	<string>annotateGrid</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInstruction</key>
+	<string>attachusecase</string>
+	<key>anchorappearance</key>
+	<string>shouldNavigateOption</string>
+	<key>composableMaterializer</key>
+	<string>createTransformer</string>
+	<key>inkwellSpeed</key>
+	<string>optionradius</string>
+	<key>largeAnimator</key>
+	<string>animateBrush</string>
+	<key>petconfiguration</key>
+	<string>plateprocessor</string>
+	<key>queueFormat</key>
+	<string>beginnerAnchor</string>
+	<key>requestAppearance</key>
+	<string>profileState</string>
+	<key>shouldSkipContainer</key>
+	<string>presentstateless</string>
+</dict>
+</plist>

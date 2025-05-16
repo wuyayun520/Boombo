@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorcontrast</key>
+	<string>prevCharacter</string>
+	<key>baseinsidekind</key>
+	<string>interactorinsideaction</string>
+	<key>errorBehavior</key>
+	<string>mutableSignature</string>
+	<key>gramtasksaturation</key>
+	<string>shouldvalidatenib</string>
+	<key>normalbuilderbound</key>
+	<string>enabledtitle</string>
+	<key>previewInset</key>
+	<string>backwardReference</string>
+	<key>relationalGrayscale</key>
+	<string>custompaintbound</string>
+	<key>resilienceBehavior</key>
+	<string>shouldHandleBloc</string>
+</dict>
+</plist>

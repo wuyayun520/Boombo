@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexIndex</key>
+	<string>selectedCache</string>
+	<key>originalinkwellcolor</key>
+	<string>directVolume</string>
+	<key>otherAlpha</key>
+	<string>responsiveElement</string>
+	<key>rectborder</key>
+	<string>pushStorage</string>
+	<key>robustMediaQuery</key>
+	<string>canConnectBloc</string>
+	<key>signPressure</key>
+	<string>opaqueBoxShadow</string>
+	<key>webbloc</key>
+	<string>visibleCreator</string>
+</dict>
+</plist>

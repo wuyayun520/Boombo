@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletFlags</key>
+	<string>primaryContainer</string>
+	<key>deferredEvent</key>
+	<string>keyTransition</string>
+	<key>keyStroke</key>
+	<string>shouldDecodeSegue</string>
+	<key>liteTolerance</key>
+	<string>shouldShowShader</string>
+	<key>persistentFragments</key>
+	<string>consultativeEquivalent</string>
+	<key>plateandstructure</key>
+	<string>animatedRole</string>
+	<key>sharedsearcher</key>
+	<string>parseplate</string>
+	<key>statefulDistance</key>
+	<string>loadStoryboard</string>
+</dict>
+</plist>

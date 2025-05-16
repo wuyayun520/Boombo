@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTouch</key>
+	<string>convolutionsincestate</string>
+	<key>dedicatedMonster</key>
+	<string>specifygrain</string>
+	<key>directMobile</key>
+	<string>themeTemple</string>
+	<key>interactorDistance</key>
+	<string>callbackorientation</string>
+	<key>normalAspect</key>
+	<string>cursorHue</string>
+	<key>shouldCancelCosine</key>
+	<string>descriptorMediator</string>
+	<key>shouldDisconnectAccessory</key>
+	<string>drawerEnvironment</string>
+	<key>tablehead</key>
+	<string>materialArithmetic</string>
+</dict>
+</plist>

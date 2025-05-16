@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAnchor</key>
+	<string>primaryGestureDetector</string>
+	<key>discoversink</key>
+	<string>histogramfacadevalidation</string>
+	<key>exponentFlags</key>
+	<string>shouldRouteMusic</string>
+	<key>featureMargin</key>
+	<string>elasticmodeldirection</string>
+	<key>integerbrightness</key>
+	<string>shouldEndExtension</string>
+	<key>resolverState</key>
+	<string>detachBrush</string>
+	<key>resourceFormat</key>
+	<string>fragmentLocation</string>
+	<key>shouldSerializeBuilder</key>
+	<string>resizableReduction</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMechanism</key>
+	<string>referenceborder</string>
+	<key>buildmenu</key>
+	<string>permissiveWorkflow</string>
+	<key>declarativeInterface</key>
+	<string>canDeserializeKernel</string>
+	<key>effectduringfunction</key>
+	<string>titleHue</string>
+	<key>interpolationMomentum</key>
+	<string>shouldSubscribeGrayscale</string>
+	<key>normalActivity</key>
+	<string>integerLeft</string>
+	<key>normalSwitch</key>
+	<string>parallelSound</string>
+	<key>optimizeramortization</key>
+	<string>shouldupdateradio</string>
+	<key>unarymetrics</key>
+	<string>semanticBitrate</string>
+</dict>
+</plist>

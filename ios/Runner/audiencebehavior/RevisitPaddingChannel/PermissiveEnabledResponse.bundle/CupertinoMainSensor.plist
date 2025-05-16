@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedVideo</key>
+	<string>shouldSetStateIndicator</string>
+	<key>declarativePolyfill</key>
+	<string>crudeTextField</string>
+	<key>elasticVideo</key>
+	<string>localizationtypeborder</string>
+	<key>encapsulatevector</key>
+	<string>granularManager</string>
+	<key>publishreduction</key>
+	<string>restartTheme</string>
+</dict>
+</plist>

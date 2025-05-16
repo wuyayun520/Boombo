@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseBehavior</key>
+	<string>effectcapacity</string>
+	<key>eagercollectionforce</key>
+	<string>mainInteraction</string>
+	<key>euclideanData</key>
+	<string>dispatchClipper</string>
+	<key>keystate</key>
+	<string>statefulDistance</string>
+	<key>liteIcon</key>
+	<string>sustainabletangent</string>
+	<key>nextSplitter</key>
+	<string>shouldBindGesture</string>
+	<key>setstateview</key>
+	<string>dimensionAcceleration</string>
+	<key>shouldlisteninstruction</key>
+	<string>delicateStatus</string>
+	<key>subpixelalongstructure</key>
+	<string>dialogsframeworkoffset</string>
+	<key>typicalScroll</key>
+	<string>sharedError</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticsingletonappearance</key>
+	<string>parseSink</string>
+	<key>concretePlayback</key>
+	<string>singleHash</string>
+	<key>dedicatedResponder</key>
+	<string>canUpdateGesture</string>
+	<key>disparateservicestatus</key>
+	<string>canDecodeMember</string>
+	<key>scaleBorder</key>
+	<string>liteZone</string>
+	<key>shouldRestartGradient</key>
+	<string>ephemeralHero</string>
+	<key>shouldTransitionModal</key>
+	<string>canObserveMediaQuery</string>
+	<key>subtlecurve</key>
+	<string>disposeExpanded</string>
+	<key>usedThread</key>
+	<string>pinchableUsage</string>
+</dict>
+</plist>

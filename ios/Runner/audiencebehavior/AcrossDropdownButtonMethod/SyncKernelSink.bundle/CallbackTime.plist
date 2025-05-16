@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcherLeft</key>
+	<string>multiplicationFunction</string>
+	<key>filterTheme</key>
+	<string>asynchronousScreen</string>
+	<key>hardBloc</key>
+	<string>customizedEntropy</string>
+	<key>keepanimation</key>
+	<string>asyncmode</string>
+	<key>mobileBatch</key>
+	<string>streamlineGrain</string>
+	<key>tickerscale</key>
+	<string>newestClipper</string>
+	<key>workflowawayvar</key>
+	<string>canAttachCheckbox</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateStrength</key>
+	<string>visibleChooser</string>
+	<key>heapAlignment</key>
+	<string>publishSignature</string>
+	<key>shouldDismissMedia</key>
+	<string>grayscaleSingleton</string>
+	<key>significantIntegrity</key>
+	<string>movementBound</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelInteraction</key>
+	<string>controllerdistance</string>
+	<key>respectiveMetadata</key>
+	<string>basicScope</string>
+	<key>seamlessAlignment</key>
+	<string>durationVelocity</string>
+	<key>shouldskipslash</key>
+	<string>canCancelTouch</string>
+</dict>
+</plist>

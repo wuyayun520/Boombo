@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphicjobdirection</key>
+	<string>invokeRepository</string>
+	<key>inheritedException</key>
+	<string>sanitizeView</string>
+	<key>iterativemargintail</key>
+	<string>deserializeEqualization</string>
+	<key>scaffoldBottom</key>
+	<string>secondView</string>
+	<key>scalabilityInset</key>
+	<string>reusablelabel</string>
+	<key>segueinteractor</key>
+	<string>transitioncoordinator</string>
+	<key>smallstreamdepth</key>
+	<string>shouldformatcatalyst</string>
+	<key>visibledata</key>
+	<string>shouldObservePrecision</string>
+</dict>
+</plist>

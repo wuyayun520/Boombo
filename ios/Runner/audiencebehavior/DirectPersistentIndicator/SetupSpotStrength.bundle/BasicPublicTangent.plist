@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMaster</key>
+	<string>imagepervalue</string>
+	<key>basicFinder</key>
+	<string>relationalFilter</string>
+	<key>cartesianIntegrity</key>
+	<string>previewnumbertint</string>
+	<key>customizedEvaluation</key>
+	<string>inflateResponse</string>
+	<key>deferredBehavior</key>
+	<string>visibleController</string>
+	<key>futurePadding</key>
+	<string>cancelhash</string>
+	<key>mainlayouttype</key>
+	<string>statelessmissiontop</string>
+	<key>progressbarbesideparameter</key>
+	<string>unaryShape</string>
+	<key>shouldProcessNavigator</key>
+	<string>accessibleboxorigin</string>
+	<key>textureMargin</key>
+	<string>statusSize</string>
+</dict>
+</plist>

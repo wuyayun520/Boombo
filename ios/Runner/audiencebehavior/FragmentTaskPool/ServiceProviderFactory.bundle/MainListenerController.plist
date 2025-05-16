@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvascontextalignment</key>
+	<string>canReplaceSlider</string>
+	<key>diversifiedSegment</key>
+	<string>listenerfinder</string>
+	<key>listenradius</key>
+	<string>canResumeCycle</string>
+	<key>lostStream</key>
+	<string>widgetVariable</string>
+	<key>shouldSubscribeFragment</key>
+	<string>canConnectDialogs</string>
+</dict>
+</plist>

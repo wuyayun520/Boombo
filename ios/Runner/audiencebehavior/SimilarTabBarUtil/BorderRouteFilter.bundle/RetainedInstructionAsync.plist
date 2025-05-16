@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLayer</key>
+	<string>functionalSorter</string>
+	<key>advancedModel</key>
+	<string>dispatchNotification</string>
+	<key>particleinterval</key>
+	<string>enabledQuaternion</string>
+	<key>shouldEmitNorm</key>
+	<string>shouldObservePlayback</string>
+	<key>singleTable</key>
+	<string>shouldInflateMediaQuery</string>
+	<key>sinkpertype</key>
+	<string>webResult</string>
+	<key>unactivatedMaterial</key>
+	<string>shouldPopUsage</string>
+	<key>unsortedQueue</key>
+	<string>subsequentStack</string>
+</dict>
+</plist>

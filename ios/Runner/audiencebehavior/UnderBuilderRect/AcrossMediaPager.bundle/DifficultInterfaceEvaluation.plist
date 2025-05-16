@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveModel</key>
+	<string>clipperpager</string>
+	<key>entropyskewy</key>
+	<string>dependencyagainststate</string>
+	<key>immutableMap</key>
+	<string>resultvaluestyle</string>
+	<key>normalrole</key>
+	<string>interpolationRotation</string>
+	<key>presenterState</key>
+	<string>animatedreliability</string>
+	<key>shouldPauseSession</key>
+	<string>directSegue</string>
+</dict>
+</plist>

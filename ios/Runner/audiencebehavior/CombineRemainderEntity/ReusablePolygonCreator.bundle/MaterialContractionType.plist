@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disconnectlogarithm</key>
+	<string>inflateOverlay</string>
+	<key>draggableGraph</key>
+	<string>shouldtransitioncoordinator</string>
+	<key>evolutionShade</key>
+	<string>geometricTabBar</string>
+	<key>gridScale</key>
+	<string>contractionType</string>
+	<key>joinerContrast</key>
+	<string>activePolyfill</string>
+	<key>keyDimension</key>
+	<string>movementname</string>
+	<key>measurewidget</key>
+	<string>lazyMobile</string>
+	<key>oldProject</key>
+	<string>updateRow</string>
+	<key>reusableComponent</key>
+	<string>immediateWrapper</string>
+	<key>tabviewRight</key>
+	<string>contractionLocation</string>
+</dict>
+</plist>

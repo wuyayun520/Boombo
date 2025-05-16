@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isolateforinterpreter</key>
+	<string>geometriclabelshade</string>
+	<key>moduleSkewX</key>
+	<string>mutableBrush</string>
+	<key>resourcetheme</key>
+	<string>sharedNode</string>
+	<key>singleCube</key>
+	<string>integrationSpeed</string>
+	<key>specifyButton</key>
+	<string>emitCache</string>
+</dict>
+</plist>

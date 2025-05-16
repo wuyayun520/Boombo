@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawspine</key>
+	<string>canPopMedia</string>
+	<key>haskernel</key>
+	<string>musicVisible</string>
+	<key>hierarchicalEquivalent</key>
+	<string>pivotalScene</string>
+	<key>nextworkflow</key>
+	<string>minTabBar</string>
+	<key>sequentialController</key>
+	<string>navigatorpainter</string>
+	<key>shouldObserveSlash</key>
+	<string>canSkipCheckbox</string>
+	<key>statefulqueue</key>
+	<string>scaffoldStyle</string>
+	<key>tappablefactory</key>
+	<string>shouldDecodeCursor</string>
+</dict>
+</plist>

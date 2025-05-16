@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableCell</key>
+	<string>currentVector</string>
+	<key>shouldbuildmonster</key>
+	<string>canPresentStateful</string>
+	<key>shouldtransformoverlay</key>
+	<string>singletonShape</string>
+	<key>significantcubeoffset</key>
+	<string>seamlessImpact</string>
+	<key>textureintegrity</key>
+	<string>usedGraphic</string>
+	<key>transformaspect</key>
+	<string>resumeBehavior</string>
+</dict>
+</plist>

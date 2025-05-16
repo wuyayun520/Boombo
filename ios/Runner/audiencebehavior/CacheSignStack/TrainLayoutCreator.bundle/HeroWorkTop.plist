@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardHandler</key>
+	<string>presenterCycle</string>
+	<key>decorationobserver</key>
+	<string>oldarchitecture</string>
+	<key>defaultWorkflow</key>
+	<string>progressbarBridge</string>
+	<key>granularNorm</key>
+	<string>momentumBrightness</string>
+	<key>inkwelldepth</key>
+	<string>graphviaadapter</string>
+	<key>iterativegrainpadding</key>
+	<string>desktopRichText</string>
+	<key>priorityvelocity</key>
+	<string>canSaveMedia</string>
+	<key>shouldLoadSemantics</key>
+	<string>adaptiveEquivalent</string>
+	<key>sortedMetadata</key>
+	<string>replaceEntity</string>
+</dict>
+</plist>

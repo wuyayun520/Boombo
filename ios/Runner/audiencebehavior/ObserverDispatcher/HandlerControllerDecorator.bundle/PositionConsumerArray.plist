@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumermementoresponse</key>
+	<string>validateTextField</string>
+	<key>customNode</key>
+	<string>consumerLeft</string>
+	<key>discardedBuffer</key>
+	<string>activatedBuffer</string>
+	<key>rowDirection</key>
+	<string>addObserver</string>
+	<key>scrollerSpeed</key>
+	<string>directlyRouter</string>
+	<key>seamlessbloc</key>
+	<string>consultativeRoute</string>
+	<key>shouldTransformView</key>
+	<string>shouldUnbindLog</string>
+	<key>shoulddisconnectswift</key>
+	<string>canPublishLoss</string>
+	<key>uniqueSprite</key>
+	<string>reusableInteractor</string>
+</dict>
+</plist>

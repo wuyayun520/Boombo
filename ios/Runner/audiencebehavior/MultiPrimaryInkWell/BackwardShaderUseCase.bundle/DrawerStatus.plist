@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterColor</key>
+	<string>masterProxy</string>
+	<key>deserializelayout</key>
+	<string>staticSchema</string>
+	<key>discardedLabel</key>
+	<string>pivotalconvolutionstate</string>
+	<key>menushapecontrast</key>
+	<string>nativeMonster</string>
+	<key>queueOpacity</key>
+	<string>processorTail</string>
+	<key>reusableAsset</key>
+	<string>canCacheLoss</string>
+	<key>sortedChannel</key>
+	<string>immutableoverlayleft</string>
+	<key>standaloneAudio</key>
+	<string>granularProfile</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerlocation</key>
+	<string>stampMediator</string>
+	<key>commonMediaQuery</key>
+	<string>enabledRestriction</string>
+	<key>graphInteraction</key>
+	<string>iconInterpreter</string>
+	<key>nextChallenge</key>
+	<string>shouldLayoutBoxShadow</string>
+	<key>overlaySpeed</key>
+	<string>lazyGridView</string>
+	<key>shouldCancelPadding</key>
+	<string>shouldSetStateSignature</string>
+	<key>streamstream</key>
+	<string>disconnectmultiplication</string>
+</dict>
+</plist>

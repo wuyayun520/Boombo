@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAlignment</key>
+	<string>sortedSplitter</string>
+	<key>awaitdespitestyle</key>
+	<string>adaptiveWrapper</string>
+	<key>bulletloader</key>
+	<string>requiredBaseline</string>
+	<key>concreteStore</key>
+	<string>disconnectInkWell</string>
+	<key>injectmenu</key>
+	<string>cardCenter</string>
+	<key>staticRouter</key>
+	<string>canObservePromise</string>
+</dict>
+</plist>

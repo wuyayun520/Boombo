@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledMetrics</key>
+	<string>mobileSingleton</string>
+	<key>independentOptimizer</key>
+	<string>joinerAcceleration</string>
+	<key>marshalscene</key>
+	<string>resizablepet</string>
+	<key>modelactivityspeed</key>
+	<string>curveDirection</string>
+	<key>showmonster</key>
+	<string>allocatorfacaderate</string>
+	<key>standaloneTicker</key>
+	<string>relationalCompleter</string>
+	<key>subsequentNotification</key>
+	<string>errorAppearance</string>
+	<key>viewskewx</key>
+	<string>shouldnavigatebehavior</string>
+</dict>
+</plist>

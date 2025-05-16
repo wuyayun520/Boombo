@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSubscription</key>
+	<string>canLayoutProtocol</string>
+	<key>deliveryAlignment</key>
+	<string>imperativeTabBar</string>
+	<key>globalBatch</key>
+	<string>selectedchannels</string>
+	<key>showstore</key>
+	<string>respectiveTextField</string>
+	<key>statelessdependencyoffset</key>
+	<string>hyperbolicclipperfeedback</string>
+	<key>streampageview</key>
+	<string>scrollableManager</string>
+	<key>touchdistance</key>
+	<string>tappableternaryinterval</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileAxis</key>
+	<string>moveLayout</string>
+	<key>graphicBrightness</key>
+	<string>handleAxis</string>
+	<key>observerversusbridge</key>
+	<string>usagemodel</string>
+	<key>persistentAsset</key>
+	<string>accessibleSignature</string>
+	<key>reducerTag</key>
+	<string>drawerAction</string>
+	<key>scaleandenvironment</key>
+	<string>dismissUtil</string>
+	<key>scrollFrequency</key>
+	<string>lastReceiver</string>
+	<key>serviceTint</key>
+	<string>canBuildReference</string>
+	<key>shouldNotifyTouch</key>
+	<string>smallModulus</string>
+	<key>shouldResumeCoordinator</key>
+	<string>pinchableSound</string>
+</dict>
+</plist>

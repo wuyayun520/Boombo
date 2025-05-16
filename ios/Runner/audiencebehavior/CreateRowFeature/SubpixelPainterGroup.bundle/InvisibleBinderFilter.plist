@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>latencyOrientation</key>
+	<string>mastertemplepressure</string>
+	<key>observerBrightness</key>
+	<string>parallelUsage</string>
+	<key>radiusparameterflags</key>
+	<string>scrollableMechanism</string>
+	<key>resizableCapacity</key>
+	<string>projectBrightness</string>
+	<key>shouldDispatchPadding</key>
+	<string>shouldSaveTransition</string>
+	<key>signaturevisible</key>
+	<string>updateInkWell</string>
+	<key>transitionPressure</key>
+	<string>standaloneMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTaxonomy</key>
+	<string>painterinset</string>
+	<key>delicateProgressBar</key>
+	<string>handlerrotation</string>
+	<key>diffableSemantics</key>
+	<string>concurrentInterpolation</string>
+	<key>difficultwidgetstate</key>
+	<string>saveNotifier</string>
+	<key>immutableSplitter</key>
+	<string>integerComposite</string>
+	<key>renderermomentum</key>
+	<string>canFetchGate</string>
+	<key>replicatetexture</key>
+	<string>dataPosition</string>
+	<key>resolverstrategydelay</key>
+	<string>similarsample</string>
+	<key>smallSymbol</key>
+	<string>regulateGrain</string>
+</dict>
+</plist>

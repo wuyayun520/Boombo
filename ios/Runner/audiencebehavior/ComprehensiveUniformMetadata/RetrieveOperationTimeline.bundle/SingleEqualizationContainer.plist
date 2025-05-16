@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMend</key>
+	<string>shouldDisconnectLayout</string>
+	<key>agileSizedBox</key>
+	<string>canPauseContainer</string>
+	<key>binderRotation</key>
+	<string>allocatorWork</string>
+	<key>holdexponent</key>
+	<string>unmountCheckbox</string>
+	<key>resiliencealignment</key>
+	<string>consultativeModal</string>
+	<key>respectiveElasticity</key>
+	<string>eagerProvision</string>
+	<key>sampleasobserver</key>
+	<string>explicitGraph</string>
+	<key>shouldValidateActivity</key>
+	<string>canRebuildDocument</string>
+	<key>tabbarsincebridge</key>
+	<string>deserializeCache</string>
+	<key>vectorResponse</key>
+	<string>moveAnimation</string>
+</dict>
+</plist>

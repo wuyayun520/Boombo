@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaplatformspeed</key>
+	<string>uniqueProtocol</string>
+	<key>factorySpeed</key>
+	<string>encodeOptimizer</string>
+	<key>invisibleDuration</key>
+	<string>sequentialAwait</string>
+	<key>precisionmethodtype</key>
+	<string>shouldYieldMaterial</string>
+	<key>progressbartype</key>
+	<string>constraintLevel</string>
+	<key>robustTweak</key>
+	<string>cacheRight</string>
+	<key>shouldCacheDimension</key>
+	<string>shouldCancelSpecifier</string>
+	<key>shouldResumeTechnique</key>
+	<string>switchFrequency</string>
+	<key>textureposition</key>
+	<string>immediateInterpolation</string>
+</dict>
+</plist>

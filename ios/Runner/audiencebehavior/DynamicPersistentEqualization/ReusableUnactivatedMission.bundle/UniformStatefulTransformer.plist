@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticRequest</key>
+	<string>relationalStatus</string>
+	<key>multiplicationformat</key>
+	<string>permanentRenderer</string>
+	<key>normatprocess</key>
+	<string>shouldfetchanimation</string>
+	<key>pagerEdge</key>
+	<string>symmetricProvider</string>
+	<key>permissivePositioned</key>
+	<string>parallelSlider</string>
+	<key>setstatesession</key>
+	<string>materialSpine</string>
+	<key>sortedcluster</key>
+	<string>intuitiveTabBar</string>
+</dict>
+</plist>

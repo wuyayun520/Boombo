@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actiondescent</key>
+	<string>delegateCommand</string>
+	<key>bulletsincecomposite</key>
+	<string>lazyAnimatedContainer</string>
+	<key>concreteScope</key>
+	<string>yieldDialogs</string>
+	<key>customizedCapacities</key>
+	<string>augmentProvider</string>
+	<key>denseResponder</key>
+	<string>findTransition</string>
+	<key>resilientUsage</key>
+	<string>nodeAction</string>
+	<key>validateresolver</key>
+	<string>skipproject</string>
+</dict>
+</plist>

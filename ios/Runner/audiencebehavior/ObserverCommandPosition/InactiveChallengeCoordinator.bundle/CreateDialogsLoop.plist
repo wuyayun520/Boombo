@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousDelegate</key>
+	<string>lostspriteresponse</string>
+	<key>asynchronousSorter</key>
+	<string>immutableDocument</string>
+	<key>basicTable</key>
+	<string>backwardAction</string>
+	<key>dispatcherKind</key>
+	<string>shouldContinueCustomPaint</string>
+	<key>protectedScenario</key>
+	<string>painterSingleton</string>
+	<key>streamTint</key>
+	<string>backwardGem</string>
+	<key>triggerMargin</key>
+	<string>directBorder</string>
+	<key>typicalStream</key>
+	<string>canDispatchPadding</string>
+	<key>uniqueObject</key>
+	<string>skinconstant</string>
+</dict>
+</plist>

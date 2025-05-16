@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedGrayscale</key>
+	<string>layerBound</string>
+	<key>composableAnimation</key>
+	<string>animatedFormat</string>
+	<key>dynamicInteger</key>
+	<string>variantRotation</string>
+	<key>inheritedMovement</key>
+	<string>subscriberSaturation</string>
+	<key>localCycle</key>
+	<string>temporaryConsumer</string>
+	<key>multiGesture</key>
+	<string>shearTween</string>
+	<key>propagatetimer</key>
+	<string>resilientAspect</string>
+	<key>resolverstylemode</key>
+	<string>gemVariable</string>
+</dict>
+</plist>

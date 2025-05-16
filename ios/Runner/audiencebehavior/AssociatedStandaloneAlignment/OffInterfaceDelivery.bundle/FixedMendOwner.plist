@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetforce</key>
+	<string>characterPhase</string>
+	<key>awaitScale</key>
+	<string>sequentialGrain</string>
+	<key>herovariableleft</key>
+	<string>retainedAccessory</string>
+	<key>movementCount</key>
+	<string>singleBuffer</string>
+	<key>statelessstatedelay</key>
+	<string>canvasFeedback</string>
+	<key>trianglesAppearance</key>
+	<string>responsiveintensityvisibility</string>
+	<key>visibleRange</key>
+	<string>buildSlash</string>
+</dict>
+</plist>

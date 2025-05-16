@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentMomentum</key>
+	<string>queueselector</string>
+	<key>commonreceiver</key>
+	<string>controllerBrightness</string>
+	<key>nextconvolutionbottom</key>
+	<string>diffableLog</string>
+	<key>nibFrequency</key>
+	<string>shouldPaintTabView</string>
+	<key>rapidRadio</key>
+	<string>liteCaption</string>
+</dict>
+</plist>

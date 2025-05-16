@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disconnectchart</key>
+	<string>basicAnimator</string>
+	<key>elementTension</key>
+	<string>cliplocalization</string>
+	<key>functionalDescent</key>
+	<string>completionTension</string>
+	<key>optionnumberscale</key>
+	<string>skipoperation</string>
+	<key>sequentialFlex</key>
+	<string>selectednotification</string>
+	<key>shouldPersistStep</key>
+	<string>connectgesturedetector</string>
+</dict>
+</plist>

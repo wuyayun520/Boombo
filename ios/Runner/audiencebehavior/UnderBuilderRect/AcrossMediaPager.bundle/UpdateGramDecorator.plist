@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonIntensity</key>
+	<string>basicService</string>
+	<key>decoupleextension</key>
+	<string>inflateSegue</string>
+	<key>desktopProjection</key>
+	<string>converterScale</string>
+	<key>globalspritetop</key>
+	<string>timeLocation</string>
+	<key>mainMerger</key>
+	<string>associatedMaterializer</string>
+	<key>multiplyrequest</key>
+	<string>consumptionVisible</string>
+	<key>parallelPainter</key>
+	<string>eventSingleton</string>
+	<key>pinchableImpact</key>
+	<string>shouldStreamBuilder</string>
+	<key>sequentialAnimator</key>
+	<string>autoButton</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customScalability</key>
+	<string>sophisticatedButton</string>
+	<key>declarativeScenario</key>
+	<string>stepproxybottom</string>
+	<key>inactiveInteger</key>
+	<string>screentransparency</string>
+	<key>specifyRole</key>
+	<string>iterativeLayer</string>
+	<key>temporaryLocalization</key>
+	<string>transformerVar</string>
+	<key>validatequeue</key>
+	<string>compositionalBuffer</string>
+</dict>
+</plist>

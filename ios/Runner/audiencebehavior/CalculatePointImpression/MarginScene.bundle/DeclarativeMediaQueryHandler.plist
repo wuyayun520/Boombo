@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeprofileopacity</key>
+	<string>shouldPersistLabel</string>
+	<key>enabledDetector</key>
+	<string>specifierSingleton</string>
+	<key>mobilePolygon</key>
+	<string>criticalSpecifier</string>
+	<key>normalChannel</key>
+	<string>diffablesorter</string>
+	<key>resilientIntegrity</key>
+	<string>zoneprototypetop</string>
+	<key>symmetricConverter</key>
+	<string>asynchronoussplitter</string>
+</dict>
+</plist>

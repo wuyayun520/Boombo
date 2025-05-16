@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalCanvas</key>
+	<string>basicTolerance</string>
+	<key>ignoredEntropy</key>
+	<string>sharedPermutation</string>
+	<key>layoutparameteralignment</key>
+	<string>requiredSelector</string>
+	<key>mutableCell</key>
+	<string>dispatchPageView</string>
+	<key>parallelCurve</key>
+	<string>explicitCard</string>
+	<key>playbackMomentum</key>
+	<string>criticalRouter</string>
+	<key>restartplate</key>
+	<string>activatesymbol</string>
+	<key>shouldPresentTabView</key>
+	<string>scopeAppearance</string>
+	<key>shouldencodemap</key>
+	<string>temporaryAsset</string>
+</dict>
+</plist>

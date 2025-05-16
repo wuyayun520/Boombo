@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialConfidentiality</key>
+	<string>giftTransparency</string>
+	<key>gatescale</key>
+	<string>requestHandler</string>
+	<key>shouldUnmountedIndicator</key>
+	<string>deserializeUtil</string>
+</dict>
+</plist>

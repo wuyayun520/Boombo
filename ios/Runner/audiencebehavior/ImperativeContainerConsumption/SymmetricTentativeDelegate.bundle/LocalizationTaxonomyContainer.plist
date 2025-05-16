@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableNode</key>
+	<string>plateVariable</string>
+	<key>normalActivity</key>
+	<string>tentativeKind</string>
+	<key>pausechart</key>
+	<string>loaderKind</string>
+	<key>radiusBehavior</key>
+	<string>webPermutation</string>
+	<key>shouldCreateHeap</key>
+	<string>popgridview</string>
+	<key>titleSpacing</key>
+	<string>obtainBuffer</string>
+	<key>viewelasticity</key>
+	<string>semanticPet</string>
+</dict>
+</plist>

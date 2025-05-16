@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureindex</key>
+	<string>obtainMetadata</string>
+	<key>observerVelocity</key>
+	<string>compareMenu</string>
+	<key>overlaylocation</key>
+	<string>canMountedScale</string>
+	<key>stackTransparency</key>
+	<string>discardedComposition</string>
+	<key>uniformAlert</key>
+	<string>missionLevel</string>
+</dict>
+</plist>

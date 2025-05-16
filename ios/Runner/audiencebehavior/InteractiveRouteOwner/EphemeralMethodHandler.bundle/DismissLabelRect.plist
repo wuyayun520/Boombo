@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSlider</key>
+	<string>deflateService</string>
+	<key>characteristicFlags</key>
+	<string>completerStage</string>
+	<key>equivalentSkewY</key>
+	<string>canLoadCurve</string>
+	<key>reactiveUsage</key>
+	<string>interactorPhase</string>
+</dict>
+</plist>

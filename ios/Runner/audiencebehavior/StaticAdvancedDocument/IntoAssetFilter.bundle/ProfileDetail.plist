@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileInterface</key>
+	<string>bandwidthOrigin</string>
+	<key>painterbottom</key>
+	<string>switchDelay</string>
+	<key>shouldPaintSensor</key>
+	<string>profileTexture</string>
+	<key>smartEfficiency</key>
+	<string>builderAlignment</string>
+	<key>smartProvider</key>
+	<string>desktopOffset</string>
+	<key>widgetconstant</key>
+	<string>interpolationoperationinteraction</string>
+</dict>
+</plist>

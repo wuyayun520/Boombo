@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarCoord</key>
+	<string>scrollableFragments</string>
+	<key>autoButton</key>
+	<string>ephemeralComposition</string>
+	<key>convolutionloop</key>
+	<string>columnMode</string>
+	<key>desktopBinder</key>
+	<string>findAsync</string>
+	<key>durationflags</key>
+	<string>significantboxedge</string>
+	<key>requiredUseCase</key>
+	<string>cursorDistance</string>
+	<key>synchronousAction</key>
+	<string>storagename</string>
+	<key>zonestylebrightness</key>
+	<string>publicProtocol</string>
+</dict>
+</plist>

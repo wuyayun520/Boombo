@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachevisible</key>
+	<string>normalJoiner</string>
+	<key>detachdescription</key>
+	<string>popupAdapter</string>
+	<key>persistentinstruction</key>
+	<string>bindtable</string>
+	<key>previewShade</key>
+	<string>animatedTopic</string>
+	<key>publicSession</key>
+	<string>requesttag</string>
+	<key>radioTension</key>
+	<string>oldMediaQuery</string>
+	<key>shouldDecodeScale</key>
+	<string>normalPosition</string>
+	<key>staticPresenter</key>
+	<string>activatedPopup</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistSpeed</key>
+	<string>streamIcon</string>
+	<key>cosineInterval</key>
+	<string>plateDepth</string>
+	<key>dedicatedObject</key>
+	<string>precisionCount</string>
+	<key>isDialogs</key>
+	<string>currentButton</string>
+	<key>radioRight</key>
+	<string>shouldendstoryboard</string>
+	<key>resizablePositioned</key>
+	<string>transitionvolume</string>
+</dict>
+</plist>

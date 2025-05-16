@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateheap</key>
+	<string>relationalProvision</string>
+	<key>disparateHistogram</key>
+	<string>shouldUnmountDialogs</string>
+	<key>prevSubscription</key>
+	<string>symmetricNotifier</string>
+	<key>smallwidgetcenter</key>
+	<string>canParseInterpolation</string>
+</dict>
+</plist>

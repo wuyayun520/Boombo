@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableRoute</key>
+	<string>dismissRequest</string>
+	<key>dimensionTail</key>
+	<string>segueObserver</string>
+	<key>gramaction</key>
+	<string>canRouteModulus</string>
+	<key>localBrush</key>
+	<string>crudeResponder</string>
+	<key>significantInjection</key>
+	<string>touchComposite</string>
+	<key>streamjoborientation</key>
+	<string>layouttrigger</string>
+	<key>symmetricIntegrity</key>
+	<string>nativeDescriptor</string>
+</dict>
+</plist>

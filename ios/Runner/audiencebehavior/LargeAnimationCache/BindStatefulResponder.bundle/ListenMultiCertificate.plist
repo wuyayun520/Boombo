@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantName</key>
+	<string>staticAccessory</string>
+	<key>declarativedrawer</key>
+	<string>appbarContext</string>
+	<key>hasPlayback</key>
+	<string>specifyFuture</string>
+	<key>hyperbolicRichText</key>
+	<string>effectLeft</string>
+	<key>imperativeState</key>
+	<string>moveInteractor</string>
+	<key>missedFuture</key>
+	<string>methodinformation</string>
+	<key>nativeTolerance</key>
+	<string>customLifecycle</string>
+	<key>opaqueInkWell</key>
+	<string>regulateSize</string>
+	<key>switchfacadesize</key>
+	<string>shouldSkipCapacities</string>
+</dict>
+</plist>

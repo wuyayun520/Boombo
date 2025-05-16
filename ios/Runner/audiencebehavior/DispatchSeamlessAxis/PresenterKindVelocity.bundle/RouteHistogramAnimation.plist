@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheAcceleration</key>
+	<string>canValidateScreen</string>
+	<key>inheritedFrame</key>
+	<string>fragmentOpacity</string>
+	<key>primaryCubit</key>
+	<string>permutationScale</string>
+	<key>protocolVisible</key>
+	<string>allocateservice</string>
+	<key>shouldPrepareNotifier</key>
+	<string>introspectGrain</string>
+	<key>sineborder</key>
+	<string>concreteTopic</string>
+	<key>widgetLocation</key>
+	<string>mountMomentum</string>
+</dict>
+</plist>

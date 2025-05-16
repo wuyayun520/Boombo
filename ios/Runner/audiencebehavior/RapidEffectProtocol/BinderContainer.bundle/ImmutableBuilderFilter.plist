@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryVisible</key>
+	<string>schedulerType</string>
+	<key>lockmanager</key>
+	<string>shouldBuildGesture</string>
+	<key>prevThreshold</key>
+	<string>seamlessScroll</string>
+	<key>shouldMountView</key>
+	<string>clearDecoration</string>
+	<key>shouldStreamBloc</key>
+	<string>equalizationBridge</string>
+	<key>synchronousChannel</key>
+	<string>canReplaceCoordinator</string>
+	<key>tensorNotification</key>
+	<string>skipRemainder</string>
+	<key>transitioninsideflyweight</key>
+	<string>grayscalefactory</string>
+</dict>
+</plist>

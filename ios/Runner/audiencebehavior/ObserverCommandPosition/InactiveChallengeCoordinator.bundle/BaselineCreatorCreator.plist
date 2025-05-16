@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFragment</key>
+	<string>resizableTheme</string>
+	<key>autoTweak</key>
+	<string>stringifyCurve</string>
+	<key>bulletState</key>
+	<string>shouldshowcupertino</string>
+	<key>cupertinometadatasize</key>
+	<string>tickerfrequency</string>
+	<key>curveparamposition</key>
+	<string>reusableRepository</string>
+	<key>indicatorInteraction</key>
+	<string>canDetachNib</string>
+	<key>sequentialUnary</key>
+	<string>compareDelegate</string>
+	<key>substantialResult</key>
+	<string>shouldBuildSkin</string>
+	<key>sustainableObserver</key>
+	<string>dismissmatrix</string>
+	<key>synchronousAlpha</key>
+	<string>routerInset</string>
+</dict>
+</plist>

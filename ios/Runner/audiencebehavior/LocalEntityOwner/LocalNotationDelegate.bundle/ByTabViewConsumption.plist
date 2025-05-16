@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffervariablespacing</key>
+	<string>inflateSegment</string>
+	<key>layercenter</key>
+	<string>unbindSegment</string>
+	<key>remainderAcceleration</key>
+	<string>provideAsset</string>
+	<key>resizableBinary</key>
+	<string>unactivatedgrayscaletail</string>
+	<key>vectorname</key>
+	<string>canValidateConsumer</string>
+</dict>
+</plist>

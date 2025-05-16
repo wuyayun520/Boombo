@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationstrength</key>
+	<string>sharedscreenstatus</string>
+	<key>deliveryOpacity</key>
+	<string>metadataOrientation</string>
+	<key>freegesture</key>
+	<string>beginnerRadio</string>
+	<key>gramamonglevel</key>
+	<string>borderHue</string>
+	<key>keyImpact</key>
+	<string>shouldInflateMonster</string>
+	<key>publicanimation</key>
+	<string>canPrepareMobile</string>
+	<key>seamlessrequestresponse</key>
+	<string>inheritedReliability</string>
+	<key>sizeandvariable</key>
+	<string>sharedvolume</string>
+</dict>
+</plist>

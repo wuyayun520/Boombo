@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowarchitecture</key>
+	<string>activeconfidentiality</string>
+	<key>custompaintanimator</key>
+	<string>shouldEndTransition</string>
+	<key>elasticTimeline</key>
+	<string>setupSink</string>
+	<key>inactiveChecklist</key>
+	<string>advancedAscent</string>
+	<key>missionInset</key>
+	<string>notifierEdge</string>
+	<key>pagerBehavior</key>
+	<string>shouldUnbindDrawer</string>
+	<key>shouldPresentGesture</key>
+	<string>substantialScheduler</string>
+	<key>shouldUnbindConvolution</key>
+	<string>movesize</string>
+</dict>
+</plist>

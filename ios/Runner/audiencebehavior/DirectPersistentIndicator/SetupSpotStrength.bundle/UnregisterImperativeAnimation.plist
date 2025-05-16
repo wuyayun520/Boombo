@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalTween</key>
+	<string>bordersaturation</string>
+	<key>densechartforce</key>
+	<string>seamlessCanvas</string>
+	<key>secondActivity</key>
+	<string>shouldDisconnectSemantics</string>
+	<key>shouldEncodeAspectRatio</key>
+	<string>inflateRequest</string>
+	<key>shoulddisposebaseline</key>
+	<string>unbindview</string>
+	<key>sizeAlignment</key>
+	<string>globalTraversal</string>
+	<key>tabbarRight</key>
+	<string>symbolBehavior</string>
+	<key>transformerTint</key>
+	<string>mutableMomentum</string>
+</dict>
+</plist>

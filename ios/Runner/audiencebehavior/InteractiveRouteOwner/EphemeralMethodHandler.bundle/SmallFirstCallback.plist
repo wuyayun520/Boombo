@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderCoord</key>
+	<string>canPaintSlider</string>
+	<key>concreteBullet</key>
+	<string>canStreamButton</string>
+	<key>firstlayout</key>
+	<string>unactivatedLogarithm</string>
+	<key>remediationType</key>
+	<string>newestAspect</string>
+	<key>replacerow</key>
+	<string>checklistSpacing</string>
+	<key>semanticTopic</key>
+	<string>detachBaseline</string>
+</dict>
+</plist>

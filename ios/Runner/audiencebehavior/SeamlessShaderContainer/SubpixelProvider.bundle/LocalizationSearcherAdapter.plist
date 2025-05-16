@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePager</key>
+	<string>skirtPressure</string>
+	<key>beginnerImage</key>
+	<string>projectionOffset</string>
+	<key>granularSubpixel</key>
+	<string>shouldEmitPageView</string>
+	<key>persistpreview</key>
+	<string>canLayoutSymbol</string>
+	<key>shouldObserveArithmetic</key>
+	<string>canAnimateCube</string>
+</dict>
+</plist>

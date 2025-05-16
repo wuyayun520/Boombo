@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeoffset</key>
+	<string>shouldSetStateCharacter</string>
+	<key>otherSlider</key>
+	<string>ignoredMapper</string>
+	<key>parallelInkWell</key>
+	<string>smartPainter</string>
+	<key>requestInterval</key>
+	<string>semantictabviewvalidation</string>
+	<key>shouldReplaceCell</key>
+	<string>gateRate</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentDirection</key>
+	<string>titleSingleton</string>
+	<key>backwardArchitecture</key>
+	<string>injectContainer</string>
+	<key>cartesianGridView</key>
+	<string>pivotalusecase</string>
+	<key>kernelFrequency</key>
+	<string>renameIsolate</string>
+	<key>sessiontasktheme</key>
+	<string>characterDelay</string>
+	<key>shouldEndMovement</key>
+	<string>densePresenter</string>
+	<key>shouldprocessdropdownbutton</key>
+	<string>anchorMethod</string>
+	<key>tappableGroup</key>
+	<string>statelessMedia</string>
+	<key>volumeresponse</key>
+	<string>shouldTransitionImage</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationpager</key>
+	<string>adaptiveGate</string>
+	<key>cubetension</key>
+	<string>bindVariant</string>
+	<key>remainderContrast</key>
+	<string>diversifiedContainer</string>
+	<key>shouldNotifyFragment</key>
+	<string>primaryCanvas</string>
+	<key>shouldrestartprofile</key>
+	<string>smallworkflowvisible</string>
+	<key>smartTitle</key>
+	<string>draggableInteractor</string>
+	<key>subsequentStore</key>
+	<string>iterativeChallenge</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableChallenge</key>
+	<string>popAspectRatio</string>
+	<key>draggablePublisher</key>
+	<string>independentBuffer</string>
+	<key>draggableTraversal</key>
+	<string>oncollectiontap</string>
+	<key>hyperbolicSkin</key>
+	<string>canUnmountCache</string>
+	<key>immediateBoxShadow</key>
+	<string>statelessPlate</string>
+	<key>normalrequest</key>
+	<string>tappableElasticity</string>
+	<key>reactiveGestureDetector</key>
+	<string>canPushLoss</string>
+	<key>shouldAnimateBaseline</key>
+	<string>analyzerFlags</string>
+	<key>toolcount</key>
+	<string>buttonsaturation</string>
+</dict>
+</plist>

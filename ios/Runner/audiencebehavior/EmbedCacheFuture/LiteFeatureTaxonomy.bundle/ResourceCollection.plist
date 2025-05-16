@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderflags</key>
+	<string>temporaryAxis</string>
+	<key>concurrentDetector</key>
+	<string>menuSaturation</string>
+	<key>controllerDistance</key>
+	<string>canSkipObserver</string>
+	<key>functionalReplica</key>
+	<string>multiplyTimer</string>
+	<key>indicatorsearcher</key>
+	<string>publishGem</string>
+	<key>primaryTitle</key>
+	<string>retrieveRow</string>
+	<key>rapidSignature</key>
+	<string>flexibleNib</string>
+	<key>smartConverter</key>
+	<string>canPresentAnchor</string>
+</dict>
+</plist>

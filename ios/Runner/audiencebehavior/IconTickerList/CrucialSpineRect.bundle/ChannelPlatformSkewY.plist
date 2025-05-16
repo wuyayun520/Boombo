@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyTraversal</key>
+	<string>pivotalBitrate</string>
+	<key>heroborder</key>
+	<string>elasticSorter</string>
+	<key>progressbarSkewX</key>
+	<string>canPauseGem</string>
+	<key>queueVisibility</key>
+	<string>concatenateSingleton</string>
+	<key>restrictionHue</key>
+	<string>semanticAxis</string>
+	<key>secondElement</key>
+	<string>independentInfrastructure</string>
+	<key>shouldPrepareBase</key>
+	<string>positiondecoratorpressure</string>
+</dict>
+</plist>

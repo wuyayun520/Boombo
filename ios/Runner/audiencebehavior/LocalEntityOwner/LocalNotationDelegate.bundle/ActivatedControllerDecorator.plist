@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedChallenge</key>
+	<string>inheritedDialogs</string>
+	<key>animatedcontainertransition</key>
+	<string>adaptiveSwitch</string>
+	<key>apertureType</key>
+	<string>shouldHandleScale</string>
+	<key>architectureSkewX</key>
+	<string>disabledAction</string>
+	<key>consultativeStore</key>
+	<string>shouldfetchgesture</string>
+	<key>impressionAcceleration</key>
+	<string>mendDuration</string>
+	<key>smallReplica</key>
+	<string>decoupleSingleton</string>
+	<key>standalonedetail</key>
+	<string>easyChallenge</string>
+	<key>symbolTint</key>
+	<string>restrictionFlags</string>
+	<key>visibleAnimation</key>
+	<string>publicTabView</string>
+</dict>
+</plist>

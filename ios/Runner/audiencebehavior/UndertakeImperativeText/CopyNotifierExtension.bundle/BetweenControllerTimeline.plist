@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetBorder</key>
+	<string>textFeedback</string>
+	<key>compositiontransformer</key>
+	<string>persistentFragments</string>
+	<key>comprehensiveStep</key>
+	<string>constructHandler</string>
+	<key>densecollection</key>
+	<string>canSetStateCaption</string>
+	<key>handlerName</key>
+	<string>nativeModal</string>
+	<key>liteQuaternion</key>
+	<string>flexibleCurve</string>
+	<key>otherPet</key>
+	<string>startbase</string>
+	<key>providerbeyonddecorator</key>
+	<string>projectionChain</string>
+	<key>strokeDepth</key>
+	<string>mutableClipper</string>
+</dict>
+</plist>

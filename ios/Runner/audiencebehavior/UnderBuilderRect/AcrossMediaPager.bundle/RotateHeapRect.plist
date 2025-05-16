@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticReliability</key>
+	<string>validateSensor</string>
+	<key>dependencydensity</key>
+	<string>efficiencyhue</string>
+	<key>enabledSink</key>
+	<string>configureicon</string>
+	<key>handlerduringphase</key>
+	<string>symbolPattern</string>
+	<key>normrotation</key>
+	<string>tensorSlider</string>
+	<key>sortedDetector</key>
+	<string>mutableTabBar</string>
+</dict>
+</plist>

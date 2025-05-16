@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencycontainparameter</key>
+	<string>firstsinkappearance</string>
+	<key>inactivesink</key>
+	<string>canSaveBorder</string>
+	<key>intuitiveEfficiency</key>
+	<string>controllerAcceleration</string>
+	<key>persistentextension</key>
+	<string>listenerContrast</string>
+	<key>referenceerror</key>
+	<string>shouldResumeDialogs</string>
+	<key>relationalshadervisibility</key>
+	<string>resumeStateless</string>
+	<key>shouldDispatchSession</key>
+	<string>freeBloc</string>
+	<key>traversalCoord</key>
+	<string>titleTransparency</string>
+</dict>
+</plist>

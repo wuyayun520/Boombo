@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorSpacing</key>
+	<string>pushTabBar</string>
+	<key>hasPet</key>
+	<string>canSetStateTextField</string>
+	<key>intermediateRepository</key>
+	<string>respondRepository</string>
+	<key>oncapsuletap</key>
+	<string>enabledMedia</string>
+	<key>sampleBorder</key>
+	<string>cellchainformat</string>
+	<key>shouldContinueSkin</key>
+	<string>interpolationShape</string>
+	<key>substantialAnalyzer</key>
+	<string>aspectSpacing</string>
+	<key>synchronousSkin</key>
+	<string>gridviewType</string>
+</dict>
+</plist>

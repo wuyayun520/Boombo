@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorthandecorator</key>
+	<string>generateChapter</string>
+	<key>anchorSpeed</key>
+	<string>accessorybuffershade</string>
+	<key>buttonacceleration</key>
+	<string>trajectoryfrequency</string>
+	<key>liteComponent</key>
+	<string>listviewBottom</string>
+	<key>parseinjection</key>
+	<string>responseFrequency</string>
+	<key>pointOrigin</key>
+	<string>uniformDialogs</string>
+	<key>seamlessmatrixcoord</key>
+	<string>independentCallback</string>
+	<key>shouldRenderPlayback</key>
+	<string>functionalGraph</string>
+	<key>shouldUnbindBitrate</key>
+	<string>canTransformScale</string>
+</dict>
+</plist>

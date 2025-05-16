@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completermediatortint</key>
+	<string>shouldDisposeResource</string>
+	<key>navigatorState</key>
+	<string>localtaxonomy</string>
+	<key>shouldPresentNib</key>
+	<string>offsetMediator</string>
+	<key>statelessNotation</key>
+	<string>canRestartAlert</string>
+	<key>vertexPosition</key>
+	<string>canDispatchAperture</string>
+</dict>
+</plist>

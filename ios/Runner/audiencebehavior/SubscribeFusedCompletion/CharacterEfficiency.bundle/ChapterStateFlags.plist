@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedSlash</key>
+	<string>popupDelay</string>
+	<key>drawerTransparency</key>
+	<string>canEndObserver</string>
+	<key>shouldTransitionLayout</key>
+	<string>sizenearcommand</string>
+	<key>webLatency</key>
+	<string>shouldsetstatehistogram</string>
+</dict>
+</plist>

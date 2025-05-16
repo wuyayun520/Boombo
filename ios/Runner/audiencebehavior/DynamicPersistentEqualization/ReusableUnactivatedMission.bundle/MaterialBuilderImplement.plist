@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileAnimator</key>
+	<string>cartesianColumn</string>
+	<key>currentscroll</key>
+	<string>scaffoldMediator</string>
+	<key>fixedPainter</key>
+	<string>usedMenu</string>
+	<key>largePageView</key>
+	<string>workflowBuffer</string>
+	<key>petperprototype</key>
+	<string>shouldSaveAnchor</string>
+	<key>popresponse</key>
+	<string>iterativeInterface</string>
+	<key>shouldTransitionDelegate</key>
+	<string>enhanceChart</string>
+	<key>uniqueSine</key>
+	<string>prevdescription</string>
+</dict>
+</plist>

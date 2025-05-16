@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializesprite</key>
+	<string>storeForce</string>
+	<key>mediumView</key>
+	<string>geometricAsync</string>
+	<key>mobileInterval</key>
+	<string>renderDecoration</string>
+	<key>numericalArithmetic</key>
+	<string>accordionCoordinator</string>
+	<key>stackbottom</key>
+	<string>deferredMission</string>
+	<key>taxonomyFrequency</key>
+	<string>finishThread</string>
+</dict>
+</plist>

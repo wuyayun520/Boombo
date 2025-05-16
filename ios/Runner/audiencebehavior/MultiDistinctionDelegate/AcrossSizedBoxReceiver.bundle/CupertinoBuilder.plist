@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialRequest</key>
+	<string>fixedQuaternion</string>
+	<key>optimizerRate</key>
+	<string>intuitiveMission</string>
+	<key>otherWorkflow</key>
+	<string>remainderMode</string>
+	<key>taskHead</key>
+	<string>reductionNumber</string>
+	<key>uniformPresenter</key>
+	<string>arithmeticTaxonomy</string>
+	<key>viewuntiltask</key>
+	<string>builderMethod</string>
+</dict>
+</plist>

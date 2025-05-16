@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseCluster</key>
+	<string>widgetpercommand</string>
+	<key>gateForce</key>
+	<string>canvasFeedback</string>
+	<key>gestureTint</key>
+	<string>canDispatchEffect</string>
+	<key>storagefrequency</key>
+	<string>shouldPrepareDrawer</string>
+	<key>tweakMode</key>
+	<string>consumerVisibility</string>
+	<key>webChannel</key>
+	<string>disconnectStamp</string>
+</dict>
+</plist>

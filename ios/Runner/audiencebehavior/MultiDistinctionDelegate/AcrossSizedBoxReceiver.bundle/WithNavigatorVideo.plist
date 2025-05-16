@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableReplica</key>
+	<string>readCoordinator</string>
+	<key>labelTail</key>
+	<string>particleForm</string>
+	<key>largedependency</key>
+	<string>otherInterpolation</string>
+	<key>materializeaspect</key>
+	<string>stepvisible</string>
+	<key>sophisticatedreducer</key>
+	<string>disabledHeap</string>
+</dict>
+</plist>

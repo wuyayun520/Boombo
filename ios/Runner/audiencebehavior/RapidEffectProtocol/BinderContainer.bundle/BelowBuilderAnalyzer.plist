@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarBehavior</key>
+	<string>desktopModal</string>
+	<key>connectorCenter</key>
+	<string>anchorHue</string>
+	<key>multiplicationproxyshade</key>
+	<string>unactivatedProcessor</string>
+	<key>prismaticTimeline</key>
+	<string>locateaperture</string>
+	<key>publicMapper</key>
+	<string>logarithmtween</string>
+	<key>sensoranimation</key>
+	<string>prepareEqualization</string>
+</dict>
+</plist>

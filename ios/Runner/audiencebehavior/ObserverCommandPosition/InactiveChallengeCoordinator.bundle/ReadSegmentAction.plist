@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridspeed</key>
+	<string>profilerecursion</string>
+	<key>groupcommandname</key>
+	<string>respectiveCaption</string>
+	<key>immediatechapter</key>
+	<string>optionCycle</string>
+	<key>numericalBrush</key>
+	<string>shouldStreamCursor</string>
+	<key>tangentcontextdelay</key>
+	<string>disabledBuilder</string>
+	<key>uniformframe</key>
+	<string>permanentimageinteraction</string>
+</dict>
+</plist>

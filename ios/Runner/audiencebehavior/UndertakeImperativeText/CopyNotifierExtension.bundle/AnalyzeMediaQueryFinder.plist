@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columncompositedirection</key>
+	<string>tickerStage</string>
+	<key>distinctionInterval</key>
+	<string>shouldserializetabbar</string>
+	<key>flexibleCoordinator</key>
+	<string>flexibleSkin</string>
+	<key>quantizationanimation</key>
+	<string>encapsulateTopic</string>
+	<key>shouldTransformEffect</key>
+	<string>bundleInterface</string>
+	<key>widgetformsize</key>
+	<string>transitionMusic</string>
+</dict>
+</plist>

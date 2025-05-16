@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedcontrollerdensity</key>
+	<string>shouldShowSensor</string>
+	<key>iconcontainform</key>
+	<string>listviewAcceleration</string>
+	<key>injectionrenderer</key>
+	<string>textFrequency</string>
+	<key>invisibleAmortization</key>
+	<string>holdHash</string>
+	<key>lostEquivalent</key>
+	<string>disparateMobile</string>
+	<key>mediumCharacteristic</key>
+	<string>introspectmedia</string>
+	<key>rapidReference</key>
+	<string>startMedia</string>
+	<key>richtexthead</key>
+	<string>marginDepth</string>
+</dict>
+</plist>

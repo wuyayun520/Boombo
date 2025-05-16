@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionVisibility</key>
+	<string>canUpdateSpecifier</string>
+	<key>directcyclebrightness</key>
+	<string>shouldEndCapsule</string>
+	<key>displayableWorkflow</key>
+	<string>inkwellValue</string>
+	<key>newestStateful</key>
+	<string>prepareOptimizer</string>
+</dict>
+</plist>

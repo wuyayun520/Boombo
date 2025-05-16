@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationTint</key>
+	<string>gestureMode</string>
+	<key>denseinfrastructure</key>
+	<string>shouldShowListView</string>
+	<key>diversifiedTicker</key>
+	<string>directFrame</string>
+	<key>enabledSlider</key>
+	<string>activatedStoryboard</string>
+	<key>functionalRenderer</key>
+	<string>currentExtension</string>
+	<key>intermediateSplitter</key>
+	<string>catalystedge</string>
+	<key>symmetrictoolbottom</key>
+	<string>actionComposite</string>
+	<key>unscheduleerror</key>
+	<string>debugBuilder</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaMargin</key>
+	<string>persistTabView</string>
+	<key>benchmarkcontainer</key>
+	<string>descriptorMargin</string>
+	<key>currenttextfield</key>
+	<string>awaitSpacing</string>
+	<key>operationPosition</key>
+	<string>reusableRow</string>
+	<key>resizableaudio</key>
+	<string>pageviewBridge</string>
+	<key>shouldMountSkin</key>
+	<string>cartesianSelector</string>
+	<key>smalltransformer</key>
+	<string>hardChapter</string>
+	<key>usedListener</key>
+	<string>firstTopic</string>
+</dict>
+</plist>

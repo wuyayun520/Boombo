@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonalongtier</key>
+	<string>parseGate</string>
+	<key>globalbatchhead</key>
+	<string>builderRate</string>
+	<key>gramBorder</key>
+	<string>inactivePopup</string>
+	<key>responseStatus</key>
+	<string>awaitdistance</string>
+	<key>shouldInflateColumn</key>
+	<string>canPaintSegment</string>
+	<key>shouldPublishAperture</key>
+	<string>ephemeralmaterial</string>
+	<key>thresholdInteraction</key>
+	<string>keyIndicator</string>
+	<key>touchkernel</key>
+	<string>transformerVar</string>
+	<key>unaryTransparency</key>
+	<string>canSubscribeChannels</string>
+</dict>
+</plist>

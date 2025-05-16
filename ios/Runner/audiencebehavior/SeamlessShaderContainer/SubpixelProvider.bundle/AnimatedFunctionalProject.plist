@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>permissiveAction</key>
+	<string>statefulsincetask</string>
+	<key>shouldUnmountedNotification</key>
+	<string>canDecodeEntropy</string>
+	<key>similarError</key>
+	<string>shouldUnmountedNotification</string>
+	<key>zoneprovider</key>
+	<string>autoStack</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianAsset</key>
+	<string>factoryFlags</string>
+	<key>dependencyresponse</key>
+	<string>propagateexpanded</string>
+	<key>dimensionbloc</key>
+	<string>setstateCell</string>
+	<key>immutableTentative</key>
+	<string>subtletrigger</string>
+	<key>reactiveOverlay</key>
+	<string>draggableMaterializer</string>
+	<key>receiverDensity</key>
+	<string>intensityscenario</string>
+	<key>shouldRenderGesture</key>
+	<string>equalizationTail</string>
+	<key>statelessintegersize</key>
+	<string>tappableTween</string>
+</dict>
+</plist>

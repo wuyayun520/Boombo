@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousmapkind</key>
+	<string>shouldLayoutSpine</string>
+	<key>autoAsset</key>
+	<string>canRebuildGraphic</string>
+	<key>desktopAnimatedContainer</key>
+	<string>drawerVar</string>
+	<key>elementShade</key>
+	<string>unbindStateful</string>
+	<key>euclideanMember</key>
+	<string>popDimension</string>
+	<key>histogramFrequency</key>
+	<string>fusedstore</string>
+	<key>mutableDescriptor</key>
+	<string>pushPet</string>
+	<key>onpageviewchanged</key>
+	<string>tabbarKind</string>
+	<key>sustainableBuilder</key>
+	<string>adaptiveMethod</string>
+</dict>
+</plist>

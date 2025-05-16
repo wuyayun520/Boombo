@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentchainvalidation</key>
+	<string>projectionplatformbehavior</string>
+	<key>customcycle</key>
+	<string>quitAnimation</string>
+	<key>efficiencyCount</key>
+	<string>shouldPersistTextField</string>
+	<key>flexibleNotation</key>
+	<string>grayscaleorsingleton</string>
+	<key>menucluster</key>
+	<string>nextScalability</string>
+	<key>notificationparticle</key>
+	<string>primaryutil</string>
+	<key>shouldsaveusage</key>
+	<string>tappableCharacteristic</string>
+	<key>ternaryDuration</key>
+	<string>canCacheTransition</string>
+</dict>
+</plist>

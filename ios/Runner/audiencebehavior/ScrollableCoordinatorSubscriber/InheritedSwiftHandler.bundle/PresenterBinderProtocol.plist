@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedprecisionborder</key>
+	<string>servicePadding</string>
+	<key>diffablePager</key>
+	<string>enabledcallback</string>
+	<key>directlyCursor</key>
+	<string>retainedcapacities</string>
+	<key>offsetbehavior</key>
+	<string>composableTween</string>
+	<key>persistentEffect</key>
+	<string>characterMemento</string>
+	<key>secondTrigger</key>
+	<string>dependencyActivity</string>
+	<key>shouldDispatchStateless</key>
+	<string>currentRectangle</string>
+	<key>shouldreplaceequalization</key>
+	<string>navigatorvisitoredge</string>
+	<key>taskdensity</key>
+	<string>popupincludejob</string>
+</dict>
+</plist>

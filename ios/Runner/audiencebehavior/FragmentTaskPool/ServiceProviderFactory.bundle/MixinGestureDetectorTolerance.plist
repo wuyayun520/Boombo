@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>informationMode</key>
+	<string>inflateReducer</string>
+	<key>intuitivemasterspeed</key>
+	<string>diversifiedIsolate</string>
+	<key>servicethroughplatform</key>
+	<string>onrichtextchanged</string>
+	<key>shouldFormatFuture</key>
+	<string>restrictionPosition</string>
+	<key>similarRemediation</key>
+	<string>activeRemediation</string>
+	<key>texturebeyondbridge</key>
+	<string>presenterMediator</string>
+	<key>unsortedQueue</key>
+	<string>instantiateMenu</string>
+</dict>
+</plist>

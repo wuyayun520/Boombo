@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDistinction</key>
+	<string>shouldStopSine</string>
+	<key>connectorFrequency</key>
+	<string>canObserveButton</string>
+	<key>shouldYieldFlex</key>
+	<string>canCancelSession</string>
+	<key>thresholdShade</key>
+	<string>smartPoint</string>
+</dict>
+</plist>

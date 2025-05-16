@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateatplatform</key>
+	<string>menuContrast</string>
+	<key>comprehensiveDimension</key>
+	<string>quaternionsaturation</string>
+	<key>ignoredSwift</key>
+	<string>modalshade</string>
+	<key>traversalshade</key>
+	<string>diffableContainer</string>
+</dict>
+</plist>

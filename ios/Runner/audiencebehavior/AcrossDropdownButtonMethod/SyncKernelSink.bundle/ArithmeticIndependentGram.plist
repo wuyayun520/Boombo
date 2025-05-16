@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantTint</key>
+	<string>graphicborder</string>
+	<key>displayableProvision</key>
+	<string>respondrow</string>
+	<key>displayableStoryboard</key>
+	<string>evaluationOrigin</string>
+	<key>imperativeCallback</key>
+	<string>subscriberResponse</string>
+	<key>requestwithstrategy</key>
+	<string>ephemeralLayer</string>
+	<key>shouldReplaceEquipment</key>
+	<string>iterativeCaption</string>
+	<key>specifyImpression</key>
+	<string>composableInteger</string>
+	<key>subsequentTitle</key>
+	<string>buildGestureDetector</string>
+</dict>
+</plist>

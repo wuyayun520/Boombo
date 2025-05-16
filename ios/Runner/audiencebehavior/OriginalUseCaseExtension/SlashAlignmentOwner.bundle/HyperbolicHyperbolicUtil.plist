@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeEvolution</key>
+	<string>transitionChecklist</string>
+	<key>displayableSegment</key>
+	<string>sustainableBase</string>
+	<key>immediateAlert</key>
+	<string>stateversuslayer</string>
+	<key>largePlate</key>
+	<string>smallScenario</string>
+	<key>particleDirection</key>
+	<string>tensorSlider</string>
+	<key>significantLayout</key>
+	<string>swiftHead</string>
+</dict>
+</plist>

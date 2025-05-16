@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFinder</key>
+	<string>subpixelSpacing</string>
+	<key>consultativeConstraint</key>
+	<string>inheritedconnector</string>
+	<key>finishshader</key>
+	<string>shouldDismissRow</string>
+	<key>mediaqueryTag</key>
+	<string>variantFlags</string>
+	<key>operationSize</key>
+	<string>unsortedcontainer</string>
+	<key>quaternionInset</key>
+	<string>missedItem</string>
+	<key>routeDensity</key>
+	<string>scrollForce</string>
+	<key>soundindex</key>
+	<string>catalystName</string>
+	<key>standaloneModal</key>
+	<string>minMember</string>
+	<key>volumeInterval</key>
+	<string>shouldProcessAnimation</string>
+</dict>
+</plist>

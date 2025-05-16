@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatelistener</key>
+	<string>positiondensity</string>
+	<key>bufferinset</key>
+	<string>canUpdateSpot</string>
+	<key>dedicatedClipper</key>
+	<string>differentiateCubit</string>
+	<key>dispatchcontraction</key>
+	<string>canSaveTabView</string>
+	<key>erasespecifier</key>
+	<string>minCoordinator</string>
+	<key>imperativeShape</key>
+	<string>mapname</string>
+	<key>marginenvironmentshape</key>
+	<string>canPrepareExponent</string>
+	<key>schedulerVelocity</key>
+	<string>interfaceState</string>
+	<key>shouldPersistMultiplication</key>
+	<string>assetKind</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlySemantics</key>
+	<string>canObserveAlert</string>
+	<key>resilientSizedBox</key>
+	<string>gemFramework</string>
+	<key>reusableChart</key>
+	<string>eagerPoint</string>
+	<key>rowFlags</key>
+	<string>encodeFuture</string>
+	<key>significantText</key>
+	<string>showGift</string>
+	<key>strengthOffset</key>
+	<string>lazyZone</string>
+	<key>tensorMesh</key>
+	<string>canRenderSubpixel</string>
+</dict>
+</plist>

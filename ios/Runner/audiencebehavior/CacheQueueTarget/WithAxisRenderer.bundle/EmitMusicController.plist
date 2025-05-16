@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAnimatedContainer</key>
+	<string>smartEntity</string>
+	<key>assetscalability</key>
+	<string>callbackcontrast</string>
+	<key>autostoragerotation</key>
+	<string>eventtentative</string>
+	<key>blocOffset</key>
+	<string>imageaswork</string>
+	<key>compositionalSegue</key>
+	<string>currentsizedbox</string>
+	<key>discardedpositionorigin</key>
+	<string>serializeresolver</string>
+	<key>pivotalSegment</key>
+	<string>isolateLocation</string>
+	<key>shouldbuilddelegate</key>
+	<string>semanticSegment</string>
+</dict>
+</plist>

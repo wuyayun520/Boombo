@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureinteraction</key>
+	<string>themeTag</string>
+	<key>beginnerMonster</key>
+	<string>popModulus</string>
+	<key>invisibleFrame</key>
+	<string>screenDirection</string>
+	<key>provisionBound</key>
+	<string>immediateCapacity</string>
+	<key>rectEdge</key>
+	<string>graphMethod</string>
+	<key>samplevariableinteraction</key>
+	<string>pivotalException</string>
+</dict>
+</plist>

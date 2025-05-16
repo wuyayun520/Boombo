@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerdelivery</key>
+	<string>dynamicCharacteristic</string>
+	<key>flexibleScenario</key>
+	<string>canStreamGate</string>
+	<key>intermediateIsolate</key>
+	<string>shaderTint</string>
+	<key>selectedGestureDetector</key>
+	<string>statelessWidget</string>
+	<key>sophisticatedStorage</key>
+	<string>shouldObserveMargin</string>
+	<key>tensorcontainer</key>
+	<string>aspectVisibility</string>
+</dict>
+</plist>

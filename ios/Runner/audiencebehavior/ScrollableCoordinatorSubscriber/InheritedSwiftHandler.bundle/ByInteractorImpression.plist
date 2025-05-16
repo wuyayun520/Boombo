@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterResponse</key>
+	<string>resilientWrapper</string>
+	<key>concreteAlpha</key>
+	<string>shouldNotifyScaffold</string>
+	<key>controlleralignment</key>
+	<string>fusedAudio</string>
+	<key>deferredResult</key>
+	<string>shouldSaveBatch</string>
+	<key>mergerPadding</key>
+	<string>transposePopup</string>
+	<key>pinchableCycle</key>
+	<string>futureChain</string>
+	<key>unsortedAlignment</key>
+	<string>explicitOffset</string>
+	<key>widgetCount</key>
+	<string>soundBorder</string>
+</dict>
+</plist>

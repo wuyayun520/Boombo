@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalScheduler</key>
+	<string>setupallocator</string>
+	<key>encodelocalization</key>
+	<string>interceptNavigator</string>
+	<key>immediatePrecision</key>
+	<string>standaloneRectangle</string>
+	<key>publisherMargin</key>
+	<string>metricsType</string>
+	<key>resilientSink</key>
+	<string>canPrepareCanvas</string>
+	<key>shouldPersistCaption</key>
+	<string>embedAsync</string>
+	<key>sustainableContraction</key>
+	<string>hierarchicalModal</string>
+	<key>synchronousMaterial</key>
+	<string>logWork</string>
+	<key>unsortedButton</key>
+	<string>inheritedTitle</string>
+	<key>wrapperAlignment</key>
+	<string>canDecodeScaffold</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedprecisionmargin</key>
+	<string>localizationSpeed</string>
+	<key>completionlevelhead</key>
+	<string>canSetStateLog</string>
+	<key>deferredFuture</key>
+	<string>batchFramework</string>
+	<key>finderSaturation</key>
+	<string>pauseRichText</string>
+	<key>normalEqualization</key>
+	<string>greatevent</string>
+	<key>shouldRouteCapsule</key>
+	<string>originalCompleter</string>
+	<key>sophisticatedpolyfill</key>
+	<string>combineRect</string>
+	<key>vectorPadding</key>
+	<string>eagerInterface</string>
+</dict>
+</plist>

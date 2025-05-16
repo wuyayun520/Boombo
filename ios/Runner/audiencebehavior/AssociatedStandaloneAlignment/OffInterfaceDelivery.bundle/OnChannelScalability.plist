@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionFormat</key>
+	<string>drawLoop</string>
+	<key>gateuntilframework</key>
+	<string>rectangleScale</string>
+	<key>gridviewTheme</key>
+	<string>optimizeHash</string>
+	<key>oldCallback</key>
+	<string>unaryticker</string>
+</dict>
+</plist>

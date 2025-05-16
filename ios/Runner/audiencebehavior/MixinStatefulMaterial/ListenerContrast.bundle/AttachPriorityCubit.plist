@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedRenderer</key>
+	<string>hardintensity</string>
+	<key>crucialStore</key>
+	<string>associatedMediaQuery</string>
+	<key>graphicTransparency</key>
+	<string>captionFlags</string>
+	<key>gridlayerborder</key>
+	<string>gateMediator</string>
+	<key>metricsAppearance</key>
+	<string>animatedcontainereffect</string>
+	<key>scaffoldtypeoffset</key>
+	<string>shouldEncodeSignature</string>
+	<key>steporchain</key>
+	<string>splitterValidation</string>
+</dict>
+</plist>

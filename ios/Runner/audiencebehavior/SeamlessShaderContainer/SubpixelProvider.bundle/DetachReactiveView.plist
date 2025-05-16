@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicImage</key>
+	<string>relationaldimension</string>
+	<key>geometricStore</key>
+	<string>positionedrestriction</string>
+	<key>mediaqueryBehavior</key>
+	<string>reducerinterval</string>
+	<key>mobileBatch</key>
+	<string>handleGesture</string>
+	<key>parallelPet</key>
+	<string>switchTail</string>
+	<key>trainunary</key>
+	<string>shouldpreparemember</string>
+	<key>unaryContrast</key>
+	<string>matrixStatus</string>
+	<key>uniqueStorage</key>
+	<string>quantizationGroup</string>
+</dict>
+</plist>

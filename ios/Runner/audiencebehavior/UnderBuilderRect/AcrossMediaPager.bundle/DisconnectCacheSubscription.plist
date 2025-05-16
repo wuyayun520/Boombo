@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localcolor</key>
+	<string>quitAction</string>
+	<key>shaderCenter</key>
+	<string>scrollableMaterial</string>
+	<key>shouldFetchRichText</key>
+	<string>captionForce</string>
+	<key>sophisticatedAnimation</key>
+	<string>basicFrame</string>
+	<key>swiftvelocity</key>
+	<string>publicDependency</string>
+</dict>
+</plist>

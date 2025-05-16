@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultStream</key>
+	<string>compositionFlyweight</string>
+	<key>displayablePoint</key>
+	<string>touchSpacing</string>
+	<key>draggablepublisher</key>
+	<string>mutableBrush</string>
+	<key>elasticvertex</key>
+	<string>shouldDecodeChallenge</string>
+	<key>eventColor</key>
+	<string>constraintnearvar</string>
+	<key>mendCoord</key>
+	<string>movementBound</string>
+	<key>navigatorIndex</key>
+	<string>layoutDialogs</string>
+	<key>persistentConfiguration</key>
+	<string>seguewithoutfunction</string>
+	<key>receiverMargin</key>
+	<string>shouldKeepExtension</string>
+	<key>subscribeawait</key>
+	<string>debugsink</string>
+</dict>
+</plist>

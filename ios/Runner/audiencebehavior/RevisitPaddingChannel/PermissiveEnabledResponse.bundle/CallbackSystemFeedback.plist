@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseintegrity</key>
+	<string>secondTime</string>
+	<key>directdependency</key>
+	<string>behaviorimpact</string>
+	<key>evaluateindicator</key>
+	<string>permissiveMaster</string>
+	<key>gateInset</key>
+	<string>sophisticatedNotation</string>
+	<key>keyTool</key>
+	<string>createentity</string>
+	<key>metricsSkewY</key>
+	<string>canMountedGem</string>
+	<key>retainedConnector</key>
+	<string>streamThread</string>
+	<key>shouldValidateBitrate</key>
+	<string>compositionalexceptionopacity</string>
+	<key>shouldyieldinteger</key>
+	<string>menuRate</string>
+	<key>touchlifecycle</key>
+	<string>canSetStateCapacities</string>
+</dict>
+</plist>

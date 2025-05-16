@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarForce</key>
+	<string>processObserver</string>
+	<key>eagerconsumption</key>
+	<string>ondurationtap</string>
+	<key>histogramanalyzer</key>
+	<string>exceptionStyle</string>
+	<key>intensitymargin</key>
+	<string>rotateSubscription</string>
+	<key>sensoraboutlayer</key>
+	<string>cubitvariablerotation</string>
+	<key>shouldparseoption</key>
+	<string>resetContainer</string>
+	<key>subsequentProjection</key>
+	<string>associatedAmortization</string>
+</dict>
+</plist>

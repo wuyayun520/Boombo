@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticMaterial</key>
+	<string>cubepreview</string>
+	<key>contractionduringwork</key>
+	<string>mapperRight</string>
+	<key>diffableReceiver</key>
+	<string>sharedModal</string>
+	<key>geometricRow</key>
+	<string>requestFeedback</string>
+	<key>imperativeaxisflags</key>
+	<string>functionalAwait</string>
+	<key>shouldKeepIndicator</key>
+	<string>consultativeGrain</string>
+	<key>shouldLoadCompletion</key>
+	<string>replaceCosine</string>
+	<key>shouldProcessScroll</key>
+	<string>mobileMember</string>
+	<key>subpixelDensity</key>
+	<string>popLabel</string>
+	<key>unmountappbar</key>
+	<string>cupertinoInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorPosition</key>
+	<string>globalMend</string>
+	<key>combinerTransparency</key>
+	<string>shouldShowOption</string>
+	<key>connectorIndex</key>
+	<string>opaqueStorage</string>
+	<key>eventTint</key>
+	<string>mediaqueryTint</string>
+	<key>parallelAnimatedContainer</key>
+	<string>chooserCoord</string>
+	<key>shouldDispatchLogarithm</key>
+	<string>shouldEndAnimation</string>
+	<key>shouldFetchAspectRatio</key>
+	<string>sharedEmitter</string>
+	<key>shouldHandleCompletion</key>
+	<string>shouldShowSession</string>
+	<key>shouldRenderAppBar</key>
+	<string>actionchainformat</string>
+</dict>
+</plist>

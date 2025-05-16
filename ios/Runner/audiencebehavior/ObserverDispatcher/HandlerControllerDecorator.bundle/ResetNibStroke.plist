@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushshape</key>
+	<string>unsortedMusic</string>
+	<key>clipperBehavior</key>
+	<string>declarativeDuration</string>
+	<key>hassegue</key>
+	<string>mutableSignature</string>
+	<key>imperativeSegue</key>
+	<string>mediumScaffold</string>
+	<key>informationFormat</key>
+	<string>cupertinoProjection</string>
+	<key>swiftsize</key>
+	<string>immutableVolume</string>
+</dict>
+</plist>

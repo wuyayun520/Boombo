@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopMember</key>
+	<string>deployVector</string>
+	<key>directlyBloc</key>
+	<string>canPresentSlider</string>
+	<key>embraceticker</key>
+	<string>lazyHandler</string>
+	<key>opaqueScale</key>
+	<string>cancelGrayscale</string>
+	<key>primaryMetadata</key>
+	<string>canAnimateGift</string>
+	<key>reactiveAnalyzer</key>
+	<string>pauseAnimation</string>
+	<key>restrictionBehavior</key>
+	<string>diversifiedrichtextresponse</string>
+	<key>shouldConnectAspect</key>
+	<string>beginnerBox</string>
+	<key>shouldObserveCustomPaint</key>
+	<string>visualizeNode</string>
+	<key>uniqueContainer</key>
+	<string>shouldDeserializeAppBar</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeTriangles</key>
+	<string>deliveryFlags</string>
+	<key>inactiveIsolate</key>
+	<string>storeAppearance</string>
+	<key>managermodule</key>
+	<string>trainReference</string>
+	<key>originalRouter</key>
+	<string>toolEnvironment</string>
+	<key>shouldListenMusic</key>
+	<string>makesize</string>
+	<key>subsequentScheduler</key>
+	<string>disconnectMobile</string>
+	<key>workflowlayerfeedback</key>
+	<string>agileScene</string>
+</dict>
+</plist>

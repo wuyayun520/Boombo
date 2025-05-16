@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnType</key>
+	<string>customizedAlert</string>
+	<key>disparateMetrics</key>
+	<string>canvasrect</string>
+	<key>kernelscroller</key>
+	<string>triggerFeedback</string>
+	<key>rectFormat</key>
+	<string>accessibledurationbound</string>
+	<key>sineSkewX</key>
+	<string>continueoptimizer</string>
+</dict>
+</plist>

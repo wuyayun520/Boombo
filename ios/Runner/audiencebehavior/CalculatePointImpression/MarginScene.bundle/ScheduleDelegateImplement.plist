@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticModule</key>
+	<string>pushManager</string>
+	<key>flexDuration</key>
+	<string>imperativeText</string>
+	<key>hierarchicalPageView</key>
+	<string>logBrightness</string>
+	<key>retainedGrid</key>
+	<string>descriptionformat</string>
+	<key>shouldStreamMatrix</key>
+	<string>pushmodel</string>
+	<key>sinetransformer</key>
+	<string>emitchannels</string>
+	<key>textVisibility</key>
+	<string>anchorparamposition</string>
+</dict>
+</plist>

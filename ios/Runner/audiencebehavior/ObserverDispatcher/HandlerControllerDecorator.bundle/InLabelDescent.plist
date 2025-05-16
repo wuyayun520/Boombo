@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviordensity</key>
+	<string>retainedInkWell</string>
+	<key>mediumContainer</key>
+	<string>easyPlayback</string>
+	<key>normFormat</key>
+	<string>shouldYieldRemainder</string>
+	<key>relationalFormat</key>
+	<string>lastAlert</string>
+	<key>substantialTexture</key>
+	<string>invisibleThreshold</string>
+	<key>synchronousBitrate</key>
+	<string>embedskirt</string>
+	<key>trajectoryTail</key>
+	<string>disabledAllocator</string>
+</dict>
+</plist>

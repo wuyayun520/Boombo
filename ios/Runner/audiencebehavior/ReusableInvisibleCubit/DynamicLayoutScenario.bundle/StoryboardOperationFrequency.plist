@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardOffset</key>
+	<string>insteadLabel</string>
+	<key>controlleractioncount</key>
+	<string>vectorDensity</string>
+	<key>elasticwidget</key>
+	<string>shouldNotifyPriority</string>
+	<key>lazyEquivalent</key>
+	<string>registerResolver</string>
+	<key>selectedBehavior</key>
+	<string>contractionColor</string>
+	<key>sizedboxstrategyforce</key>
+	<string>shouldObservePlate</string>
+	<key>storeformat</key>
+	<string>dismissSpecifier</string>
+</dict>
+</plist>

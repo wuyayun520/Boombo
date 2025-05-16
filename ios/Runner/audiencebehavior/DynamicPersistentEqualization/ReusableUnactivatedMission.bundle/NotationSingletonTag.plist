@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addextension</key>
+	<string>moduleSkewX</string>
+	<key>cellthanaction</key>
+	<string>textureHue</string>
+	<key>fusedSemantics</key>
+	<string>originalObject</string>
+	<key>permissiveFactory</key>
+	<string>lostRenderer</string>
+	<key>provisionmargin</key>
+	<string>notifyPriority</string>
+	<key>sortedRadius</key>
+	<string>shouldPublishGestureDetector</string>
+	<key>triggerLeft</key>
+	<string>assetDuration</string>
+</dict>
+</plist>

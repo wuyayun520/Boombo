@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFormat</key>
+	<string>subpixelposition</string>
+	<key>canvasproxyrate</key>
+	<string>canFormatAspect</string>
+	<key>decorationOffset</key>
+	<string>shouldTransitionOption</string>
+	<key>easyallocator</key>
+	<string>clearRadius</string>
+	<key>mobileNotifier</key>
+	<string>radiusdensity</string>
+	<key>normalcontainerfeedback</key>
+	<string>intuitiveAnimator</string>
+	<key>platescalability</key>
+	<string>oncontractiontap</string>
+	<key>primaryMerger</key>
+	<string>cubitInterpreter</string>
+	<key>shouldRebuildClipper</key>
+	<string>trianglesSkewX</string>
+</dict>
+</plist>

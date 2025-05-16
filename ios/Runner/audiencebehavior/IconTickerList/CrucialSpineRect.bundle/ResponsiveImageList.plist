@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaconfidentiality</key>
+	<string>widgetpressure</string>
+	<key>deserializerequest</key>
+	<string>liteParticle</string>
+	<key>framedecoratoredge</key>
+	<string>statefulConstant</string>
+	<key>reactiveCursor</key>
+	<string>shouldRenderActivity</string>
+	<key>shouldMountedGrayscale</key>
+	<string>cacheStructure</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addinterface</key>
+	<string>signMargin</string>
+	<key>chartoffset</key>
+	<string>permutationStatus</string>
+	<key>checkboxcolor</key>
+	<string>exitInjection</string>
+	<key>ismatrix</key>
+	<string>joinerpadding</string>
+	<key>parallelPreview</key>
+	<string>semanticChannel</string>
+	<key>shouldObserveModal</key>
+	<string>shouldYieldTransition</string>
+	<key>shouldValidateMatrix</key>
+	<string>cartesianDetector</string>
+	<key>showaspect</key>
+	<string>collectionsincework</string>
+	<key>standaloneModel</key>
+	<string>invisibleImpression</string>
+	<key>symmetricDisclaimer</key>
+	<string>firstEntity</string>
+</dict>
+</plist>

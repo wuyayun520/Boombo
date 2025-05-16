@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleSkewY</key>
+	<string>prevUtil</string>
+	<key>combinerRotation</key>
+	<string>advancedDialogs</string>
+	<key>fixedTolerance</key>
+	<string>enddescription</string>
+	<key>releaseasset</key>
+	<string>pushCell</string>
+	<key>semanticsHue</key>
+	<string>defaultcomposition</string>
+	<key>shouldInflateDuration</key>
+	<string>wrapConfiguration</string>
+	<key>shouldNavigateMatrix</key>
+	<string>lockprogressbar</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateoverlay</key>
+	<string>resolveNode</string>
+	<key>asynchronousCycle</key>
+	<string>paintHeap</string>
+	<key>defaultexpanded</key>
+	<string>canStreamScreen</string>
+	<key>escalatepromise</key>
+	<string>displayconvolution</string>
+	<key>euclideanArithmetic</key>
+	<string>intermediateVertex</string>
+	<key>mutablenib</key>
+	<string>aspectratiotrigger</string>
+</dict>
+</plist>

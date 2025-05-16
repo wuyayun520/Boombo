@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystneartask</key>
+	<string>fixedTaxonomy</string>
+	<key>concreteSlider</key>
+	<string>adaptiveInterface</string>
+	<key>elasticspritecontrast</key>
+	<string>cachezone</string>
+	<key>injectionOpacity</key>
+	<string>cacheBehavior</string>
+	<key>pinchableoverlay</key>
+	<string>animateInteractor</string>
+	<key>selectedskirt</key>
+	<string>dynamicDetail</string>
+	<key>statelessCoordinator</key>
+	<string>permanentScaffold</string>
+	<key>tappableShape</key>
+	<string>bulletOrigin</string>
+	<key>transitioncurve</key>
+	<string>injectionVar</string>
+	<key>uniformStateless</key>
+	<string>updateRemainder</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedscreeninterval</key>
+	<string>shouldNavigateTool</string>
+	<key>layoutindex</key>
+	<string>lossDelay</string>
+	<key>restrictioncoord</key>
+	<string>elasticOccasion</string>
+	<key>shouldDisposeRemainder</key>
+	<string>singletonInterval</string>
+	<key>shouldlayoutfragment</key>
+	<string>onnormchanged</string>
+	<key>showhash</key>
+	<string>curveStrategy</string>
+	<key>significantSchema</key>
+	<string>gateBuffer</string>
+	<key>trainrouter</key>
+	<string>normalConvolution</string>
+	<key>uniqueData</key>
+	<string>similarIsolate</string>
+</dict>
+</plist>

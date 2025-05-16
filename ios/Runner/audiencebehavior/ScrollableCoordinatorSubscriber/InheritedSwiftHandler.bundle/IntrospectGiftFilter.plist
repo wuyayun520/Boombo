@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorDuration</key>
+	<string>beginnerawaitsize</string>
+	<key>callbackoftype</key>
+	<string>connectcontraction</string>
+	<key>desktopintensity</key>
+	<string>upgradeText</string>
+	<key>hyperbolicWidget</key>
+	<string>advancedAspectRatio</string>
+	<key>labelconsumption</key>
+	<string>canLayoutTheme</string>
+	<key>parallelevent</key>
+	<string>latencyCoord</string>
+</dict>
+</plist>

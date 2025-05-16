@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedStep</key>
+	<string>tweenawayenvironment</string>
+	<key>crudeAlignment</key>
+	<string>inflateScreen</string>
+	<key>cubeSaturation</key>
+	<string>cellLocation</string>
+	<key>isclipper</key>
+	<string>shouldDispatchButton</string>
+	<key>objectMomentum</key>
+	<string>inflateBase</string>
+	<key>progressbarconverter</key>
+	<string>mixinGraph</string>
+	<key>repositoryForce</key>
+	<string>documentFlyweight</string>
+	<key>shouldNotifyAspect</key>
+	<string>sortedOffset</string>
+	<key>timeInterval</key>
+	<string>directlyTouch</string>
+	<key>transformerBehavior</key>
+	<string>shouldPauseTouch</string>
+</dict>
+</plist>

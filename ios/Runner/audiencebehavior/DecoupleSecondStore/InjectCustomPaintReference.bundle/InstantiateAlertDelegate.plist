@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPopup</key>
+	<string>uniformcontrollerinterval</string>
+	<key>deferredGrayscale</key>
+	<string>shouldKeepSegue</string>
+	<key>metadataoutsidelayer</key>
+	<string>canTransitionUnary</string>
+	<key>missedManager</key>
+	<string>eventemitter</string>
+	<key>otherScenario</key>
+	<string>disposeStoryboard</string>
+	<key>spotHue</key>
+	<string>handlerOrientation</string>
+</dict>
+</plist>

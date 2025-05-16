@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismisshandler</key>
+	<string>canEmitRoute</string>
+	<key>elasticnibscale</key>
+	<string>columnCenter</string>
+	<key>featureMode</key>
+	<string>shouldUpdatePrecision</string>
+	<key>independentRenderer</key>
+	<string>publicCompleter</string>
+	<key>inheritedImpression</key>
+	<string>shouldDeserializeEntropy</string>
+	<key>normalAspect</key>
+	<string>shouldNotifyAlpha</string>
+	<key>shouldRenderSlider</key>
+	<string>conformSlider</string>
+	<key>synchronousStore</key>
+	<string>concurrentremediation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityScale</key>
+	<string>notationSkewY</string>
+	<key>geometricModal</key>
+	<string>holdIsolate</string>
+	<key>normalCompleter</key>
+	<string>detachLoop</string>
+	<key>onswitchtap</key>
+	<string>memberScope</string>
+	<key>pickerFormat</key>
+	<string>pendingEquipment</string>
+	<key>shouldCreateTechnique</key>
+	<string>largeDisclaimer</string>
+	<key>shouldFinishBitrate</key>
+	<string>resizableChart</string>
+</dict>
+</plist>

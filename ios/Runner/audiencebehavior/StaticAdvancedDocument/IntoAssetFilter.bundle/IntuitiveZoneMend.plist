@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerAcceleration</key>
+	<string>currentstep</string>
+	<key>heapthanvariable</key>
+	<string>shouldUnbindTask</string>
+	<key>invisibleasync</key>
+	<string>smallAppBar</string>
+	<key>loopborder</key>
+	<string>listenerdensity</string>
+	<key>shouldEndComposition</key>
+	<string>compositionalTime</string>
+</dict>
+</plist>

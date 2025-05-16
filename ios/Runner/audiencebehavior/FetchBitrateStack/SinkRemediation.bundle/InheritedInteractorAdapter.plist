@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioEdge</key>
+	<string>stepSaturation</string>
+	<key>discardedPopup</key>
+	<string>strengthBrightness</string>
+	<key>materialLog</key>
+	<string>positionedSingleton</string>
+	<key>shouldBuildCupertino</key>
+	<string>resizableContraction</string>
+	<key>shoulddecodechannels</key>
+	<string>remainderdependency</string>
+	<key>transposechannels</key>
+	<string>retainedHandler</string>
+</dict>
+</plist>

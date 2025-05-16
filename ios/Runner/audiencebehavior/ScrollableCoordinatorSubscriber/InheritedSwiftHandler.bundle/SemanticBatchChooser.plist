@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyversusproxy</key>
+	<string>shouldPresentCustomPaint</string>
+	<key>nativecharacter</key>
+	<string>invokenode</string>
+	<key>slashright</key>
+	<string>dedicatedThreshold</string>
+	<key>sorterState</key>
+	<string>textureOpacity</string>
+	<key>textfrequency</key>
+	<string>instructionParam</string>
+	<key>typicalSkin</key>
+	<string>convolutionTension</string>
+</dict>
+</plist>

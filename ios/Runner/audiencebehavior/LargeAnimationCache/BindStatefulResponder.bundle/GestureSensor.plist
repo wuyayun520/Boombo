@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeview</key>
+	<string>basicComponent</string>
+	<key>imperativeimage</key>
+	<string>scrollerVelocity</string>
+	<key>protectedMomentum</key>
+	<string>pinchableInteraction</string>
+	<key>protectedTextField</key>
+	<string>scrollableMechanism</string>
+	<key>resourceContrast</key>
+	<string>cartesianCombiner</string>
+	<key>responsedetector</key>
+	<string>nativePolyfill</string>
+</dict>
+</plist>

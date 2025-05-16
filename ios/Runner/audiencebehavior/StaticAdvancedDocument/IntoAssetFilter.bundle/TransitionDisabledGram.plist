@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalWrapper</key>
+	<string>directlyPublisher</string>
+	<key>immutableObserver</key>
+	<string>menuduration</string>
+	<key>inheritedAnimation</key>
+	<string>performTitle</string>
+	<key>prevGradient</key>
+	<string>shouldTransformClipper</string>
+	<key>reusableLocalization</key>
+	<string>listviewContrast</string>
+	<key>transitiondirection</key>
+	<string>similarCharacteristic</string>
+</dict>
+</plist>

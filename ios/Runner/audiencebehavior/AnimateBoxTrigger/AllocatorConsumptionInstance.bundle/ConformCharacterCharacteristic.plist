@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>choosertension</key>
+	<string>masterColor</string>
+	<key>consultativeSwitch</key>
+	<string>shouldListenListView</string>
+	<key>keyMatrix</key>
+	<string>adaptiveRect</string>
+	<key>particleinterval</key>
+	<string>presentProfile</string>
+	<key>prevStroke</key>
+	<string>shouldRouteBatch</string>
+	<key>rapidBitrate</key>
+	<string>navigateListView</string>
+	<key>receivefeature</key>
+	<string>intuitiveManager</string>
+	<key>shouldPersistDelegate</key>
+	<string>explicitaudio</string>
+	<key>smarttexturecoord</key>
+	<string>shouldSaveGem</string>
+	<key>updatestateful</key>
+	<string>autobuffer</string>
+</dict>
+</plist>

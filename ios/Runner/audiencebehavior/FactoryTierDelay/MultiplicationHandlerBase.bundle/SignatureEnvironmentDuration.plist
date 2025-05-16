@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstoption</key>
+	<string>canCancelStoryboard</string>
+	<key>intermediatenavigatorinteraction</key>
+	<string>fixedStoryboard</string>
+	<key>numericalConsumer</key>
+	<string>missionDecorator</string>
+	<key>protocolcoordinator</key>
+	<string>annotateSprite</string>
+	<key>responsetail</key>
+	<string>handleScreen</string>
+	<key>scenedescent</key>
+	<string>subscriptionwrapper</string>
+	<key>sophisticatedRouter</key>
+	<string>shouldPushBaseline</string>
+</dict>
+</plist>

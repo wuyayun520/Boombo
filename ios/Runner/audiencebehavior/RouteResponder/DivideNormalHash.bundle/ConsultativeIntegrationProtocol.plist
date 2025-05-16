@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePositioned</key>
+	<string>positionedMode</string>
+	<key>currentbuilder</key>
+	<string>fusedDisclaimer</string>
+	<key>disconnectdecoration</key>
+	<string>grayscaleResponse</string>
+	<key>gridacceleration</key>
+	<string>intermediatezonebottom</string>
+	<key>replicaSaturation</key>
+	<string>typicalTouch</string>
+	<key>responsiveImage</key>
+	<string>curveParam</string>
+</dict>
+</plist>

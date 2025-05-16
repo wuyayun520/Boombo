@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateConstraint</key>
+	<string>opaqueCustomPaint</string>
+	<key>mobileBinder</key>
+	<string>sophisticatedgridacceleration</string>
+	<key>routeBehavior</key>
+	<string>crucialAlignment</string>
+	<key>shouldHandleSensor</key>
+	<string>liteSpine</string>
+	<key>statefulConstant</key>
+	<string>persistentMomentum</string>
+</dict>
+</plist>

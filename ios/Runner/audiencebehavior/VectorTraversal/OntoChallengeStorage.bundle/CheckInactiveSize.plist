@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerDepth</key>
+	<string>observeSlash</string>
+	<key>composableasync</key>
+	<string>stepProxy</string>
+	<key>denseSymbol</key>
+	<string>vectorizeGroup</string>
+	<key>functionalChart</key>
+	<string>nativeHero</string>
+	<key>mutableLoader</key>
+	<string>isCache</string>
+	<key>platestore</key>
+	<string>implementRoute</string>
+	<key>radiuslocation</key>
+	<string>canValidateUsage</string>
+	<key>statelessResolver</key>
+	<string>cacheCursor</string>
+	<key>taxonomyTail</key>
+	<string>canPushTabView</string>
+</dict>
+</plist>

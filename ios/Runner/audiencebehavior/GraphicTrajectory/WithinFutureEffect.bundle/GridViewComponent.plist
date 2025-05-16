@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivetweentag</key>
+	<string>mountedTask</string>
+	<key>deferrednotification</key>
+	<string>smartBaseline</string>
+	<key>hashOrigin</key>
+	<string>seamlessConstraint</string>
+	<key>requestallocator</key>
+	<string>canUpdateStream</string>
+	<key>retainedConsumer</key>
+	<string>vectorizeWidget</string>
+	<key>scrollInset</key>
+	<string>hashObserver</string>
+	<key>semanticsTop</key>
+	<string>matrixOperation</string>
+	<key>tappableFuture</key>
+	<string>shouldCancelBitrate</string>
+	<key>usecasevideo</key>
+	<string>semanticsLevel</string>
+</dict>
+</plist>

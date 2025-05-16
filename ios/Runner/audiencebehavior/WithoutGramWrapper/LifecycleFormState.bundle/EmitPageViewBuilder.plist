@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableAnimation</key>
+	<string>explicitInkWell</string>
+	<key>crudeSwitch</key>
+	<string>globalColumn</string>
+	<key>dedicatedTimer</key>
+	<string>actionRate</string>
+	<key>dynamicSession</key>
+	<string>isSpot</string>
+	<key>navigationVisibility</key>
+	<string>respectivePrecision</string>
+	<key>previewimpression</key>
+	<string>loadOverlay</string>
+	<key>significantflexrotation</key>
+	<string>freeView</string>
+</dict>
+</plist>

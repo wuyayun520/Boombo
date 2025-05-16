@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBatch</key>
+	<string>movementcapacity</string>
+	<key>interactionscale</key>
+	<string>differentiateMethod</string>
+	<key>numericalFuture</key>
+	<string>performSink</string>
+	<key>positionagainstcontext</key>
+	<string>staticSchema</string>
+	<key>shouldMountScroll</key>
+	<string>routecommandbehavior</string>
+	<key>signmode</key>
+	<string>gesturedetectorForce</string>
+</dict>
+</plist>

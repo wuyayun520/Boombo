@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteGestureDetector</key>
+	<string>navigatorEdge</string>
+	<key>curvedespitelevel</key>
+	<string>mediaqueryFacade</string>
+	<key>musicframe</key>
+	<string>storeUseCase</string>
+	<key>serviceagainstcomposite</key>
+	<string>showGate</string>
+</dict>
+</plist>

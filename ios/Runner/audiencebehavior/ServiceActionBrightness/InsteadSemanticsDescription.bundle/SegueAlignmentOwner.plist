@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonSensor</key>
+	<string>findHash</string>
+	<key>intermediatecustompaintname</key>
+	<string>publicSlider</string>
+	<key>mediumtweak</key>
+	<string>screenFunction</string>
+	<key>mobileRemediation</key>
+	<string>shouldCreateListView</string>
+	<key>paintergrid</key>
+	<string>bundleAllocator</string>
+	<key>screenoperationacceleration</key>
+	<string>skirtdecoratortag</string>
+	<key>selectedconstraint</key>
+	<string>immediateDuration</string>
+	<key>shouldSetStateSymbol</key>
+	<string>tensorLifecycle</string>
+	<key>uniqueasset</key>
+	<string>dismissDialogs</string>
+</dict>
+</plist>

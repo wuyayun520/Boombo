@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerKind</key>
+	<string>segueStatus</string>
+	<key>concretePager</key>
+	<string>statelessindex</string>
+	<key>directlyTabView</key>
+	<string>cardInterval</string>
+	<key>fetchstorage</key>
+	<string>prismaticMomentum</string>
+	<key>fragmentSkewX</key>
+	<string>compositionalChecklist</string>
+	<key>globalController</key>
+	<string>updatePlate</string>
+	<key>invisibledialogsdelay</key>
+	<string>intensityforvar</string>
+	<key>resizableEvolution</key>
+	<string>rowadapterpadding</string>
+	<key>singleoffsettransparency</key>
+	<string>trainStateful</string>
+</dict>
+</plist>

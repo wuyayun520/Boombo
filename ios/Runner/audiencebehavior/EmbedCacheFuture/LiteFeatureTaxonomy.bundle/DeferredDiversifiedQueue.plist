@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actiondepth</key>
+	<string>pinchableTabView</string>
+	<key>activeScalability</key>
+	<string>maxRadio</string>
+	<key>aspectrow</key>
+	<string>pushUseCase</string>
+	<key>associatedTriangles</key>
+	<string>ignoredFilter</string>
+	<key>canvasOrigin</key>
+	<string>eventDelay</string>
+	<key>disparateEquipment</key>
+	<string>methodbottom</string>
+	<key>permissiveWidget</key>
+	<string>requestRotation</string>
+	<key>radiusCoord</key>
+	<string>reusableColor</string>
+	<key>shouldUpdateGridView</key>
+	<string>basekind</string>
+	<key>significantConnector</key>
+	<string>attachModel</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customInteger</key>
+	<string>currentRole</string>
+	<key>firstRole</key>
+	<string>descentpadding</string>
+	<key>meshIndex</key>
+	<string>tappableGestureDetector</string>
+	<key>newestDependency</key>
+	<string>requestProvider</string>
+	<key>signIndex</key>
+	<string>resilientTitle</string>
+	<key>sustainablemerger</key>
+	<string>prismaticGrayscale</string>
+	<key>vectorTail</key>
+	<string>shouldBindProject</string>
+</dict>
+</plist>

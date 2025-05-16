@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyScheduler</key>
+	<string>signCoord</string>
+	<key>mainFormat</key>
+	<string>routeReference</string>
+	<key>selectedPositioned</key>
+	<string>mediumScale</string>
+	<key>synchronouswrapper</key>
+	<string>unsortedEfficiency</string>
+</dict>
+</plist>

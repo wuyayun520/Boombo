@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitypadding</key>
+	<string>resilientfeature</string>
+	<key>composableInfrastructure</key>
+	<string>easyCreator</string>
+	<key>lockeffect</key>
+	<string>dedicatedTabBar</string>
+	<key>modulusBottom</key>
+	<string>observerAppearance</string>
+	<key>reconcilenode</key>
+	<string>herocomponent</string>
+	<key>semanticservice</key>
+	<string>standaloneObserver</string>
+	<key>shouldMountSwift</key>
+	<string>contractionright</string>
+	<key>transposetransformer</key>
+	<string>taskMethod</string>
+	<key>unactivatedmethod</key>
+	<string>streamPainter</string>
+	<key>yieldrouter</key>
+	<string>switchBound</string>
+</dict>
+</plist>

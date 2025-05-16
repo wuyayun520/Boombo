@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorResponse</key>
+	<string>detectorName</string>
+	<key>axisaudio</key>
+	<string>explicitSizedBox</string>
+	<key>clipperSpacing</key>
+	<string>dependencyLocation</string>
+	<key>dedicatedTraversal</key>
+	<string>undertakeSize</string>
+	<key>elasticUtil</key>
+	<string>canObserveModal</string>
+	<key>granularloop</key>
+	<string>shouldValidatePrecision</string>
+	<key>shouldHandleSwift</key>
+	<string>canMountedAccessory</string>
+	<key>webConstant</key>
+	<string>gestureDecorator</string>
+</dict>
+</plist>

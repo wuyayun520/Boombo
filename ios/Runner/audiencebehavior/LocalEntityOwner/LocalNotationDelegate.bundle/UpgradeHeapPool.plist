@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateagainsttype</key>
+	<string>replaceTechnique</string>
+	<key>hasStateful</key>
+	<string>hasmap</string>
+	<key>insteadanchor</key>
+	<string>injectionMediator</string>
+	<key>serviceOpacity</key>
+	<string>yieldmanager</string>
+	<key>synchronousButton</key>
+	<string>difficultThreshold</string>
+	<key>tappableConfidentiality</key>
+	<string>hardgesturedetector</string>
+	<key>tappableContrast</key>
+	<string>trainTernary</string>
+	<key>variantType</key>
+	<string>quaternionOpacity</string>
+</dict>
+</plist>

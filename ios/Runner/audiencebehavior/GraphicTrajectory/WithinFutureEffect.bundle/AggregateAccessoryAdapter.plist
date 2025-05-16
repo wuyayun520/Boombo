@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedObserver</key>
+	<string>differentiatePreview</string>
+	<key>ephemeralPoint</key>
+	<string>uniformConstraint</string>
+	<key>managertail</key>
+	<string>concurrentHandler</string>
+	<key>marshalanchor</key>
+	<string>optimizeDependency</string>
+	<key>meshduration</key>
+	<string>convertResult</string>
+	<key>persisttopic</key>
+	<string>canMountedCard</string>
+	<key>shouldBindSignature</key>
+	<string>controllermapper</string>
+	<key>shouldCacheInterpolation</key>
+	<string>metricsEdge</string>
+	<key>taskexceptvisitor</key>
+	<string>adaptiveCoordinator</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBound</key>
+	<string>undertakeInterface</string>
+	<key>menuInteraction</key>
+	<string>retainAwait</string>
+	<key>missionLeft</key>
+	<string>referenceIndex</string>
+	<key>retainedEvent</key>
+	<string>lostClipper</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisOrientation</key>
+	<string>arithmeticRow</string>
+	<key>directlyTentative</key>
+	<string>attachRow</string>
+	<key>ephemeralNotification</key>
+	<string>cursorreliability</string>
+	<key>responderSpacing</key>
+	<string>makeoverlay</string>
+	<key>schemaBrightness</key>
+	<string>localizationsingletonstyle</string>
+	<key>shouldKeepConstraint</key>
+	<string>accessibleImpact</string>
+	<key>shouldUpdateMedia</key>
+	<string>opaqueSubscription</string>
+</dict>
+</plist>

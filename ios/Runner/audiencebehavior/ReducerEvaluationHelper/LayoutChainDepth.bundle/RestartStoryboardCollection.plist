@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSplitter</key>
+	<string>configurecoordinator</string>
+	<key>boxshadowBound</key>
+	<string>prepareEffect</string>
+	<key>gesturedetectorTension</key>
+	<string>methodstructureleft</string>
+	<key>graphSpacing</key>
+	<string>connectIndicator</string>
+	<key>ignoredLoss</key>
+	<string>cupertinoMode</string>
+	<key>processactivity</key>
+	<string>usedbinder</string>
+	<key>rapidGestureDetector</key>
+	<string>cosineOrigin</string>
+	<key>timerSkewY</key>
+	<string>viewTop</string>
+	<key>usageOffset</key>
+	<string>gemaboutenvironment</string>
+</dict>
+</plist>

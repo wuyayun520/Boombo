@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnScale</key>
+	<string>visibleBox</string>
+	<key>commonConverter</key>
+	<string>shoulddecodechecklist</string>
+	<key>containerbufferresponse</key>
+	<string>fragmentsHead</string>
+	<key>eventInset</key>
+	<string>shouldShowLabel</string>
+	<key>explicitPet</key>
+	<string>bulletStyle</string>
+	<key>flexiblecontroller</key>
+	<string>scrollableCell</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardtaskcoord</key>
+	<string>ischecklist</string>
+	<key>completerBehavior</key>
+	<string>shouldReplaceGridView</string>
+	<key>confidentialityTransparency</key>
+	<string>presenterShade</string>
+	<key>linkerDelay</key>
+	<string>shouldformatlog</string>
+	<key>navigatorAppearance</key>
+	<string>gradientBorder</string>
+	<key>objectRight</key>
+	<string>servicechainresponse</string>
+	<key>presenterPadding</key>
+	<string>analyzeResponse</string>
+</dict>
+</plist>

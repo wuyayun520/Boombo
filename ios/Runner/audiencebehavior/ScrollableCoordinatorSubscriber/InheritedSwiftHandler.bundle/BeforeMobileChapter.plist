@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityState</key>
+	<string>spineSkewX</string>
+	<key>captionsensor</key>
+	<string>seekResource</string>
+	<key>cellSaturation</key>
+	<string>shouldLoadTable</string>
+	<key>disabledCupertino</key>
+	<string>viewdirection</string>
+	<key>geometricGraphic</key>
+	<string>publicCupertino</string>
+	<key>invokegesturedetector</key>
+	<string>hasCatalyst</string>
+	<key>logandcycle</key>
+	<string>transpileMenu</string>
+	<key>sortedInkWell</key>
+	<string>relationalScope</string>
+</dict>
+</plist>

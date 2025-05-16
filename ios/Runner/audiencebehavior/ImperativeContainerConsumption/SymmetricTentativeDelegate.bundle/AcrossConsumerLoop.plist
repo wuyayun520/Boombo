@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCertificate</key>
+	<string>adjustRect</string>
+	<key>blocSpacing</key>
+	<string>shouldAnimateMedia</string>
+	<key>borderorigin</key>
+	<string>agileTheme</string>
+	<key>handleracceleration</key>
+	<string>intensityPadding</string>
+	<key>integerStyle</key>
+	<string>shouldCancelCharacter</string>
+	<key>shouldRestartScaffold</key>
+	<string>geometricBandwidth</string>
+	<key>singleCaption</key>
+	<string>enabledConsumption</string>
+	<key>statelessVariant</key>
+	<string>shouldendrichtext</string>
+	<key>statelessdialogs</key>
+	<string>initializeSingleton</string>
+</dict>
+</plist>

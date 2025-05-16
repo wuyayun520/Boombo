@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionStatus</key>
+	<string>rapidcontroller</string>
+	<key>hierarchicalElasticity</key>
+	<string>factorytaxonomy</string>
+	<key>localizationshape</key>
+	<string>singleExpanded</string>
+	<key>singletonFrequency</key>
+	<string>characterState</string>
+</dict>
+</plist>

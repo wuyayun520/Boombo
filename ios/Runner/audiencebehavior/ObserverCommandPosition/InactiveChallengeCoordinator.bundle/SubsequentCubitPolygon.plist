@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resilientproviderforce</key>
+	<string>cartesianStore</string>
+	<key>shouldListenHistogram</key>
+	<string>canUnmountedPoint</string>
+	<key>shouldSkipSegue</key>
+	<string>priorInfo</string>
+	<key>shouldTransformRadio</key>
+	<string>gramSingleton</string>
+	<key>tensorConnector</key>
+	<string>protectedUtil</string>
+	<key>typicalloader</key>
+	<string>subscribeGridView</string>
+	<key>visibleQuaternion</key>
+	<string>canStreamEquipment</string>
+	<key>weblatency</key>
+	<string>canInflateMultiplication</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionerror</key>
+	<string>invisibleMetrics</string>
+	<key>enabledDetector</key>
+	<string>futureskewx</string>
+	<key>provisionKind</key>
+	<string>repositoryvisitorhead</string>
+	<key>resilientsinefeedback</key>
+	<string>sortedMend</string>
+	<key>shouldResumeSubpixel</key>
+	<string>bufferChain</string>
+	<key>shouldUnmountedSpot</key>
+	<string>geometricDrawer</string>
+	<key>synchronousEffect</key>
+	<string>activatedWorkflow</string>
+</dict>
+</plist>

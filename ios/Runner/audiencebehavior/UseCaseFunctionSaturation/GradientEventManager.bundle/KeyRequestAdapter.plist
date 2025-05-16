@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsSkewX</key>
+	<string>yieldComposition</string>
+	<key>drawerVisibility</key>
+	<string>usedScenario</string>
+	<key>firstBaseline</key>
+	<string>currentgate</string>
+	<key>localUseCase</key>
+	<string>shouldNotifyScale</string>
+	<key>navigationOffset</key>
+	<string>singletonOffset</string>
+	<key>retainedVertex</key>
+	<string>crucialAppBar</string>
+	<key>shouldCreateSegment</key>
+	<string>shouldFinishTouch</string>
+	<key>shouldStreamPlayback</key>
+	<string>dropoutCurve</string>
+	<key>transitionTail</key>
+	<string>workflowappearance</string>
+	<key>webTransition</key>
+	<string>shouldEndOption</string>
+</dict>
+</plist>

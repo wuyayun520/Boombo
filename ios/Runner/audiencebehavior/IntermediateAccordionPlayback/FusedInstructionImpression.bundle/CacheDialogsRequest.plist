@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStyle</key>
+	<string>interactorDelay</string>
+	<key>dedicatedQueue</key>
+	<string>hierarchicalAnchor</string>
+	<key>explicitTimeline</key>
+	<string>seamlessMapper</string>
+	<key>sequentialJoiner</key>
+	<string>desktopTitle</string>
+	<key>shouldKeepMultiplication</key>
+	<string>notificationJob</string>
+	<key>shouldValidateSwift</key>
+	<string>recursionVisibility</string>
+</dict>
+</plist>

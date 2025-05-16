@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildervariablekind</key>
+	<string>canEncodeCycle</string>
+	<key>constanttransparency</key>
+	<string>shouldCreateTable</string>
+	<key>delegateTail</key>
+	<string>compositionalChannels</string>
+	<key>functionalCapacities</key>
+	<string>commonUnary</string>
+	<key>materialDistance</key>
+	<string>temporaryTimeline</string>
+	<key>normalBinary</key>
+	<string>maxExponent</string>
+	<key>reusableCharacteristic</key>
+	<string>augmentProgressBar</string>
+	<key>statefulvarstyle</key>
+	<string>canRebuildExpanded</string>
+	<key>usecaseStyle</key>
+	<string>fragmentsStyle</string>
+</dict>
+</plist>

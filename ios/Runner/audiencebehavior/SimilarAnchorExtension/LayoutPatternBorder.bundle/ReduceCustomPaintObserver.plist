@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infrastructureBrightness</key>
+	<string>independentNavigator</string>
+	<key>petstroke</key>
+	<string>customizedTimer</string>
+	<key>shouldHandleMedia</key>
+	<string>startSignature</string>
+	<key>shouldShowNavigation</key>
+	<string>interactiveMedia</string>
+</dict>
+</plist>

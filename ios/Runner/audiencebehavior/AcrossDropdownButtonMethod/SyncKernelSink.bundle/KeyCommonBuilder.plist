@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>copycurve</key>
+	<string>sineScope</string>
+	<key>discardedTween</key>
+	<string>orchestrateSize</string>
+	<key>notationtheme</key>
+	<string>radiusRotation</string>
+	<key>shouldDisconnectReduction</key>
+	<string>subscriptionTail</string>
+	<key>signType</key>
+	<string>sustainableRestriction</string>
+</dict>
+</plist>

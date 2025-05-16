@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseshade</key>
+	<string>deserializeBehavior</string>
+	<key>connectorSaturation</key>
+	<string>multiTabBar</string>
+	<key>injectslash</key>
+	<string>boxshadowMemento</string>
+	<key>materialCollection</key>
+	<string>clipSingleton</string>
+	<key>pickerBound</key>
+	<string>sampleLocation</string>
+	<key>trajectoryType</key>
+	<string>unactivatedRenderer</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordioncosinetop</key>
+	<string>canListenImage</string>
+	<key>cartesianTouch</key>
+	<string>intensityContext</string>
+	<key>globalProfile</key>
+	<string>deflateCubit</string>
+	<key>hardnormshape</key>
+	<string>singletonHead</string>
+	<key>movementshape</key>
+	<string>unsortedResult</string>
+	<key>radiotopic</key>
+	<string>shouldCreateMultiplication</string>
+	<key>singletonskewy</key>
+	<string>reduceQueue</string>
+</dict>
+</plist>

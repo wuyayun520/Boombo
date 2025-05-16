@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarTail</key>
+	<string>shouldStreamSubpixel</string>
+	<key>diversifiedSplitter</key>
+	<string>shouldinflatereduction</string>
+	<key>encodedialogs</key>
+	<string>canRouteBehavior</string>
+	<key>hardInkWell</key>
+	<string>agilePolygon</string>
+	<key>notifierposition</key>
+	<string>synchronizeDuration</string>
+	<key>seamlessMesh</key>
+	<string>animatedDocument</string>
+	<key>tweenDelay</key>
+	<string>disabledGrid</string>
+</dict>
+</plist>

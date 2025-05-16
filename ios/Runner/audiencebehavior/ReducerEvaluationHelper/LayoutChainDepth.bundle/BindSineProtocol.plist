@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonUnary</key>
+	<string>protocolbloc</string>
+	<key>intuitiveStorage</key>
+	<string>restartInterpolation</string>
+	<key>lostbehaviorpadding</key>
+	<string>profilePadding</string>
+	<key>parallelStorage</key>
+	<string>continueSwitch</string>
+	<key>shouldPersistTernary</key>
+	<string>factoryShape</string>
+</dict>
+</plist>

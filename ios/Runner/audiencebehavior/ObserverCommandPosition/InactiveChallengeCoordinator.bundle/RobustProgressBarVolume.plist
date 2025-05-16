@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityskewy</key>
+	<string>cacheGraphic</string>
+	<key>dedicatedNotification</key>
+	<string>normalproviderdirection</string>
+	<key>firstFragment</key>
+	<string>allocatorMode</string>
+	<key>lockdecoration</key>
+	<string>entityVisitor</string>
+	<key>mobileBorder</key>
+	<string>shouldValidateCoordinator</string>
+	<key>numericalLoss</key>
+	<string>unmountedAnchor</string>
+	<key>richtextTag</key>
+	<string>offsetLoop</string>
+	<key>sharedTask</key>
+	<string>shouldcachesubpixel</string>
+	<key>usageduringjob</key>
+	<string>popCharacter</string>
+</dict>
+</plist>

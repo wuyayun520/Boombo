@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedparticlemargin</key>
+	<string>sequentialLoader</string>
+	<key>assetKind</key>
+	<string>flexibleStoryboard</string>
+	<key>cardValidation</key>
+	<string>connectGem</string>
+	<key>evaluationMomentum</key>
+	<string>canSubscribeFlex</string>
+	<key>lostAnalyzer</key>
+	<string>minOption</string>
+	<key>metadatawithoutbuffer</key>
+	<string>metadataProcess</string>
+	<key>prismaticSizedBox</key>
+	<string>removeLabel</string>
+</dict>
+</plist>

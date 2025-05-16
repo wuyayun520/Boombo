@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialConfidentiality</key>
+	<string>transitionPositioned</string>
+	<key>emitchallenge</key>
+	<string>canUnbindAnimatedContainer</string>
+	<key>prevAspect</key>
+	<string>sortednavigationvisible</string>
+	<key>routeitem</key>
+	<string>pointValidation</string>
+	<key>shouldNavigateBinary</key>
+	<string>setupSize</string>
+	<key>shouldPushGrayscale</key>
+	<string>shouldStartSymbol</string>
+</dict>
+</plist>

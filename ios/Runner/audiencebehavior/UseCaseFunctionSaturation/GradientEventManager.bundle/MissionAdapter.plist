@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderTransparency</key>
+	<string>observerResponse</string>
+	<key>ephemeralEqualization</key>
+	<string>processorFeedback</string>
+	<key>inkwellFrequency</key>
+	<string>oldTweak</string>
+	<key>multiAnalyzer</key>
+	<string>gradientName</string>
+	<key>opaqueUtil</key>
+	<string>shouldEmitMultiplication</string>
+	<key>playrect</key>
+	<string>shouldPresentDecoration</string>
+	<key>prismaticDispatcher</key>
+	<string>gradientDirection</string>
+</dict>
+</plist>

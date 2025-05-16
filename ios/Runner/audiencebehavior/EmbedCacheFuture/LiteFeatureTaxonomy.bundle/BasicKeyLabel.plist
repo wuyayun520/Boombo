@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionmomentum</key>
+	<string>scrollableRole</string>
+	<key>mountedactivity</key>
+	<string>canCacheScreen</string>
+	<key>specifyScene</key>
+	<string>canEmitAnimatedContainer</string>
+	<key>substantialFlex</key>
+	<string>segmentbutton</string>
+	<key>trianglesedge</key>
+	<string>directwrapper</string>
+</dict>
+</plist>

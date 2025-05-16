@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityDistance</key>
+	<string>shouldKeepMap</string>
+	<key>exceptionspacing</key>
+	<string>bindSignature</string>
+	<key>ignoredCanvas</key>
+	<string>bindinteractor</string>
+	<key>lastAnalogy</key>
+	<string>synchronousDelegate</string>
+	<key>managerState</key>
+	<string>checkboxPlatform</string>
+	<key>uniqueSpine</key>
+	<string>scrollableMerger</string>
+</dict>
+</plist>

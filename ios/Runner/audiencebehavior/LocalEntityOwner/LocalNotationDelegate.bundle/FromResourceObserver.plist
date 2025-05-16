@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorVelocity</key>
+	<string>referenceformat</string>
+	<key>concreteGate</key>
+	<string>intensitySize</string>
+	<key>managermementooffset</key>
+	<string>samplePlatform</string>
+	<key>mediaquerybottom</key>
+	<string>refreshPosition</string>
+	<key>requiredObserver</key>
+	<string>shouldKeepCaption</string>
+</dict>
+</plist>

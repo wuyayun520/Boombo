@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveDescriptor</key>
+	<string>shouldPaintEquipment</string>
+	<key>invisibledelegate</key>
+	<string>canCancelBloc</string>
+	<key>nibLocation</key>
+	<string>canValidateColumn</string>
+	<key>normalDocument</key>
+	<string>shouldpushsine</string>
+	<key>temporarySignature</key>
+	<string>aspectVisibility</string>
+	<key>textbehavior</key>
+	<string>invisibleInterpolation</string>
+</dict>
+</plist>

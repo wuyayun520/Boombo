@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedBehavior</key>
+	<string>compositionalduration</string>
+	<key>commonNavigation</key>
+	<string>shouldFormatTable</string>
+	<key>mainTouch</key>
+	<string>canFetchView</string>
+	<key>rangeLeft</key>
+	<string>gemisolate</string>
+	<key>updateprogressbar</key>
+	<string>lockHash</string>
+</dict>
+</plist>

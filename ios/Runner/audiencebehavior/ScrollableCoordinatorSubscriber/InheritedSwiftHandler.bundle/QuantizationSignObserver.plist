@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackandtemple</key>
+	<string>reflectBuilder</string>
+	<key>composableListener</key>
+	<string>canEmitKernel</string>
+	<key>convolutionCount</key>
+	<string>permissiveMerger</string>
+	<key>directlyNode</key>
+	<string>enabledStoryboard</string>
+	<key>ignoredBinder</key>
+	<string>dedicatedTransformer</string>
+	<key>lifecycleDensity</key>
+	<string>observeHash</string>
+	<key>mutableexpandedformat</key>
+	<string>maintainModel</string>
+	<key>observerShape</key>
+	<string>widgetinmemento</string>
+	<key>overlaycoord</key>
+	<string>responsiveCallback</string>
+	<key>pivotalSegue</key>
+	<string>ignoredCharacteristic</string>
+</dict>
+</plist>

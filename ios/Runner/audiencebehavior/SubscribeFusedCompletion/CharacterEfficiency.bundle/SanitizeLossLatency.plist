@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorDelay</key>
+	<string>difficultMultiplication</string>
+	<key>granularAnchor</key>
+	<string>primarystate</string>
+	<key>gridcommandname</key>
+	<string>missedTextField</string>
+	<key>intensityOrigin</key>
+	<string>opaqueCycle</string>
+	<key>intermediateEfficiency</key>
+	<string>animatedAnalyzer</string>
+	<key>loaderAcceleration</key>
+	<string>notifySkin</string>
+	<key>promiseTop</key>
+	<string>canStopGrayscale</string>
+	<key>sequentialStatus</key>
+	<string>canPauseSegue</string>
+</dict>
+</plist>

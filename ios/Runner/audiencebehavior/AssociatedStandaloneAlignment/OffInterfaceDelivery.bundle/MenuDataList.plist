@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralState</key>
+	<string>builderInteraction</string>
+	<key>euclideanCycle</key>
+	<string>vectorizeTitle</string>
+	<key>euclideanQuaternion</key>
+	<string>lazyTouch</string>
+	<key>fragmentRotation</key>
+	<string>canSubscribeExpanded</string>
+	<key>materialoccasion</key>
+	<string>managerTransparency</string>
+	<key>prismaticSprite</key>
+	<string>nativeStrength</string>
+	<key>rapidComponent</key>
+	<string>chooserDuration</string>
+	<key>reactiveSize</key>
+	<string>polyfillShape</string>
+	<key>sortedAlert</key>
+	<string>cubeSpeed</string>
+</dict>
+</plist>

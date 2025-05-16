@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSubpixel</key>
+	<string>characterProcess</string>
+	<key>drawerDelay</key>
+	<string>routerProcess</string>
+	<key>pivotalPolyfill</key>
+	<string>shouldEncodeSegment</string>
+	<key>retainedDimension</key>
+	<string>refreshBuffer</string>
+	<key>symbolscroller</key>
+	<string>localizationright</string>
+	<key>visibletableright</key>
+	<string>inheritedPriority</string>
+</dict>
+</plist>

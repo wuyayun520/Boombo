@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedKernel</key>
+	<string>disabledCallback</string>
+	<key>dialogsScale</key>
+	<string>lossLevel</string>
+	<key>fetchservice</key>
+	<string>streamSpot</string>
+	<key>opaqueframe</key>
+	<string>shouldSerializeBitrate</string>
+	<key>retainedLinker</key>
+	<string>scheduleinstruction</string>
+	<key>shouldStopFragment</key>
+	<string>canMountCurve</string>
+	<key>shouldTransformText</key>
+	<string>multiplyAsset</string>
+</dict>
+</plist>

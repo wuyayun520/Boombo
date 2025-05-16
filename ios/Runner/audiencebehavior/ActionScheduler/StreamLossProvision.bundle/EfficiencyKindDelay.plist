@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedReliability</key>
+	<string>characterInteraction</string>
+	<key>checklistfeedback</key>
+	<string>embraceProgressBar</string>
+	<key>continuelistview</key>
+	<string>completerexceptadapter</string>
+	<key>declarativeCanvas</key>
+	<string>onflexchanged</string>
+	<key>intuitivetitlecount</key>
+	<string>overridearithmetic</string>
+	<key>lastEvent</key>
+	<string>viewFormat</string>
+	<key>lastProcessor</key>
+	<string>animatedcontainerPlatform</string>
+	<key>robustSlash</key>
+	<string>progressbaroutsidestrategy</string>
+	<key>shouldSaveRole</key>
+	<string>newestblocposition</string>
+	<key>typicalListener</key>
+	<string>onternarychanged</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAnalyzer</key>
+	<string>reliabilityAlignment</string>
+	<key>actionalongdecorator</key>
+	<string>tangentName</string>
+	<key>shouldDisposeDocument</key>
+	<string>deployChart</string>
+	<key>shouldStartMap</key>
+	<string>disabledSkirt</string>
+	<key>sliderdecoration</key>
+	<string>subscribeStateless</string>
+</dict>
+</plist>

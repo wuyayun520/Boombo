@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentstoryboardindex</key>
+	<string>granularMember</string>
+	<key>rowtypeskewx</key>
+	<string>detectorSpeed</string>
+	<key>secondLocalization</key>
+	<string>refactorPreview</string>
+	<key>shouldPrepareCollection</key>
+	<string>cancelGem</string>
+	<key>staticConstraint</key>
+	<string>serializeSwitch</string>
+</dict>
+</plist>

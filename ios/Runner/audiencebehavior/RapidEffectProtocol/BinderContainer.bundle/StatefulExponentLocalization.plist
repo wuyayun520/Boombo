@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioPressure</key>
+	<string>constraintOrientation</string>
+	<key>behaviorexceptstructure</key>
+	<string>convertIntensity</string>
+	<key>largeDispatcher</key>
+	<string>gateRotation</string>
+	<key>mendTheme</key>
+	<string>resilientsinkshade</string>
+	<key>resolverFeedback</key>
+	<string>topiclinker</string>
+	<key>shouldAnimateStateful</key>
+	<string>canRebuildStateless</string>
+	<key>shouldCachePlate</key>
+	<string>binaryDepth</string>
+	<key>shouldPublishConsumer</key>
+	<string>handleGestureDetector</string>
+</dict>
+</plist>

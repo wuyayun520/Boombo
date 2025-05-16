@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformscene</key>
+	<string>paintSizedBox</string>
+	<key>containerShape</key>
+	<string>robustShape</string>
+	<key>hasanimation</key>
+	<string>staticObserver</string>
+	<key>imperativeBatch</key>
+	<string>projectorform</string>
+	<key>keeprow</key>
+	<string>sequentialBoxShadow</string>
+	<key>priorPreview</key>
+	<string>singleActivity</string>
+	<key>routerName</key>
+	<string>architectureBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedzoneoffset</key>
+	<string>opaquesound</string>
+	<key>alignmentStyle</key>
+	<string>symmetricsize</string>
+	<key>cubitLeft</key>
+	<string>visiblecontainertype</string>
+	<key>currentElement</key>
+	<string>drawerKind</string>
+	<key>displayableScaffold</key>
+	<string>canListenBuilder</string>
+	<key>referencescale</key>
+	<string>nibprocessor</string>
+	<key>requiredNavigation</key>
+	<string>presentScroll</string>
+	<key>shouldPauseProvider</key>
+	<string>moduleFlags</string>
+	<key>statelessSegment</key>
+	<string>logarithmCoord</string>
+</dict>
+</plist>

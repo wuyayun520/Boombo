@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeImpact</key>
+	<string>shouldPauseSemantics</string>
+	<key>detailCoord</key>
+	<string>currentTable</string>
+	<key>lastRemediation</key>
+	<string>respondDelegate</string>
+	<key>pinchableTechnique</key>
+	<string>gestureOrientation</string>
+</dict>
+</plist>

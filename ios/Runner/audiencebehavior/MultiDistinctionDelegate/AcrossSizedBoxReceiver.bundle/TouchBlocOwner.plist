@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPermutation</key>
+	<string>independentHeap</string>
+	<key>asynchronousequivalent</key>
+	<string>activityEdge</string>
+	<key>cachedelegate</key>
+	<string>materialListener</string>
+	<key>drawerlocation</key>
+	<string>fetchSign</string>
+	<key>eagerbuttoncenter</key>
+	<string>significantCompletion</string>
+	<key>litebaseline</key>
+	<string>grayscaleactivitylocation</string>
+	<key>referencemodel</key>
+	<string>tweenScale</string>
+	<key>shouldStreamCollection</key>
+	<string>intuitiveprotocolbottom</string>
+</dict>
+</plist>

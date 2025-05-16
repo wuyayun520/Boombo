@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSchema</key>
+	<string>shouldPopAspectRatio</string>
+	<key>consumerconverter</key>
+	<string>compositionalAudio</string>
+	<key>convolutionsound</key>
+	<string>pinchableDecoration</string>
+	<key>eagerRecursion</key>
+	<string>methodfunctionscale</string>
+	<key>shouldstreamappbar</key>
+	<string>resilienceVelocity</string>
+	<key>shouldstreamtext</key>
+	<string>drawProgressBar</string>
+	<key>statefulspeed</key>
+	<string>listenPrecision</string>
+</dict>
+</plist>

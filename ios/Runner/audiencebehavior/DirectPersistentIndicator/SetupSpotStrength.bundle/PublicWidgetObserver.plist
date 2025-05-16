@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationscalability</key>
+	<string>trainSensor</string>
+	<key>continueintensity</key>
+	<string>exponentAcceleration</string>
+	<key>findlayout</key>
+	<string>constraintcontrast</string>
+	<key>matrixScale</key>
+	<string>videoFrequency</string>
+	<key>sessionwidget</key>
+	<string>immutableInfrastructure</string>
+	<key>uniformMaster</key>
+	<string>shouldStopGem</string>
+</dict>
+</plist>

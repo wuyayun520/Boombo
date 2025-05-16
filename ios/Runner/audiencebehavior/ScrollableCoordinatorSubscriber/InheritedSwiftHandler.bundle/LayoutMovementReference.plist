@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelstore</key>
+	<string>canRestartCoordinator</string>
+	<key>parallelFactory</key>
+	<string>lostThroughput</string>
+	<key>rapidSubpixel</key>
+	<string>metricsShape</string>
+	<key>sequentialReference</key>
+	<string>streamwithdecorator</string>
+	<key>shouldCancelLayout</key>
+	<string>disabledTask</string>
+	<key>shouldResumeNorm</key>
+	<string>immutableDelivery</string>
+	<key>shouldskipborder</key>
+	<string>inheritedVector</string>
+	<key>temporaryPosition</key>
+	<string>overridevector</string>
+</dict>
+</plist>

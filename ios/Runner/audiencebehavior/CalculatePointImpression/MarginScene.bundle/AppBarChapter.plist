@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteScroller</key>
+	<string>parsenode</string>
+	<key>encapsulateimage</key>
+	<string>shouldFinishCustomPaint</string>
+	<key>entropydelay</key>
+	<string>viewexceptmode</string>
+	<key>granularTabView</key>
+	<string>createColumn</string>
+	<key>impactPressure</key>
+	<string>discardedEntity</string>
+	<key>imperativeService</key>
+	<string>asynchronousEquivalent</string>
+	<key>singleEvent</key>
+	<string>endanimation</string>
+	<key>uniqueTheme</key>
+	<string>displayableVector</string>
+</dict>
+</plist>

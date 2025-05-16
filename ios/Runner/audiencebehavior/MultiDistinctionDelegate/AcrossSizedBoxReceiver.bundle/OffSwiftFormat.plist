@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativePopup</key>
+	<string>popdelegate</string>
+	<key>currentRow</key>
+	<string>resilientOverlay</string>
+	<key>labelmaterial</key>
+	<string>meshTheme</string>
+	<key>writelistener</key>
+	<string>configurationContrast</string>
+</dict>
+</plist>

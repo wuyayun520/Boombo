@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalTheme</key>
+	<string>webStateful</string>
+	<key>discardedHash</key>
+	<string>usedGrain</string>
+	<key>distinctionMode</key>
+	<string>permissiveSlider</string>
+	<key>mediumMapper</key>
+	<string>canPrepareInterpolation</string>
+	<key>permissivestate</key>
+	<string>newestSlash</string>
+	<key>relationalcontraction</key>
+	<string>callbackDistance</string>
+	<key>shouldKeepLabel</key>
+	<string>canObserveStateful</string>
+	<key>signTransparency</key>
+	<string>switchValidation</string>
+	<key>storyboardTransparency</key>
+	<string>histogramtentative</string>
+</dict>
+</plist>

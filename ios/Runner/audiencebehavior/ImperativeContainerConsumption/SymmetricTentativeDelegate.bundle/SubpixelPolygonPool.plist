@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTension</key>
+	<string>activityPadding</string>
+	<key>denseconsumer</key>
+	<string>publishNotifier</string>
+	<key>easyInteger</key>
+	<string>alertForce</string>
+	<key>fixedProvider</key>
+	<string>hardStamp</string>
+	<key>inkwellCount</key>
+	<string>spriteStrategy</string>
+	<key>overlaytransformer</key>
+	<string>unmountequipment</string>
+	<key>popupnearoperation</key>
+	<string>shouldPersistSizedBox</string>
+	<key>synchero</key>
+	<string>pushdependency</string>
+	<key>tentativeAcceleration</key>
+	<string>dropoutZone</string>
+	<key>widgetTension</key>
+	<string>significantStep</string>
+</dict>
+</plist>

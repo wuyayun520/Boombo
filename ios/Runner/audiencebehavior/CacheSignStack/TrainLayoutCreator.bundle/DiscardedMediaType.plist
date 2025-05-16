@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalAnchor</key>
+	<string>containerSingleton</string>
+	<key>liteEntity</key>
+	<string>unsortedGram</string>
+	<key>momentumOrientation</key>
+	<string>shouldrendermember</string>
+	<key>sensorpreview</key>
+	<string>canEmitExpanded</string>
+</dict>
+</plist>

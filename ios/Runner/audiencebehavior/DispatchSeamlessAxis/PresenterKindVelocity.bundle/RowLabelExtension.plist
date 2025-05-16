@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMapper</key>
+	<string>overrideBloc</string>
+	<key>buildersubscription</key>
+	<string>hierarchicalChooser</string>
+	<key>controlleredge</key>
+	<string>managerskewy</string>
+	<key>lastFrame</key>
+	<string>intensitySize</string>
+	<key>richtextAppearance</key>
+	<string>cursorname</string>
+	<key>sharedPositioned</key>
+	<string>sessionType</string>
+	<key>shoulddecodescaffold</key>
+	<string>adaptiveInterpolation</string>
+	<key>sinkVisible</key>
+	<string>flexibleFactory</string>
+	<key>slashkind</key>
+	<string>mediumRequest</string>
+	<key>smallModel</key>
+	<string>flexCommand</string>
+</dict>
+</plist>

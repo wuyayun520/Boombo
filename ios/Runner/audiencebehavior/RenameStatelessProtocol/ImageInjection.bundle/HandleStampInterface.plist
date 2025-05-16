@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clippermechanism</key>
+	<string>accessibleMaterializer</string>
+	<key>materialDependency</key>
+	<string>prevPresenter</string>
+	<key>notifierStatus</key>
+	<string>resilientItem</string>
+	<key>shouldDisconnectGesture</key>
+	<string>resilientproviderbehavior</string>
+	<key>statelessEquipment</key>
+	<string>flexibleTangent</string>
+	<key>taskContrast</key>
+	<string>canSaveInkWell</string>
+</dict>
+</plist>

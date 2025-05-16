@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterawaycycle</key>
+	<string>boxproxytint</string>
+	<key>disparateMaterial</key>
+	<string>asyncdepth</string>
+	<key>dynamicscalability</key>
+	<string>directlyMediaQuery</string>
+	<key>missedWrapper</key>
+	<string>hashScope</string>
+	<key>multiasync</key>
+	<string>gestureTop</string>
+	<key>nodeinterpreterscale</key>
+	<string>optimizerPressure</string>
+	<key>shouldPaintColumn</key>
+	<string>profileAction</string>
+	<key>subscribeawait</key>
+	<string>directSubscription</string>
+</dict>
+</plist>

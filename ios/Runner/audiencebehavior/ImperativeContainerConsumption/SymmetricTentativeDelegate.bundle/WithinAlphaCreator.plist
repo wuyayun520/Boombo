@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionsinceaction</key>
+	<string>implementListener</string>
+	<key>dependencyCount</key>
+	<string>clonePresenter</string>
+	<key>fragmentShape</key>
+	<string>shouldpushthread</string>
+	<key>injectionjobflags</key>
+	<string>gateRotation</string>
+	<key>particlemargin</key>
+	<string>tensorTweak</string>
+	<key>rectEdge</key>
+	<string>offsetfunctioninteraction</string>
+	<key>sizedboxstyle</key>
+	<string>shouldSerializePrecision</string>
+</dict>
+</plist>

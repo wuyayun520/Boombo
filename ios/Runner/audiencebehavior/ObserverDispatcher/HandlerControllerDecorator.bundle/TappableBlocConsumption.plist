@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindtext</key>
+	<string>explicitAnalogy</string>
+	<key>multiplicationCoord</key>
+	<string>baselayout</string>
+	<key>parallelSample</key>
+	<string>analogyCount</string>
+	<key>semanticMechanism</key>
+	<string>minInkWell</string>
+	<key>shouldLayoutMomentum</key>
+	<string>hyperbolicConnector</string>
+	<key>standaloneobserver</key>
+	<string>configureProvider</string>
+	<key>threadTension</key>
+	<string>uniqueRestriction</string>
+</dict>
+</plist>

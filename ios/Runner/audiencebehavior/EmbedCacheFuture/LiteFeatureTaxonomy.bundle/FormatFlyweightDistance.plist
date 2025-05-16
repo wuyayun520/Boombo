@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaFormat</key>
+	<string>oldAllocator</string>
+	<key>asynchronousExtension</key>
+	<string>entitythreshold</string>
+	<key>documentstroke</key>
+	<string>regulateCubit</string>
+	<key>iterativeCluster</key>
+	<string>localLoader</string>
+	<key>queuetype</key>
+	<string>resilientTask</string>
+	<key>shouldRouteSubpixel</key>
+	<string>mechanismFrequency</string>
+	<key>smartImpact</key>
+	<string>shouldCreateFragment</string>
+	<key>tasksincevar</key>
+	<string>responsivealpha</string>
+</dict>
+</plist>

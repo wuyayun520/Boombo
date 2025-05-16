@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerinteraction</key>
+	<string>shouldProcessTool</string>
+	<key>dropdownbuttontail</key>
+	<string>optionLocation</string>
+	<key>hasbase</key>
+	<string>shouldSerializeFuture</string>
+	<key>imperativeRange</key>
+	<string>activatedThread</string>
+	<key>loopbesidebridge</key>
+	<string>canYieldPainter</string>
+	<key>shouldfinishgate</key>
+	<string>subtleConfiguration</string>
+	<key>shouldstartscroll</key>
+	<string>sustainableAllocator</string>
+	<key>uniformSorter</key>
+	<string>robustTolerance</string>
+</dict>
+</plist>

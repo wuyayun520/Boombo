@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>markskin</key>
+	<string>streamduration</string>
+	<key>orchestratemultiplication</key>
+	<string>listenSine</string>
+	<key>permutationDistance</key>
+	<string>canDetachHero</string>
+	<key>priorNavigator</key>
+	<string>writegesturedetector</string>
+	<key>reactiveInteger</key>
+	<string>recursionVelocity</string>
+	<key>responseintegrity</key>
+	<string>factoryScale</string>
+</dict>
+</plist>

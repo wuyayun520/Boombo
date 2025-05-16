@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationRate</key>
+	<string>cycleFunction</string>
+	<key>hashFeedback</key>
+	<string>resizableCapacities</string>
+	<key>newestRange</key>
+	<string>sophisticatedAnimation</string>
+	<key>shouldDetachAnchor</key>
+	<string>tweenCycle</string>
+	<key>temporaryNotification</key>
+	<string>canDisposeLoss</string>
+</dict>
+</plist>

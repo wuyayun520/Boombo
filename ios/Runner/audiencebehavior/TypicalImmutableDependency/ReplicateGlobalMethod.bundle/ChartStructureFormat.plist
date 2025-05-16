@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultBaseline</key>
+	<string>implementEntity</string>
+	<key>keyInterpolation</key>
+	<string>shouldPresentRichText</string>
+	<key>lastDescriptor</key>
+	<string>globalSink</string>
+	<key>oldColor</key>
+	<string>shouldDisconnectUnary</string>
+	<key>opaqueScope</key>
+	<string>shouldStopAspectRatio</string>
+	<key>particlevelocity</key>
+	<string>finishCard</string>
+	<key>pinchableCombiner</key>
+	<string>canEncodeScale</string>
+	<key>statefuloffset</key>
+	<string>tabviewmediatorright</string>
+	<key>tensorCatalyst</key>
+	<string>primaryIndicator</string>
+</dict>
+</plist>

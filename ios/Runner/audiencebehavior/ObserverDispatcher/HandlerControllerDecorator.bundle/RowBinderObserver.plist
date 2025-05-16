@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorRotation</key>
+	<string>bindListView</string>
+	<key>multiPolygon</key>
+	<string>canSetStateBullet</string>
+	<key>singleThread</key>
+	<string>disposepromise</string>
+</dict>
+</plist>

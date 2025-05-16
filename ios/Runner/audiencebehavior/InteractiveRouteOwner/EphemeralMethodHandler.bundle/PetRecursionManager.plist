@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerlistener</key>
+	<string>hasview</string>
+	<key>expandedagainsttask</key>
+	<string>priorResponder</string>
+	<key>greatsubscriptionpadding</key>
+	<string>durationindex</string>
+	<key>handlercontrast</key>
+	<string>buildcatalyst</string>
+	<key>missedBox</key>
+	<string>vertexPosition</string>
+	<key>protectedOverlay</key>
+	<string>petFlyweight</string>
+	<key>rapidConsumer</key>
+	<string>timerFrequency</string>
+	<key>shouldDismissButton</key>
+	<string>animatedState</string>
+	<key>shouldValidateSubpixel</key>
+	<string>webCache</string>
+</dict>
+</plist>

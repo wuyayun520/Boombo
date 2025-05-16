@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitBrush</key>
+	<string>unarySkewX</string>
+	<key>reusableTexture</key>
+	<string>buildController</string>
+	<key>shouldTransitionConstraint</key>
+	<string>fusedMend</string>
+	<key>shouldyielddelegate</key>
+	<string>mediumsubpixel</string>
+</dict>
+</plist>

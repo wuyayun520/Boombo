@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveIntensity</key>
+	<string>interactiveDimension</string>
+	<key>beginnerScale</key>
+	<string>zoneVisitor</string>
+	<key>columnKind</key>
+	<string>tasksize</string>
+	<key>pivotalfragmentscale</key>
+	<string>shouldPersistVariant</string>
+	<key>retainedPrecision</key>
+	<string>intermediateGrain</string>
+	<key>seamlessTimer</key>
+	<string>minSlash</string>
+	<key>shouldPrepareMargin</key>
+	<string>optimizeLayout</string>
+</dict>
+</plist>

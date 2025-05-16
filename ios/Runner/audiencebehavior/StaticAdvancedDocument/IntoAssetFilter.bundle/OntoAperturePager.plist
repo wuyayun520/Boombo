@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionShape</key>
+	<string>explicitTechnique</string>
+	<key>hierarchicalbufferedge</key>
+	<string>discardedLifecycle</string>
+	<key>immediateSplitter</key>
+	<string>replaceNib</string>
+	<key>ismember</key>
+	<string>compositionState</string>
+	<key>navigationRate</key>
+	<string>symbolDuration</string>
+	<key>normalSpine</key>
+	<string>lossLocation</string>
+	<key>sizeappearance</key>
+	<string>sensoractivityinteraction</string>
+	<key>sizedboxPressure</key>
+	<string>composableMetadata</string>
+	<key>symmetricMargin</key>
+	<string>shouldFinishComposition</string>
+</dict>
+</plist>

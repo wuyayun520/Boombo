@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityoperationflags</key>
+	<string>canPauseArithmetic</string>
+	<key>deferredExpanded</key>
+	<string>dependencyDepth</string>
+	<key>originalqueueforce</key>
+	<string>transformerLocation</string>
+	<key>positiondata</key>
+	<string>copyLabel</string>
+	<key>shouldPrepareImage</key>
+	<string>logFormat</string>
+	<key>utilCoord</key>
+	<string>canDecodeStack</string>
+</dict>
+</plist>

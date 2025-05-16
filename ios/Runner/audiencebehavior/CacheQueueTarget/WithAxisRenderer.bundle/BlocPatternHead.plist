@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonmerger</key>
+	<string>copySink</string>
+	<key>disabledAnimator</key>
+	<string>canDisconnectBuilder</string>
+	<key>marginwithoutvisitor</key>
+	<string>divideSingleton</string>
+	<key>opaqueBinder</key>
+	<string>euclideanRecursion</string>
+	<key>queueTop</key>
+	<string>advancedMechanism</string>
+	<key>resolverDuration</key>
+	<string>typicalcontainershade</string>
+	<key>secondfragments</key>
+	<string>dismissRoute</string>
+	<key>stackanimation</key>
+	<string>selectedMobile</string>
+	<key>tappableInteractor</key>
+	<string>exceptionrotation</string>
+	<key>toleranceAppearance</key>
+	<string>elasticityDistance</string>
+</dict>
+</plist>

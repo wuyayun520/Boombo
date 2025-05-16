@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitieskind</key>
+	<string>independentContrast</string>
+	<key>checkboxResponse</key>
+	<string>promiseFeedback</string>
+	<key>immutableConverter</key>
+	<string>stopLog</string>
+	<key>interactiveLocalization</key>
+	<string>streamlineDescription</string>
+	<key>prismaticRadius</key>
+	<string>cleandelegate</string>
+	<key>shouldEndPageView</key>
+	<string>pickerInset</string>
+	<key>shouldFinishStoryboard</key>
+	<string>shouldTransitionPoint</string>
+	<key>substantialSpot</key>
+	<string>multiCurve</string>
+	<key>validatesession</key>
+	<string>mainMargin</string>
+</dict>
+</plist>

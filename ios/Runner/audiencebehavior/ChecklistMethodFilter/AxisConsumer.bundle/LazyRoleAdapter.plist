@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableAnchor</key>
+	<string>compileModel</string>
+	<key>handlerValidation</key>
+	<string>specifierloop</string>
+	<key>logarithmDepth</key>
+	<string>currentObserver</string>
+	<key>occasionLocation</key>
+	<string>combineSize</string>
+</dict>
+</plist>

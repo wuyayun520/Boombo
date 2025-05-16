@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedStep</key>
+	<string>invisibleChooser</string>
+	<key>channelssystemfeedback</key>
+	<string>anchorframeworkresponse</string>
+	<key>consumerpadding</key>
+	<string>selectorShade</string>
+	<key>creategesturedetector</key>
+	<string>shouldPresentBitrate</string>
+	<key>largeDropdownButton</key>
+	<string>certificatebinder</string>
+	<key>shouldPauseOperation</key>
+	<string>shouldParseConstraint</string>
+	<key>shouldPersistExpanded</key>
+	<string>actionCycle</string>
+	<key>slashSkewX</key>
+	<string>dedicatedMerger</string>
+	<key>typicalRoute</key>
+	<string>geometricRectangle</string>
+</dict>
+</plist>

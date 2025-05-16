@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultTolerance</key>
+	<string>disabledAudio</string>
+	<key>materializerSaturation</key>
+	<string>lostCallback</string>
+	<key>metadatainset</key>
+	<string>navigateHistogram</string>
+	<key>pivotalNavigator</key>
+	<string>hierarchicalStateless</string>
+	<key>shouldBindScaffold</key>
+	<string>canYieldUnary</string>
+	<key>shouldPublishScale</key>
+	<string>scenealongstate</string>
+	<key>storeatscope</key>
+	<string>multiIndicator</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerbottom</key>
+	<string>offsetthroughpattern</string>
+	<key>awaitprocessedge</key>
+	<string>drawermode</string>
+	<key>explicitProgressBar</key>
+	<string>discardedPageView</string>
+	<key>factorymechanism</key>
+	<string>compositionEnvironment</string>
+	<key>momentumutil</key>
+	<string>sustainableTimeline</string>
+	<key>shouldBuildMatrix</key>
+	<string>progressbarrestriction</string>
+	<key>shouldNavigateProject</key>
+	<string>skinForce</string>
+</dict>
+</plist>

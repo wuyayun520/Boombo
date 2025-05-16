@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedModal</key>
+	<string>layouttrigger</string>
+	<key>boxtension</key>
+	<string>containerVisibility</string>
+	<key>continuecontainer</key>
+	<string>exponentRate</string>
+	<key>currentslash</key>
+	<string>lostPreview</string>
+	<key>granularTabView</key>
+	<string>shouldPublishSwitch</string>
+	<key>materialNib</key>
+	<string>presenterShape</string>
+	<key>unlockchallenge</key>
+	<string>pauseColumn</string>
+</dict>
+</plist>

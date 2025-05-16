@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablebehaviorleft</key>
+	<string>routeStyle</string>
+	<key>directlyPreview</key>
+	<string>variantcount</string>
+	<key>granularChart</key>
+	<string>textBorder</string>
+	<key>mainPublisher</key>
+	<string>canRestartConstraint</string>
+	<key>mediummanagerorientation</key>
+	<string>vectoropacity</string>
+	<key>restorebloc</key>
+	<string>findzone</string>
+	<key>shouldTransitionTechnique</key>
+	<string>mediumGrayscale</string>
+</dict>
+</plist>

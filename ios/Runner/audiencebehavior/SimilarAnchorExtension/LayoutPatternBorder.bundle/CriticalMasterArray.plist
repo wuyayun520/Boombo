@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorprocesstransparency</key>
+	<string>synchronousCreator</string>
+	<key>cosineFrequency</key>
+	<string>canAnimateCurve</string>
+	<key>framecallback</key>
+	<string>calculateStream</string>
+	<key>interactorvisibility</key>
+	<string>activatedBatch</string>
+	<key>semanticTouch</key>
+	<string>completerTask</string>
+	<key>spinemargin</key>
+	<string>alertRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chaptervisible</key>
+	<string>nextCombiner</string>
+	<key>currentSegment</key>
+	<string>projectefficiency</string>
+	<key>groupOrigin</key>
+	<string>inactiveNotifier</string>
+	<key>largeInstruction</key>
+	<string>robustSpecifier</string>
+	<key>layoutAppearance</key>
+	<string>collectionStyle</string>
+	<key>lostMusic</key>
+	<string>navigatorinterval</string>
+	<key>radioDensity</key>
+	<string>containerfacadeformat</string>
+</dict>
+</plist>

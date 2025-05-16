@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationtop</key>
+	<string>registerInteractor</string>
+	<key>chartSaturation</key>
+	<string>providerfrequency</string>
+	<key>customModule</key>
+	<string>pinchabletool</string>
+	<key>gatestore</key>
+	<string>granularRadio</string>
+	<key>shouldAttachMomentum</key>
+	<string>diffableMapper</string>
+	<key>smartObserver</key>
+	<string>recursionInset</string>
+	<key>substantialComposition</key>
+	<string>batchRight</string>
+</dict>
+</plist>

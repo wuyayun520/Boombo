@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderVisible</key>
+	<string>cleanException</string>
+	<key>dependencyFrequency</key>
+	<string>localizationposition</string>
+	<key>fusedRenderer</key>
+	<string>previewfinder</string>
+	<key>geometricNotifier</key>
+	<string>significantSpine</string>
+	<key>rectmediatorforce</key>
+	<string>sustainableWorkflow</string>
+	<key>shouldDispatchScaffold</key>
+	<string>renderAxis</string>
+	<key>singletonrate</key>
+	<string>aspectratioSize</string>
+	<key>subsequentAudio</key>
+	<string>sinkatstructure</string>
+	<key>substantialStream</key>
+	<string>canMountedPet</string>
+</dict>
+</plist>

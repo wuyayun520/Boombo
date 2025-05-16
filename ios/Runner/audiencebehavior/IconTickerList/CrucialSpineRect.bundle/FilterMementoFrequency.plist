@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTransformer</key>
+	<string>canSubscribeCompletion</string>
+	<key>integrityInterval</key>
+	<string>crudeSubpixel</string>
+	<key>largeCatalyst</key>
+	<string>marshalResolver</string>
+	<key>rapidListView</key>
+	<string>consumptionTransparency</string>
+	<key>showmaterial</key>
+	<string>canPublishCanvas</string>
+</dict>
+</plist>

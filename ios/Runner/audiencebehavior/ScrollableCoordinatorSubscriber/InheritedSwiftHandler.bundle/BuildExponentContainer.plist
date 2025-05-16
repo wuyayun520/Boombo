@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>momentumTint</key>
+	<string>mutableDistinction</string>
+	<key>opaqueSegue</key>
+	<string>transformListener</string>
+	<key>resizableTriangles</key>
+	<string>activeSingleton</string>
+	<key>scrollablePlate</key>
+	<string>mechanismBehavior</string>
+	<key>sharedSymbol</key>
+	<string>threadBehavior</string>
+	<key>shouldTransformInterpolation</key>
+	<string>inflateResult</string>
+	<key>shouldbindgift</key>
+	<string>giftAction</string>
+</dict>
+</plist>

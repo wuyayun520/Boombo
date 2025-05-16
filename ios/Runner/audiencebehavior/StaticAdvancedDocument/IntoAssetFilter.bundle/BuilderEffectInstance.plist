@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardDelivery</key>
+	<string>concurrentText</string>
+	<key>desktopmethod</key>
+	<string>unmountBullet</string>
+	<key>dismisscharacter</key>
+	<string>mobileTool</string>
+	<key>mainFuture</key>
+	<string>referenceMomentum</string>
+	<key>referenceOffset</key>
+	<string>spineShade</string>
+	<key>resizableModule</key>
+	<string>lockPopup</string>
+	<key>shouldEmitMomentum</key>
+	<string>declarativeAnimatedContainer</string>
+</dict>
+</plist>

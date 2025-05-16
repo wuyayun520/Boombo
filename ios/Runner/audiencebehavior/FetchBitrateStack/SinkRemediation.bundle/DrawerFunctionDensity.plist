@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentcount</key>
+	<string>sizeconverter</string>
+	<key>delicateconfigurationappearance</key>
+	<string>draggableProvider</string>
+	<key>receivecatalyst</key>
+	<string>discardedLifecycle</string>
+	<key>tappableGridView</key>
+	<string>tweenCommand</string>
+	<key>usagelocation</key>
+	<string>canFormatResource</string>
+</dict>
+</plist>

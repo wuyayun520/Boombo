@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationwidget</key>
+	<string>shouldLayoutScreen</string>
+	<key>ephemeralRequest</key>
+	<string>cartesianConfiguration</string>
+	<key>granularlabel</key>
+	<string>shouldDeserializeModal</string>
+	<key>moduleDensity</key>
+	<string>tensorSine</string>
+	<key>seamlessPriority</key>
+	<string>featureSize</string>
+	<key>shouldDecodeNavigator</key>
+	<string>filterBehavior</string>
+	<key>significantBloc</key>
+	<string>repositoryStage</string>
+	<key>smartmethodpressure</key>
+	<string>binaryForce</string>
+	<key>strengthVisibility</key>
+	<string>delegatestyle</string>
+</dict>
+</plist>

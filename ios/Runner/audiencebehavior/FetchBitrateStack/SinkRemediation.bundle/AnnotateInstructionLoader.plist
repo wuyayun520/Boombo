@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttondisclaimer</key>
+	<string>maintaingrid</string>
+	<key>denseDistinction</key>
+	<string>resilientChannels</string>
+	<key>robustFragments</key>
+	<string>subscribecolumn</string>
+	<key>screenFeedback</key>
+	<string>shouldLayoutView</string>
+	<key>tappableFinder</key>
+	<string>difficultGroup</string>
+	<key>typicalPolyfill</key>
+	<string>displayableTechnique</string>
+	<key>visibleMission</key>
+	<string>shaderPrototype</string>
+</dict>
+</plist>

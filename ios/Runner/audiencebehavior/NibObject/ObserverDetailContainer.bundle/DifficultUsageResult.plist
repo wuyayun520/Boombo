@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleThroughput</key>
+	<string>respectivePlate</string>
+	<key>binaryAlignment</key>
+	<string>renderCompletion</string>
+	<key>cacheTransparency</key>
+	<string>crucialOverlay</string>
+	<key>decorationcluster</key>
+	<string>immediateExpanded</string>
+	<key>enabledbuilder</key>
+	<string>uniqueExpanded</string>
+	<key>hardMedia</key>
+	<string>canRenderBinary</string>
+	<key>optimizerFlags</key>
+	<string>decorationmaterializer</string>
+	<key>permissiveMapper</key>
+	<string>clipperfrequency</string>
+	<key>zoneuntillayer</key>
+	<string>basicAllocator</string>
+</dict>
+</plist>

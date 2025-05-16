@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredCaption</key>
+	<string>canListenLoss</string>
+	<key>initializemethod</key>
+	<string>canStreamAnchor</string>
+	<key>polygonfrequency</key>
+	<string>projectionShade</string>
+	<key>releasemaster</key>
+	<string>combineResolver</string>
+	<key>responsiveBaseline</key>
+	<string>canDetachStream</string>
+</dict>
+</plist>

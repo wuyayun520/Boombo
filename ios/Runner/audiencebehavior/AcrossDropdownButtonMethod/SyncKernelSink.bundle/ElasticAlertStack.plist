@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowawait</key>
+	<string>hasshader</string>
+	<key>factorydata</key>
+	<string>paintMatrix</string>
+	<key>intermediateMend</key>
+	<string>rotateParticle</string>
+	<key>shouldObserveGesture</key>
+	<string>touchHandler</string>
+	<key>shouldRebuildWorkflow</key>
+	<string>shouldUnmountScroll</string>
+	<key>shouldsavemargin</key>
+	<string>shouldDecodeKernel</string>
+	<key>storageSkewY</key>
+	<string>shouldRebuildPrecision</string>
+	<key>sustainablerepositorystate</key>
+	<string>shouldSerializeLayout</string>
+</dict>
+</plist>

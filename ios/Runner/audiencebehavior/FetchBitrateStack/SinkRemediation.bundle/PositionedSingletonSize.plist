@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphatempleorientation</key>
+	<string>resizableDependency</string>
+	<key>checklistevent</key>
+	<string>crudecharacter</string>
+	<key>crucialCharacteristic</key>
+	<string>popChallenge</string>
+	<key>generatemodel</key>
+	<string>axisadapterstyle</string>
+	<key>sortedInfrastructure</key>
+	<string>toleranceForce</string>
+</dict>
+</plist>

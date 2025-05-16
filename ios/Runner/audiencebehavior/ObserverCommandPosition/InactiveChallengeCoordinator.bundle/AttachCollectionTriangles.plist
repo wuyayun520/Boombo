@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystinsideprocess</key>
+	<string>desktopScaffold</string>
+	<key>herocount</key>
+	<string>integerObserver</string>
+	<key>lostMomentum</key>
+	<string>framecreator</string>
+	<key>navigatetween</key>
+	<string>modalColor</string>
+	<key>specifyHash</key>
+	<string>cupertinoDependency</string>
+	<key>tabviewTension</key>
+	<string>spriteParam</string>
+	<key>timeInterval</key>
+	<string>canNavigateLogarithm</string>
+</dict>
+</plist>

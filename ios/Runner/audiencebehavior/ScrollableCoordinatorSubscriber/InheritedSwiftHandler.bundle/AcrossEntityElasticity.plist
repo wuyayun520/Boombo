@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentMode</key>
+	<string>batchoffset</string>
+	<key>discardedProvision</key>
+	<string>lazyNotifier</string>
+	<key>listenerstyleorientation</key>
+	<string>blocCommand</string>
+	<key>menuformat</key>
+	<string>titlecenter</string>
+	<key>momentumDepth</key>
+	<string>prioritydespiteenvironment</string>
+	<key>nativeCertificate</key>
+	<string>cartesianGram</string>
+	<key>originalMobile</key>
+	<string>resilientChooser</string>
+	<key>schedulerType</key>
+	<string>bufferLocation</string>
+	<key>substantialCurve</key>
+	<string>offsetDistance</string>
+	<key>textureinteraction</key>
+	<string>trainActivity</string>
+</dict>
+</plist>

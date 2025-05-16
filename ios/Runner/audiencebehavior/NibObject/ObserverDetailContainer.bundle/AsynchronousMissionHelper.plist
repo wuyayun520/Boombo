@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionphasevalidation</key>
+	<string>robustDocument</string>
+	<key>concreteScheduler</key>
+	<string>debugMethod</string>
+	<key>difficultRow</key>
+	<string>audioBound</string>
+	<key>euclideansingletonsize</key>
+	<string>shouldTransformInkWell</string>
+	<key>factoryOpacity</key>
+	<string>arithmeticfromlayer</string>
+	<key>filterValidation</key>
+	<string>tweenOperation</string>
+	<key>integrationPosition</key>
+	<string>requestInset</string>
+	<key>spritepatterntransparency</key>
+	<string>transformAxis</string>
+	<key>storageefficiency</key>
+	<string>declarativeScroller</string>
+</dict>
+</plist>

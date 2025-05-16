@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitterResponse</key>
+	<string>finishInterpolation</string>
+	<key>geometricsample</key>
+	<string>tensorView</string>
+	<key>iconindex</key>
+	<string>signsingletoncoord</string>
+	<key>publicMobile</key>
+	<string>shouldrestartsubpixel</string>
+	<key>shouldtransitionrichtext</key>
+	<string>navigateInjection</string>
+	<key>usedSlash</key>
+	<string>particleFunction</string>
+</dict>
+</plist>

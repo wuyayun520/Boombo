@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorLocation</key>
+	<string>lostreplica</string>
+	<key>aspectVisibility</key>
+	<string>typicalPreview</string>
+	<key>enabledCollection</key>
+	<string>playException</string>
+	<key>localNib</key>
+	<string>elementContrast</string>
+	<key>operationBehavior</key>
+	<string>protectedScenario</string>
+	<key>rapidDrawer</key>
+	<string>listenExponent</string>
+	<key>transformscale</key>
+	<string>gramzone</string>
+</dict>
+</plist>

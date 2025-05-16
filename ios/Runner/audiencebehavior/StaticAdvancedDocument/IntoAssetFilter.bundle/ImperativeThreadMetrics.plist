@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioforcommand</key>
+	<string>animatemetadata</string>
+	<key>inheritedAllocator</key>
+	<string>requestLocation</string>
+	<key>interpolationpopup</key>
+	<string>cubeSpacing</string>
+	<key>intuitivescalability</key>
+	<string>directAnalogy</string>
+	<key>nibalignment</key>
+	<string>checklistLocation</string>
+	<key>protocolEdge</key>
+	<string>synchronousSignature</string>
+</dict>
+</plist>

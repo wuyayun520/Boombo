@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTheme</key>
+	<string>renameText</string>
+	<key>bitratecallback</key>
+	<string>otherCapacities</string>
+	<key>dedicatedMenu</key>
+	<string>shouldTransitionButton</string>
+	<key>flexibleMend</key>
+	<string>shouldUpdateExponent</string>
+	<key>paddingscopeinset</key>
+	<string>metadataType</string>
+	<key>slashmodel</key>
+	<string>embraceZone</string>
+	<key>tentativeInset</key>
+	<string>revisitRequest</string>
+</dict>
+</plist>

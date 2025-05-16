@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyTabBar</key>
+	<string>iterativeCurve</string>
+	<key>gesturedetectoraroundoperation</key>
+	<string>strokeRotation</string>
+	<key>interactiveMusic</key>
+	<string>replaceCurve</string>
+	<key>materialskirtfeedback</key>
+	<string>persistOption</string>
+	<key>optionFormat</key>
+	<string>mediaStrategy</string>
+	<key>shouldNotifyMission</key>
+	<string>cancelRadio</string>
+	<key>shouldmountvariant</key>
+	<string>saveNib</string>
+</dict>
+</plist>

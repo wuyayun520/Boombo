@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileChooser</key>
+	<string>otherPager</string>
+	<key>entropyVelocity</key>
+	<string>directlyCursor</string>
+	<key>giftcontroller</key>
+	<string>detachAperture</string>
+	<key>mastervisitorduration</key>
+	<string>hardFilter</string>
+	<key>webNavigator</key>
+	<string>disabledEqualization</string>
+</dict>
+</plist>

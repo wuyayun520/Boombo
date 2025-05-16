@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindchecklist</key>
+	<string>normalView</string>
+	<key>canvasthroughproxy</key>
+	<string>statelessMaster</string>
+	<key>handlerfeedback</key>
+	<string>specifyMetadata</string>
+	<key>rapidNorm</key>
+	<string>convolutionframeworkalignment</string>
+	<key>renameview</key>
+	<string>clipException</string>
+	<key>statelessException</key>
+	<string>lossspeed</string>
+	<key>streamstorage</key>
+	<string>receiverAlignment</string>
+</dict>
+</plist>

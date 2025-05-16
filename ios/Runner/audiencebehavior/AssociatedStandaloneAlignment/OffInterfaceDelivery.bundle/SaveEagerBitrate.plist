@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterMode</key>
+	<string>serviceSpacing</string>
+	<key>delicateMetadata</key>
+	<string>immediateReference</string>
+	<key>denseTable</key>
+	<string>mutableConstraint</string>
+	<key>linkerTheme</key>
+	<string>hasMusic</string>
+	<key>missionstream</key>
+	<string>binderFeedback</string>
+</dict>
+</plist>

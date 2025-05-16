@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedfragments</key>
+	<string>columncolor</string>
+	<key>binaryDuration</key>
+	<string>inactiveSegue</string>
+	<key>concurrentWidget</key>
+	<string>formatBottom</string>
+	<key>constraintawayfunction</key>
+	<string>selectedbullet</string>
+	<key>currentSwitch</key>
+	<string>segmentComposite</string>
+	<key>directSegment</key>
+	<string>graphicValue</string>
+	<key>isExpanded</key>
+	<string>shouldParseComposition</string>
+	<key>managerOpacity</key>
+	<string>paddingPadding</string>
+	<key>modelAlignment</key>
+	<string>largeChart</string>
+	<key>transitionspeed</key>
+	<string>parsegroup</string>
+</dict>
+</plist>

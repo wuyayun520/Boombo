@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryOffset</key>
+	<string>substantialactiontop</string>
+	<key>hierarchicalGraph</key>
+	<string>diffableThreshold</string>
+	<key>immediatemodel</key>
+	<string>offsetFormat</string>
+	<key>intermediateWorkflow</key>
+	<string>fetchObserver</string>
+	<key>lostCard</key>
+	<string>shouldnavigatesizedbox</string>
+	<key>resilientArithmetic</key>
+	<string>directModel</string>
+	<key>sizeFormat</key>
+	<string>bufferFeedback</string>
+</dict>
+</plist>

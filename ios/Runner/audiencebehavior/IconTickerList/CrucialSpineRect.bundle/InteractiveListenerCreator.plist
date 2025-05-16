@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchalignment</key>
+	<string>uniqueStroke</string>
+	<key>denseprovider</key>
+	<string>synchronizeRoute</string>
+	<key>displayableMultiplication</key>
+	<string>reusablePresenter</string>
+	<key>otherCubit</key>
+	<string>scaffoldBottom</string>
+	<key>pinchableRestriction</key>
+	<string>canAnimateNavigator</string>
+	<key>statelesstexturealignment</key>
+	<string>addConstraint</string>
+	<key>stepphasevelocity</key>
+	<string>crudeCharacteristic</string>
+</dict>
+</plist>

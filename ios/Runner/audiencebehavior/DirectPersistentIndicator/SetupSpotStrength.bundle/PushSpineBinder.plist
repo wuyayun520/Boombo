@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>datacolor</key>
+	<string>geometricPriority</string>
+	<key>hyperbolicConstraint</key>
+	<string>shouldCreateImage</string>
+	<key>interactorsubscriber</key>
+	<string>functionalDependency</string>
+	<key>latencyvisibility</key>
+	<string>cacheSkirt</string>
+	<key>shouldFinishUnary</key>
+	<string>tensorCoordinator</string>
+	<key>variantscenario</key>
+	<string>renderConvolution</string>
+</dict>
+</plist>

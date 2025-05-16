@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxAlignment</key>
+	<string>touchIntensity</string>
+	<key>cycleShape</key>
+	<string>decodelistener</string>
+	<key>hasCanvas</key>
+	<string>navigatorFlags</string>
+	<key>mediaframeworkacceleration</key>
+	<string>independentElement</string>
+	<key>shouldSubscribeReduction</key>
+	<string>reduceMetadata</string>
+	<key>sliderdescription</key>
+	<string>textfieldlayerlocation</string>
+	<key>staticModulus</key>
+	<string>largetransformer</string>
+	<key>timelineDelay</key>
+	<string>replaceLoss</string>
+</dict>
+</plist>

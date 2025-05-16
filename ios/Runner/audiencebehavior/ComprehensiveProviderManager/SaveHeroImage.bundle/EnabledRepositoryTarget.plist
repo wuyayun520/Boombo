@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintSpeed</key>
+	<string>secondEvent</string>
+	<key>gridviewVisibility</key>
+	<string>deserializePriority</string>
+	<key>hierarchicalUnary</key>
+	<string>notifierPosition</string>
+	<key>localEffect</key>
+	<string>shouldUnmountedAlert</string>
+	<key>persistentKernel</key>
+	<string>canPushNavigator</string>
+	<key>seamlessService</key>
+	<string>tappablemember</string>
+	<key>shouldNotifyDecoration</key>
+	<string>desktopPicker</string>
+	<key>shouldNotifyTextField</key>
+	<string>canDisposeLog</string>
+</dict>
+</plist>

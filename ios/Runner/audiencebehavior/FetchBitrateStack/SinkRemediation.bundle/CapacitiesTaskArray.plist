@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCanvas</key>
+	<string>expandedmediatordirection</string>
+	<key>activatedaction</key>
+	<string>pageviewOffset</string>
+	<key>compositionalScene</key>
+	<string>backwardpager</string>
+	<key>granularSubscription</key>
+	<string>uniqueException</string>
+	<key>hyperbolicStep</key>
+	<string>stringifyTween</string>
+	<key>statefulPopup</key>
+	<string>descriptioninmode</string>
+</dict>
+</plist>

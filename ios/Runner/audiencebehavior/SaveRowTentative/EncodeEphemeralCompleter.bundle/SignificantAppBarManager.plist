@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>polygonEdge</key>
+	<string>performIsolate</string>
+	<key>shouldObserveCapsule</key>
+	<string>encodeAccessory</string>
+	<key>shouldProcessCatalyst</key>
+	<string>canValidateShader</string>
+	<key>shouldUpdateBrush</key>
+	<string>injectionTask</string>
+	<key>synchronousConsumption</key>
+	<string>buttonVariable</string>
+</dict>
+</plist>

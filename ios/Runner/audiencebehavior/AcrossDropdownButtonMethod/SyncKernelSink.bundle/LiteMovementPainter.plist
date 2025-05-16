@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerforstyle</key>
+	<string>advancedTime</string>
+	<key>dataCenter</key>
+	<string>parseFactory</string>
+	<key>delicateGrayscale</key>
+	<string>alignmentframe</string>
+	<key>difficultemitter</key>
+	<string>tickerPrototype</string>
+	<key>directFactory</key>
+	<string>consultativeAwait</string>
+	<key>elasticAnchor</key>
+	<string>difficultMobile</string>
+	<key>shouldTransitionRoute</key>
+	<string>apertureScale</string>
+</dict>
+</plist>

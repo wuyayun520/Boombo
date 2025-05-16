@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertbymode</key>
+	<string>oldFeature</string>
+	<key>commonGrid</key>
+	<string>diversifiedProcessor</string>
+	<key>coordinatorOffset</key>
+	<string>floatHandler</string>
+	<key>dimensionwithoutstyle</key>
+	<string>discardedBehavior</string>
+	<key>functionalinteractorflags</key>
+	<string>intensityCoord</string>
+	<key>globalColor</key>
+	<string>consultativeInformation</string>
+	<key>reusableInteger</key>
+	<string>dynamicDescription</string>
+	<key>segmentbottom</key>
+	<string>vectorVar</string>
+</dict>
+</plist>

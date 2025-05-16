@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionrate</key>
+	<string>obtainLayer</string>
+	<key>diversifiedResource</key>
+	<string>similarConstraint</string>
+	<key>pagerOrientation</key>
+	<string>mainPolyfill</string>
+	<key>reducerSize</key>
+	<string>customizedPopup</string>
+	<key>resizablebrushfeedback</key>
+	<string>observeIndicator</string>
+	<key>shouldemitsegment</key>
+	<string>gramComposite</string>
+</dict>
+</plist>

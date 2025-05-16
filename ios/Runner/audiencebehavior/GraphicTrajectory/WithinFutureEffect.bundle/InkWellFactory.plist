@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderawayinterpreter</key>
+	<string>calculateRadius</string>
+	<key>dedicatedIcon</key>
+	<string>shouldSkipSample</string>
+	<key>injectionBehavior</key>
+	<string>nextFragments</string>
+	<key>intuitiveScale</key>
+	<string>aggregateFrame</string>
+	<key>liteStateful</key>
+	<string>profileContext</string>
+	<key>metricsMargin</key>
+	<string>integerInset</string>
+	<key>presentcharacter</key>
+	<string>routervisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSchema</key>
+	<string>compositionaldecorationvisible</string>
+	<key>newestInteraction</key>
+	<string>observeinjection</string>
+	<key>operationtraversal</key>
+	<string>blocleft</string>
+	<key>scrollDensity</key>
+	<string>characteristicFrequency</string>
+	<key>shouldDisconnectBatch</key>
+	<string>observerBorder</string>
+	<key>shouldPopSwift</key>
+	<string>localizationbeyondjob</string>
+</dict>
+</plist>

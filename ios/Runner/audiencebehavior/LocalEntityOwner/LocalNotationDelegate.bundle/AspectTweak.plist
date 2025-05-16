@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoStoryboard</key>
+	<string>findService</string>
+	<key>lifecycleRotation</key>
+	<string>previewHue</string>
+	<key>normalSearcher</key>
+	<string>enumerateMetadata</string>
+	<key>touchContrast</key>
+	<string>functionalTheme</string>
+</dict>
+</plist>

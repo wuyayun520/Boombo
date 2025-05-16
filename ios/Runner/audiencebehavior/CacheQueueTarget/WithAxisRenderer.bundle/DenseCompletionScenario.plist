@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorexceptsystem</key>
+	<string>canContinueMargin</string>
+	<key>colorDistance</key>
+	<string>mendAppearance</string>
+	<key>equivalentStyle</key>
+	<string>publicRemainder</string>
+	<key>fusedEvaluation</key>
+	<string>fusedManager</string>
+	<key>nativeMesh</key>
+	<string>persistnib</string>
+</dict>
+</plist>

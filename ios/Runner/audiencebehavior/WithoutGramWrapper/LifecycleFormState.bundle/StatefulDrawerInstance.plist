@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDetail</key>
+	<string>isCupertino</string>
+	<key>materialBaseline</key>
+	<string>equipmentrect</string>
+	<key>secondTabView</key>
+	<string>shouldCancelBinary</string>
+	<key>sequentialSingleton</key>
+	<string>backwardProcessor</string>
+	<key>subsequentPriority</key>
+	<string>canFinishClipper</string>
+</dict>
+</plist>

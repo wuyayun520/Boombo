@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindaspect</key>
+	<string>multiplicationForce</string>
+	<key>invisiblepermutation</key>
+	<string>remediationFormat</string>
+	<key>keyAudio</key>
+	<string>connectvector</string>
+	<key>presenterDirection</key>
+	<string>specifyTimer</string>
+	<key>shouldBindNotifier</key>
+	<string>shouldSaveCupertino</string>
+	<key>shouldCancelDrawer</key>
+	<string>listenerVisitor</string>
+	<key>statusBrightness</key>
+	<string>saveDocument</string>
+</dict>
+</plist>

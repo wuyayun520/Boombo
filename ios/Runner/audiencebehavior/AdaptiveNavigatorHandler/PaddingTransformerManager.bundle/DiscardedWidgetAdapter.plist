@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicResolver</key>
+	<string>graphSingleton</string>
+	<key>isTernary</key>
+	<string>canStartAspect</string>
+	<key>pivotaltopicborder</key>
+	<string>divideProvider</string>
+	<key>primaryFragments</key>
+	<string>criticalScope</string>
+	<key>remainderTransparency</key>
+	<string>iterativeManager</string>
+	<key>shouldRenderGridView</key>
+	<string>usedFormat</string>
+	<key>shouldReplaceEquipment</key>
+	<string>lostProtocol</string>
+	<key>transitionpager</key>
+	<string>detachPreview</string>
+</dict>
+</plist>

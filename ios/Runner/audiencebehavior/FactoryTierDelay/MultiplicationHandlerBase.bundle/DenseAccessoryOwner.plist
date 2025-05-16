@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredMatrix</key>
+	<string>directDistinction</string>
+	<key>materialAlpha</key>
+	<string>euclideansize</string>
+	<key>mediumCubit</key>
+	<string>layoutExtension</string>
+	<key>prevChannels</key>
+	<string>tappableTaxonomy</string>
+	<key>priorityVelocity</key>
+	<string>boxInteraction</string>
+	<key>roleHead</key>
+	<string>similarLoader</string>
+	<key>shouldDismissBox</key>
+	<string>deserializeobserver</string>
+	<key>shouldValidateMember</key>
+	<string>widgetScope</string>
+	<key>shouldpersistlogarithm</key>
+	<string>currentRouter</string>
+</dict>
+</plist>

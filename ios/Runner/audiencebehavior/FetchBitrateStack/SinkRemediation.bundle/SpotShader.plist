@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlySemantics</key>
+	<string>canResumeSegment</string>
+	<key>euclideanTransformer</key>
+	<string>defaultLog</string>
+	<key>largeColumn</key>
+	<string>holdDecoration</string>
+	<key>liteSpot</key>
+	<string>canProcessGrayscale</string>
+	<key>mediaquerywithstructure</key>
+	<string>integerMode</string>
+	<key>relationalCombiner</key>
+	<string>calculateoption</string>
+	<key>shouldDetachHero</key>
+	<string>globalPainter</string>
+	<key>shouldEncodePrecision</key>
+	<string>updateResponse</string>
+	<key>stateSkewX</key>
+	<string>shouldUpdateMatrix</string>
+	<key>unactivatedCupertino</key>
+	<string>observerStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateOccasion</key>
+	<string>widgetPlatform</string>
+	<key>mobileradiusbrightness</key>
+	<string>featureOpacity</string>
+	<key>scrollableGrayscale</key>
+	<string>concatenateUseCase</string>
+	<key>shouldanimategift</key>
+	<string>alphaValue</string>
+	<key>similarGem</key>
+	<string>mainAnimation</string>
+	<key>singletonname</key>
+	<string>canSetStatePriority</string>
+	<key>statelessInteraction</key>
+	<string>mitigatepopup</string>
+	<key>syncequalization</key>
+	<string>statefulEquivalent</string>
+</dict>
+</plist>

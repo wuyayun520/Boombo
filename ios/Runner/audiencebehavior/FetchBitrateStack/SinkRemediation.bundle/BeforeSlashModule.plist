@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryvaluestate</key>
+	<string>cartesianMetadata</string>
+	<key>provideragainstobserver</key>
+	<string>retainedContraction</string>
+	<key>provideresource</key>
+	<string>shouldDismissActivity</string>
+	<key>sinklocation</key>
+	<string>bindIcon</string>
+</dict>
+</plist>

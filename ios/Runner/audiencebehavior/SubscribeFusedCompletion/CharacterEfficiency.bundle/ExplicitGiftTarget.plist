@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorValidation</key>
+	<string>graphicdependency</string>
+	<key>completerBrightness</key>
+	<string>retainedCompletion</string>
+	<key>flexibleUseCase</key>
+	<string>consultativeData</string>
+	<key>immutableMovement</key>
+	<string>popupbesidecontext</string>
+	<key>layoutMode</key>
+	<string>shouldKeepMap</string>
+	<key>plateinset</key>
+	<string>similarCapacities</string>
+	<key>progressbarhandler</key>
+	<string>routeBottom</string>
+	<key>segueFrequency</key>
+	<string>alertprovision</string>
+	<key>threadofcomposite</key>
+	<string>factoryelasticity</string>
+</dict>
+</plist>

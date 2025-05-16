@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishcapsule</key>
+	<string>maintainTransition</string>
+	<key>shouldResumeCard</key>
+	<string>rowColor</string>
+	<key>standalonePrecision</key>
+	<string>materialSlash</string>
+	<key>statelesswidgetvisible</key>
+	<string>custompaintOpacity</string>
+	<key>temporaryStoryboard</key>
+	<string>scaffoldState</string>
+</dict>
+</plist>

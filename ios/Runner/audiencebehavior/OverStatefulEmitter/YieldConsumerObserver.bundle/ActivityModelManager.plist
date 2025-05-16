@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCatalyst</key>
+	<string>greatTicker</string>
+	<key>clipperkindbehavior</key>
+	<string>tensorConsumer</string>
+	<key>currentHash</key>
+	<string>optimizeGrid</string>
+	<key>currentOptimizer</key>
+	<string>mediumScheduler</string>
+	<key>dispatchconvolution</key>
+	<string>canAnimateCell</string>
+	<key>sampleBottom</key>
+	<string>autoExpanded</string>
+	<key>sequentialChannel</key>
+	<string>entropyValue</string>
+	<key>shouldUpdateAspect</key>
+	<string>unmountedCard</string>
+	<key>uniquePositioned</key>
+	<string>materialPlate</string>
+</dict>
+</plist>

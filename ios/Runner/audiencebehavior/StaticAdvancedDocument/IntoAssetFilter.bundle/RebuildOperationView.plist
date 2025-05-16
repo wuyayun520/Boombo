@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteStrength</key>
+	<string>navigateInkWell</string>
+	<key>moduleContrast</key>
+	<string>permissiveFormat</string>
+	<key>observeradius</key>
+	<string>progressbarName</string>
+	<key>oldTable</key>
+	<string>enabledTimer</string>
+	<key>onoptimizerchanged</key>
+	<string>synchronousProgressBar</string>
+	<key>popevent</key>
+	<string>formatBound</string>
+	<key>previewversustemple</key>
+	<string>materialScope</string>
+	<key>scrollableTrajectory</key>
+	<string>resilientLoader</string>
+	<key>shouldUnmountedPet</key>
+	<string>textasdecorator</string>
+	<key>spriteVisible</key>
+	<string>agileCursor</string>
+</dict>
+</plist>

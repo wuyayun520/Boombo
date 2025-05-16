@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMaterial</key>
+	<string>dataRight</string>
+	<key>desktopTransformer</key>
+	<string>nibSkewY</string>
+	<key>otherOperation</key>
+	<string>replaceSkin</string>
+	<key>shouldInflateCapsule</key>
+	<string>originalInkWell</string>
+	<key>shouldyieldconstraint</key>
+	<string>mediumWorkflow</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedScaffold</key>
+	<string>elasticConnector</string>
+	<key>eagerTabBar</key>
+	<string>augmentDependency</string>
+	<key>greataccessory</key>
+	<string>deserializeWidget</string>
+	<key>intermediateTernary</key>
+	<string>batchState</string>
+	<key>mutableResource</key>
+	<string>evaluationBorder</string>
+</dict>
+</plist>

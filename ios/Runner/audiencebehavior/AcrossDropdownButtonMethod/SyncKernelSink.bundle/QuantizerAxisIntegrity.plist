@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioKind</key>
+	<string>shouldLayoutSkirt</string>
+	<key>checkboxrepository</key>
+	<string>canPopSkirt</string>
+	<key>criticalSwift</key>
+	<string>pageviewFunction</string>
+	<key>paintasync</key>
+	<string>keyFrame</string>
+	<key>pickershape</key>
+	<string>shouldKeepSpecifier</string>
+	<key>selectedModulus</key>
+	<string>measureDelegate</string>
+	<key>shouldBuildKernel</key>
+	<string>constructPresenter</string>
+	<key>shouldMountedSession</key>
+	<string>sensorVisitor</string>
+	<key>stateBorder</key>
+	<string>shoulddispatchobserver</string>
+	<key>unsortedGrid</key>
+	<string>notifierPhase</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticscreenshade</key>
+	<string>deprecateListener</string>
+	<key>backwardBullet</key>
+	<string>limitSingleton</string>
+	<key>currentItem</key>
+	<string>publicCanvas</string>
+	<key>fixedListView</key>
+	<string>controllerLeft</string>
+	<key>methodadapterduration</key>
+	<string>interpolationFunction</string>
+	<key>navigatorRight</key>
+	<string>chartshape</string>
+	<key>radioMomentum</key>
+	<string>shouldTrainAppBar</string>
+	<key>robustSwift</key>
+	<string>checklistrate</string>
+	<key>rowimage</key>
+	<string>signFlyweight</string>
+</dict>
+</plist>

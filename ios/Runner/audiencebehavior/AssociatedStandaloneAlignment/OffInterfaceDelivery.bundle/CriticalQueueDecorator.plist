@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTechnique</key>
+	<string>stackframeworkborder</string>
+	<key>arithmeticFlags</key>
+	<string>statefultag</string>
+	<key>granularInteractor</key>
+	<string>initializeFrame</string>
+	<key>immediateRenderer</key>
+	<string>resizableAspectRatio</string>
+	<key>popupintegration</key>
+	<string>euclideanItem</string>
+	<key>promiseEdge</key>
+	<string>shouldMountResource</string>
+</dict>
+</plist>

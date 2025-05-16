@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionEdge</key>
+	<string>associatedSkirt</string>
+	<key>enabledNorm</key>
+	<string>encapsulateCompleter</string>
+	<key>metadatafunctionfeedback</key>
+	<string>inflateTopic</string>
+	<key>metadatainformation</key>
+	<string>maxDialogs</string>
+	<key>normalNode</key>
+	<string>materializeTopic</string>
+	<key>shouldAnimateSlash</key>
+	<string>protectedSize</string>
+	<key>tappableNavigator</key>
+	<string>seguethanframework</string>
+	<key>weboverlayappearance</key>
+	<string>shouldDismissAccessory</string>
+</dict>
+</plist>

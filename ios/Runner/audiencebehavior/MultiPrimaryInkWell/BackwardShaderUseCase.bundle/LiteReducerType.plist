@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fetchtechnique</key>
+	<string>embraceText</string>
+	<key>materialMomentum</key>
+	<string>processTool</string>
+	<key>shouldLayoutNavigation</key>
+	<string>eagerProvider</string>
+	<key>signatureShape</key>
+	<string>mobiletechniquecolor</string>
+</dict>
+</plist>

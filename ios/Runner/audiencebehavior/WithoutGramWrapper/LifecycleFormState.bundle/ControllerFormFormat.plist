@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeJoiner</key>
+	<string>handleArithmetic</string>
+	<key>shouldPushPadding</key>
+	<string>canParseSpecifier</string>
+	<key>synchronousConstraint</key>
+	<string>shouldMountComposition</string>
+	<key>tickerthreshold</key>
+	<string>spinLocalization</string>
+</dict>
+</plist>

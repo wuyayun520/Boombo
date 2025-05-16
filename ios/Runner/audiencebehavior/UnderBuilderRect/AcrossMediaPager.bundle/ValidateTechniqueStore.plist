@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeplatformkind</key>
+	<string>processTool</string>
+	<key>descriptorEdge</key>
+	<string>lastInteger</string>
+	<key>difficultFragments</key>
+	<string>asynchronousCheckbox</string>
+	<key>flexibleManager</key>
+	<string>adaptivePolyfill</string>
+	<key>responsiveNavigation</key>
+	<string>radiohue</string>
+	<key>shouldAttachBinary</key>
+	<string>histogramSkewY</string>
+</dict>
+</plist>

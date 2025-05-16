@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDispatcher</key>
+	<string>shouldHandleMaterial</string>
+	<key>backwardAlert</key>
+	<string>textHead</string>
+	<key>methodchainstate</key>
+	<string>canShowPageView</string>
+	<key>positionedbandwidth</key>
+	<string>shouldSaveSwift</string>
+	<key>shouldStreamSegment</key>
+	<string>keyBuilder</string>
+	<key>sinkworkskewy</key>
+	<string>freeFeature</string>
+	<key>specifyFactory</key>
+	<string>segueinjection</string>
+	<key>statefulMetadata</key>
+	<string>detachCubit</string>
+</dict>
+</plist>

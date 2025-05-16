@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheDensity</key>
+	<string>pinchableChapter</string>
+	<key>movementtrajectory</key>
+	<string>shouldStreamTextField</string>
+	<key>protectedTexture</key>
+	<string>materialListener</string>
+	<key>requiredStoryboard</key>
+	<string>requiredCubit</string>
+	<key>shouldListenSymbol</key>
+	<string>durationForm</string>
+	<key>shouldPresentMatrix</key>
+	<string>shouldDismissGram</string>
+	<key>smartCursor</key>
+	<string>shouldConnectMultiplication</string>
+</dict>
+</plist>

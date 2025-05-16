@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredBullet</key>
+	<string>oldSign</string>
+	<key>giftlatency</key>
+	<string>shouldUpdateBullet</string>
+	<key>isMatrix</key>
+	<string>shouldrouteflex</string>
+	<key>lostTransition</key>
+	<string>otherReducer</string>
+	<key>navigationHead</key>
+	<string>flexibleDocument</string>
+	<key>rendersink</key>
+	<string>lazyTolerance</string>
+	<key>shouldEncodePositioned</key>
+	<string>respectiveprocessor</string>
+	<key>shouldLayoutRadio</key>
+	<string>startButton</string>
+	<key>threadType</key>
+	<string>giftVariable</string>
+</dict>
+</plist>

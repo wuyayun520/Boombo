@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularMap</key>
+	<string>discardedStorage</string>
+	<key>mediumState</key>
+	<string>geometricWrapper</string>
+	<key>notifylocalization</key>
+	<string>shouldPushRichText</string>
+	<key>objectInset</key>
+	<string>rectifyTimer</string>
+	<key>otherRenderer</key>
+	<string>mediaqueryTheme</string>
+	<key>relationalBuffer</key>
+	<string>shouldEncodeBloc</string>
+	<key>shouldStopGesture</key>
+	<string>publicLoader</string>
+	<key>smallAsset</key>
+	<string>matrixForm</string>
+	<key>strengthDensity</key>
+	<string>themeDecorator</string>
+	<key>trajectoryinteraction</key>
+	<string>inactiveBuffer</string>
+</dict>
+</plist>

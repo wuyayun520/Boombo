@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>meshKind</key>
+	<string>iterativemethod</string>
+	<key>metricsshade</key>
+	<string>missedTransition</string>
+	<key>requiredChapter</key>
+	<string>activatedEvent</string>
+	<key>richtextqueue</key>
+	<string>integrityTheme</string>
+	<key>shouldLayoutInstruction</key>
+	<string>canTrainSymbol</string>
+	<key>shouldPaintFuture</key>
+	<string>checkboxContrast</string>
+	<key>signaturePosition</key>
+	<string>updateNode</string>
+	<key>sorterDelay</key>
+	<string>secondgradientmomentum</string>
+	<key>traversalMomentum</key>
+	<string>typicalStamp</string>
+</dict>
+</plist>

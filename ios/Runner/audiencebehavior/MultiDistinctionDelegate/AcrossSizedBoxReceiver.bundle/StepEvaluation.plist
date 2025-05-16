@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackdepth</key>
+	<string>notificationstyle</string>
+	<key>ephemeralGrid</key>
+	<string>maintainObserver</string>
+	<key>infrastructureinterval</key>
+	<string>canReplaceEffect</string>
+	<key>integrityForce</key>
+	<string>disabledStream</string>
+	<key>lazyHero</key>
+	<string>gesturedetectortheme</string>
+	<key>rapidProgressBar</key>
+	<string>catalystLeft</string>
+	<key>shaderFlags</key>
+	<string>disparateDescription</string>
+</dict>
+</plist>

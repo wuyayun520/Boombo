@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderVisibility</key>
+	<string>shouldPublishCustomPaint</string>
+	<key>displayableProcessor</key>
+	<string>canTransformPriority</string>
+	<key>largeprogressbarmode</key>
+	<string>canTransformTabView</string>
+	<key>listviewsystemcolor</key>
+	<string>persistThread</string>
+</dict>
+</plist>

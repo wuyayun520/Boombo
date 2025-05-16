@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileContrast</key>
+	<string>sharedrowskewx</string>
+	<key>bulletstrength</key>
+	<string>canPublishSignature</string>
+	<key>createloop</key>
+	<string>musicBottom</string>
+	<key>descriptionOrientation</key>
+	<string>notifyDescriptor</string>
+	<key>normalDescent</key>
+	<string>extensionInterval</string>
+	<key>sophisticatedmenu</key>
+	<string>nativeController</string>
+	<key>switchSkewX</key>
+	<string>disclaimertension</string>
+</dict>
+</plist>

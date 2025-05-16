@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationCount</key>
+	<string>capacitieslocalization</string>
+	<key>enabledCard</key>
+	<string>attachSensor</string>
+	<key>handlechart</key>
+	<string>shouldPauseCell</string>
+	<key>pagerCoord</key>
+	<string>otherAwait</string>
+	<key>priorityPosition</key>
+	<string>unschedulepromise</string>
+	<key>shouldDeserializeCell</key>
+	<string>trainDuration</string>
+	<key>sliderscenario</key>
+	<string>shapeForce</string>
+</dict>
+</plist>

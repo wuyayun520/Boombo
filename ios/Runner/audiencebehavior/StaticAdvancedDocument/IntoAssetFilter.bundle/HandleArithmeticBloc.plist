@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charactertag</key>
+	<string>custompaintCycle</string>
+	<key>curveshapebottom</key>
+	<string>widgetOrigin</string>
+	<key>discardedModule</key>
+	<string>finddropdownbutton</string>
+	<key>gesturemenu</key>
+	<string>floathandler</string>
+	<key>managerStatus</key>
+	<string>draggableEquipment</string>
+	<key>notifierForce</key>
+	<string>shouldDecodeView</string>
+	<key>permissiveImage</key>
+	<string>gramFlyweight</string>
+	<key>shouldTransitionNorm</key>
+	<string>asyncRotation</string>
+	<key>themefrequency</key>
+	<string>retainedPainter</string>
+</dict>
+</plist>

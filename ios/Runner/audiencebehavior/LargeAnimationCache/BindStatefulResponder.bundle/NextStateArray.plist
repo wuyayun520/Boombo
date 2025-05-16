@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerRoute</key>
+	<string>mobileCurve</string>
+	<key>commonlatency</key>
+	<string>equalAction</string>
+	<key>geometricDelivery</key>
+	<string>spinelocation</string>
+	<key>persisthero</key>
+	<string>shouldTransformFlex</string>
+	<key>segmentMargin</key>
+	<string>canObserveScroll</string>
+	<key>similarCollection</key>
+	<string>behavioredge</string>
+	<key>sineasmediator</key>
+	<string>marginSpeed</string>
+	<key>spotPadding</key>
+	<string>secondTheme</string>
+</dict>
+</plist>

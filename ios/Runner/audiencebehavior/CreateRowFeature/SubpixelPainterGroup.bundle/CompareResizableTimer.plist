@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveusecaseshape</key>
+	<string>displayAsync</string>
+	<key>advancedPublisher</key>
+	<string>smallException</string>
+	<key>animationResponse</key>
+	<string>zoneScale</string>
+	<key>shouldNavigateNavigation</key>
+	<string>coordinatorShape</string>
+	<key>statusopacity</key>
+	<string>variantfrequency</string>
+	<key>temporaryAnalogy</key>
+	<string>similarLoop</string>
+	<key>tensorAnalogy</key>
+	<string>crucialAsync</string>
+	<key>touchspacing</key>
+	<string>wrapperLeft</string>
+	<key>wrapprovider</key>
+	<string>subtlerect</string>
+</dict>
+</plist>

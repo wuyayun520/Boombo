@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureanimation</key>
+	<string>shouldmountedsession</string>
+	<key>completeremitter</key>
+	<string>shouldLayoutPromise</string>
+	<key>decorationAppearance</key>
+	<string>reusableCapsule</string>
+	<key>displayableSign</key>
+	<string>yieldOperation</string>
+	<key>intermediateDependency</key>
+	<string>smallSchema</string>
+	<key>multiGem</key>
+	<string>canPushColumn</string>
+	<key>sequentialdecoration</key>
+	<string>reusableQueue</string>
+	<key>shapeOpacity</key>
+	<string>prismaticCompletion</string>
+	<key>shouldBuildCustomPaint</key>
+	<string>shouldFormatEquipment</string>
+	<key>shouldfetchscreen</key>
+	<string>attachBox</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTimer</key>
+	<string>shouldFormatDocument</string>
+	<key>olddrawer</key>
+	<string>prevTaxonomy</string>
+	<key>quantizationhash</key>
+	<string>deserializeInstruction</string>
+	<key>signatureState</key>
+	<string>joinerType</string>
+</dict>
+</plist>

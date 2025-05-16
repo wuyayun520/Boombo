@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCapacity</key>
+	<string>shouldEmitStateful</string>
+	<key>activatedEntity</key>
+	<string>reducerShape</string>
+	<key>backwardStroke</key>
+	<string>deserializeAnchor</string>
+	<key>disconnectsize</key>
+	<string>metricsDensity</string>
+	<key>functionalContainer</key>
+	<string>discardedCubit</string>
+	<key>gradientbrightness</key>
+	<string>chapterformopacity</string>
+	<key>materialProgressBar</key>
+	<string>serviceDistance</string>
+	<key>momentumTail</key>
+	<string>slashdelay</string>
+	<key>stampHue</key>
+	<string>retainedSpine</string>
+</dict>
+</plist>

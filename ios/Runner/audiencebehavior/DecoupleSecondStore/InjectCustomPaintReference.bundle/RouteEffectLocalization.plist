@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetrenderer</key>
+	<string>aspectrotation</string>
+	<key>invisiblePermutation</key>
+	<string>invisibleSwift</string>
+	<key>reusableDecoration</key>
+	<string>accessibleReference</string>
+	<key>scheduletext</key>
+	<string>dynamicSpecifier</string>
+</dict>
+</plist>

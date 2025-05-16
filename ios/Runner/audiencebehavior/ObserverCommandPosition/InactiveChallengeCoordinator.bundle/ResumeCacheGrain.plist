@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionsystembehavior</key>
+	<string>arithmeticbutton</string>
+	<key>multiplicationType</key>
+	<string>animateVector</string>
+	<key>publictext</key>
+	<string>makeStore</string>
+	<key>shaderrenderer</key>
+	<string>throughputTint</string>
+	<key>shapeInterval</key>
+	<string>canRestartHero</string>
+	<key>sustainableSorter</key>
+	<string>transitionCustomPaint</string>
+</dict>
+</plist>

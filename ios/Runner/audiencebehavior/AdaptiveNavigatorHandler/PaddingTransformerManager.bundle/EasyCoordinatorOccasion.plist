@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLatency</key>
+	<string>multiAmortization</string>
+	<key>actionalignment</key>
+	<string>setupPresenter</string>
+	<key>basicstream</key>
+	<string>concreteAsset</string>
+	<key>channelstimer</key>
+	<string>bitrateProxy</string>
+	<key>eagerEfficiency</key>
+	<string>singleScaffold</string>
+</dict>
+</plist>

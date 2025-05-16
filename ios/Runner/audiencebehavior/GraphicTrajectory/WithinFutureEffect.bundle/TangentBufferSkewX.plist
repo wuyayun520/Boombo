@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureBrightness</key>
+	<string>explicitHero</string>
+	<key>fusedPermutation</key>
+	<string>constructManager</string>
+	<key>selectedReduction</key>
+	<string>cubeadapterposition</string>
+	<key>sortedTool</key>
+	<string>extensionaction</string>
+	<key>specifierShape</key>
+	<string>displayableIntegrity</string>
+	<key>sustainableAxis</key>
+	<string>keyGram</string>
+	<key>usageborder</key>
+	<string>canSetStateGradient</string>
+</dict>
+</plist>

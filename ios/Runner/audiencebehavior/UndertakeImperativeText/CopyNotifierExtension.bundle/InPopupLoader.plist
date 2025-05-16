@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentDelegate</key>
+	<string>autoRemainder</string>
+	<key>delegatecallback</key>
+	<string>shouldTransitionStoryboard</string>
+	<key>readmobile</key>
+	<string>lazyobserverpadding</string>
+	<key>requiredMusic</key>
+	<string>deserializeIcon</string>
+	<key>semanticSorter</key>
+	<string>newestcontroller</string>
+	<key>shouldRebuildChallenge</key>
+	<string>robustLoop</string>
+	<key>shouldSetStateTable</key>
+	<string>makeTitle</string>
+	<key>sophisticatedThread</key>
+	<string>attachBehavior</string>
+</dict>
+</plist>

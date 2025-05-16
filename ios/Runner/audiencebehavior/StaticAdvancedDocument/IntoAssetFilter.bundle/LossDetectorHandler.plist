@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferBorder</key>
+	<string>expandedmediatorcenter</string>
+	<key>comprehensiveLoss</key>
+	<string>zoneedge</string>
+	<key>denseRichText</key>
+	<string>pauseSubpixel</string>
+	<key>diversifiedSlash</key>
+	<string>retainedReference</string>
+	<key>latencydepth</key>
+	<string>obtainIsolate</string>
+	<key>lossOffset</key>
+	<string>compositionScope</string>
+	<key>navigatorIndex</key>
+	<string>responsiveChapter</string>
+	<key>richtextvisibility</key>
+	<string>assetMargin</string>
+	<key>shouldStreamMargin</key>
+	<string>usageContext</string>
+	<key>transformerspeed</key>
+	<string>consultativedrawer</string>
+</dict>
+</plist>

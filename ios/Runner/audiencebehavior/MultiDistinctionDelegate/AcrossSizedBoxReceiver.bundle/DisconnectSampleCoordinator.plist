@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encapsulatesensor</key>
+	<string>customizedCompletion</string>
+	<key>ephemeralContrast</key>
+	<string>canPopMargin</string>
+	<key>firstScaffold</key>
+	<string>shouldRebuildLayout</string>
+	<key>isgate</key>
+	<string>iscontainer</string>
+	<key>lazyInfo</key>
+	<string>subpixelMethod</string>
+	<key>prevRadius</key>
+	<string>pinchableHandler</string>
+	<key>rowspacing</key>
+	<string>paintstate</string>
+	<key>singleIsolate</key>
+	<string>resumeGridView</string>
+	<key>sorterLocation</key>
+	<string>buildRemainder</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeTicker</key>
+	<string>inactiveAmortization</string>
+	<key>groupSpacing</key>
+	<string>momentumSize</string>
+	<key>ignoredSignature</key>
+	<string>sensorTag</string>
+	<key>navigatorlistener</key>
+	<string>enhanceContainer</string>
+	<key>shouldSerializeAperture</key>
+	<string>coordinatormediatorformat</string>
+</dict>
+</plist>

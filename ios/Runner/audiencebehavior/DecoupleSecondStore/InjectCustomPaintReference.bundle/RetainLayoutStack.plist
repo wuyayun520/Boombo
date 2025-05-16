@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertelasticity</key>
+	<string>declarativeintensity</string>
+	<key>channelSaturation</key>
+	<string>liteactivitydelay</string>
+	<key>prismaticStateful</key>
+	<string>disabledCluster</string>
+	<key>shouldUpdateDuration</key>
+	<string>animateexponent</string>
+	<key>subpixelbuffer</key>
+	<string>checkResponse</string>
+	<key>workflowtaskhead</key>
+	<string>floatTitle</string>
+</dict>
+</plist>

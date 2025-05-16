@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnFormat</key>
+	<string>matrixbehavior</string>
+	<key>hashBrightness</key>
+	<string>batchfilter</string>
+	<key>largeReducer</key>
+	<string>scrollpicker</string>
+	<key>mediaquerytempleforce</key>
+	<string>listviewdespitecycle</string>
+	<key>protectedtangent</key>
+	<string>equipmentDensity</string>
+	<key>protocolTransparency</key>
+	<string>routeView</string>
+	<key>shouldpopsign</key>
+	<string>encapsulatetransition</string>
+</dict>
+</plist>

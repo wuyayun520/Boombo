@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>requiredMonster</key>
+	<string>fusedInteraction</string>
+	<key>responderType</key>
+	<string>characterShade</string>
+	<key>shouldDispatchAppBar</key>
+	<string>canUnmountedRoute</string>
+	<key>tangentLeft</key>
+	<string>attachProject</string>
+	<key>unmountshader</key>
+	<string>canDeserializeTool</string>
+	<key>usedRange</key>
+	<string>shouldTransformCanvas</string>
+</dict>
+</plist>

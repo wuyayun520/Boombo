@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeRect</key>
+	<string>explicitAppBar</string>
+	<key>dedicatedArchitecture</key>
+	<string>cupertinoStore</string>
+	<key>eagerBuffer</key>
+	<string>continueMatrix</string>
+	<key>functionalVertex</key>
+	<string>processTabView</string>
+	<key>shouldStreamMedia</key>
+	<string>differentiateDelegate</string>
+</dict>
+</plist>

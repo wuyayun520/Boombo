@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featuredirection</key>
+	<string>maxSpot</string>
+	<key>publicCache</key>
+	<string>allocatorMemento</string>
+	<key>reliabilitystyle</key>
+	<string>diffableGraph</string>
+	<key>scalabilityTension</key>
+	<string>layoutOperation</string>
+	<key>sequentialDescriptor</key>
+	<string>gridDecorator</string>
+	<key>sizeIndex</key>
+	<string>decodeBloc</string>
+	<key>sortedCubit</key>
+	<string>shouldEmitNotification</string>
+	<key>temporaryMission</key>
+	<string>createController</string>
+</dict>
+</plist>

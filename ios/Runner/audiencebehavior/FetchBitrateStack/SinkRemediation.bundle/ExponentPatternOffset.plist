@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintjoiner</key>
+	<string>crucialTitle</string>
+	<key>currentWidget</key>
+	<string>transformParticle</string>
+	<key>disabledSink</key>
+	<string>sortedTween</string>
+	<key>discardedPrecision</key>
+	<string>mainTraversal</string>
+	<key>onpromisechanged</key>
+	<string>canvasPadding</string>
+	<key>storyboarddirection</key>
+	<string>seamlessModulus</string>
+</dict>
+</plist>

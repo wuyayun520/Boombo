@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePreview</key>
+	<string>overlayChain</string>
+	<key>ephemeralFinder</key>
+	<string>significantTable</string>
+	<key>progressbarprovision</key>
+	<string>canYieldMember</string>
+	<key>searcheredge</key>
+	<string>precisionsaturation</string>
+	<key>selectorDuration</key>
+	<string>axisconstraint</string>
+	<key>tappableRole</key>
+	<string>musicOrigin</string>
+	<key>textfieldfeature</key>
+	<string>globalResponse</string>
+	<key>visibleIntensity</key>
+	<string>createNotifier</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalEntropy</key>
+	<string>replaceNode</string>
+	<key>inheritedaudio</key>
+	<string>newestInjection</string>
+	<key>modalStyle</key>
+	<string>fusedSensor</string>
+	<key>reactiveeffectstyle</key>
+	<string>liteConnector</string>
+	<key>stackatlevel</key>
+	<string>streamlineTitle</string>
+	<key>streamTint</key>
+	<string>pauseScreen</string>
+	<key>substantialtrigger</key>
+	<string>shouldLayoutTool</string>
+</dict>
+</plist>

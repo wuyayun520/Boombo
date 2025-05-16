@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureBottom</key>
+	<string>composableContainer</string>
+	<key>builderparamsaturation</key>
+	<string>interpolateChannel</string>
+	<key>cupertinoShader</key>
+	<string>pageviewHue</string>
+	<key>lazyRepository</key>
+	<string>createBitrate</string>
+	<key>loaderTail</key>
+	<string>shouldfetchtabview</string>
+	<key>responsewithchain</key>
+	<string>fetchSemantics</string>
+	<key>seekvariant</key>
+	<string>interactorIndex</string>
+	<key>shouldCacheCanvas</key>
+	<string>listenGate</string>
+	<key>ternaryTint</key>
+	<string>consumerDirection</string>
+</dict>
+</plist>

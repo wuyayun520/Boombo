@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionMode</key>
+	<string>granularBuilder</string>
+	<key>directobserverlocation</key>
+	<string>firstQueue</string>
+	<key>errorOffset</key>
+	<string>opaqueService</string>
+	<key>protectedBase</key>
+	<string>ascentVelocity</string>
+	<key>rendererSkewX</key>
+	<string>arithmeticFlex</string>
+	<key>respectiveScalability</key>
+	<string>webEffect</string>
+	<key>shapeForce</key>
+	<string>shouldEndMargin</string>
+	<key>shouldTrainGift</key>
+	<string>priorInteractor</string>
+	<key>timelinehue</key>
+	<string>accessibleVariant</string>
+</dict>
+</plist>

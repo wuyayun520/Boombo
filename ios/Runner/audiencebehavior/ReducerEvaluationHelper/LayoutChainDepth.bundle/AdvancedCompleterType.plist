@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticrate</key>
+	<string>euclideanSwift</string>
+	<key>directGraphic</key>
+	<string>materialVisitor</string>
+	<key>infrastructureRate</key>
+	<string>joinervisible</string>
+	<key>scrollableService</key>
+	<string>activePlate</string>
+	<key>shouldBindPlayback</key>
+	<string>autoTitle</string>
+	<key>unsortedRoute</key>
+	<string>sharedSlider</string>
+</dict>
+</plist>

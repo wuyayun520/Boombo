@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayvariant</key>
+	<string>createprofile</string>
+	<key>ephemeralScroller</key>
+	<string>shouldencodehistogram</string>
+	<key>shouldBindGem</key>
+	<string>permissiveObject</string>
+	<key>shouldPresentBullet</key>
+	<string>copyChannel</string>
+	<key>shouldUpdateReduction</key>
+	<string>scheduleFactory</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicChannels</key>
+	<string>shouldReplaceBitrate</string>
+	<key>callbackCoord</key>
+	<string>yieldDialogs</string>
+	<key>chartAcceleration</key>
+	<string>loadslider</string>
+	<key>cosineShape</key>
+	<string>granularGem</string>
+	<key>hierarchicalEvent</key>
+	<string>labelShade</string>
+	<key>newestTitle</key>
+	<string>descentDirection</string>
+	<key>shouldValidateCollection</key>
+	<string>displaygram</string>
+	<key>smartCompleter</key>
+	<string>layerLayer</string>
+	<key>storeAcceleration</key>
+	<string>shouldDecodeStateless</string>
+	<key>zoneStatus</key>
+	<string>pauseScale</string>
+</dict>
+</plist>

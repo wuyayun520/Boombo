@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantDelay</key>
+	<string>cycleAcceleration</string>
+	<key>keyDecoration</key>
+	<string>canProcessAxis</string>
+	<key>masterDepth</key>
+	<string>canRebuildOptimizer</string>
+	<key>resetpainter</key>
+	<string>robustExpanded</string>
+	<key>responseorform</key>
+	<string>overrideGraph</string>
+	<key>shouldShowCycle</key>
+	<string>shouldParseRemainder</string>
+	<key>sinealignment</key>
+	<string>renameWidget</string>
+	<key>unactivatedSkin</key>
+	<string>curvePlatform</string>
+	<key>unsortedMedia</key>
+	<string>composableScroller</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nextpager</key>
+	<string>serializeSine</string>
+	<key>rectFeedback</key>
+	<string>selectedbullet</string>
+	<key>shouldCancelRemainder</key>
+	<string>retainNode</string>
+	<key>shouldDetachClipper</key>
+	<string>polygonDuration</string>
+</dict>
+</plist>

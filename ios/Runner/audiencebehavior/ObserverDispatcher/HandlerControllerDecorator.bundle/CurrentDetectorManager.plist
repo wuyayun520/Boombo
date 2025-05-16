@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerDelay</key>
+	<string>fusedGrid</string>
+	<key>easyTrajectory</key>
+	<string>signatureStructure</string>
+	<key>firstRole</key>
+	<string>dependencyInteraction</string>
+	<key>managerColor</key>
+	<string>tensorMatrix</string>
+	<key>permissiveAction</key>
+	<string>canContinueSession</string>
+	<key>resizableSemantics</key>
+	<string>shouldAttachProtocol</string>
+	<key>resourceRate</key>
+	<string>persistentSample</string>
+	<key>specifierinterval</key>
+	<string>parseGrayscale</string>
+	<key>statelessConstraint</key>
+	<string>notifierCount</string>
+	<key>uniqueMusic</key>
+	<string>resilientUnary</string>
+</dict>
+</plist>

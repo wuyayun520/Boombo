@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentsSkewX</key>
+	<string>standaloneTexture</string>
+	<key>shouldHandleLoss</key>
+	<string>webTimer</string>
+	<key>shouldTrainProject</key>
+	<string>dispatchDescriptor</string>
+	<key>transitionjoiner</key>
+	<string>subsequentLocalization</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterprovision</key>
+	<string>shouldRenderHeap</string>
+	<key>criticalaspectratiotag</key>
+	<string>processorSkewY</string>
+	<key>intermediateserviceinset</key>
+	<string>shouldCacheAppBar</string>
+	<key>routegraph</key>
+	<string>pinchablerolepadding</string>
+	<key>shouldUnmountKernel</key>
+	<string>upgradeIsolate</string>
+	<key>slashphasedirection</key>
+	<string>respectiveCubit</string>
+	<key>sortedaction</key>
+	<string>uniqueInstruction</string>
+	<key>subtleContrast</key>
+	<string>previnfo</string>
+	<key>validateloop</key>
+	<string>uniformBullet</string>
+</dict>
+</plist>

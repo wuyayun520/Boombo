@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousProvider</key>
+	<string>unscheduleChart</string>
+	<key>chapterthanmediator</key>
+	<string>mobileOption</string>
+	<key>declarativeZone</key>
+	<string>requiredanimationappearance</string>
+	<key>infoTail</key>
+	<string>canStopStoryboard</string>
+	<key>intensitylayerdistance</key>
+	<string>ignoredAwait</string>
+	<key>layersincesingleton</key>
+	<string>emitloop</string>
+	<key>robustShader</key>
+	<string>challengeshapebehavior</string>
+	<key>rotatesign</key>
+	<string>canParseDescriptor</string>
+	<key>uniqueStorage</key>
+	<string>handleTransformer</string>
+</dict>
+</plist>

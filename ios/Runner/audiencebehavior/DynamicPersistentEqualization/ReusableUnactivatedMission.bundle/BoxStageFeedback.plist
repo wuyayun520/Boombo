@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeCupertino</key>
+	<string>shouldtransformimage</string>
+	<key>densealertmomentum</key>
+	<string>drawTicker</string>
+	<key>dynamicdurationpadding</key>
+	<string>popSample</string>
+	<key>ephemeralAlignment</key>
+	<string>usageProcess</string>
+	<key>fixedEmitter</key>
+	<string>shouldMountedCompletion</string>
+	<key>limitdropdownbutton</key>
+	<string>canPresentScaffold</string>
+	<key>missionValidation</key>
+	<string>paintCube</string>
+	<key>permanentListView</key>
+	<string>requiredRoute</string>
+	<key>plateVisible</key>
+	<string>reducerdepth</string>
+	<key>rectangleMomentum</key>
+	<string>unmountedReduction</string>
+</dict>
+</plist>

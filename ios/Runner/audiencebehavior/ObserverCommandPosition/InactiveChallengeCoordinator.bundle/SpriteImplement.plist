@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioTop</key>
+	<string>pickerAppearance</string>
+	<key>builderinfrastructure</key>
+	<string>uniqueSprite</string>
+	<key>bulletInterval</key>
+	<string>streamlineCompleter</string>
+	<key>desktopQuaternion</key>
+	<string>continueNotification</string>
+	<key>hasexpanded</key>
+	<string>sortedPlayback</string>
+	<key>impactMomentum</key>
+	<string>checklistOffset</string>
+	<key>independentTolerance</key>
+	<string>diffablevariantacceleration</string>
+	<key>iterativeCache</key>
+	<string>isolateOpacity</string>
+	<key>originalOccasion</key>
+	<string>replacePet</string>
+	<key>substantialSignature</key>
+	<string>canHandleCapsule</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularScroll</key>
+	<string>quaternionForce</string>
+	<key>receiverBound</key>
+	<string>canConnectKernel</string>
+	<key>responsiveLog</key>
+	<string>discardedLatency</string>
+	<key>servicecontainkind</key>
+	<string>normVisibility</string>
+</dict>
+</plist>

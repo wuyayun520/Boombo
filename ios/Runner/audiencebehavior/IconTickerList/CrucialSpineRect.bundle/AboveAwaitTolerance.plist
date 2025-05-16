@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticfinder</key>
+	<string>shouldCancelAxis</string>
+	<key>associatestateful</key>
+	<string>canSaveBloc</string>
+	<key>commoninteractor</key>
+	<string>compareDuration</string>
+	<key>concurrentBinder</key>
+	<string>completerFlags</string>
+	<key>intensityAppearance</key>
+	<string>isvariant</string>
+	<key>pivotalPositioned</key>
+	<string>radioversusstructure</string>
+	<key>schemaedge</key>
+	<string>prismaticCluster</string>
+	<key>shouldrestartstack</key>
+	<string>routerVariable</string>
+	<key>shouldstopindicator</key>
+	<string>factoryInset</string>
+	<key>singlegrouphead</key>
+	<string>draggableArithmetic</string>
+</dict>
+</plist>

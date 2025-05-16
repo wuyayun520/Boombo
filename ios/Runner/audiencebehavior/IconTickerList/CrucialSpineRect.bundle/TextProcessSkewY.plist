@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledsizecontrast</key>
+	<string>createslider</string>
+	<key>eagerTriangles</key>
+	<string>opaqueobserver</string>
+	<key>marginuntilscope</key>
+	<string>scaffoldOpacity</string>
+	<key>pushmovement</key>
+	<string>canLayoutPageView</string>
+	<key>similarAction</key>
+	<string>easyBuffer</string>
+	<key>tappablepositiontype</key>
+	<string>inflatePreview</string>
+</dict>
+</plist>

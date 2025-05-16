@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentGrayscale</key>
+	<string>displaySubscription</string>
+	<key>exceptionduration</key>
+	<string>desktopLatency</string>
+	<key>gridVisible</key>
+	<string>retainedElasticity</string>
+	<key>immediateMission</key>
+	<string>painterScope</string>
+	<key>scalabilityStyle</key>
+	<string>shouldEncodeScale</string>
+	<key>threadinsidemode</key>
+	<string>symmetricCapacities</string>
+	<key>webKernel</key>
+	<string>traversalSpeed</string>
+</dict>
+</plist>

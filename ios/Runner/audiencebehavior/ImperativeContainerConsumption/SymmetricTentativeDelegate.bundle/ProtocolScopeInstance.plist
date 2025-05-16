@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveCharacteristic</key>
+	<string>layerOperation</string>
+	<key>ephemeralAppBar</key>
+	<string>plateSkewY</string>
+	<key>histogramFlags</key>
+	<string>fetchCache</string>
+	<key>modelFormat</key>
+	<string>tensorDialogs</string>
+	<key>shouldBindRichText</key>
+	<string>analyzeIsolate</string>
+	<key>tweakfrequency</key>
+	<string>priorNotification</string>
+</dict>
+</plist>

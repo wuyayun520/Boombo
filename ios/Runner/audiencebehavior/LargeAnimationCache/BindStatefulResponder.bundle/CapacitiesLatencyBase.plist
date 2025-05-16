@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianOccasion</key>
+	<string>functionalAction</string>
+	<key>imperativeAspectRatio</key>
+	<string>canDisposeNavigation</string>
+	<key>navigatorbuilder</key>
+	<string>isSignature</string>
+	<key>performpainter</key>
+	<string>listviewTint</string>
+	<key>shoulddisconnectmediaquery</key>
+	<string>canInflateGate</string>
+</dict>
+</plist>

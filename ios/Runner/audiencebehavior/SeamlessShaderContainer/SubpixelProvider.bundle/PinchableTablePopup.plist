@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nodeTag</key>
+	<string>awaitindex</string>
+	<key>requeststatus</key>
+	<string>matrixaction</string>
+	<key>selectedaspect</key>
+	<string>optimizerMode</string>
+	<key>shouldProcessUnary</key>
+	<string>canTransformNib</string>
+	<key>smartDescent</key>
+	<string>matrixState</string>
+	<key>uniqueSensor</key>
+	<string>transposetween</string>
+</dict>
+</plist>

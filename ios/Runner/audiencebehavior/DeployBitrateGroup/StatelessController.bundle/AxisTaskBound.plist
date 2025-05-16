@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionEntropy</key>
+	<string>persistCursor</string>
+	<key>explicitExpanded</key>
+	<string>smallThread</string>
+	<key>multicontroller</key>
+	<string>shouldSaveCapsule</string>
+	<key>roleSize</key>
+	<string>permanentaction</string>
+	<key>sequentialChannel</key>
+	<string>endPrecision</string>
+	<key>shouldReplaceCharacter</key>
+	<string>sortedReducer</string>
+	<key>similarHistogram</key>
+	<string>baseChain</string>
+</dict>
+</plist>

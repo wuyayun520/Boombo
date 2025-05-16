@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedFragment</key>
+	<string>sortedBinder</string>
+	<key>disparateImpression</key>
+	<string>restartRichText</string>
+	<key>observerRate</key>
+	<string>canResumeChannels</string>
+	<key>overlayInteraction</key>
+	<string>profileFlyweight</string>
+	<key>priorVertex</key>
+	<string>trainRow</string>
+	<key>shouldObserveComposition</key>
+	<string>spinBloc</string>
+	<key>shouldRestartHistogram</key>
+	<string>receiverLocation</string>
+	<key>swiftMargin</key>
+	<string>rapidScroll</string>
+	<key>timelineTension</key>
+	<string>iterativeChooser</string>
+</dict>
+</plist>

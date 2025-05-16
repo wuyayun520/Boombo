@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicGraph</key>
+	<string>shouldobservepet</string>
+	<key>concurrentAsync</key>
+	<string>maxGate</string>
+	<key>immutableCollection</key>
+	<string>canSkipInterpolation</string>
+	<key>popupMargin</key>
+	<string>swifttension</string>
+	<key>sceneVisible</key>
+	<string>primaryresultcoord</string>
+	<key>temporaryConsumer</key>
+	<string>combineInjection</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateradio</key>
+	<string>eventformat</string>
+	<key>densePet</key>
+	<string>completionState</string>
+	<key>flexibleAnimation</key>
+	<string>robustTabView</string>
+	<key>musicTension</key>
+	<string>typicalPriority</string>
+	<key>parallelborder</key>
+	<string>bindText</string>
+	<key>prevPreview</key>
+	<string>shouldFetchDocument</string>
+	<key>shouldContinueCapacities</key>
+	<string>connecthistogram</string>
+</dict>
+</plist>

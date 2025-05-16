@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferOpacity</key>
+	<string>hardAllocator</string>
+	<key>catalystTransparency</key>
+	<string>readAction</string>
+	<key>hardStorage</key>
+	<string>rapidAudio</string>
+	<key>metadataspeed</key>
+	<string>pendingNotification</string>
+	<key>multiplicationSpeed</key>
+	<string>materialChallenge</string>
+	<key>sortedProjection</key>
+	<string>painterVisible</string>
+	<key>toolsystemtop</key>
+	<string>characterTint</string>
+</dict>
+</plist>

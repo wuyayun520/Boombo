@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elementLeft</key>
+	<string>shouldCreateGesture</string>
+	<key>mediaqueryasync</key>
+	<string>apertureTransparency</string>
+	<key>shouldConnectScreen</key>
+	<string>viewvariabledelay</string>
+	<key>shouldEmitOperation</key>
+	<string>positionSystem</string>
+	<key>shouldHandleGrayscale</key>
+	<string>permanentCatalyst</string>
+	<key>shouldRenderGraphic</key>
+	<string>transformProfile</string>
+</dict>
+</plist>

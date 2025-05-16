@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawervisible</key>
+	<string>constraintfrequency</string>
+	<key>hardGift</key>
+	<string>canDispatchDecoration</string>
+	<key>multiPager</key>
+	<string>canAnimateBuilder</string>
+	<key>notificationvaluelocation</key>
+	<string>sinkaroundsingleton</string>
+	<key>precisionparameterkind</key>
+	<string>controllerSaturation</string>
+	<key>shouldDispatchStoryboard</key>
+	<string>normaltangentalignment</string>
+	<key>strengthOpacity</key>
+	<string>easyPriority</string>
+	<key>widgetname</key>
+	<string>marginType</string>
+</dict>
+</plist>

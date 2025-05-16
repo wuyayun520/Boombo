@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nodevertex</key>
+	<string>wrapperoffset</string>
+	<key>shouldDeserializeVariant</key>
+	<string>shouldTrainNotification</string>
+	<key>stepAlignment</key>
+	<string>prepareRow</string>
+	<key>unactivatedrowvisibility</key>
+	<string>associatedFactory</string>
+	<key>unmountedlogarithm</key>
+	<string>canRebuildCard</string>
+	<key>usecaseSkewY</key>
+	<string>offsetResolver</string>
+</dict>
+</plist>

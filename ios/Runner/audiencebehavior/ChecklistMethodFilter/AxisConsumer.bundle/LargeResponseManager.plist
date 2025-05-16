@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedStack</key>
+	<string>directcupertino</string>
+	<key>backwardSchema</key>
+	<string>decodeBuffer</string>
+	<key>beginnerCanvas</key>
+	<string>unaryBrightness</string>
+	<key>certificateHead</key>
+	<string>smartLabel</string>
+	<key>denseRect</key>
+	<string>desktopGem</string>
+	<key>frameTransparency</key>
+	<string>canEmitGesture</string>
+	<key>inflatebehavior</key>
+	<string>reactiveFormat</string>
+	<key>lastFlex</key>
+	<string>consumeWidget</string>
+	<key>specifyPoint</key>
+	<string>shouldStreamBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferDensity</key>
+	<string>layoutCollection</string>
+	<key>indicatorimpact</key>
+	<string>textureChain</string>
+	<key>intuitiveinkwellsaturation</key>
+	<string>blocwithoutframework</string>
+	<key>managermode</key>
+	<string>diffablesizedbox</string>
+	<key>remainderTransparency</key>
+	<string>equalizationorigin</string>
+	<key>requestInteraction</key>
+	<string>tabviewTail</string>
+	<key>staticslider</key>
+	<string>nextChart</string>
+</dict>
+</plist>

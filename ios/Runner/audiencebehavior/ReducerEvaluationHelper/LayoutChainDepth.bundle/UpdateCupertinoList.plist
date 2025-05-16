@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledZone</key>
+	<string>menuadapterfeedback</string>
+	<key>ephemeralDocument</key>
+	<string>canDispatchTernary</string>
+	<key>evaluationRotation</key>
+	<string>disabledLoss</string>
+	<key>mediadirection</key>
+	<string>fragmenttension</string>
+	<key>performposition</key>
+	<string>gatecontextrotation</string>
+	<key>subscribetween</key>
+	<string>latencyInteraction</string>
+	<key>usageShape</key>
+	<string>appbarResponse</string>
+	<key>widgetBehavior</key>
+	<string>bitrateshape</string>
+</dict>
+</plist>

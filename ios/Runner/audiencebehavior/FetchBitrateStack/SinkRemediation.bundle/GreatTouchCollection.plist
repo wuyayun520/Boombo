@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSkin</key>
+	<string>immutableCoordinator</string>
+	<key>declarativeChart</key>
+	<string>sinkcount</string>
+	<key>denseRoute</key>
+	<string>mainclippervisibility</string>
+	<key>layoutinteractor</key>
+	<string>shouldBindOperation</string>
+	<key>requiredspriteposition</key>
+	<string>sharedCustomPaint</string>
+	<key>shouldLayoutArithmetic</key>
+	<string>numericalNavigator</string>
+	<key>unactivatedSegue</key>
+	<string>retainPresenter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureTail</key>
+	<string>loopcolor</string>
+	<key>autoPolygon</key>
+	<string>convertnorm</string>
+	<key>functionalmodel</key>
+	<string>draggableModule</string>
+	<key>shouldUnmountBitrate</key>
+	<string>navigateCell</string>
+	<key>signaturepatternmode</key>
+	<string>singleDimension</string>
+</dict>
+</plist>

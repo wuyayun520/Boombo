@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardZone</key>
+	<string>textureValidation</string>
+	<key>cupertinoscroller</key>
+	<string>immutablemanager</string>
+	<key>delegateTail</key>
+	<string>resultAlignment</string>
+	<key>responsiveLabel</key>
+	<string>scrollableArchitecture</string>
+	<key>shouldBuildWorkflow</key>
+	<string>unsortedMediaQuery</string>
+</dict>
+</plist>

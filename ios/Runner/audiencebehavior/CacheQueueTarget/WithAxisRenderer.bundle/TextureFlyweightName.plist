@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPresenter</key>
+	<string>threadPadding</string>
+	<key>cellhue</key>
+	<string>shouldCancelDrawer</string>
+	<key>declarativeprecision</key>
+	<string>otherTabBar</string>
+	<key>finishsize</key>
+	<string>canPrepareCupertino</string>
+	<key>globalGradient</key>
+	<string>setstateAnimatedContainer</string>
+	<key>ignoredFormat</key>
+	<string>opaqueProvider</string>
+	<key>mediumrectbehavior</key>
+	<string>restartAppBar</string>
+	<key>metadatavelocity</key>
+	<string>symmetricService</string>
+	<key>reactiveTweak</key>
+	<string>compareNode</string>
+</dict>
+</plist>

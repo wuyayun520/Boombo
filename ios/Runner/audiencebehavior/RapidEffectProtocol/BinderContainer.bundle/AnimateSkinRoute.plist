@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedProvider</key>
+	<string>embraceModel</string>
+	<key>commonMenu</key>
+	<string>renderChannels</string>
+	<key>customDetector</key>
+	<string>transformCapsule</string>
+	<key>routelocation</key>
+	<string>immutableNavigation</string>
+	<key>shouldMountMomentum</key>
+	<string>disparateScale</string>
+	<key>sortedreceiver</key>
+	<string>independentWorkflow</string>
+	<key>tensorBullet</key>
+	<string>mediaqueryMethod</string>
+	<key>uniqueDetail</key>
+	<string>loadHeap</string>
+</dict>
+</plist>

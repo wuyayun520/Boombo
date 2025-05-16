@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderAcceleration</key>
+	<string>listenPositioned</string>
+	<key>enabledThreshold</key>
+	<string>uniformHistogram</string>
+	<key>histogramvisitorbottom</key>
+	<string>prepareSwitch</string>
+	<key>menuvisibility</key>
+	<string>geometricCache</string>
+	<key>pinchableconstraint</key>
+	<string>texturespeed</string>
+	<key>responseBorder</key>
+	<string>toolNumber</string>
+	<key>reusableobservertransparency</key>
+	<string>nextOccasion</string>
+	<key>uniqueRectangle</key>
+	<string>directlySprite</string>
+</dict>
+</plist>

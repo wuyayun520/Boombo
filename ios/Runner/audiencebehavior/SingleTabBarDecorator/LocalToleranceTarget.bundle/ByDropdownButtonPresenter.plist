@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletdecoratortransparency</key>
+	<string>unmountedFuture</string>
+	<key>equalizationBehavior</key>
+	<string>sharedSingleton</string>
+	<key>limitmargin</key>
+	<string>transformBuffer</string>
+	<key>nodeIndex</key>
+	<string>canInflateProject</string>
+	<key>offsethandler</key>
+	<string>concurrentSplitter</string>
+	<key>singleCell</key>
+	<string>futurevarappearance</string>
+	<key>statefulcompletionfeedback</key>
+	<string>accordionInformation</string>
+	<key>subtleRow</key>
+	<string>liteResource</string>
+</dict>
+</plist>

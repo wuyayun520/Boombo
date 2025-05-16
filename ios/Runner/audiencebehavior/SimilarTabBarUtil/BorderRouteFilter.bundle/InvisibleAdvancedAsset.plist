@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionEquivalent</key>
+	<string>backwardShape</string>
+	<key>cartesianborder</key>
+	<string>certificateKind</string>
+	<key>criticalTouch</key>
+	<string>originalModule</string>
+	<key>intensitythreshold</key>
+	<string>savealert</string>
+	<key>presenteranalyzer</key>
+	<string>mountedRole</string>
+	<key>resultdecoratorfeedback</key>
+	<string>notificationmodel</string>
+	<key>shouldFetchProjection</key>
+	<string>radioRight</string>
+	<key>shouldSerializeMatrix</key>
+	<string>performrow</string>
+	<key>signtransparency</key>
+	<string>allocatorDuration</string>
+</dict>
+</plist>

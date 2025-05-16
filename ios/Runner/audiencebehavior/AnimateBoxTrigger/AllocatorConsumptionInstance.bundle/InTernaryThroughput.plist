@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesanimation</key>
+	<string>agileCard</string>
+	<key>explicitConfidentiality</key>
+	<string>storeStructure</string>
+	<key>heapFlags</key>
+	<string>featureObserver</string>
+	<key>originalDisclaimer</key>
+	<string>canProcessTabBar</string>
+	<key>publicListener</key>
+	<string>backwardScope</string>
+	<key>shouldDetachNavigator</key>
+	<string>completionHue</string>
+	<key>skinfinder</key>
+	<string>tensorGrain</string>
+	<key>statelessContraction</key>
+	<string>referencescroller</string>
+	<key>tappableCubit</key>
+	<string>generateCubit</string>
+	<key>uniformsubpixelmomentum</key>
+	<string>mapperInterval</string>
+</dict>
+</plist>

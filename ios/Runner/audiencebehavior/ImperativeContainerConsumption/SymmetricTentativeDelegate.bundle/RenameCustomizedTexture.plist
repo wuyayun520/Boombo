@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeFragments</key>
+	<string>shouldObserveIndicator</string>
+	<key>animatedcontainerbuilder</key>
+	<string>shouldDisconnectPlayback</string>
+	<key>containerlevelskewy</key>
+	<string>compositionalAnimator</string>
+	<key>protectedCluster</key>
+	<string>collectionTemple</string>
+	<key>shouldBuildSemantics</key>
+	<string>interactorTension</string>
+	<key>shouldDeserializeRow</key>
+	<string>metadataVisible</string>
+	<key>temporarygraphic</key>
+	<string>segueSystem</string>
+	<key>trianglesOrigin</key>
+	<string>touchConstraint</string>
+</dict>
+</plist>

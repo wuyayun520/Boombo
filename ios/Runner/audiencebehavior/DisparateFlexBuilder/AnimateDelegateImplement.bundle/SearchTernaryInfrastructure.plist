@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildmodulus</key>
+	<string>cacheSkewX</string>
+	<key>commonFactory</key>
+	<string>bandwidthSkewX</string>
+	<key>hierarchicalPrecision</key>
+	<string>effectValue</string>
+	<key>inactiveData</key>
+	<string>evaluateCallback</string>
+	<key>originalexception</key>
+	<string>specifyBullet</string>
+	<key>painterbottom</key>
+	<string>constructFactory</string>
+	<key>scaleStatus</key>
+	<string>accelerateDescription</string>
+	<key>usedfilter</key>
+	<string>interpolationCount</string>
+</dict>
+</plist>

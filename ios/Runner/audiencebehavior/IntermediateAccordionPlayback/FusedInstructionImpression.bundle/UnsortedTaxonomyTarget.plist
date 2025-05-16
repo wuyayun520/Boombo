@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianconverter</key>
+	<string>priorityTheme</string>
+	<key>dynamicClipper</key>
+	<string>defaultSegment</string>
+	<key>filterSpeed</key>
+	<string>configureSubscription</string>
+	<key>greatThread</key>
+	<string>shouldPushBrush</string>
+	<key>matrixAppearance</key>
+	<string>shouldPersistLoss</string>
+	<key>mediocreOptimizer</key>
+	<string>agileInfrastructure</string>
+	<key>normAlignment</key>
+	<string>gridStrategy</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containertype</key>
+	<string>iscard</string>
+	<key>normalPreview</key>
+	<string>canMountTernary</string>
+	<key>rapidFeature</key>
+	<string>webStorage</string>
+	<key>sequentialStatus</key>
+	<string>tangentType</string>
+	<key>shouldDispatchGrayscale</key>
+	<string>shouldContinueLayout</string>
+	<key>significantparticleinterval</key>
+	<string>navigatorAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerwithactivity</key>
+	<string>streamlinecontainer</string>
+	<key>controllerResponse</key>
+	<string>eagerSubscription</string>
+	<key>crucialOptimizer</key>
+	<string>quantizationNode</string>
+	<key>isolateSize</key>
+	<string>encodeInterface</string>
+	<key>movementmode</key>
+	<string>prismaticEntropy</string>
+	<key>normalTrajectory</key>
+	<string>ephemeraltangent</string>
+	<key>opaqueEquivalent</key>
+	<string>cartesianButton</string>
+	<key>precisionStyle</key>
+	<string>crudeCheckbox</string>
+	<key>shouldEmitProtocol</key>
+	<string>ignoredAlignment</string>
+	<key>skirttime</key>
+	<string>providerOperation</string>
+</dict>
+</plist>

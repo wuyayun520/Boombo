@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionSaturation</key>
+	<string>asyncBrightness</string>
+	<key>entropyborder</key>
+	<string>popupLocation</string>
+	<key>processorPadding</key>
+	<string>directshader</string>
+	<key>shouldBuildCheckbox</key>
+	<string>uniformVector</string>
+	<key>shouldObserveAppBar</key>
+	<string>handleQueue</string>
+	<key>sortedThroughput</key>
+	<string>particleCoord</string>
+	<key>volumeCount</key>
+	<string>canPauseStateless</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSlider</key>
+	<string>thresholdOpacity</string>
+	<key>cartesianIcon</key>
+	<string>customStatus</string>
+	<key>interactionRate</key>
+	<string>customizedVertex</string>
+	<key>liteGroup</key>
+	<string>spriteAppearance</string>
+	<key>shouldFormatModulus</key>
+	<string>streamUsage</string>
+	<key>subtlegroupoffset</key>
+	<string>gateRotation</string>
+</dict>
+</plist>

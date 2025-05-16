@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitcycletype</key>
+	<string>timelineFlags</string>
+	<key>detailOrientation</key>
+	<string>toolPhase</string>
+	<key>euclideanSpot</key>
+	<string>routeBrightness</string>
+	<key>handlerLeft</key>
+	<string>anchorProcess</string>
+	<key>resolvesubscription</key>
+	<string>publishAperture</string>
+</dict>
+</plist>

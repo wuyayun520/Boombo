@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertTension</key>
+	<string>shouldDisconnectEntropy</string>
+	<key>asynchronousSensor</key>
+	<string>canAnimatePoint</string>
+	<key>petcontainadapter</key>
+	<string>localizationcomponent</string>
+	<key>rapidstateful</key>
+	<string>integrationRight</string>
+	<key>shapeAppearance</key>
+	<string>movementSaturation</string>
+	<key>shouldUnmountedSubpixel</key>
+	<string>shouldDeserializeDropdownButton</string>
+	<key>shoulddisconnectobserver</key>
+	<string>canDetachUnary</string>
+</dict>
+</plist>

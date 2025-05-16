@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directCubit</key>
+	<string>composableInjection</string>
+	<key>independentroute</key>
+	<string>granularModel</string>
+	<key>interfacepatternindex</key>
+	<string>canFinishStoryboard</string>
+	<key>prevKernel</key>
+	<string>cupertinoNib</string>
+	<key>priorMap</key>
+	<string>concatenateResolver</string>
+	<key>semanticPosition</key>
+	<string>handleFactory</string>
+</dict>
+</plist>

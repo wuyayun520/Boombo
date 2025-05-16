@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAnchor</key>
+	<string>binarydistinction</string>
+	<key>alertdetector</key>
+	<string>introspectStore</string>
+	<key>evaluationpressure</key>
+	<string>vectorizeSprite</string>
+	<key>relationalanchor</key>
+	<string>canLayoutCaption</string>
+	<key>semanticAperture</key>
+	<string>streamStyle</string>
+</dict>
+</plist>

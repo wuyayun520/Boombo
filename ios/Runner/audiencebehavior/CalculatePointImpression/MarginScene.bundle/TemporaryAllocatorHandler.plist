@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationpressure</key>
+	<string>splitterKind</string>
+	<key>lostInstruction</key>
+	<string>adaptivePreview</string>
+	<key>shouldEndExpanded</key>
+	<string>maxVariant</string>
+	<key>specifierresource</key>
+	<string>disposemethod</string>
+	<key>stepRotation</key>
+	<string>firstActivity</string>
+	<key>transformmission</key>
+	<string>shouldAttachCanvas</string>
+	<key>typicalAnalogy</key>
+	<string>rowBorder</string>
+	<key>usageactionedge</key>
+	<string>canDispatchSymbol</string>
+</dict>
+</plist>

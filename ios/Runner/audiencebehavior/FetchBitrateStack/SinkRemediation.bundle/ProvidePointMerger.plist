@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledVariant</key>
+	<string>floatrect</string>
+	<key>prismaticIntensity</key>
+	<string>notifyMaster</string>
+	<key>scopeSkewX</key>
+	<string>toolframe</string>
+	<key>shouldBuildContainer</key>
+	<string>ascentTheme</string>
+	<key>shouldPublishStoryboard</key>
+	<string>detachResult</string>
+</dict>
+</plist>

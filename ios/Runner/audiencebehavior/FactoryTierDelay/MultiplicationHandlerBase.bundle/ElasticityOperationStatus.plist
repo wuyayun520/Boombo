@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateschema</key>
+	<string>bitrateKind</string>
+	<key>diffableEqualization</key>
+	<string>movementFacade</string>
+	<key>inheritedpresenter</key>
+	<string>limitPopup</string>
+	<key>opaquelosstint</key>
+	<string>requestScene</string>
+	<key>rapidTaxonomy</key>
+	<string>inactiveScale</string>
+	<key>reusableProvider</key>
+	<string>respectivePromise</string>
+	<key>shouldStopRow</key>
+	<string>dedicatedFlex</string>
+</dict>
+</plist>

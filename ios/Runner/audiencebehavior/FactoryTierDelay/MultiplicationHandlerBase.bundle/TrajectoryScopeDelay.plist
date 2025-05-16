@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureOrigin</key>
+	<string>shouldPaintGridView</string>
+	<key>encodeparticle</key>
+	<string>shouldRebuildAppBar</string>
+	<key>enumeratefactory</key>
+	<string>canRenderSign</string>
+	<key>integerMode</key>
+	<string>operationInterpreter</string>
+	<key>layerorigin</key>
+	<string>exponentFlags</string>
+	<key>quaternionDensity</key>
+	<string>multiTabBar</string>
+	<key>setstatepainter</key>
+	<string>alertfromparam</string>
+	<key>shouldEndSkin</key>
+	<string>retainedOccasion</string>
+	<key>widgetinset</key>
+	<string>scaffoldOrientation</string>
+</dict>
+</plist>

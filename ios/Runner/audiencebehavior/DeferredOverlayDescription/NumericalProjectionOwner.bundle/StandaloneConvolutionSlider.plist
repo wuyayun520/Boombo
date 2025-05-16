@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicColor</key>
+	<string>refreshTask</string>
+	<key>geometricrow</key>
+	<string>canRenderOperation</string>
+	<key>reduceframe</key>
+	<string>largeService</string>
+	<key>shownotification</key>
+	<string>adjustexception</string>
+	<key>tappableResponder</key>
+	<string>trainCursor</string>
+</dict>
+</plist>

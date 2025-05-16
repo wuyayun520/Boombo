@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ontabbarchanged</key>
+	<string>shouldStartContraction</string>
+	<key>remainderproxycoord</key>
+	<string>monsterDuration</string>
+	<key>retainedTrigger</key>
+	<string>canPopCompletion</string>
+	<key>scalabilityAcceleration</key>
+	<string>deferredcacheacceleration</string>
+	<key>shouldDismissGraphic</key>
+	<string>currentCurve</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationCoord</key>
+	<string>shouldtrainsymbol</string>
+	<key>descriptorBottom</key>
+	<string>functionalcheckbox</string>
+	<key>pinchablepager</key>
+	<string>musicBuffer</string>
+	<key>signatureDelay</key>
+	<string>canUpdateBullet</string>
+	<key>statelessMap</key>
+	<string>connectStamp</string>
+</dict>
+</plist>

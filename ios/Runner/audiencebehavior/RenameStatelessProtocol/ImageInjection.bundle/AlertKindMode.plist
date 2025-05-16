@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentPolyfill</key>
+	<string>accessoryFunction</string>
+	<key>easyNorm</key>
+	<string>makeStorage</string>
+	<key>shouldBuildImage</key>
+	<string>shouldRouteConvolution</string>
+	<key>shouldTrainSine</key>
+	<string>shouldPublishGradient</string>
+</dict>
+</plist>

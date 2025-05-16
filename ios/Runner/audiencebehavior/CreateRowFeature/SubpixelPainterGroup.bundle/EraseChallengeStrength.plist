@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMenu</key>
+	<string>defaultScroll</string>
+	<key>composableGraphic</key>
+	<string>selectedbutton</string>
+	<key>cubePadding</key>
+	<string>largeStep</string>
+	<key>elementContrast</key>
+	<string>bulletkind</string>
+	<key>flexibletextcoord</key>
+	<string>radiocompleter</string>
+	<key>lazyExpanded</key>
+	<string>agileTicker</string>
+	<key>movementvalueshape</key>
+	<string>staticCupertino</string>
+	<key>sceneAppearance</key>
+	<string>intensityvalueposition</string>
+</dict>
+</plist>

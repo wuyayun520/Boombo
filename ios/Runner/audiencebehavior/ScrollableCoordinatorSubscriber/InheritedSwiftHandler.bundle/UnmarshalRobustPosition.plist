@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionuntilmode</key>
+	<string>canListenHero</string>
+	<key>activatedParticle</key>
+	<string>formatMonster</string>
+	<key>chartalongprototype</key>
+	<string>shouldMountGift</string>
+	<key>declarativesemantics</key>
+	<string>offsettop</string>
+	<key>invisibleScene</key>
+	<string>arithmetictriangles</string>
+	<key>reusablePermutation</key>
+	<string>canContinueResource</string>
+	<key>statelessAnchor</key>
+	<string>responsiveBase</string>
+	<key>sustainableVolume</key>
+	<string>ephemeralIntensity</string>
+</dict>
+</plist>

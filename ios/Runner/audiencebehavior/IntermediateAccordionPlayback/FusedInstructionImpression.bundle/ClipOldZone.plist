@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAsync</key>
+	<string>dimensionPosition</string>
+	<key>bundleprojection</key>
+	<string>compositionStructure</string>
+	<key>decorationcontrast</key>
+	<string>retainedSensor</string>
+	<key>schemaFlags</key>
+	<string>insteadconstraint</string>
+	<key>shouldPresentAspect</key>
+	<string>ephemeralActivity</string>
+</dict>
+</plist>

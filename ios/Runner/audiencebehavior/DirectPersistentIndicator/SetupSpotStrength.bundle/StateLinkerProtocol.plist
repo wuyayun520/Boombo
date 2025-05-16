@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleRect</key>
+	<string>parseFragment</string>
+	<key>keyResult</key>
+	<string>easydelegateshape</string>
+	<key>missedChallenge</key>
+	<string>permanentMediaQuery</string>
+	<key>modalBottom</key>
+	<string>sanitizeFuture</string>
+	<key>scrollableResolver</key>
+	<string>resumeNib</string>
+	<key>shouldCancelTouch</key>
+	<string>desktopBinder</string>
+	<key>skirtVelocity</key>
+	<string>upgradeButton</string>
+</dict>
+</plist>

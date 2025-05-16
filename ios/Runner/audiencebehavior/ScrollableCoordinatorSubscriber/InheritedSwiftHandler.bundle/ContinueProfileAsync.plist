@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationInset</key>
+	<string>toleranceOpacity</string>
+	<key>imperativeConsumption</key>
+	<string>shouldParseSession</string>
+	<key>shouldNavigateTransition</key>
+	<string>routeIndicator</string>
+	<key>shouldYieldSubpixel</key>
+	<string>sortedLog</string>
+	<key>tweaktype</key>
+	<string>onlogarithmchanged</string>
+</dict>
+</plist>

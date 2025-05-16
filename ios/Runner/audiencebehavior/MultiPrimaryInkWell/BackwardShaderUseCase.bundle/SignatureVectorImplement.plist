@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedHandler</key>
+	<string>cartesianMenu</string>
+	<key>asynchronousHeap</key>
+	<string>shouldtransitionnotification</string>
+	<key>characterTop</key>
+	<string>popGrayscale</string>
+	<key>logfacadebottom</key>
+	<string>permanentConsumption</string>
+	<key>saveactivity</key>
+	<string>canPublishPrecision</string>
+	<key>shouldBuildStamp</key>
+	<string>subscriberPressure</string>
+	<key>similarError</key>
+	<string>shouldEmitPlayback</string>
+	<key>staticCurve</key>
+	<string>canPushMaster</string>
+</dict>
+</plist>

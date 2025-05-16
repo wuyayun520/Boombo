@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableTimer</key>
+	<string>responsiveBorder</string>
+	<key>materialActivity</key>
+	<string>previewskewx</string>
+	<key>notificationaspect</key>
+	<string>propagateSink</string>
+	<key>optimizerInset</key>
+	<string>fragmenttype</string>
+	<key>precisionAppearance</key>
+	<string>canvasBrightness</string>
+	<key>providerscale</key>
+	<string>screenHue</string>
+	<key>sequentialElasticity</key>
+	<string>equipmentTier</string>
+	<key>shouldlistenscroll</key>
+	<string>shouldmountedstep</string>
+	<key>shouldunmountednotifier</key>
+	<string>isolateRotation</string>
+</dict>
+</plist>

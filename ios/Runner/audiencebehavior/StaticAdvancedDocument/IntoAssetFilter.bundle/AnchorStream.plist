@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotatecharacter</key>
+	<string>semanticGrid</string>
+	<key>backwardCurve</key>
+	<string>canPopSpine</string>
+	<key>binaryTheme</key>
+	<string>greatPlate</string>
+	<key>equalizationdirection</key>
+	<string>emittabview</string>
+	<key>mediocreresourceright</key>
+	<string>contractiontag</string>
+	<key>missedNib</key>
+	<string>shouldTransitionGestureDetector</string>
+	<key>persistentInteractor</key>
+	<string>euclideanStore</string>
+	<key>positionPosition</key>
+	<string>enabledFormat</string>
+	<key>shouldListenBoxShadow</key>
+	<string>multiplicationFrequency</string>
+</dict>
+</plist>

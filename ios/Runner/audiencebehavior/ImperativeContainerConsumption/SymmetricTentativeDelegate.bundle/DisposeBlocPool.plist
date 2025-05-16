@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBrightness</key>
+	<string>canDispatchVariant</string>
+	<key>symbolvisible</key>
+	<string>currentaspect</string>
+	<key>utilAppearance</key>
+	<string>resizableInterface</string>
+	<key>zonetag</key>
+	<string>significantTool</string>
+</dict>
+</plist>

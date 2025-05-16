@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseLifecycle</key>
+	<string>bordertransparency</string>
+	<key>dynamicVertex</key>
+	<string>canKeepGate</string>
+	<key>eagerItem</key>
+	<string>shaderamonglayer</string>
+	<key>equivalentCenter</key>
+	<string>shouldAnimateSegment</string>
+	<key>pinchableaxis</key>
+	<string>imageDirection</string>
+	<key>pointName</key>
+	<string>playbackParam</string>
+	<key>throughputvisibility</key>
+	<string>crudeSwift</string>
+</dict>
+</plist>

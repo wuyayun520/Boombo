@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateDialogs</key>
+	<string>normalChannels</string>
+	<key>managerMode</key>
+	<string>blocShape</string>
+	<key>mobileChannels</key>
+	<string>canvasshapeopacity</string>
+	<key>optionalongwork</key>
+	<string>publisherbound</string>
+	<key>pivotalReference</key>
+	<string>shouldPresentRoute</string>
+	<key>scrollablepaddingresponse</key>
+	<string>canPresentHistogram</string>
+	<key>temporaryInjection</key>
+	<string>allocatorMomentum</string>
+	<key>transposetable</key>
+	<string>shouldPersistHeap</string>
+</dict>
+</plist>

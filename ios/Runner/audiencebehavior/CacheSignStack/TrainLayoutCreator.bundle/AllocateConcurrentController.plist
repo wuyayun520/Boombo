@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationbottom</key>
+	<string>isolateBehavior</string>
+	<key>backwardTrajectory</key>
+	<string>equalBuilder</string>
+	<key>collectionShape</key>
+	<string>provideSize</string>
+	<key>curvelikenumber</key>
+	<string>crudeDecoration</string>
+	<key>delicateTransition</key>
+	<string>consultativeFuture</string>
+	<key>discardedShader</key>
+	<string>largeWorkflow</string>
+	<key>staticAnimator</key>
+	<string>newestMenu</string>
+	<key>synchronousPriority</key>
+	<string>sliderVelocity</string>
+</dict>
+</plist>

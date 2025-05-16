@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorOpacity</key>
+	<string>aspectBorder</string>
+	<key>commonController</key>
+	<string>subscribeInkWell</string>
+	<key>delegatecheckbox</key>
+	<string>progressbarCommand</string>
+	<key>granularchanneltype</key>
+	<string>sophisticatedLinker</string>
+	<key>shouldDisposeGraphic</key>
+	<string>eventCount</string>
+	<key>shouldFetchThread</key>
+	<string>processSine</string>
+	<key>signcontextinterval</key>
+	<string>canListenCompletion</string>
+	<key>tappableSpine</key>
+	<string>permanentradio</string>
+	<key>viewworkcoord</key>
+	<string>nativeThroughput</string>
+</dict>
+</plist>

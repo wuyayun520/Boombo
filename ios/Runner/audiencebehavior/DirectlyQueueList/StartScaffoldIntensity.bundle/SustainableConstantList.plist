@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousFuture</key>
+	<string>appbarAdapter</string>
+	<key>decorationthreshold</key>
+	<string>canDetachStep</string>
+	<key>imagevalidation</key>
+	<string>firstisolate</string>
+	<key>interpolationdensity</key>
+	<string>canvasLevel</string>
+	<key>notifierTint</key>
+	<string>viewactivitybottom</string>
+	<key>seamlessThroughput</key>
+	<string>immutableRestriction</string>
+	<key>semanticReference</key>
+	<string>tappableCubit</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryfactory</key>
+	<string>autoMission</string>
+	<key>alertValidation</key>
+	<string>stampresolver</string>
+	<key>animatebaseline</key>
+	<string>canValidateAxis</string>
+	<key>marknode</key>
+	<string>concurrentError</string>
+	<key>mediocremodel</key>
+	<string>deprecateButton</string>
+	<key>resizableScreen</key>
+	<string>shouldBindStateless</string>
+	<key>secondStatus</key>
+	<string>symmetricRemediation</string>
+	<key>shouldDecodeSwift</key>
+	<string>semanticMenu</string>
+	<key>shouldSetStateUnary</key>
+	<string>autoEvent</string>
+</dict>
+</plist>

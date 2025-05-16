@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPosition</key>
+	<string>deactivateEvent</string>
+	<key>explicitTopic</key>
+	<string>mainListener</string>
+	<key>inkwellPosition</key>
+	<string>shouldtransitiontouch</string>
+	<key>mediaqueryorigin</key>
+	<string>desktopdependencyright</string>
+	<key>mutablemobile</key>
+	<string>instructionStatus</string>
+	<key>nibVisible</key>
+	<string>futureconsumption</string>
+	<key>searcherDistance</key>
+	<string>interfaceFunction</string>
+	<key>shouldTrainMember</key>
+	<string>publishrect</string>
+	<key>shouldpopgrayscale</key>
+	<string>buildExpanded</string>
+	<key>standaloneQuaternion</key>
+	<string>requiredvectorinset</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoScale</key>
+	<string>publicConstraint</string>
+	<key>customResilience</key>
+	<string>requiredCapacities</string>
+	<key>customizedReceiver</key>
+	<string>routercontainbuffer</string>
+	<key>decorationOrientation</key>
+	<string>touchStore</string>
+	<key>persistentTimeline</key>
+	<string>alertInteraction</string>
+	<key>pinchableResolver</key>
+	<string>implementRouter</string>
+	<key>segueInset</key>
+	<string>animateclipper</string>
+	<key>sustainablePrecision</key>
+	<string>basicButton</string>
+	<key>synchronousTime</key>
+	<string>diffableTexture</string>
+</dict>
+</plist>

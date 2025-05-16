@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorDepth</key>
+	<string>sophisticatedMetadata</string>
+	<key>animationexceptparam</key>
+	<string>rectangleright</string>
+	<key>indicatorResponse</key>
+	<string>interactiveScroller</string>
+	<key>overrideinstruction</key>
+	<string>deactivateFactory</string>
+	<key>parallelLocalization</key>
+	<string>clusterColor</string>
+	<key>resilientcupertinoresponse</key>
+	<string>inheritedtransformerappearance</string>
+	<key>resourceShape</key>
+	<string>observerright</string>
+	<key>shouldRebuildDocument</key>
+	<string>fusedAlpha</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerSaturation</key>
+	<string>subscribeMonster</string>
+	<key>hasaxis</key>
+	<string>numericalpainter</string>
+	<key>parallelBorder</key>
+	<string>concurrentTime</string>
+	<key>pivotalBrush</key>
+	<string>shouldReplaceBehavior</string>
+	<key>retainedDocument</key>
+	<string>coordinatorname</string>
+</dict>
+</plist>

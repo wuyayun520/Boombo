@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoStroke</key>
+	<string>shouldYieldSegue</string>
+	<key>chooserContrast</key>
+	<string>numericalContainer</string>
+	<key>ephemeralrow</key>
+	<string>radiusVar</string>
+	<key>immediateStorage</key>
+	<string>shoulddisconnectfragment</string>
+	<key>kernelBorder</key>
+	<string>difficultStamp</string>
+	<key>materialSign</key>
+	<string>canInflateGridView</string>
+	<key>nativepreviewcoord</key>
+	<string>combineAsset</string>
+	<key>richtextBound</key>
+	<string>canMountedObserver</string>
+	<key>ternaryBehavior</key>
+	<string>canSerializeChecklist</string>
+	<key>uniqueProcessor</key>
+	<string>shouldstreamhistogram</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocleft</key>
+	<string>referencecoord</string>
+	<key>customRequest</key>
+	<string>detaildistance</string>
+	<key>disposemanager</key>
+	<string>optimizeParticle</string>
+	<key>mainprogressbarorientation</key>
+	<string>desktopSample</string>
+	<key>monsterTransparency</key>
+	<string>canFetchExponent</string>
+	<key>primaryBuilder</key>
+	<string>localizationContrast</string>
+	<key>shouldSubscribeBitrate</key>
+	<string>visualizetopic</string>
+	<key>volumeType</key>
+	<string>materialEmitter</string>
+</dict>
+</plist>

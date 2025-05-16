@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formatDistance</key>
+	<string>radiusSaturation</string>
+	<key>iterativeCompleter</key>
+	<string>rowStructure</string>
+	<key>logSaturation</key>
+	<string>crucialMultiplication</string>
+	<key>positionOffset</key>
+	<string>segueBridge</string>
+	<key>tappableVideo</key>
+	<string>catalystBuffer</string>
+</dict>
+</plist>

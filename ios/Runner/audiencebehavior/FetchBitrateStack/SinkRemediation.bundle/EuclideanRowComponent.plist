@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundlecheckbox</key>
+	<string>subscribeCycle</string>
+	<key>routeSaturation</key>
+	<string>stepMomentum</string>
+	<key>scaffoldVisibility</key>
+	<string>functionalBuffer</string>
+	<key>shouldDisconnectWidget</key>
+	<string>mountedChannels</string>
+	<key>shouldcontinuelistview</key>
+	<string>litePolyfill</string>
+	<key>timerDensity</key>
+	<string>displayableTable</string>
+	<key>unactivatedmembercoord</key>
+	<string>occasionFormat</string>
+	<key>uniqueCluster</key>
+	<string>intensityfinder</string>
+</dict>
+</plist>

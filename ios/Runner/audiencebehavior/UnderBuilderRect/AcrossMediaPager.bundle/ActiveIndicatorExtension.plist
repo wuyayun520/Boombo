@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashlistener</key>
+	<string>denseData</string>
+	<key>inactivePlayback</key>
+	<string>publishCertificate</string>
+	<key>shouldDisposeCapsule</key>
+	<string>canDecodeBaseline</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deploywidget</key>
+	<string>obtainAsync</string>
+	<key>diffableCupertino</key>
+	<string>secondDependency</string>
+	<key>dropdownbuttonoffset</key>
+	<string>attachProjection</string>
+	<key>localChapter</key>
+	<string>widgetAction</string>
+	<key>serializeposition</key>
+	<string>gridInset</string>
+	<key>smartResource</key>
+	<string>copyIsolate</string>
+</dict>
+</plist>

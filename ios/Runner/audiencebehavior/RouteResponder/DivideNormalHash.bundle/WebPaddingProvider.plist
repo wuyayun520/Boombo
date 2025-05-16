@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledFormat</key>
+	<string>cycleMode</string>
+	<key>shouldFinishCapacities</key>
+	<string>standaloneService</string>
+	<key>switchBrightness</key>
+	<string>dynamicContrast</string>
+</dict>
+</plist>

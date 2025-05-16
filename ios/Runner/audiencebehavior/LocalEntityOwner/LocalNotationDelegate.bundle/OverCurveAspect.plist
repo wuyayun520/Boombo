@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factorystyle</key>
+	<string>showmember</string>
+	<key>keyInteraction</key>
+	<string>priorNotification</string>
+	<key>notificationstagedistance</key>
+	<string>shouldPersistSkin</string>
+	<key>significantBoxShadow</key>
+	<string>shouldDisposeCatalyst</string>
+</dict>
+</plist>

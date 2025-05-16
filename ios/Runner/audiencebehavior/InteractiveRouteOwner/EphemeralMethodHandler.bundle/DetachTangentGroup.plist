@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredInfrastructure</key>
+	<string>saveAnimation</string>
+	<key>intuitiveShape</key>
+	<string>composableLatency</string>
+	<key>loopofstate</key>
+	<string>buttontint</string>
+	<key>petIndex</key>
+	<string>visibleSwitch</string>
+	<key>retainedZone</key>
+	<string>enumerateService</string>
+	<key>robustMechanism</key>
+	<string>canFormatButton</string>
+</dict>
+</plist>

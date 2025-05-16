@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorState</key>
+	<string>overrideTicker</string>
+	<key>discardedCompleter</key>
+	<string>layermodevalidation</string>
+	<key>exceptiondepth</key>
+	<string>localSplitter</string>
+	<key>liteWorkflow</key>
+	<string>prevSemantics</string>
+	<key>permutationIndex</key>
+	<string>scrollerPressure</string>
+	<key>requestPadding</key>
+	<string>shouldrenderchecklist</string>
+	<key>shouldEndDimension</key>
+	<string>durationParam</string>
+	<key>shouldKeepDescriptor</key>
+	<string>shouldInflatePositioned</string>
+	<key>shouldKeepView</key>
+	<string>sizedboxandadapter</string>
+</dict>
+</plist>

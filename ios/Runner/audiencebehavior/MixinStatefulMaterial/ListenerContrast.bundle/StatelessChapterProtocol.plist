@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionconstant</key>
+	<string>presentAperture</string>
+	<key>declarativeFragments</key>
+	<string>precisionBrightness</string>
+	<key>diversifiedGrain</key>
+	<string>restartCurve</string>
+	<key>resourceleft</key>
+	<string>showInteger</string>
+	<key>routeprototypecolor</key>
+	<string>draggableLocalization</string>
+	<key>shouldnotifystack</key>
+	<string>minFlex</string>
+	<key>stepthanjob</key>
+	<string>switchActivity</string>
+</dict>
+</plist>

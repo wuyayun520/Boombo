@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulecolor</key>
+	<string>workflowEdge</string>
+	<key>connectchecklist</key>
+	<string>deserializeFeature</string>
+	<key>cupertinoInset</key>
+	<string>permissiveCombiner</string>
+	<key>denseJoiner</key>
+	<string>displayFuture</string>
+	<key>intuitivefinder</key>
+	<string>rectTint</string>
+	<key>permissivemusic</key>
+	<string>nextPicker</string>
+	<key>retainedTraversal</key>
+	<string>uniquePublisher</string>
+	<key>segueDistance</key>
+	<string>canPushStack</string>
+	<key>shouldcancellog</key>
+	<string>canParseKernel</string>
+</dict>
+</plist>

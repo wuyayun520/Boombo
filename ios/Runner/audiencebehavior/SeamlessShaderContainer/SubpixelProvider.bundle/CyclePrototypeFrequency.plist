@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeProgressBar</key>
+	<string>canSkipTouch</string>
+	<key>mediumTime</key>
+	<string>interactorDuration</string>
+	<key>nextcompletion</key>
+	<string>canLayoutText</string>
+	<key>provideraroundjob</key>
+	<string>imageutil</string>
+</dict>
+</plist>

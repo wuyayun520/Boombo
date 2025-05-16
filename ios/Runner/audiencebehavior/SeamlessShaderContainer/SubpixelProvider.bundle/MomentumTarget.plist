@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaFormat</key>
+	<string>shouldconnectscaffold</string>
+	<key>cupertinovariableinset</key>
+	<string>positionCount</string>
+	<key>ephemeralSensor</key>
+	<string>scaleName</string>
+	<key>scrollableSubpixel</key>
+	<string>allocatorSystem</string>
+	<key>shouldfinishgate</key>
+	<string>cleanIsolate</string>
+	<key>titleTransparency</key>
+	<string>continueLog</string>
+	<key>usedUtil</key>
+	<string>eraseResponse</string>
+	<key>utilFrequency</key>
+	<string>intuitiveUtil</string>
+</dict>
+</plist>

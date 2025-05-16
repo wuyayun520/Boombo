@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveInformation</key>
+	<string>objectsaturation</string>
+	<key>collectionscope</key>
+	<string>shouldPopBatch</string>
+	<key>dependencyexceptphase</key>
+	<string>alertflags</string>
+	<key>missedInteger</key>
+	<string>cartesianGraph</string>
+	<key>oldRow</key>
+	<string>displayablemetadatashape</string>
+	<key>signdescription</key>
+	<string>shouldstartcheckbox</string>
+	<key>trainhandler</key>
+	<string>desktopgraphcontrast</string>
+</dict>
+</plist>

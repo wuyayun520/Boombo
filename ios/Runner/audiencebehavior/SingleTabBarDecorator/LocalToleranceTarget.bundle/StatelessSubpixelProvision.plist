@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computetechnique</key>
+	<string>enhanceLayer</string>
+	<key>dynamicentity</key>
+	<string>handlertype</string>
+	<key>ephemeralQueue</key>
+	<string>canReplaceBrush</string>
+	<key>indicatorrepository</key>
+	<string>normalConfiguration</string>
+	<key>menunearscope</key>
+	<string>granularCursor</string>
+	<key>shaderformat</key>
+	<string>synchronousWidget</string>
+	<key>similarGrid</key>
+	<string>smartpageview</string>
+</dict>
+</plist>

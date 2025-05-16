@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentaboutmode</key>
+	<string>firstSingleton</string>
+	<key>blocpadding</key>
+	<string>alignmentOrientation</string>
+	<key>pagersize</key>
+	<string>dynamicCupertino</string>
+	<key>sustainableCache</key>
+	<string>crudenode</string>
+	<key>zoneresponse</key>
+	<string>hasequipment</string>
+</dict>
+</plist>

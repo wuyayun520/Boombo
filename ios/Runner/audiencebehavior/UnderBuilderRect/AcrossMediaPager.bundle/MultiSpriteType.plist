@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionconstant</key>
+	<string>resultright</string>
+	<key>beginnerAscent</key>
+	<string>beginnerOptimizer</string>
+	<key>graphicvelocity</key>
+	<string>cancelCheckbox</string>
+	<key>hasPositioned</key>
+	<string>keyController</string>
+	<key>invisibleSample</key>
+	<string>iterativeSorter</string>
+	<key>scrollablelossspacing</key>
+	<string>imageopacity</string>
+	<key>shouldsubscribelabel</key>
+	<string>canNavigateRichText</string>
+</dict>
+</plist>

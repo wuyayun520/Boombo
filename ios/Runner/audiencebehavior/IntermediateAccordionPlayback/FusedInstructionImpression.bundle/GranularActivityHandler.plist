@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentmobile</key>
+	<string>buttontint</string>
+	<key>hashColor</key>
+	<string>keepFuture</string>
+	<key>offsetSkewY</key>
+	<string>infrastructureVisible</string>
+	<key>shouldupdatebutton</key>
+	<string>enabledProtocol</string>
+	<key>visibleDetector</key>
+	<string>pinchableEntropy</string>
+</dict>
+</plist>

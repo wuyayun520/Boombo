@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatemetadata</key>
+	<string>crudeBullet</string>
+	<key>dedicatedNavigator</key>
+	<string>polygonTransparency</string>
+	<key>expandedbeyondcontext</key>
+	<string>restartMediaQuery</string>
+	<key>shouldUnbindAspect</key>
+	<string>shoulddetachflex</string>
+	<key>symmetricAxis</key>
+	<string>substantialProfile</string>
+</dict>
+</plist>

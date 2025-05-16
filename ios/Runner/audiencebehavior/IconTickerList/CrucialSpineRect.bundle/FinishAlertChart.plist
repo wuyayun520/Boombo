@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventDistance</key>
+	<string>yieldGate</string>
+	<key>promiseresource</key>
+	<string>hasExpanded</string>
+	<key>reactiveBuffer</key>
+	<string>symmetricScenario</string>
+	<key>renameprecision</key>
+	<string>agileSwift</string>
+	<key>semanticException</key>
+	<string>efficiencyMomentum</string>
+	<key>shouldDisconnectSegue</key>
+	<string>storeType</string>
+	<key>shouldSkipMaster</key>
+	<string>crudeTopic</string>
+</dict>
+</plist>

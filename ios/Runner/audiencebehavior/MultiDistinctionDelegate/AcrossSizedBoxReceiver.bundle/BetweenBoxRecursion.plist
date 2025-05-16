@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiocurve</key>
+	<string>shouldmountedaccessory</string>
+	<key>connectorcount</key>
+	<string>protectedCoordinator</string>
+	<key>detectorFlags</key>
+	<string>bulletinformation</string>
+</dict>
+</plist>

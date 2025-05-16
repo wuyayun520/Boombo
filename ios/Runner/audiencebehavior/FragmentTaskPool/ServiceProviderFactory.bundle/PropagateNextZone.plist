@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoExpanded</key>
+	<string>statusdensity</string>
+	<key>channelsShade</key>
+	<string>unsortedInterpolation</string>
+	<key>dependencyagainstoperation</key>
+	<string>storeAsset</string>
+	<key>emitcurve</key>
+	<string>primaryCluster</string>
+	<key>inactiveTransformer</key>
+	<string>shouldFormatCertificate</string>
+	<key>matrixVisibility</key>
+	<string>interactivespecifier</string>
+	<key>priorrow</key>
+	<string>largeFrame</string>
+	<key>restartmomentum</key>
+	<string>asynchronousEvent</string>
+	<key>stackTop</key>
+	<string>accessibleSpine</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateRemediation</key>
+	<string>reducerdirection</string>
+	<key>nativeIntegration</key>
+	<string>shouldEmitNib</string>
+	<key>relationalView</key>
+	<string>markMetadata</string>
+	<key>robustElement</key>
+	<string>stringifyalert</string>
+	<key>shouldInflateBloc</key>
+	<string>currentMargin</string>
+	<key>shouldshowdocument</key>
+	<string>clearGraph</string>
+	<key>spotDensity</key>
+	<string>retainedStateful</string>
+</dict>
+</plist>

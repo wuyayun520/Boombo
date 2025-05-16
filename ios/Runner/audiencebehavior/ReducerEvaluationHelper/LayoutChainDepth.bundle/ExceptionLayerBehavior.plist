@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocoutsideprocess</key>
+	<string>addTexture</string>
+	<key>controllersingletonduration</key>
+	<string>promisecount</string>
+	<key>euclideanClipper</key>
+	<string>multiplicationCycle</string>
+	<key>materializerVelocity</key>
+	<string>shouldValidateEquipment</string>
+	<key>projectOpacity</key>
+	<string>canLayoutPositioned</string>
+	<key>resumeframe</key>
+	<string>pushNib</string>
+	<key>shouldTrainContraction</key>
+	<string>accessibleScroller</string>
+	<key>signMargin</key>
+	<string>formatPageView</string>
+</dict>
+</plist>

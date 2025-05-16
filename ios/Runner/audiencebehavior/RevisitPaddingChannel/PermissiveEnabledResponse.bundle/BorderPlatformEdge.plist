@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disconnectexponent</key>
+	<string>detachInteger</string>
+	<key>gemCenter</key>
+	<string>sensorAdapter</string>
+	<key>permutationForce</key>
+	<string>shouldunmountcube</string>
+	<key>pivotalResponder</key>
+	<string>viewBehavior</string>
+	<key>sharedMap</key>
+	<string>dismissCaption</string>
+	<key>specifyCanvas</key>
+	<string>replaceScaffold</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanfilter</key>
+	<string>resolverinterval</string>
+	<key>missedScreen</key>
+	<string>createsize</string>
+	<key>shouldDisconnectCollection</key>
+	<string>sinkMediator</string>
+	<key>shouldFetchController</key>
+	<string>canPrepareRole</string>
+	<key>shouldpaintindicator</key>
+	<string>mobileCoordinator</string>
+	<key>significantSizedBox</key>
+	<string>canPersistBox</string>
+</dict>
+</plist>

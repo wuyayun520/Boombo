@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerprovider</key>
+	<string>shouldMountTable</string>
+	<key>customIntegration</key>
+	<string>schemaInset</string>
+	<key>evaluationcontrast</key>
+	<string>synchronousGesture</string>
+	<key>flexibleFrame</key>
+	<string>scrollableTrajectory</string>
+	<key>inactiveDescription</key>
+	<string>difficultQuaternion</string>
+	<key>offsetOrientation</key>
+	<string>removeParticle</string>
+	<key>sceneAppearance</key>
+	<string>amortizationHead</string>
+	<key>shouldEncodeAspectRatio</key>
+	<string>delicateMapper</string>
+</dict>
+</plist>

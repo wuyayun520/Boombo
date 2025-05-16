@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicMaterializer</key>
+	<string>elasticStep</string>
+	<key>functionalChapter</key>
+	<string>titledrawer</string>
+	<key>rapidtheme</key>
+	<string>positionFramework</string>
+	<key>specifierContrast</key>
+	<string>attachTween</string>
+</dict>
+</plist>

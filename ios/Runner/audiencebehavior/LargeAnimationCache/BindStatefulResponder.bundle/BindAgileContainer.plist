@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedradiuscenter</key>
+	<string>shouldSaveExtension</string>
+	<key>dynamicLoss</key>
+	<string>loaderOrigin</string>
+	<key>ignoreddecoration</key>
+	<string>popupChain</string>
+	<key>maintaincompleter</key>
+	<string>sliderLayer</string>
+	<key>primaryException</key>
+	<string>poolstorage</string>
+	<key>referencedelay</key>
+	<string>concurrentDelegate</string>
+	<key>responseformat</key>
+	<string>builderOpacity</string>
+	<key>sortedmodule</key>
+	<string>assetBrightness</string>
+	<key>vectorValidation</key>
+	<string>tentativeBehavior</string>
+</dict>
+</plist>

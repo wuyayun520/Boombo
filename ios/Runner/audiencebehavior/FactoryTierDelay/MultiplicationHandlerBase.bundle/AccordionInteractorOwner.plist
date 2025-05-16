@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTaxonomy</key>
+	<string>notifyConstraint</string>
+	<key>discardedFragment</key>
+	<string>requiredContrast</string>
+	<key>displayableAudio</key>
+	<string>layoutoffset</string>
+	<key>euclideanrange</key>
+	<string>canShowCustomPaint</string>
+	<key>globalTouch</key>
+	<string>delegatevelocity</string>
+	<key>resilienceTransparency</key>
+	<string>durationpadding</string>
+	<key>serviceMode</key>
+	<string>animationdelivery</string>
+	<key>shoulddismissoverlay</key>
+	<string>canPresentSensor</string>
+	<key>shouldkeepprofile</key>
+	<string>robustDuration</string>
+</dict>
+</plist>

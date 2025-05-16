@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGate</key>
+	<string>releaseroute</string>
+	<key>cosinetypeinteraction</key>
+	<string>bandwidthSkewY</string>
+	<key>durationpreview</key>
+	<string>smartStatus</string>
+	<key>extendmaster</key>
+	<string>liteRenderer</string>
+	<key>hasrichtext</key>
+	<string>playbackRate</string>
+	<key>labelqueue</key>
+	<string>associatedAlignment</string>
+	<key>methodAlignment</key>
+	<string>actionTransparency</string>
+	<key>shouldkeepproject</key>
+	<string>flexpatternpressure</string>
+</dict>
+</plist>

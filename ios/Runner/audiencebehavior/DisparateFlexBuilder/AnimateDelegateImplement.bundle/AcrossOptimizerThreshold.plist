@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionRate</key>
+	<string>fixedBitrate</string>
+	<key>difficultShape</key>
+	<string>interactiveExpanded</string>
+	<key>greatFuture</key>
+	<string>newestButton</string>
+	<key>instructionDuration</key>
+	<string>exponentagainstframework</string>
+	<key>mutableScroller</key>
+	<string>inheritedSlider</string>
+	<key>positiondecoratorcolor</key>
+	<string>reusableSkirt</string>
+	<key>publicStore</key>
+	<string>interpolationAcceleration</string>
+	<key>shouldUnbindDropdownButton</key>
+	<string>conformSingleton</string>
+	<key>spineSpeed</key>
+	<string>dynamicTrigger</string>
+</dict>
+</plist>

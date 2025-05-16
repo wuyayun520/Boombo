@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionContraction</key>
+	<string>respondInterface</string>
+	<key>activatedgrain</key>
+	<string>shouldDismissWidget</string>
+	<key>concurrentTicker</key>
+	<string>strokeTransparency</string>
+	<key>popupTheme</key>
+	<string>nextProgressBar</string>
+	<key>presenterimpression</key>
+	<string>startVariant</string>
+	<key>progressbarResponse</key>
+	<string>instructionBrightness</string>
+	<key>shouldRestartCupertino</key>
+	<string>handleNorm</string>
+	<key>signcontrast</key>
+	<string>canPauseSample</string>
+	<key>symbolDelay</key>
+	<string>taskawaykind</string>
+	<key>timerbuilder</key>
+	<string>textMediator</string>
+</dict>
+</plist>

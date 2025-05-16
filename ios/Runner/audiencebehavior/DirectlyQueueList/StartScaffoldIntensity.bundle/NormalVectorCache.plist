@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderVisible</key>
+	<string>isRole</string>
+	<key>consultativeRenderer</key>
+	<string>semanticChooser</string>
+	<key>difficultPageView</key>
+	<string>detachOption</string>
+	<key>mutableaccessoryrate</key>
+	<string>cycleEdge</string>
+	<key>promisekinddensity</key>
+	<string>secondTolerance</string>
+	<key>responsiveasyncdirection</key>
+	<string>exponentevent</string>
+	<key>touchTag</key>
+	<string>completedPageView</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBehavior</key>
+	<string>shouldfetchprofile</string>
+	<key>baselinePosition</key>
+	<string>canSetStateSlider</string>
+	<key>granularSlash</key>
+	<string>shouldProcessCell</string>
+	<key>painterstatus</key>
+	<string>canMountedMap</string>
+	<key>parallelProjection</key>
+	<string>shouldrestartrow</string>
+	<key>persistentInformation</key>
+	<string>clipperVisitor</string>
+	<key>pivotalDetail</key>
+	<string>smallProgressBar</string>
+	<key>profileSkewY</key>
+	<string>delicateArchitecture</string>
+	<key>requiredNotification</key>
+	<string>updatebutton</string>
+	<key>strengthPressure</key>
+	<string>serviceviabuffer</string>
+</dict>
+</plist>

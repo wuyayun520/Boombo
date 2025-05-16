@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardEquivalent</key>
+	<string>advancedreducer</string>
+	<key>cupertinonavigatorvelocity</key>
+	<string>bufferOpacity</string>
+	<key>independentMomentum</key>
+	<string>borderMomentum</string>
+	<key>marginlifecycle</key>
+	<string>referenceDirection</string>
+	<key>pageviewFeedback</key>
+	<string>rowcenter</string>
+	<key>timelineCenter</key>
+	<string>chaptermethodskewx</string>
+</dict>
+</plist>

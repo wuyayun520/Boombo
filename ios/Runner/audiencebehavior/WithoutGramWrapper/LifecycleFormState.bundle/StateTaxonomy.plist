@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderspacing</key>
+	<string>animationLocation</string>
+	<key>diversifiedDropdownButton</key>
+	<string>deferredMetrics</string>
+	<key>missionwithsingleton</key>
+	<string>widgetProxy</string>
+	<key>oncellchanged</key>
+	<string>shouldMountedDecoration</string>
+	<key>publicasyncalignment</key>
+	<string>meshRate</string>
+	<key>resilientEqualization</key>
+	<string>emitImage</string>
+	<key>specifydecorationmode</key>
+	<string>gridviewStatus</string>
+</dict>
+</plist>

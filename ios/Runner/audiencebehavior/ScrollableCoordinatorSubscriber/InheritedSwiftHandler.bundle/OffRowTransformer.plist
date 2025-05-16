@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableproviderbehavior</key>
+	<string>respectiveDocument</string>
+	<key>entitythroughnumber</key>
+	<string>deferredIcon</string>
+	<key>indicatorobserver</key>
+	<string>discardedCharacter</string>
+	<key>musicscale</key>
+	<string>animatedScalability</string>
+	<key>mutableCursor</key>
+	<string>otherProject</string>
+	<key>newestCapacity</key>
+	<string>cartesianStep</string>
+	<key>tablecombiner</key>
+	<string>optimizeIsolate</string>
+	<key>typicalAccessory</key>
+	<string>replaceAxis</string>
+	<key>unlockdropdownbutton</key>
+	<string>shouldRebuildChannels</string>
+</dict>
+</plist>

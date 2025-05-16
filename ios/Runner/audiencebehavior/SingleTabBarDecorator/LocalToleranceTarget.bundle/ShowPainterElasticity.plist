@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equivalentstyle</key>
+	<string>notificationFormat</string>
+	<key>explicitIsolate</key>
+	<string>shouldEncodeNavigator</string>
+	<key>listviewPosition</key>
+	<string>statusdelay</string>
+	<key>mediaHead</key>
+	<string>dimensiontype</string>
+	<key>prevModel</key>
+	<string>mainBehavior</string>
+	<key>singleInteger</key>
+	<string>decoupleTransformer</string>
+	<key>staticFeature</key>
+	<string>granularNavigation</string>
+	<key>usedMaster</key>
+	<string>skinChain</string>
+	<key>webFlex</key>
+	<string>regulateView</string>
+</dict>
+</plist>

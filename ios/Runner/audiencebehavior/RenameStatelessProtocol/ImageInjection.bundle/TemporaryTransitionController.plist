@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveConstant</key>
+	<string>curveMode</string>
+	<key>custompaintawaystrategy</key>
+	<string>canRestartCursor</string>
+	<key>finderDistance</key>
+	<string>persistentAsset</string>
+	<key>invisibleFrame</key>
+	<string>mountExtension</string>
+	<key>localLayout</key>
+	<string>dismissBitrate</string>
+	<key>prevThroughput</key>
+	<string>subscribeCatalyst</string>
+	<key>shouldContinuePageView</key>
+	<string>accessiblePicker</string>
+	<key>shouldRestartContraction</key>
+	<string>schedulerAlignment</string>
+	<key>smartstateless</key>
+	<string>delegateResolver</string>
+	<key>symmetricEquivalent</key>
+	<string>canConnectBullet</string>
+</dict>
+</plist>

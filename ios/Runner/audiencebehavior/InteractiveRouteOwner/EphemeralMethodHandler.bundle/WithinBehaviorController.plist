@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorprototypeedge</key>
+	<string>hyperbolicClipper</string>
+	<key>brushagainstdecorator</key>
+	<string>tensorSine</string>
+	<key>dedicatedZone</key>
+	<string>canUnmountedSubpixel</string>
+	<key>densePlayback</key>
+	<string>skirtType</string>
+	<key>dynamicAlpha</key>
+	<string>requestFlyweight</string>
+	<key>opaqueOverlay</key>
+	<string>dispatchPriority</string>
+	<key>toolcount</key>
+	<string>cupertinoUtil</string>
+</dict>
+</plist>

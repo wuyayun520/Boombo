@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastVisible</key>
+	<string>criticaloptimizer</string>
+	<key>normalScroll</key>
+	<string>tangentCycle</string>
+	<key>reactiveProvider</key>
+	<string>slidervisitorbottom</string>
+	<key>respectiveAnalyzer</key>
+	<string>nativeGift</string>
+	<key>shouldDisconnectResource</key>
+	<string>canStopTransition</string>
+	<key>shouldTrainSegue</key>
+	<string>standaloneobserver</string>
+	<key>sizefunctionopacity</key>
+	<string>shouldcreatereduction</string>
+</dict>
+</plist>

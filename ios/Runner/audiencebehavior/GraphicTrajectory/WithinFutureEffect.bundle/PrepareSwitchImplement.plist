@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatestore</key>
+	<string>immediateColor</string>
+	<key>diffableoperation</key>
+	<string>geometricSpecifier</string>
+	<key>documentvector</key>
+	<string>tappableternarystate</string>
+	<key>futuremediatorrotation</key>
+	<string>selectedusage</string>
+	<key>mediocreTrigger</key>
+	<string>mediocreSegue</string>
+	<key>shouldUnmountedRole</key>
+	<string>gridInterpreter</string>
+	<key>videoScale</key>
+	<string>detailFlags</string>
+</dict>
+</plist>

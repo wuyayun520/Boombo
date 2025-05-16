@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackoperationspeed</key>
+	<string>robustTriangles</string>
+	<key>cubitMargin</key>
+	<string>shouldSkipAspectRatio</string>
+	<key>directMovement</key>
+	<string>resilientMedia</string>
+	<key>mediaawait</key>
+	<string>shouldunbindmargin</string>
+	<key>persistentException</key>
+	<string>canSubscribeController</string>
+	<key>scopePosition</key>
+	<string>labelInset</string>
+	<key>shouldBindTangent</key>
+	<string>notifyScreen</string>
+	<key>shouldMountedStateless</key>
+	<string>grayscaleCycle</string>
+	<key>shouldSaveDecoration</key>
+	<string>sessionIndex</string>
+</dict>
+</plist>

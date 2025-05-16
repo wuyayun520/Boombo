@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainermethodedge</key>
+	<string>petstream</string>
+	<key>extendsession</key>
+	<string>dimensionValue</string>
+	<key>firstDelivery</key>
+	<string>largeTween</string>
+	<key>hashShape</key>
+	<string>provideTopic</string>
+	<key>hasinstruction</key>
+	<string>canUnbindConstraint</string>
+	<key>infrastructureState</key>
+	<string>shouldFormatDialogs</string>
+	<key>listenerorobserver</key>
+	<string>intermediateHandler</string>
+	<key>liteBrush</key>
+	<string>connectSine</string>
+	<key>referencetexture</key>
+	<string>animatedObserver</string>
+	<key>shouldRebuildSlash</key>
+	<string>processModulus</string>
+</dict>
+</plist>

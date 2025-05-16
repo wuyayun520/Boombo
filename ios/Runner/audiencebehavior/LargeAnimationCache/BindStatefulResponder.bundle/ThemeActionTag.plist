@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channeloperationrotation</key>
+	<string>canMountedScroll</string>
+	<key>commonEvent</key>
+	<string>restartGestureDetector</string>
+	<key>delicatesearcher</key>
+	<string>dispatchUsage</string>
+	<key>disabledScope</key>
+	<string>resilienceforce</string>
+	<key>listenerAppearance</key>
+	<string>canStartBuilder</string>
+	<key>localizationColor</key>
+	<string>canBindCompletion</string>
+	<key>mediumTexture</key>
+	<string>decodeMember</string>
+	<key>shouldInflateAnimation</key>
+	<string>canParseGestureDetector</string>
+	<key>synchronousGestureDetector</key>
+	<string>uniformSorter</string>
+</dict>
+</plist>

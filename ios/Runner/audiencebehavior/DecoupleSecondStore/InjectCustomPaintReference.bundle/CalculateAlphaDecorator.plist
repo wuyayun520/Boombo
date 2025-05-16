@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblejoiner</key>
+	<string>interpolationHue</string>
+	<key>accordioninfrastructure</key>
+	<string>animatedInteger</string>
+	<key>chapterbound</key>
+	<string>sharedInteraction</string>
+	<key>elementShape</key>
+	<string>accessibleBinder</string>
+	<key>hyperbolicMenu</key>
+	<string>startCupertino</string>
+	<key>otherLogarithm</key>
+	<string>nextTrajectory</string>
+	<key>shouldConnectDropdownButton</key>
+	<string>canStartStep</string>
+</dict>
+</plist>

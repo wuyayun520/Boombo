@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCluster</key>
+	<string>deployEntity</string>
+	<key>collectionresource</key>
+	<string>shouldstopsymbol</string>
+	<key>deserializecapacities</key>
+	<string>shouldYieldFragment</string>
+	<key>firstArchitecture</key>
+	<string>scaffoldStructure</string>
+	<key>instructionDelay</key>
+	<string>pivotalTabView</string>
+	<key>managerskewx</key>
+	<string>integrityopacity</string>
+	<key>scrollableStatus</key>
+	<string>difficultMediaQuery</string>
+	<key>tappableSignature</key>
+	<string>restrictionVisible</string>
+	<key>traversalHue</key>
+	<string>shouldBuildListView</string>
+</dict>
+</plist>

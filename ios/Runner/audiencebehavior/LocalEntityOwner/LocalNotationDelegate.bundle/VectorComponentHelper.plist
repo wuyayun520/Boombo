@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousisolatecontrast</key>
+	<string>shouldNotifyBuilder</string>
+	<key>ephemeralArithmetic</key>
+	<string>shouldUpdateBitrate</string>
+	<key>inactiveTitle</key>
+	<string>subtleProgressBar</string>
+	<key>layerDistance</key>
+	<string>documentDirection</string>
+	<key>statefulAnalyzer</key>
+	<string>flexibleMomentum</string>
+	<key>tensorCallback</key>
+	<string>storeofcomposite</string>
+</dict>
+</plist>

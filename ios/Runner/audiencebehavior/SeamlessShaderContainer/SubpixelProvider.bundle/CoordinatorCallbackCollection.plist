@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorymetrics</key>
+	<string>textureSkewY</string>
+	<key>cupertinosession</key>
+	<string>activeCard</string>
+	<key>custompaintOrientation</key>
+	<string>canPersistHero</string>
+	<key>explicitSignature</key>
+	<string>decodeResponse</string>
+	<key>frameMargin</key>
+	<string>persistentAnimation</string>
+	<key>immediateInfo</key>
+	<string>reactiveaccessory</string>
+	<key>largeAction</key>
+	<string>joinerSkewX</string>
+	<key>mediumReliability</key>
+	<string>layoutOrigin</string>
+	<key>shouldDisconnectRoute</key>
+	<string>pointBorder</string>
+	<key>substantialMethod</key>
+	<string>activeGraph</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateddecoration</key>
+	<string>replaceimage</string>
+	<key>granularSegue</key>
+	<string>captionCycle</string>
+	<key>labelName</key>
+	<string>emitterEdge</string>
+	<key>memberAppearance</key>
+	<string>presenttopic</string>
+	<key>serviceDistance</key>
+	<string>advancedGraphic</string>
+	<key>statepager</key>
+	<string>normalCurve</string>
+	<key>subtleCompleter</key>
+	<string>subpixelStage</string>
+	<key>transitioncoord</key>
+	<string>missionAppearance</string>
+</dict>
+</plist>

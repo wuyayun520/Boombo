@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelFrequency</key>
+	<string>distinctionDirection</string>
+	<key>checknavigation</key>
+	<string>beginnerchallengeoffset</string>
+	<key>difficultLayout</key>
+	<string>taskChain</string>
+	<key>resilientSink</key>
+	<string>widgetPhase</string>
+	<key>shouldUnbindObserver</key>
+	<string>clearBloc</string>
+</dict>
+</plist>

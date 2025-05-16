@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCycle</key>
+	<string>fragmentsDepth</string>
+	<key>asynchronousService</key>
+	<string>canParseSensor</string>
+	<key>comprehensiveMetrics</key>
+	<string>ascentRate</string>
+	<key>dedicatedCreator</key>
+	<string>sinkSkewX</string>
+	<key>deferredPageView</key>
+	<string>popupawayvariable</string>
+	<key>flexiblebuttonbound</key>
+	<string>statelessStep</string>
+</dict>
+</plist>

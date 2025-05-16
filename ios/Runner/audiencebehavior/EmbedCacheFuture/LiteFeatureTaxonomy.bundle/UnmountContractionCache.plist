@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsSaturation</key>
+	<string>factorysaturation</string>
+	<key>cosinevelocity</key>
+	<string>secondcapacity</string>
+	<key>labelright</key>
+	<string>textenvironmentsaturation</string>
+	<key>mutableModel</key>
+	<string>quantizationManager</string>
+	<key>standaloneAsync</key>
+	<string>canRouteUsage</string>
+	<key>uniqueGradient</key>
+	<string>upgradeEntity</string>
+</dict>
+</plist>

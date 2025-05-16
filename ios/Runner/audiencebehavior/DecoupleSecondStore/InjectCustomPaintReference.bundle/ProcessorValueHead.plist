@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSwift</key>
+	<string>attachGate</string>
+	<key>animatedbuilder</key>
+	<string>activatedAperture</string>
+	<key>mediocreMonster</key>
+	<string>canUpdateContraction</string>
+	<key>resilienttransformer</key>
+	<string>shouldDisconnectMovement</string>
+	<key>zoneMode</key>
+	<string>canFinishPadding</string>
+</dict>
+</plist>

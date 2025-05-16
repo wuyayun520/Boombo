@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedAlert</key>
+	<string>topicFlags</string>
+	<key>menuhead</key>
+	<string>staticContainer</string>
+	<key>sceneRate</key>
+	<string>canDetachConvolution</string>
+	<key>shouldPublishCaption</key>
+	<string>canStreamDescriptor</string>
+</dict>
+</plist>

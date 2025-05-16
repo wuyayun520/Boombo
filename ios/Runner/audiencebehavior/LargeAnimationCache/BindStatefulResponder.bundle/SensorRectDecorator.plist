@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileRecursion</key>
+	<string>inheritedBehavior</string>
+	<key>cupertinoScreen</key>
+	<string>formatStyle</string>
+	<key>denseCache</key>
+	<string>binaryBuffer</string>
+	<key>errorconstant</key>
+	<string>commonTabBar</string>
+	<key>lastOptimizer</key>
+	<string>publicSubscription</string>
+	<key>mobiletween</key>
+	<string>mountedDropdownButton</string>
+	<key>restartreducer</key>
+	<string>webLoss</string>
+	<key>scopeRate</key>
+	<string>mainSpecifier</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineInterval</key>
+	<string>documentSystem</string>
+	<key>secondbloc</key>
+	<string>defaulteffect</string>
+	<key>showtransformer</key>
+	<string>catalystDistance</string>
+	<key>unsortedError</key>
+	<string>interactiveExpanded</string>
+</dict>
+</plist>

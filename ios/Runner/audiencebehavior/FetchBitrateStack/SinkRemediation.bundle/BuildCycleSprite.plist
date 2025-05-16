@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>reusableTransformer</key>
+	<string>protectedGraph</string>
+	<key>shouldEndTable</key>
+	<string>modulusMemento</string>
+	<key>shouldFetchLabel</key>
+	<string>delegateintegrity</string>
+	<key>shouldyieldsession</key>
+	<string>deserializeStack</string>
+</dict>
+</plist>

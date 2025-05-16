@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderaroundmediator</key>
+	<string>hasboxshadow</string>
+	<key>concurrentdependency</key>
+	<string>dedicatedTable</string>
+	<key>cupertinoResource</key>
+	<string>moduleSpeed</string>
+	<key>debugpriority</key>
+	<string>sophisticatedReplica</string>
+	<key>presentprovider</key>
+	<string>retainAllocator</string>
+	<key>reusablemodalcount</key>
+	<string>coordinatorsaturation</string>
+	<key>shouldDisposeScale</key>
+	<string>diversifiedWrapper</string>
+	<key>shouldSubscribeAppBar</key>
+	<string>destroyResource</string>
+	<key>timerVisibility</key>
+	<string>canConnectCustomPaint</string>
+</dict>
+</plist>

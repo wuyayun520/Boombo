@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBuffer</key>
+	<string>offsetBridge</string>
+	<key>deferredQuaternion</key>
+	<string>rectangleResponse</string>
+	<key>directSubscriber</key>
+	<string>currentnib</string>
+	<key>evolutionKind</key>
+	<string>immutableConnector</string>
+	<key>immediateInterpolation</key>
+	<string>disconnectModal</string>
+	<key>membertype</key>
+	<string>fusedTolerance</string>
+	<key>profileversuslayer</key>
+	<string>shouldAnimateEquipment</string>
+</dict>
+</plist>

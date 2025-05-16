@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layersize</key>
+	<string>lostTimer</string>
+	<key>optimizerresponse</key>
+	<string>interpolationEdge</string>
+	<key>resizablearithmetic</key>
+	<string>aggregateManager</string>
+	<key>shouldDeserializeChecklist</key>
+	<string>shouldLoadFuture</string>
+	<key>similarWorkflow</key>
+	<string>metadataFeedback</string>
+</dict>
+</plist>

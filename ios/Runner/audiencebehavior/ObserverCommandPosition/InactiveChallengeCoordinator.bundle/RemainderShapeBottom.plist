@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashcolor</key>
+	<string>dependencyaspect</string>
+	<key>metricsRate</key>
+	<string>listviewInterpreter</string>
+	<key>multiGestureDetector</key>
+	<string>eagerHandler</string>
+	<key>publishdecoration</key>
+	<string>emitlocalization</string>
+	<key>shouldfetchactivity</key>
+	<string>immutablecallbackmargin</string>
+	<key>updatecallback</key>
+	<string>canBuildCursor</string>
+</dict>
+</plist>

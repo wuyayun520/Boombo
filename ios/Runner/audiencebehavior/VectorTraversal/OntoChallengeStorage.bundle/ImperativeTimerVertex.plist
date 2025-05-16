@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedElement</key>
+	<string>displayableTime</string>
+	<key>poparithmetic</key>
+	<string>retainedCoordinator</string>
+	<key>publicStoryboard</key>
+	<string>immutableObject</string>
+	<key>viewKind</key>
+	<string>viewMediator</string>
+</dict>
+</plist>

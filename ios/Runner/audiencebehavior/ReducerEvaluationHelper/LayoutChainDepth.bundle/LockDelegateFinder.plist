@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveAmortization</key>
+	<string>parseIcon</string>
+	<key>criticalScene</key>
+	<string>polygonMode</string>
+	<key>equipmentanimator</key>
+	<string>interfaceFlyweight</string>
+	<key>gesturedetectorOrigin</key>
+	<string>hierarchicalPermutation</string>
+	<key>hierarchicalTimer</key>
+	<string>displayableSizedBox</string>
+	<key>othersinkedge</key>
+	<string>autoalignment</string>
+	<key>shouldResumeView</key>
+	<string>disconnectBorder</string>
+	<key>shouldSkipNavigation</key>
+	<string>insteadCoordinator</string>
+	<key>synchronousObserver</key>
+	<string>seamlessEfficiency</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredReference</key>
+	<string>immediateLatency</string>
+	<key>kernelVisible</key>
+	<string>interactiveBrush</string>
+	<key>multiplymodel</key>
+	<string>staticChannels</string>
+	<key>overlaytint</key>
+	<string>storyboardCenter</string>
+	<key>shouldSaveCapacities</key>
+	<string>parallelSkin</string>
+	<key>timelineDensity</key>
+	<string>renameResult</string>
+</dict>
+</plist>

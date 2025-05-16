@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperintegrity</key>
+	<string>shouldYieldHeap</string>
+	<key>decouplepadding</key>
+	<string>paddingTail</string>
+	<key>latencyRight</key>
+	<string>seekCurve</string>
+	<key>paddingtheme</key>
+	<string>fragmenttypedepth</string>
+	<key>robustPresenter</key>
+	<string>encodeDrawer</string>
+	<key>storyboardShape</key>
+	<string>shouldConnectChallenge</string>
+</dict>
+</plist>

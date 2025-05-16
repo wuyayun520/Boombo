@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleEffect</key>
+	<string>canUnbindMonster</string>
+	<key>activeUseCase</key>
+	<string>shouldReplaceMaterial</string>
+	<key>channelbridgedelay</key>
+	<string>shouldYieldAspectRatio</string>
+	<key>cupertinoBound</key>
+	<string>providevector</string>
+	<key>declarativeUtil</key>
+	<string>strokeAppearance</string>
+	<key>ephemeralVideo</key>
+	<string>shouldDisconnectExpanded</string>
+	<key>mediumReducer</key>
+	<string>soundVelocity</string>
+	<key>mutableSignature</key>
+	<string>yieldBitrate</string>
+	<key>processorAcceleration</key>
+	<string>roleTheme</string>
+</dict>
+</plist>

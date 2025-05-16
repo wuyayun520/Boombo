@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>plateCount</key>
+	<string>customswiftforce</string>
+	<key>publicMaterializer</key>
+	<string>elementedge</string>
+	<key>resourcecontextleft</key>
+	<string>temporaryDrawer</string>
+	<key>throughputValidation</key>
+	<string>deserializeroute</string>
+	<key>vectormediatorshape</key>
+	<string>selectedContraction</string>
+</dict>
+</plist>

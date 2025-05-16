@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableCombiner</key>
+	<string>immediateHandler</string>
+	<key>grayscaletemplesize</key>
+	<string>animationbuffer</string>
+	<key>hashBehavior</key>
+	<string>flexiblesorter</string>
+	<key>observelistener</key>
+	<string>observerName</string>
+	<key>resilientRole</key>
+	<string>canDisposePoint</string>
+	<key>secondPrecision</key>
+	<string>shouldLoadRemainder</string>
+	<key>taskcharacteristic</key>
+	<string>shouldDisposeInkWell</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonspotskewy</key>
+	<string>localLog</string>
+	<key>intuitivedurationtype</key>
+	<string>scopeShade</string>
+	<key>linkertail</key>
+	<string>unmountedPageView</string>
+	<key>precisionDelay</key>
+	<string>finishNavigation</string>
+	<key>prevConstraint</key>
+	<string>flexVariable</string>
+	<key>protectedRange</key>
+	<string>canShowDelegate</string>
+	<key>shouldpublishalert</key>
+	<string>indicatorincludevalue</string>
+</dict>
+</plist>

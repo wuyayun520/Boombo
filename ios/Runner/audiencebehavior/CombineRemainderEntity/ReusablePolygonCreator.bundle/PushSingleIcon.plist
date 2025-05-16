@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblehandler</key>
+	<string>primaryDelegate</string>
+	<key>equipmentpopup</key>
+	<string>provideFrame</string>
+	<key>granularBoxShadow</key>
+	<string>techniqueFlags</string>
+	<key>intensityCoord</key>
+	<string>validatelayout</string>
+	<key>nativeSchema</key>
+	<string>detachmobile</string>
+	<key>semanticgraphtransparency</key>
+	<string>inheritedElement</string>
+	<key>substantialLayout</key>
+	<string>canDisposeNavigator</string>
+</dict>
+</plist>

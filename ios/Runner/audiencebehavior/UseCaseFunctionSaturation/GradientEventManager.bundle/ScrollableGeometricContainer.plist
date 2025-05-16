@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionReference</key>
+	<string>routeCache</string>
+	<key>greatOperation</key>
+	<string>observermatrix</string>
+	<key>menuparambehavior</key>
+	<string>reusableLayer</string>
+	<key>progressbarinstructure</key>
+	<string>synchronousAspect</string>
+	<key>projectOrigin</key>
+	<string>validateloop</string>
+	<key>screenLeft</key>
+	<string>scrollableLoader</string>
+	<key>shouldAttachBuilder</key>
+	<string>groupName</string>
+	<key>shouldResumePromise</key>
+	<string>updateAnchor</string>
+	<key>shouldTransitionPainter</key>
+	<string>loadSlash</string>
+	<key>showgraph</key>
+	<string>desktopAspectRatio</string>
+</dict>
+</plist>

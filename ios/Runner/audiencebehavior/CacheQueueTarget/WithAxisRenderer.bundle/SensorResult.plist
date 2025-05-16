@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticInfo</key>
+	<string>providertype</string>
+	<key>dialogsTint</key>
+	<string>endCustomPaint</string>
+	<key>equalizationDirection</key>
+	<string>touchLabel</string>
+	<key>shouldSkipCapacities</key>
+	<string>interfaceVisibility</string>
+	<key>sizedboxIndex</key>
+	<string>deactivateCallback</string>
+	<key>staticRestriction</key>
+	<string>significantresourceappearance</string>
+</dict>
+</plist>

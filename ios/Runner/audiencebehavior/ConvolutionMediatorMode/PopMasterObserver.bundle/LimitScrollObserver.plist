@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSlider</key>
+	<string>multiTangent</string>
+	<key>futureamortization</key>
+	<string>secondEvent</string>
+	<key>independentSubscription</key>
+	<string>denseRect</string>
+	<key>newestanimator</key>
+	<string>standaloneRoute</string>
+</dict>
+</plist>

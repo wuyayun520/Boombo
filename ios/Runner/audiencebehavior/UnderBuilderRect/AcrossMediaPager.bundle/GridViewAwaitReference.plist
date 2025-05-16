@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlydelegatevalidation</key>
+	<string>lastAspect</string>
+	<key>interactiveAction</key>
+	<string>awaitFrequency</string>
+	<key>limitgridview</key>
+	<string>paintKernel</string>
+	<key>skinMode</key>
+	<string>shouldsetstateaperture</string>
+	<key>sortedTheme</key>
+	<string>secondtask</string>
+	<key>temporaryObserver</key>
+	<string>offsetInset</string>
+	<key>yieldoffset</key>
+	<string>pinchableInstruction</string>
+</dict>
+</plist>

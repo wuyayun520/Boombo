@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardGate</key>
+	<string>statefulQuaternion</string>
+	<key>cartesianPermutation</key>
+	<string>alignmentSystem</string>
+	<key>fixedCanvas</key>
+	<string>destroySingleton</string>
+	<key>sharedTentative</key>
+	<string>subtleTentative</string>
+	<key>symmetriccupertino</key>
+	<string>semanticsdepth</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>permanentconsumer</key>
+	<string>clipperTail</string>
+	<key>platevalidation</key>
+	<string>intensitycombiner</string>
+	<key>pointShape</key>
+	<string>inheritedResilience</string>
+	<key>projectionVisibility</key>
+	<string>canValidateRadio</string>
+	<key>protectedFeature</key>
+	<string>sinkActivity</string>
+	<key>shouldDecodeListView</key>
+	<string>inheritedNib</string>
+	<key>shouldParseMaster</key>
+	<string>priorityvector</string>
+	<key>tabviewShade</key>
+	<string>scrollableTouch</string>
+</dict>
+</plist>

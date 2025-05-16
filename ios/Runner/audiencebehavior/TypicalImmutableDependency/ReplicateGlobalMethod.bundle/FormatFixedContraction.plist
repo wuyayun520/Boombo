@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsasset</key>
+	<string>unsortedStore</string>
+	<key>euclideanListener</key>
+	<string>publishConstraint</string>
+	<key>granulardrawer</key>
+	<string>isolateNumber</string>
+	<key>permissiveTabView</key>
+	<string>immutablesliderkind</string>
+	<key>rapidCoordinator</key>
+	<string>variantAction</string>
+	<key>shouldFinishCosine</key>
+	<string>canUnbindAnchor</string>
+	<key>shouldStopBatch</key>
+	<string>checklistEnvironment</string>
+	<key>shouldUnbindGate</key>
+	<string>actionsize</string>
+	<key>textureType</key>
+	<string>statefulappbar</string>
+</dict>
+</plist>

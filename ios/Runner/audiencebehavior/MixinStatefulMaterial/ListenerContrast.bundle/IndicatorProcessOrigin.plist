@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledLayout</key>
+	<string>dissociateEvent</string>
+	<key>functionaleventtype</key>
+	<string>popdecoration</string>
+	<key>labelkindtype</key>
+	<string>containeraction</string>
+	<key>mediocreCombiner</key>
+	<string>sensorLevel</string>
+	<key>particleBound</key>
+	<string>dynamicRenderer</string>
+	<key>uniformPet</key>
+	<string>receiveReducer</string>
+	<key>widgetname</key>
+	<string>heapposition</string>
+</dict>
+</plist>

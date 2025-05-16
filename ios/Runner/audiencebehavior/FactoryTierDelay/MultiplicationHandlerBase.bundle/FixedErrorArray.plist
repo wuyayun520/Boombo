@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyFlags</key>
+	<string>displayableTaxonomy</string>
+	<key>contractionMomentum</key>
+	<string>fetchRichText</string>
+	<key>descriptorTheme</key>
+	<string>iterativeTabBar</string>
+	<key>fusedCubit</key>
+	<string>uniformFragment</string>
+	<key>mediumShader</key>
+	<string>skinCoord</string>
+	<key>nativeProcessor</key>
+	<string>selectedCurve</string>
+	<key>pinchableBitrate</key>
+	<string>mountedMaterial</string>
+	<key>respectiveContainer</key>
+	<string>sizeParameter</string>
+	<key>shouldKeepObserver</key>
+	<string>animatedcontainerPhase</string>
+</dict>
+</plist>

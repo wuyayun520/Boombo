@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowTint</key>
+	<string>operationrouter</string>
+	<key>criticalNavigation</key>
+	<string>observeMatrix</string>
+	<key>mobilePopup</key>
+	<string>stopmodel</string>
+	<key>shouldUnmountBullet</key>
+	<string>shouldNotifyNotification</string>
+	<key>viewmargin</key>
+	<string>shouldUnmountExtension</string>
+	<key>webThroughput</key>
+	<string>immutableNode</string>
+</dict>
+</plist>

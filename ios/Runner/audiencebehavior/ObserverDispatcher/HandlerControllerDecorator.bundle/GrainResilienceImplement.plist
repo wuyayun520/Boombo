@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerframe</key>
+	<string>shouldPublishCatalyst</string>
+	<key>exceptionoutsidecommand</key>
+	<string>numericalScale</string>
+	<key>sampleevent</key>
+	<string>detectorEdge</string>
+	<key>singleSymbol</key>
+	<string>canHandleGesture</string>
+	<key>sizedboxpertype</key>
+	<string>canDecodeCharacter</string>
+	<key>subsequentScaffold</key>
+	<string>nativeExtension</string>
+</dict>
+</plist>

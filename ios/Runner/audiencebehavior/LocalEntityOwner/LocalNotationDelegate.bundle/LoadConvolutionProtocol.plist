@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleExpanded</key>
+	<string>subpixelvariablebehavior</string>
+	<key>asynchronousScroller</key>
+	<string>modulusContext</string>
+	<key>cubitstyle</key>
+	<string>missedLoss</string>
+	<key>mainHandler</key>
+	<string>restartNotification</string>
+	<key>mobileStorage</key>
+	<string>canYieldStateless</string>
+	<key>newestAnchor</key>
+	<string>hyperbolicMusic</string>
+	<key>permissiveInterface</key>
+	<string>sliderForm</string>
+	<key>shouldDecodeSegue</key>
+	<string>assetInteraction</string>
+	<key>shouldDispatchOption</key>
+	<string>intuitiveLocalization</string>
+</dict>
+</plist>

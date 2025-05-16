@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchliketask</key>
+	<string>handleSine</string>
+	<key>coordinatorvarformat</key>
+	<string>imperativeAlert</string>
+	<key>mutableNorm</key>
+	<string>shouldTransformGem</string>
+	<key>petaction</key>
+	<string>unactivatedSkirt</string>
+	<key>shouldFetchAspectRatio</key>
+	<string>viewLayer</string>
+	<key>shouldTrainTouch</key>
+	<string>tasklocation</string>
+	<key>signatureHead</key>
+	<string>multiplicationBehavior</string>
+	<key>themevelocity</key>
+	<string>canEmitPet</string>
+	<key>visiblePrecision</key>
+	<string>columnSize</string>
+</dict>
+</plist>

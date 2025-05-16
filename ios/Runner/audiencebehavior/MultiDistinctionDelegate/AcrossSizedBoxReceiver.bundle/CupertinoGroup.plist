@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedListView</key>
+	<string>staticMetadata</string>
+	<key>contrastDirection</key>
+	<string>createSwitch</string>
+	<key>interfacefilter</key>
+	<string>adaptiveResolver</string>
+	<key>oldService</key>
+	<string>shouldUnbindAnchor</string>
+	<key>shouldConnectBoxShadow</key>
+	<string>canSaveStateful</string>
+	<key>shouldPresentActivity</key>
+	<string>ephemeralInstruction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellbesidetemple</key>
+	<string>advancedticker</string>
+	<key>imperativeResource</key>
+	<string>workflowStatus</string>
+	<key>keyEvolution</key>
+	<string>draggableviewpadding</string>
+	<key>offsetvisible</key>
+	<string>canAttachTextField</string>
+	<key>seamlessSegue</key>
+	<string>secondAmortization</string>
+	<key>texturestatus</key>
+	<string>durationtint</string>
+</dict>
+</plist>

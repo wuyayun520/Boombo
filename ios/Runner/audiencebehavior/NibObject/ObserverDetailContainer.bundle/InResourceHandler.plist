@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateTool</key>
+	<string>toolVisitor</string>
+	<key>dynamicMechanism</key>
+	<string>enabledAudio</string>
+	<key>futurelatency</key>
+	<string>sessionColor</string>
+	<key>maintainusage</key>
+	<string>resizableInfrastructure</string>
+	<key>originalSignature</key>
+	<string>synchronousDropdownButton</string>
+	<key>pinchableManager</key>
+	<string>oldUseCase</string>
+</dict>
+</plist>

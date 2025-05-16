@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elementCoord</key>
+	<string>intuitiveGestureDetector</string>
+	<key>granularInfrastructure</key>
+	<string>resizeBloc</string>
+	<key>presentstream</key>
+	<string>canSetStateAspectRatio</string>
+	<key>promiseresolver</key>
+	<string>factoryexceptlayer</string>
+	<key>webinteractor</key>
+	<string>dialogsDensity</string>
+</dict>
+</plist>

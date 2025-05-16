@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianEmitter</key>
+	<string>behaviorpopup</string>
+	<key>containerMomentum</key>
+	<string>constraintVar</string>
+	<key>customizedResilience</key>
+	<string>utilSkewY</string>
+	<key>defaultusage</key>
+	<string>independentSplitter</string>
+	<key>directlyDrawer</key>
+	<string>firstCard</string>
+	<key>imageDelay</key>
+	<string>shouldConnectCustomPaint</string>
+	<key>publicModal</key>
+	<string>colorVisible</string>
+	<key>reducersingletonspacing</key>
+	<string>deferredInterpolation</string>
+	<key>shouldListenImage</key>
+	<string>layoutinbridge</string>
+</dict>
+</plist>

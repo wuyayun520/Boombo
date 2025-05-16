@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationconnector</key>
+	<string>deferredAnalyzer</string>
+	<key>commonTernary</key>
+	<string>touchSink</string>
+	<key>globalImpression</key>
+	<string>mainInfo</string>
+	<key>imageenvironmentshade</key>
+	<string>decodestate</string>
+	<key>keyparticlecoord</key>
+	<string>decodeListView</string>
+	<key>opaqueAlert</key>
+	<string>brushAppearance</string>
+</dict>
+</plist>

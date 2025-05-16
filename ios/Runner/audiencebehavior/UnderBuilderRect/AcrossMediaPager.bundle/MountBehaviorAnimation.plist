@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedBrush</key>
+	<string>tableCenter</string>
+	<key>autoassetbound</key>
+	<string>appendrect</string>
+	<key>columnname</key>
+	<string>serializeSize</string>
+	<key>disconnectnotifier</key>
+	<string>immediatechannelstyle</string>
+	<key>isDrawer</key>
+	<string>canLoadInteger</string>
+</dict>
+</plist>

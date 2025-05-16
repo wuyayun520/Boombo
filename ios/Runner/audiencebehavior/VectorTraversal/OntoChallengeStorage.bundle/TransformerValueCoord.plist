@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncaboutstyle</key>
+	<string>subsequentSpine</string>
+	<key>eagersemantics</key>
+	<string>popNotification</string>
+	<key>lifecycleshade</key>
+	<string>canHandleCell</string>
+	<key>logarithmframeworkinterval</key>
+	<string>shouldLayoutConvolution</string>
+	<key>normnumberalignment</key>
+	<string>replicaright</string>
+	<key>persistobserver</key>
+	<string>eventframe</string>
+	<key>reconcilemember</key>
+	<string>activeScene</string>
+</dict>
+</plist>

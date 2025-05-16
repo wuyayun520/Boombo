@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationposition</key>
+	<string>cursorMethod</string>
+	<key>apertureTheme</key>
+	<string>pushstamp</string>
+	<key>displayableTweak</key>
+	<string>replicateUseCase</string>
+	<key>exceptionInteraction</key>
+	<string>sinkContext</string>
+	<key>ignoredchallenge</key>
+	<string>adaptivebandwidth</string>
+	<key>normRotation</key>
+	<string>refreshConfiguration</string>
+	<key>persisthash</key>
+	<string>reliabilityOpacity</string>
+	<key>shouldPrepareTransition</key>
+	<string>spinSprite</string>
+</dict>
+</plist>

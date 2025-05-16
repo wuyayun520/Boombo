@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializeoperation</key>
+	<string>unsortedScaffold</string>
+	<key>disclaimerVelocity</key>
+	<string>layoutBaseline</string>
+	<key>mobileSprite</key>
+	<string>columncontainstate</string>
+	<key>navigatorrange</key>
+	<string>priorFrame</string>
+	<key>retainedSlider</key>
+	<string>sustainabledelegate</string>
+	<key>screenOpacity</key>
+	<string>lostAccessory</string>
+	<key>shouldEndDialogs</key>
+	<string>pinchableRecursion</string>
+	<key>statefulKind</key>
+	<string>nextStateless</string>
+</dict>
+</plist>

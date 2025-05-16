@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarcyclecontrast</key>
+	<string>bundleCurve</string>
+	<key>composableFormat</key>
+	<string>canTransformColumn</string>
+	<key>concurrentCapacity</key>
+	<string>textfieldFormat</string>
+	<key>deserializemanager</key>
+	<string>crudeGrid</string>
+	<key>distinctionColor</key>
+	<string>shapeForce</string>
+	<key>enabledanimationmomentum</key>
+	<string>canObserveColumn</string>
+	<key>immediateMaterial</key>
+	<string>canPrepareNavigator</string>
+	<key>shouldFetchHero</key>
+	<string>taxonomyDistance</string>
+	<key>shouldcachetool</key>
+	<string>intermediateRadio</string>
+	<key>tensorStateful</key>
+	<string>meshTheme</string>
+</dict>
+</plist>

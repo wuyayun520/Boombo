@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindbuffer</key>
+	<string>shouldPrepareAxis</string>
+	<key>builderbound</key>
+	<string>canTransformPositioned</string>
+	<key>fetchanimation</key>
+	<string>shouldSubscribeWidget</string>
+	<key>immutableSegue</key>
+	<string>deliveryDirection</string>
+	<key>injectionForce</key>
+	<string>shearInteractor</string>
+	<key>navigatecatalyst</key>
+	<string>clipAlignment</string>
+	<key>originalMapper</key>
+	<string>currentgem</string>
+	<key>renamechannel</key>
+	<string>mountCompletion</string>
+	<key>shouldDisposeLog</key>
+	<string>trianglesEdge</string>
+</dict>
+</plist>

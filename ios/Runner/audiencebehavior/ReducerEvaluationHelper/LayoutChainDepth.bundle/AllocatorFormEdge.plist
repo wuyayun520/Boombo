@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>istextfield</key>
+	<string>continueDimension</string>
+	<key>layerVisibility</key>
+	<string>storageStatus</string>
+	<key>resizableFlex</key>
+	<string>currentSubscriber</string>
+	<key>smallIntegration</key>
+	<string>shouldHandleMap</string>
+	<key>splitterCount</key>
+	<string>shouldTrainBinary</string>
+	<key>triggerKind</key>
+	<string>cartesiannotifierlocation</string>
+</dict>
+</plist>

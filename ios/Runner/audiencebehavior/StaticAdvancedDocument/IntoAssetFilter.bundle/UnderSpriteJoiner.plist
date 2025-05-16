@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAscent</key>
+	<string>loaderVisible</string>
+	<key>blocinmediator</key>
+	<string>annotateCubit</string>
+	<key>eventmomentum</key>
+	<string>endProject</string>
+	<key>processorStatus</key>
+	<string>binaryrouter</string>
+	<key>providerAcceleration</key>
+	<string>concurrentNavigator</string>
+	<key>publicReceiver</key>
+	<string>optimizeManager</string>
+	<key>shouldInflateResource</key>
+	<string>canInflateGesture</string>
+	<key>sustainableBehavior</key>
+	<string>canKeepUnary</string>
+</dict>
+</plist>

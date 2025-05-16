@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocSkewY</key>
+	<string>clipperResponse</string>
+	<key>documentAcceleration</key>
+	<string>tentativeHead</string>
+	<key>intensityOffset</key>
+	<string>timelineTag</string>
+	<key>onnormtap</key>
+	<string>updatealignment</string>
+	<key>precisionDepth</key>
+	<string>canSkipAnimatedContainer</string>
+	<key>protectedBloc</key>
+	<string>smallallocatordepth</string>
+	<key>shoulddeserializeprotocol</key>
+	<string>documentlayer</string>
+	<key>threadconsumption</key>
+	<string>diffableCanvas</string>
+</dict>
+</plist>

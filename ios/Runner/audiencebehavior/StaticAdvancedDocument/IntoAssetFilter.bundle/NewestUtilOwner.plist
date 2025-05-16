@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imageInset</key>
+	<string>vertexShade</string>
+	<key>interpolationfunctionleft</key>
+	<string>canTransformThread</string>
+	<key>labeljobedge</key>
+	<string>resizableDetail</string>
+	<key>originalSegue</key>
+	<string>scrollcoord</string>
+	<key>shouldBuildMobile</key>
+	<string>declarativecoordinator</string>
+</dict>
+</plist>

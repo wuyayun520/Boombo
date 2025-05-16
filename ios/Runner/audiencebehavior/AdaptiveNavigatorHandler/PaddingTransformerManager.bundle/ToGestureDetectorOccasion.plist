@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackTag</key>
+	<string>smarttentative</string>
+	<key>computewidget</key>
+	<string>sessionview</string>
+	<key>immediateSegue</key>
+	<string>greatPageView</string>
+	<key>modaloutsideaction</key>
+	<string>shouldrestartcontraction</string>
+	<key>parallelBinary</key>
+	<string>shouldStreamVariant</string>
+	<key>statefulInformation</key>
+	<string>canDisconnectShader</string>
+	<key>sustainableCatalyst</key>
+	<string>shouldPrepareArithmetic</string>
+	<key>webExtension</key>
+	<string>screenContext</string>
+</dict>
+</plist>

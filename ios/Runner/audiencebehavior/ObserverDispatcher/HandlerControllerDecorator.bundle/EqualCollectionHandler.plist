@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiospacing</key>
+	<string>invisibleIntegrity</string>
+	<key>audioFlags</key>
+	<string>normalIntensity</string>
+	<key>basicPopup</key>
+	<string>projectdrawer</string>
+	<key>cupertinotitlemomentum</key>
+	<string>radioValue</string>
+	<key>customizedPlayback</key>
+	<string>canEncodeFlex</string>
+	<key>mutableEqualization</key>
+	<string>statusLeft</string>
+	<key>seamlessUtil</key>
+	<string>canPrepareTouch</string>
+</dict>
+</plist>

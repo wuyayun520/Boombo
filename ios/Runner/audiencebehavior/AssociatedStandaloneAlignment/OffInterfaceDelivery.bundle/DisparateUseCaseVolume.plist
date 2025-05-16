@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentaroundvalue</key>
+	<string>associatedsize</string>
+	<key>configurationRotation</key>
+	<string>bundleTimer</string>
+	<key>persistentNib</key>
+	<string>labelPosition</string>
+	<key>scrollableManager</key>
+	<string>shouldPersistMobile</string>
+	<key>shouldPresentPriority</key>
+	<string>retainedPadding</string>
+	<key>smallPolyfill</key>
+	<string>criticalBandwidth</string>
+	<key>statefulDrawer</key>
+	<string>isSkirt</string>
+	<key>typicalSegue</key>
+	<string>visibleInteger</string>
+	<key>variantState</key>
+	<string>responsiveTrigger</string>
+</dict>
+</plist>

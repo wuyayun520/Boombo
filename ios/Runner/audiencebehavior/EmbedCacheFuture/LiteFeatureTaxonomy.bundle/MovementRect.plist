@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customwidget</key>
+	<string>directLoader</string>
+	<key>liteHandler</key>
+	<string>shouldParseCosine</string>
+	<key>storageascomposite</key>
+	<string>criticalWidget</string>
+	<key>symmetricCubit</key>
+	<string>shouldPopPlayback</string>
+</dict>
+</plist>

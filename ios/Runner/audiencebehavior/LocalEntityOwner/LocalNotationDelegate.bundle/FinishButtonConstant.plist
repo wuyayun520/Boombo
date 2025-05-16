@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveConnector</key>
+	<string>chartCommand</string>
+	<key>lastDetector</key>
+	<string>canNavigateEqualization</string>
+	<key>provisionColor</key>
+	<string>backwardCosine</string>
+</dict>
+</plist>

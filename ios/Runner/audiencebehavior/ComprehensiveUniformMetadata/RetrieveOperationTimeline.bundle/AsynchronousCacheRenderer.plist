@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorInset</key>
+	<string>unactivatedDetail</string>
+	<key>beginnerScenario</key>
+	<string>mediocreDrawer</string>
+	<key>cartesianinterpolationstyle</key>
+	<string>processorBound</string>
+	<key>granularDelivery</key>
+	<string>canRestartSwitch</string>
+	<key>primaryMap</key>
+	<string>listenOperation</string>
+	<key>prismaticAsset</key>
+	<string>onworkflowtap</string>
+	<key>shouldDispatchColumn</key>
+	<string>streamResource</string>
+	<key>shouldStopSign</key>
+	<string>shouldpublishduration</string>
+</dict>
+</plist>

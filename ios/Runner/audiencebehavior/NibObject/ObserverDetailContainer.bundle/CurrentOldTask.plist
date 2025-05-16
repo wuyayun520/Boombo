@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastCell</key>
+	<string>fusedContainer</string>
+	<key>operationBehavior</key>
+	<string>streamCenter</string>
+	<key>rangeSkewX</key>
+	<string>deprecateWidget</string>
+	<key>shouldReplaceAlpha</key>
+	<string>renameTransformer</string>
+	<key>specifieropacity</key>
+	<string>objectDirection</string>
+	<key>statelessNotation</key>
+	<string>asynchronousMaterializer</string>
+</dict>
+</plist>

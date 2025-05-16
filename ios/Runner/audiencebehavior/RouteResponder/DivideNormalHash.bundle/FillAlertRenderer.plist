@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleStrength</key>
+	<string>rapidRoute</string>
+	<key>largeChapter</key>
+	<string>canPushGraphic</string>
+	<key>lazyRequest</key>
+	<string>canPublishEntropy</string>
+	<key>mediocreTransition</key>
+	<string>awaitFormat</string>
+	<key>publisherorigin</key>
+	<string>staticChannels</string>
+	<key>restarttexture</key>
+	<string>copyspine</string>
+	<key>shouldsubscribeobserver</key>
+	<string>concurrentBuffer</string>
+</dict>
+</plist>

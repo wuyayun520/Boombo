@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAppearance</key>
+	<string>rapidRect</string>
+	<key>shouldRouteScreen</key>
+	<string>nextSwitch</string>
+	<key>slashcompositemomentum</key>
+	<string>dropdownbuttonflags</string>
+	<key>subtlemediaquery</key>
+	<string>canStreamRole</string>
+	<key>sustainableSpecifier</key>
+	<string>setstateSign</string>
+	<key>usecaseShade</key>
+	<string>builderSingleton</string>
+</dict>
+</plist>

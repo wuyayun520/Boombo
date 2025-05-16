@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>reactiveCard</key>
+	<string>toleranceBehavior</string>
+	<key>reusableCapsule</key>
+	<string>accordionTimer</string>
+	<key>reusablePublisher</key>
+	<string>resilientCubit</string>
+	<key>shouldValidateWidget</key>
+	<string>shouldCancelBuilder</string>
+	<key>sineOrigin</key>
+	<string>singletonBehavior</string>
+	<key>stackCenter</key>
+	<string>documentflags</string>
+	<key>triggerRotation</key>
+	<string>canUpdateBuilder</string>
+</dict>
+</plist>

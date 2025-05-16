@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeStateful</key>
+	<string>gridRate</string>
+	<key>crudeevent</key>
+	<string>updateStack</string>
+	<key>cubitScale</key>
+	<string>decodeSlash</string>
+	<key>currentDelegate</key>
+	<string>invokeZone</string>
+	<key>disabledCapacity</key>
+	<string>makevariant</string>
+	<key>infrastructureShape</key>
+	<string>undertakePosition</string>
+	<key>shouldSerializeCoordinator</key>
+	<string>annotateRouter</string>
+	<key>shoulddetachsegment</key>
+	<string>protectedListView</string>
+	<key>topicrotation</key>
+	<string>unactivatedbufferorigin</string>
+</dict>
+</plist>

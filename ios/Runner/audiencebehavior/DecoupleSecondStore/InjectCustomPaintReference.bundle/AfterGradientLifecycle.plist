@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deactivatebuilder</key>
+	<string>masterPhase</string>
+	<key>defaultResource</key>
+	<string>transpileController</string>
+	<key>diffableHandler</key>
+	<string>staticBehavior</string>
+	<key>protectedFragments</key>
+	<string>priorRoute</string>
+	<key>shouldTrainRow</key>
+	<string>deferredInfo</string>
+	<key>tableskewx</key>
+	<string>integrityHead</string>
+</dict>
+</plist>

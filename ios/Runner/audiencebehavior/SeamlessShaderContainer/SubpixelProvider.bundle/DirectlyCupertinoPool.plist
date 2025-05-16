@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastBrightness</key>
+	<string>remaindercoord</string>
+	<key>enabledAmortization</key>
+	<string>nextAppBar</string>
+	<key>evaluatehandler</key>
+	<string>canStopProfile</string>
+	<key>introspectremainder</key>
+	<string>nibName</string>
+	<key>previewcombiner</key>
+	<string>componentIndex</string>
+	<key>protocolcallback</key>
+	<string>logarithmCenter</string>
+	<key>shouldPopGem</key>
+	<string>shouldFormatConstraint</string>
+</dict>
+</plist>

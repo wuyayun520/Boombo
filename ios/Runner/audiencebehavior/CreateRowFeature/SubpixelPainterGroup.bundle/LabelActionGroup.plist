@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileBorder</key>
+	<string>repositoryagainstvariable</string>
+	<key>alignmentSpeed</key>
+	<string>navigateSpine</string>
+	<key>directListener</key>
+	<string>mountCoordinator</string>
+	<key>labelorigin</key>
+	<string>orchestrateanimatedcontainer</string>
+	<key>multistamp</key>
+	<string>staticDocument</string>
+	<key>shouldFinishMission</key>
+	<string>canShowRoute</string>
+</dict>
+</plist>

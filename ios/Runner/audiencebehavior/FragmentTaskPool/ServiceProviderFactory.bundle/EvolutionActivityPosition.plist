@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeConnector</key>
+	<string>immutableVolume</string>
+	<key>dismisscoordinator</key>
+	<string>futurewithouttype</string>
+	<key>graphsaturation</key>
+	<string>modalshapecontrast</string>
+	<key>greatgradientsaturation</key>
+	<string>publicStroke</string>
+	<key>listviewinteraction</key>
+	<string>statelessRestriction</string>
+	<key>shouldDisposeComposition</key>
+	<string>presentRadio</string>
+	<key>sizeexceptflyweight</key>
+	<string>interactivenotification</string>
+</dict>
+</plist>

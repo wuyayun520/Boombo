@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheHead</key>
+	<string>difficultQuaternion</string>
+	<key>deferredContainer</key>
+	<string>canPaintColumn</string>
+	<key>firstDependency</key>
+	<string>fetchwidget</string>
+	<key>granularCursor</key>
+	<string>subsequentStroke</string>
+	<key>optimizerBrightness</key>
+	<string>unmountedPoint</string>
+</dict>
+</plist>

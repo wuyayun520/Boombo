@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeTabView</key>
+	<string>istabbar</string>
+	<key>crucialGroup</key>
+	<string>statefulDropdownButton</string>
+	<key>difficultvectorcoord</key>
+	<string>binderDelay</string>
+	<key>errorcenter</key>
+	<string>restartCell</string>
+	<key>flexibleOptimizer</key>
+	<string>interactorOrigin</string>
+	<key>intermediateconverter</key>
+	<string>curvechainposition</string>
+	<key>objectShape</key>
+	<string>synchronousLatency</string>
+	<key>shouldBindGram</key>
+	<string>iterativeAlert</string>
+</dict>
+</plist>

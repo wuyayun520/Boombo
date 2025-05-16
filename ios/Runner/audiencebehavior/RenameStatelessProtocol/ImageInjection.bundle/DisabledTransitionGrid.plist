@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentSkewX</key>
+	<string>canPaintContraction</string>
+	<key>materialpreview</key>
+	<string>canPresentTangent</string>
+	<key>normalOverlay</key>
+	<string>canShowGem</string>
+	<key>precisionwithoutcommand</key>
+	<string>canPublishConvolution</string>
+	<key>routercharacteristic</key>
+	<string>cubeagainstprototype</string>
+	<key>shouldResumeCoordinator</key>
+	<string>canStartFuture</string>
+	<key>slideroftype</key>
+	<string>shearstoryboard</string>
+	<key>streamanalyzer</key>
+	<string>canProcessExpanded</string>
+	<key>unsortedOffset</key>
+	<string>statelessDropdownButton</string>
+</dict>
+</plist>

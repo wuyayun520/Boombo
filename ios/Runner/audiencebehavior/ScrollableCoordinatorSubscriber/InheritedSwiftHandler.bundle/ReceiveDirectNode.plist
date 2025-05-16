@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedGridView</key>
+	<string>specifierPrototype</string>
+	<key>buildinterpolation</key>
+	<string>unbindFragment</string>
+	<key>primaryFuture</key>
+	<string>bufferstructuremode</string>
+	<key>quantizerspot</key>
+	<string>layoutSwitch</string>
+	<key>shouldNotifySemantics</key>
+	<string>sliderorigin</string>
+	<key>shouldPauseTabBar</key>
+	<string>shouldPopPadding</string>
+</dict>
+</plist>

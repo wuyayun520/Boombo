@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completiontween</key>
+	<string>routemode</string>
+	<key>coordinatorcontainer</key>
+	<string>diffableCallback</string>
+	<key>granularPresenter</key>
+	<string>uniformWrapper</string>
+	<key>memberproxyshape</key>
+	<string>missedbase</string>
+	<key>opaquePositioned</key>
+	<string>customAnchor</string>
+	<key>publicConverter</key>
+	<string>streamMaster</string>
+	<key>storageAlignment</key>
+	<string>cachetransition</string>
+	<key>toolRotation</key>
+	<string>interpolationPrototype</string>
+	<key>variantSize</key>
+	<string>rowContext</string>
+</dict>
+</plist>

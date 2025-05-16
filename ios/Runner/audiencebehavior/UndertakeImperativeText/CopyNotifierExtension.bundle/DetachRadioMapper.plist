@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTween</key>
+	<string>thresholdSize</string>
+	<key>intermediateConvolution</key>
+	<string>consultativeMetrics</string>
+	<key>shouldDeserializeMap</key>
+	<string>directlyslider</string>
+</dict>
+</plist>

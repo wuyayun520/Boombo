@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatecharacteristic</key>
+	<string>baseAppearance</string>
+	<key>collectionevolution</key>
+	<string>rebuildDimension</string>
+	<key>factoryflags</key>
+	<string>sustainableSign</string>
+	<key>intuitiveDetail</key>
+	<string>unmountedWidget</string>
+	<key>linkertype</key>
+	<string>overlayResponse</string>
+	<key>newestStrength</key>
+	<string>canListenScale</string>
+	<key>oldRestriction</key>
+	<string>canValidateRemainder</string>
+	<key>restrictionMode</key>
+	<string>operationPressure</string>
+	<key>shouldContinueProject</key>
+	<string>provideConfiguration</string>
+</dict>
+</plist>

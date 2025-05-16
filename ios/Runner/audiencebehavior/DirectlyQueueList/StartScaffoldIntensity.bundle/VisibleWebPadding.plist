@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedFormat</key>
+	<string>respectiveBinder</string>
+	<key>diversifiedMap</key>
+	<string>adaptiveRouter</string>
+	<key>handlesubscription</key>
+	<string>adaptiveCycle</string>
+	<key>plateSaturation</key>
+	<string>hierarchicalTolerance</string>
+	<key>sequentialConvolution</key>
+	<string>mediumRemainder</string>
+	<key>singleHeap</key>
+	<string>nextEffect</string>
+	<key>unmarshalpositioned</key>
+	<string>vectorphasebound</string>
+	<key>visitroute</key>
+	<string>prevLatency</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectmap</key>
+	<string>canStopCaption</string>
+	<key>disabledDispatcher</key>
+	<string>shouldResumeMap</string>
+	<key>expandedinset</key>
+	<string>deferredAlignment</string>
+	<key>hardBatch</key>
+	<string>diversifiedEffect</string>
+	<key>imageofcommand</key>
+	<string>spotcontrast</string>
+	<key>inkwellName</key>
+	<string>restartpet</string>
+	<key>shouldCacheBuilder</key>
+	<string>layerVar</string>
+	<key>temporaryResponse</key>
+	<string>titleprototypemargin</string>
+</dict>
+</plist>

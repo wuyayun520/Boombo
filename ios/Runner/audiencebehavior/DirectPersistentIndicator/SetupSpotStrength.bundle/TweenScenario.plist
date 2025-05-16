@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elementrotation</key>
+	<string>deliverydelay</string>
+	<key>futurePosition</key>
+	<string>oldTabView</string>
+	<key>nextWorkflow</key>
+	<string>materializerOrigin</string>
+	<key>normalSearcher</key>
+	<string>interactiveReceiver</string>
+	<key>optionTheme</key>
+	<string>yieldSlider</string>
+	<key>shouldEmitCharacter</key>
+	<string>lossActivity</string>
+	<key>vertexRate</key>
+	<string>crudeRect</string>
+</dict>
+</plist>

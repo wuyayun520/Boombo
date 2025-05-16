@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluateresource</key>
+	<string>mainVariant</string>
+	<key>evolutionForce</key>
+	<string>dedicatedRequest</string>
+	<key>newestSprite</key>
+	<string>shouldKeepCoordinator</string>
+	<key>notifierInset</key>
+	<string>shouldTrainBase</string>
+	<key>positionedDuration</key>
+	<string>shouldParseSubpixel</string>
+	<key>shouldSkipGrayscale</key>
+	<string>introspectCompleter</string>
+	<key>sinefacadecoord</key>
+	<string>storageCycle</string>
+	<key>sortedScene</key>
+	<string>slashVisitor</string>
+	<key>timeindex</key>
+	<string>ternaryMode</string>
+</dict>
+</plist>

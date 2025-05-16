@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblekernel</key>
+	<string>semanticHeap</string>
+	<key>crudeCache</key>
+	<string>receiveLayout</string>
+	<key>dedicatedLocalization</key>
+	<string>collectionStyle</string>
+	<key>futureforcycle</key>
+	<string>replicaCount</string>
+	<key>listviewFormat</key>
+	<string>materializePosition</string>
+	<key>seamlessEntropy</key>
+	<string>methodtension</string>
+	<key>startanimation</key>
+	<string>canSaveMission</string>
+</dict>
+</plist>

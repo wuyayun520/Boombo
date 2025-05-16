@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCombiner</key>
+	<string>processrect</string>
+	<key>displayableExpanded</key>
+	<string>newestLabel</string>
+	<key>sortedResponder</key>
+	<string>spriteActivity</string>
+	<key>tappabletraversal</key>
+	<string>fusedFlex</string>
+	<key>tensorScope</key>
+	<string>greatGram</string>
+	<key>transitiontransparency</key>
+	<string>selectedLog</string>
+</dict>
+</plist>

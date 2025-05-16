@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheDuration</key>
+	<string>diversifiedCheckbox</string>
+	<key>commonIntegrity</key>
+	<string>operationKind</string>
+	<key>declarativeVolume</key>
+	<string>moveFuture</string>
+	<key>metadataSaturation</key>
+	<string>standaloneSession</string>
+	<key>mobileAppBar</key>
+	<string>canDismissMobile</string>
+	<key>optiontheme</key>
+	<string>rectangleVisibility</string>
+	<key>primaryLayer</key>
+	<string>paddingLayer</string>
+	<key>rowdisclaimer</key>
+	<string>subscriberScale</string>
+	<key>subtleMap</key>
+	<string>localActivity</string>
+	<key>throughputmomentum</key>
+	<string>lazyBitrate</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblerouteopacity</key>
+	<string>canUnbindEffect</string>
+	<key>hashStatus</key>
+	<string>compositionLevel</string>
+	<key>immutablePosition</key>
+	<string>cacheOpacity</string>
+	<key>nativeFormat</key>
+	<string>infrastructureTint</string>
+	<key>nodeTag</key>
+	<string>popGram</string>
+	<key>shouldObserveDrawer</key>
+	<string>hardProvider</string>
+	<key>specifyColor</key>
+	<string>navigatecontainer</string>
+	<key>tangentacceleration</key>
+	<string>dismissSlash</string>
+	<key>transitionInterval</key>
+	<string>primaryShader</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialMatrix</key>
+	<string>canConnectRadio</string>
+	<key>equalizationColor</key>
+	<string>pinchableConsumption</string>
+	<key>filterFlags</key>
+	<string>gramAction</string>
+	<key>mapinset</key>
+	<string>independentSprite</string>
+	<key>processorAlignment</key>
+	<string>globalDelegate</string>
+	<key>rectangleStyle</key>
+	<string>temporaryFormat</string>
+	<key>retainedcontroller</key>
+	<string>particleBrightness</string>
+	<key>shouldEmitController</key>
+	<string>synchronizeService</string>
+	<key>synchronousPositioned</key>
+	<string>reusableCustomPaint</string>
+</dict>
+</plist>

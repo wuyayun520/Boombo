@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardBuilder</key>
+	<string>configureTask</string>
+	<key>denseBinary</key>
+	<string>unbindMap</string>
+	<key>evolutionShape</key>
+	<string>animationtheme</string>
+	<key>maintainpresenter</key>
+	<string>cartesianmember</string>
+	<key>originalEntropy</key>
+	<string>replaceisolate</string>
+	<key>rowOrientation</key>
+	<string>operationrotation</string>
+	<key>shouldFetchInkWell</key>
+	<string>momentumShape</string>
+	<key>shouldPersistAspect</key>
+	<string>statefulGestureDetector</string>
+	<key>temporarymesh</key>
+	<string>inflateBoxShadow</string>
+</dict>
+</plist>

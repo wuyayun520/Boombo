@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTop</key>
+	<string>resolveCurve</string>
+	<key>cupertinoDelivery</key>
+	<string>secondTransition</string>
+	<key>easyModulus</key>
+	<string>adaptiveCupertino</string>
+	<key>interactionAlignment</key>
+	<string>shouldValidateExpanded</string>
+	<key>mendDistance</key>
+	<string>shouldDisposeModal</string>
+	<key>meshEdge</key>
+	<string>ignoredheroskewx</string>
+	<key>nativepager</key>
+	<string>prevEfficiency</string>
+	<key>shouldDetachTabView</key>
+	<string>tensorConverter</string>
+	<key>shouldParseCustomPaint</key>
+	<string>collectionCycle</string>
+	<key>unscheduledependency</key>
+	<string>shouldroutebrush</string>
+</dict>
+</plist>

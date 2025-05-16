@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultAlert</key>
+	<string>transformerTheme</string>
+	<key>granularDelegate</key>
+	<string>layerFrequency</string>
+	<key>hardScroll</key>
+	<string>syncResponse</string>
+	<key>permanentObserver</key>
+	<string>similarScalability</string>
+	<key>pivotalText</key>
+	<string>shouldDisposeProvider</string>
+	<key>prevemitter</key>
+	<string>connectBinary</string>
+	<key>sceneAppearance</key>
+	<string>finderBottom</string>
+	<key>selectedgate</key>
+	<string>capacitiesAdapter</string>
+	<key>sensortag</key>
+	<string>dropoutAlignment</string>
+	<key>subsequentAmortization</key>
+	<string>emitPreview</string>
+</dict>
+</plist>

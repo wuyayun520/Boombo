@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultMetrics</key>
+	<string>kerneldensity</string>
+	<key>discardedTransition</key>
+	<string>routeWidget</string>
+	<key>mobilespecifiercontrast</key>
+	<string>canShowCupertino</string>
+	<key>momentumvisitoracceleration</key>
+	<string>navigatePoint</string>
+	<key>prioritymodel</key>
+	<string>usedError</string>
+	<key>shouldRestartRoute</key>
+	<string>makeReducer</string>
+	<key>uniformInkWell</key>
+	<string>accessibleScroller</string>
+	<key>usedevent</key>
+	<string>canSkipObserver</string>
+</dict>
+</plist>

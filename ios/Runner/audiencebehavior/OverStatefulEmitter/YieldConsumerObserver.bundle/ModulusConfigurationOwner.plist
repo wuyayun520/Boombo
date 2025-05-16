@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deflateentropy</key>
+	<string>shouldUnmountWorkflow</string>
+	<key>missedsprite</key>
+	<string>alphaParam</string>
+	<key>shouldNavigateDrawer</key>
+	<string>themeParameter</string>
+	<key>shouldobservebaseline</key>
+	<string>nativeBaseline</string>
+</dict>
+</plist>

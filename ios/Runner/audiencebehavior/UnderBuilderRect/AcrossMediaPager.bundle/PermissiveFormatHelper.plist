@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCycle</key>
+	<string>canFinishAspectRatio</string>
+	<key>basictouch</key>
+	<string>requestbyprocess</string>
+	<key>colorVelocity</key>
+	<string>canvasFrequency</string>
+	<key>consultativeInterpolation</key>
+	<string>gradientAcceleration</string>
+	<key>interpolationbrightness</key>
+	<string>canPaintCheckbox</string>
+	<key>notationMode</key>
+	<string>canCreateUsage</string>
+</dict>
+</plist>

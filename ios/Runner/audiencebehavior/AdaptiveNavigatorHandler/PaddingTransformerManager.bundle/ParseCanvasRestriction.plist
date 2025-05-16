@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateTheme</key>
+	<string>shouldTransitionTable</string>
+	<key>fixedChart</key>
+	<string>unmountAnimation</string>
+	<key>largeAnalyzer</key>
+	<string>descentTop</string>
+	<key>largeMaterializer</key>
+	<string>statefulState</string>
+	<key>multiplicationinvisitor</key>
+	<string>sophisticatedLifecycle</string>
+	<key>notificationLocation</key>
+	<string>findLoop</string>
+	<key>stepDirection</key>
+	<string>saveDescriptor</string>
+	<key>unsortedGate</key>
+	<string>confidentialityDuration</string>
+</dict>
+</plist>

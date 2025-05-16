@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedSample</key>
+	<string>concurrentArchitecture</string>
+	<key>functionalcardindex</key>
+	<string>instructionSaturation</string>
+	<key>referenceStyle</key>
+	<string>validateTextField</string>
+	<key>unsortedChart</key>
+	<string>smallFeature</string>
+</dict>
+</plist>

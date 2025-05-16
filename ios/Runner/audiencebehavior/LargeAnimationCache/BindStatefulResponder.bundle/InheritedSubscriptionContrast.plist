@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableStamp</key>
+	<string>completerInterpreter</string>
+	<key>convolutioncontroller</key>
+	<string>mainGram</string>
+	<key>discardedVariant</key>
+	<string>canDeserializeNib</string>
+	<key>nextCharacter</key>
+	<string>robustCell</string>
+	<key>shouldUnmountCurve</key>
+	<string>switchMethod</string>
+	<key>stepflyweightcontrast</key>
+	<string>regulateHash</string>
+</dict>
+</plist>

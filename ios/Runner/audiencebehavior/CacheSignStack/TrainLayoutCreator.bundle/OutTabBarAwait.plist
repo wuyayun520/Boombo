@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeScalability</key>
+	<string>captureLocalization</string>
+	<key>opaqueanchorrate</key>
+	<string>challengeInterpreter</string>
+	<key>reactiveEmitter</key>
+	<string>intuitiveInteractor</string>
+	<key>scrollDirection</key>
+	<string>fusedCursor</string>
+	<key>synchronousSignature</key>
+	<string>canRebuildMediaQuery</string>
+	<key>timerShape</key>
+	<string>spinGrid</string>
+</dict>
+</plist>

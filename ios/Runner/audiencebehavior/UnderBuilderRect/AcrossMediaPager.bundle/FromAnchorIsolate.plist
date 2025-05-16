@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesAppearance</key>
+	<string>nativeEvent</string>
+	<key>capacitiesmethodinset</key>
+	<string>shouldResumeExpanded</string>
+	<key>custompaintoftask</key>
+	<string>benchmarkFrame</string>
+	<key>fragmentsValidation</key>
+	<string>shouldTransformMember</string>
+	<key>ignoredlinker</key>
+	<string>shouldStartUsage</string>
+	<key>responseColor</key>
+	<string>missedConstraint</string>
+	<key>shouldRestartFragment</key>
+	<string>synchronizeService</string>
+	<key>switchState</key>
+	<string>euclideanVariant</string>
+	<key>tensorShader</key>
+	<string>shouldUnmountSubpixel</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSample</key>
+	<string>finishWorkflow</string>
+	<key>hasPageView</key>
+	<string>entityTop</string>
+	<key>injectionLocation</key>
+	<string>canStreamIcon</string>
+	<key>mainResult</key>
+	<string>interpolationHue</string>
+	<key>mediocreBullet</key>
+	<string>animatedcontainerInterval</string>
+	<key>trianglesDuration</key>
+	<string>mitigateChannel</string>
+</dict>
+</plist>

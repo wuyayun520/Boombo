@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultDocument</key>
+	<string>liteResponse</string>
+	<key>diversifiedMediaQuery</key>
+	<string>storearoundcomposite</string>
+	<key>frameOrientation</key>
+	<string>cachesignature</string>
+	<key>inactivecombiner</key>
+	<string>sharedChooser</string>
+	<key>shouldCancelBitrate</key>
+	<string>activityVariable</string>
+</dict>
+</plist>

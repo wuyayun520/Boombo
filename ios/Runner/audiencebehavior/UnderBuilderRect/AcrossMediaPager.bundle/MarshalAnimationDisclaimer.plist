@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeNode</key>
+	<string>synchronousPainter</string>
+	<key>logawait</key>
+	<string>thresholdBorder</string>
+	<key>mediaqueryLocation</key>
+	<string>sharedBox</string>
+	<key>multiplicationstroke</key>
+	<string>missedZone</string>
+	<key>shouldNotifySkin</key>
+	<string>cubeCommand</string>
+	<key>techniqueBehavior</key>
+	<string>shouldDisposeSubpixel</string>
+</dict>
+</plist>

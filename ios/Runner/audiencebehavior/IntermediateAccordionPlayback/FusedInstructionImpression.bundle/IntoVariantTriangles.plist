@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsValidation</key>
+	<string>shouldDetachSegment</string>
+	<key>dispatchalert</key>
+	<string>customRemediation</string>
+	<key>globalLabel</key>
+	<string>accessoryDuration</string>
+	<key>newestState</key>
+	<string>allocateState</string>
+	<key>pickerKind</key>
+	<string>popupHead</string>
+	<key>shouldTrainNotification</key>
+	<string>tolerancealignment</string>
+	<key>transitionamongsystem</key>
+	<string>euclideanAperture</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentAppearance</key>
+	<string>measureAwait</string>
+	<key>concretechapteroffset</key>
+	<string>storeswitch</string>
+	<key>criticalSubpixel</key>
+	<string>adaptiveTweak</string>
+	<key>customizedPositioned</key>
+	<string>specifyRichText</string>
+	<key>permissiveError</key>
+	<string>oldMatrix</string>
+	<key>schemaBottom</key>
+	<string>materialdecoration</string>
+	<key>tensorCube</key>
+	<string>replaceGridView</string>
+	<key>triggerBrightness</key>
+	<string>usedmechanism</string>
+	<key>usecasebrightness</key>
+	<string>cellBrightness</string>
+</dict>
+</plist>

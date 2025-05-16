@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerEdge</key>
+	<string>resetStorage</string>
+	<key>deferredmetrics</key>
+	<string>canPauseDrawer</string>
+	<key>gradientSkewY</key>
+	<string>symmetricConverter</string>
+	<key>immediateSingleton</key>
+	<string>partitionController</string>
+	<key>responsiveevolution</key>
+	<string>sequentialwidget</string>
+	<key>scalelocation</key>
+	<string>requestEnvironment</string>
+	<key>shouldStopCupertino</key>
+	<string>playbackdirection</string>
+</dict>
+</plist>

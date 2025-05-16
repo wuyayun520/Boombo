@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineFormat</key>
+	<string>dispatchEffect</string>
+	<key>blocpressure</key>
+	<string>resumeSine</string>
+	<key>chartSkewX</key>
+	<string>baselineDensity</string>
+	<key>cycleInset</key>
+	<string>materialConfidentiality</string>
+	<key>extendnorm</key>
+	<string>slashInterpreter</string>
+	<key>featuretype</key>
+	<string>similarAudio</string>
+	<key>handlerDistance</key>
+	<string>uniqueDetail</string>
+	<key>notifierobserverhead</key>
+	<string>capsuleRight</string>
+	<key>shouldHandleTheme</key>
+	<string>shouldResumeAspect</string>
+	<key>variantconfidentiality</key>
+	<string>shouldPushMaster</string>
+</dict>
+</plist>

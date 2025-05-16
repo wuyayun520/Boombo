@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstElasticity</key>
+	<string>numericalCursor</string>
+	<key>immutableInteractor</key>
+	<string>attachTexture</string>
+	<key>isolateSpeed</key>
+	<string>entitylayervisibility</string>
+	<key>metadataaction</key>
+	<string>canUnmountScreen</string>
+	<key>persistentScroller</key>
+	<string>shouldPushChecklist</string>
+	<key>resilientBorder</key>
+	<string>wrapRadius</string>
+	<key>shouldDetachEntropy</key>
+	<string>normalLoader</string>
+	<key>undertakenorm</key>
+	<string>renderShader</string>
+</dict>
+</plist>

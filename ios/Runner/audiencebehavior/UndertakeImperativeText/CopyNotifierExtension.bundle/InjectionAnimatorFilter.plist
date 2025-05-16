@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAspect</key>
+	<string>onanimatedcontainerchanged</string>
+	<key>diversifiedOffset</key>
+	<string>particledecoratorstyle</string>
+	<key>numericalRequest</key>
+	<string>shapeName</string>
+	<key>resilientSkin</key>
+	<string>discardedSegue</string>
+	<key>shaderBound</key>
+	<string>shouldCreateCaption</string>
+	<key>shouldEmitLogarithm</key>
+	<string>progressbarbridgecoord</string>
+	<key>synchronousConfidentiality</key>
+	<string>similarVolume</string>
+</dict>
+</plist>

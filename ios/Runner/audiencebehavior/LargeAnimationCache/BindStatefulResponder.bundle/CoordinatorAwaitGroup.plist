@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalPainter</key>
+	<string>resumeCapsule</string>
+	<key>grainTension</key>
+	<string>hyperbolicCharacter</string>
+	<key>iscatalyst</key>
+	<string>flexadapterposition</string>
+	<key>keyobserver</key>
+	<string>embedUseCase</string>
+	<key>shouldRenderDelegate</key>
+	<string>intensityContext</string>
+</dict>
+</plist>

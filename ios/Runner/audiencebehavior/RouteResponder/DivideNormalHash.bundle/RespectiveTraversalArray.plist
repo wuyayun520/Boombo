@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCluster</key>
+	<string>canSerializeMission</string>
+	<key>eagerBinary</key>
+	<string>layoutMediator</string>
+	<key>intuitiveMetrics</key>
+	<string>shouldParseStep</string>
+	<key>memberphasesaturation</key>
+	<string>cursorWork</string>
+	<key>protectedTransition</key>
+	<string>capsulefromaction</string>
+	<key>sliderFeedback</key>
+	<string>popGrain</string>
+	<key>variantVisible</key>
+	<string>evaluationPadding</string>
+</dict>
+</plist>

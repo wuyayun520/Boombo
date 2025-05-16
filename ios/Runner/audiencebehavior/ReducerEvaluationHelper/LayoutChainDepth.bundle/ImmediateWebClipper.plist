@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicdecorationforce</key>
+	<string>gridPosition</string>
+	<key>bitrateType</key>
+	<string>bindGestureDetector</string>
+	<key>errorstate</key>
+	<string>attachframe</string>
+	<key>priorResult</key>
+	<string>optionPrototype</string>
+	<key>reusableColor</key>
+	<string>shouldDetachHistogram</string>
+	<key>seamlessDropdownButton</key>
+	<string>compositionalScheduler</string>
+	<key>shouldbuildreference</key>
+	<string>primaryScheduler</string>
+	<key>subsequentusecasetension</key>
+	<string>fixedBox</string>
+	<key>webCollection</key>
+	<string>shouldYieldSkirt</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedgraininteraction</key>
+	<string>shouldAnimateExpanded</string>
+	<key>mainreceiver</key>
+	<string>optionParameter</string>
+	<key>reducerState</key>
+	<string>architecturePadding</string>
+	<key>specifierSkewX</key>
+	<string>beginnerResolver</string>
+</dict>
+</plist>

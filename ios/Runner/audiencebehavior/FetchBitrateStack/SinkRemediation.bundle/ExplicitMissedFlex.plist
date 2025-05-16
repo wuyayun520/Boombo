@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationparamalignment</key>
+	<string>pointForm</string>
+	<key>grainscale</key>
+	<string>ismatrix</string>
+	<key>ignoredasset</key>
+	<string>prismaticOverlay</string>
+	<key>mergerValidation</key>
+	<string>imageCycle</string>
+	<key>statefulpressure</key>
+	<string>publicFlex</string>
+</dict>
+</plist>

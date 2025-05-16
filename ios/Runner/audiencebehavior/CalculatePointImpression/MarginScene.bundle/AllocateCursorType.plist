@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSpine</key>
+	<string>canEndLogarithm</string>
+	<key>arithmetictraversal</key>
+	<string>futureobserver</string>
+	<key>baseInteraction</key>
+	<string>shouldKeepMovement</string>
+	<key>directlyCurve</key>
+	<string>shouldNotifyAperture</string>
+	<key>disparateMethod</key>
+	<string>integrationDepth</string>
+	<key>equipmenttag</key>
+	<string>canvasscale</string>
+	<key>exponentRotation</key>
+	<string>radiomediatorbrightness</string>
+	<key>reducerTint</key>
+	<string>largeLoop</string>
+</dict>
+</plist>

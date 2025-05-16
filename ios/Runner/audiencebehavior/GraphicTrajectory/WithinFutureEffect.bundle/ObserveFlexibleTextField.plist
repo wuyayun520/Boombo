@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncchooser</key>
+	<string>shouldSaveAppBar</string>
+	<key>ignoredWorkflow</key>
+	<string>shouldSubscribeStamp</string>
+	<key>joinerKind</key>
+	<string>specifyFlex</string>
+	<key>mediocreCapacities</key>
+	<string>formatCell</string>
+	<key>memberwithnumber</key>
+	<string>masterShape</string>
+	<key>pointselector</key>
+	<string>staticDescription</string>
+	<key>shouldStartCell</key>
+	<string>largeconstant</string>
+	<key>shouldpausemedia</key>
+	<string>canBuildAlpha</string>
+	<key>themeAcceleration</key>
+	<string>shouldLoadCapacities</string>
+</dict>
+</plist>

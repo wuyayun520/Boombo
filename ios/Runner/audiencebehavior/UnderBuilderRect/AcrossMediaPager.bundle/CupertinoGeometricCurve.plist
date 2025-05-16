@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeTechnique</key>
+	<string>typicalRadius</string>
+	<key>strengthRight</key>
+	<string>freeManager</string>
+	<key>tabviewvalidation</key>
+	<string>petAcceleration</string>
+</dict>
+</plist>

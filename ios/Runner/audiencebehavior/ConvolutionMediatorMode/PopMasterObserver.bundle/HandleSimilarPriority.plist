@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRole</key>
+	<string>fixedOption</string>
+	<key>hardSegment</key>
+	<string>graincycletop</string>
+	<key>presenteruntilpattern</key>
+	<string>shouldPaintListView</string>
+	<key>provisionspacing</key>
+	<string>crudeUtil</string>
+	<key>reusableThroughput</key>
+	<string>hardSubpixel</string>
+	<key>saveinterface</key>
+	<string>shouldRestartOptimizer</string>
+	<key>shouldFinishEqualization</key>
+	<string>anchorCount</string>
+	<key>statelessFormat</key>
+	<string>shoulddispatchstamp</string>
+</dict>
+</plist>

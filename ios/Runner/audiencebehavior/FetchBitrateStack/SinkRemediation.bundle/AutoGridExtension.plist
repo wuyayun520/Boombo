@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedDispatcher</key>
+	<string>canStopModal</string>
+	<key>granularScheduler</key>
+	<string>labelshade</string>
+	<key>layersaturation</key>
+	<string>showArithmetic</string>
+	<key>normalInfrastructure</key>
+	<string>actionResponse</string>
+	<key>queuenearprocess</key>
+	<string>handleHandler</string>
+	<key>segueinteraction</key>
+	<string>materialpublisher</string>
+	<key>serviceAcceleration</key>
+	<string>reducerFrequency</string>
+	<key>statusRate</key>
+	<string>gesturePhase</string>
+</dict>
+</plist>

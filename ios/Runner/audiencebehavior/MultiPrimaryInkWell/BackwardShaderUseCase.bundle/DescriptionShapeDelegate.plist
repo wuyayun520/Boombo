@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateDelay</key>
+	<string>liteCurve</string>
+	<key>shouldBindRemainder</key>
+	<string>observerProxy</string>
+	<key>shouldDecodeContraction</key>
+	<string>publicCell</string>
+	<key>shouldemitlabel</key>
+	<string>movementAlignment</string>
+	<key>staticTraversal</key>
+	<string>upgradedrawer</string>
+</dict>
+</plist>

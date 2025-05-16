@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowKind</key>
+	<string>persistentSize</string>
+	<key>flexPosition</key>
+	<string>cardopacity</string>
+	<key>notifierTint</key>
+	<string>canCancelGesture</string>
+	<key>reusableVertex</key>
+	<string>matrixDepth</string>
+	<key>shouldencodeloss</key>
+	<string>shouldBindCustomPaint</string>
+	<key>shouldlayoutboxshadow</key>
+	<string>variantSaturation</string>
+	<key>traversaldistance</key>
+	<string>shouldResumeInterpolation</string>
+	<key>unsortedDrawer</key>
+	<string>decorationbesidetemple</string>
+	<key>usecasebottom</key>
+	<string>inflateZone</string>
+</dict>
+</plist>

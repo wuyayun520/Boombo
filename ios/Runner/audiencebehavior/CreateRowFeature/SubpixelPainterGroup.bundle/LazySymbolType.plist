@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnuntilcycle</key>
+	<string>decoupleTask</string>
+	<key>mediaqueryVisible</key>
+	<string>shouldEncodeMaster</string>
+	<key>scrollerBound</key>
+	<string>permanentAnimator</string>
+	<key>shouldLoadBox</key>
+	<string>connectAwait</string>
+	<key>shouldPauseMediaQuery</key>
+	<string>textvisitorborder</string>
+	<key>shouldPrepareBrush</key>
+	<string>eventloader</string>
+	<key>shouldUnmountExtension</key>
+	<string>mediumstateduration</string>
+</dict>
+</plist>

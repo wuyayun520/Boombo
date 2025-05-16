@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customGraphic</key>
+	<string>repositoryInterpreter</string>
+	<key>frameScale</key>
+	<string>dispatchpreview</string>
+	<key>missedTrajectory</key>
+	<string>detachDocument</string>
+	<key>projecthue</key>
+	<string>concurrentSample</string>
+	<key>reliabilityName</key>
+	<string>stoperror</string>
+	<key>resulttype</key>
+	<string>seamlessMobile</string>
+	<key>spinePosition</key>
+	<string>largearithmeticcoord</string>
+	<key>sustainableVertex</key>
+	<string>canDetachCosine</string>
+</dict>
+</plist>

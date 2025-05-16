@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryLeft</key>
+	<string>elasticBuffer</string>
+	<key>binaryVelocity</key>
+	<string>draggableConfiguration</string>
+	<key>blocprototypepressure</key>
+	<string>asyncexceptstate</string>
+	<key>brushjoiner</key>
+	<string>isdescriptor</string>
+	<key>concreteprovidertheme</key>
+	<string>searchTransformer</string>
+	<key>diffablescroll</key>
+	<string>latencyFormat</string>
+	<key>draggableMethod</key>
+	<string>pivotalDispatcher</string>
+	<key>imperativeScope</key>
+	<string>axisversuscycle</string>
+	<key>movementtitle</key>
+	<string>canDecodeAnimatedContainer</string>
+</dict>
+</plist>

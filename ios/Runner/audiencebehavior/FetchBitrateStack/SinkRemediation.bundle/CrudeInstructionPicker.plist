@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatedrawer</key>
+	<string>originalrowbottom</string>
+	<key>customTechnique</key>
+	<string>graphpager</string>
+	<key>defaultInterpolation</key>
+	<string>relationalStateless</string>
+	<key>independentintegerbehavior</key>
+	<string>inkwellMemento</string>
+	<key>oldBandwidth</key>
+	<string>sharedVideo</string>
+	<key>positionTop</key>
+	<string>touchnavigation</string>
+	<key>reactiveProvision</key>
+	<string>transformtouch</string>
+	<key>recursionBound</key>
+	<string>fragmentsInterval</string>
+	<key>rowtaskrotation</key>
+	<string>sophisticatedUseCase</string>
+</dict>
+</plist>

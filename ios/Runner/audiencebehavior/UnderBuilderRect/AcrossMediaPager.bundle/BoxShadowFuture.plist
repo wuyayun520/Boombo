@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideaninfrastructure</key>
+	<string>completedInstruction</string>
+	<key>pinchableRequest</key>
+	<string>layoutInset</string>
+	<key>reducerprocessappearance</key>
+	<string>paddingScale</string>
+	<key>shouldCancelSign</key>
+	<string>statelessContext</string>
+</dict>
+</plist>

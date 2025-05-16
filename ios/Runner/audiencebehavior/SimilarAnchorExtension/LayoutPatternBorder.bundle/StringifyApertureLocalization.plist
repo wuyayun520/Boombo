@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopLayout</key>
+	<string>singlebuilderstyle</string>
+	<key>ephemeralslashtop</key>
+	<string>emitterRight</string>
+	<key>exceptionevent</key>
+	<string>hardInterface</string>
+	<key>ignoredAnalyzer</key>
+	<string>resilientCell</string>
+	<key>inkwellbrightness</key>
+	<string>semanticScalability</string>
+	<key>protectedSession</key>
+	<string>canPaintAperture</string>
+	<key>rectanglePressure</key>
+	<string>usedScheduler</string>
+	<key>triggerFrequency</key>
+	<string>resumelayout</string>
+	<key>usedProfile</key>
+	<string>tappableLoader</string>
+</dict>
+</plist>

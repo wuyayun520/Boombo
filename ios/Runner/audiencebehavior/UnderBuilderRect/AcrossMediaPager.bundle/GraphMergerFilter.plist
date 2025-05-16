@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveconnector</key>
+	<string>augmentNavigator</string>
+	<key>crudeMenu</key>
+	<string>observeAppBar</string>
+	<key>extensionFormat</key>
+	<string>lazyColor</string>
+	<key>mobileModel</key>
+	<string>fusedTimer</string>
+	<key>notifiernavigator</key>
+	<string>normalView</string>
+	<key>sessionadapterfeedback</key>
+	<string>listenerInterpreter</string>
+	<key>subtleBehavior</key>
+	<string>mobileInteraction</string>
+	<key>tensorCaption</key>
+	<string>cupertinoSine</string>
+</dict>
+</plist>

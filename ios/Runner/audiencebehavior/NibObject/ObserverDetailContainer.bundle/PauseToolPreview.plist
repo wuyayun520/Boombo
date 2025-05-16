@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesStyle</key>
+	<string>parallelRequest</string>
+	<key>compositiontaxonomy</key>
+	<string>insteadPopup</string>
+	<key>globalproviderrate</key>
+	<string>unactivatedBandwidth</string>
+	<key>inheritedMerger</key>
+	<string>responsivenavigatorcoord</string>
+	<key>optionfeature</key>
+	<string>canNotifyCursor</string>
+	<key>pinchableUtil</key>
+	<string>shouldTrainFuture</string>
+	<key>rectangleInteraction</key>
+	<string>labelForm</string>
+	<key>shouldyieldexpanded</key>
+	<string>responsiveHero</string>
+	<key>tensorpolygon</key>
+	<string>presentTechnique</string>
+</dict>
+</plist>

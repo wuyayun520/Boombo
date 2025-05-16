@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAnimation</key>
+	<string>reducerOrigin</string>
+	<key>concreteGraphic</key>
+	<string>asynchronousBuffer</string>
+	<key>concreteUsage</key>
+	<string>completerColor</string>
+	<key>durationBottom</key>
+	<string>mediaCycle</string>
+	<key>emitswitch</key>
+	<string>undertakeSink</string>
+	<key>finishchapter</key>
+	<string>immediateExpanded</string>
+	<key>imageVisible</key>
+	<string>priorImage</string>
+	<key>optionBorder</key>
+	<string>infrastructurefeedback</string>
+	<key>scenewrapper</key>
+	<string>repositoryframeworkskewy</string>
+</dict>
+</plist>

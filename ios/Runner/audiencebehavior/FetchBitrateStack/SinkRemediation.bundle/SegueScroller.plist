@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalShape</key>
+	<string>shouldContinueScale</string>
+	<key>diversifiedresponse</key>
+	<string>canStartDropdownButton</string>
+	<key>sharedResilience</key>
+	<string>createInteractor</string>
+	<key>shouldPrepareObserver</key>
+	<string>renameTimer</string>
+</dict>
+</plist>

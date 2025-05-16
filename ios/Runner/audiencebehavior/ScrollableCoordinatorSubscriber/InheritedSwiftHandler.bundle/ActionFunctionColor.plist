@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledDialogs</key>
+	<string>provideButton</string>
+	<key>invisiblePromise</key>
+	<string>shouldLoadSensor</string>
+	<key>navigatoralongstyle</key>
+	<string>vectorizeTimer</string>
+	<key>otherCollection</key>
+	<string>primaryRange</string>
+	<key>scalabilityTheme</key>
+	<string>alignmentDecorator</string>
+	<key>selectedConstraint</key>
+	<string>interactortail</string>
+	<key>storageright</key>
+	<string>expandedlayerright</string>
+</dict>
+</plist>

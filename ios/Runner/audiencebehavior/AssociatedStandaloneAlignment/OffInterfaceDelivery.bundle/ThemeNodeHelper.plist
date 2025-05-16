@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativePermutation</key>
+	<string>webRoute</string>
+	<key>normalConverter</key>
+	<string>viewFacade</string>
+	<key>prevAnalyzer</key>
+	<string>shouldObserveContraction</string>
+	<key>projectTransparency</key>
+	<string>canRouteHistogram</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectfeedback</key>
+	<string>hierarchicalSymbol</string>
+	<key>flexibleUnary</key>
+	<string>modelCoord</string>
+	<key>iterativeTimer</key>
+	<string>shouldDisconnectRole</string>
+	<key>loaderRight</key>
+	<string>sophisticatedBrush</string>
+	<key>metadataAppearance</key>
+	<string>similarScenario</string>
+	<key>popupofwork</key>
+	<string>listviewHead</string>
+	<key>shouldUnmountScaffold</key>
+	<string>interactiveDisclaimer</string>
+	<key>usedOptimizer</key>
+	<string>routechaintype</string>
+</dict>
+</plist>

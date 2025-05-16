@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedScheduler</key>
+	<string>popupvarappearance</string>
+	<key>grampicker</key>
+	<string>denseMedia</string>
+	<key>interfaceType</key>
+	<string>explicitobservertag</string>
+	<key>lostBullet</key>
+	<string>remediationSpacing</string>
+	<key>shouldBuildLayout</key>
+	<string>constraintTail</string>
+	<key>sliderdelay</key>
+	<string>ternarySkewY</string>
+	<key>updatefuture</key>
+	<string>graphictransparency</string>
+</dict>
+</plist>

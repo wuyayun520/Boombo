@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPainter</key>
+	<string>mediocreListener</string>
+	<key>keyBuilder</key>
+	<string>eagerHandler</string>
+	<key>nextWrapper</key>
+	<string>mutableView</string>
+	<key>shouldBindSwitch</key>
+	<string>publicAnimation</string>
+	<key>unmountedscale</key>
+	<string>itemAppearance</string>
+</dict>
+</plist>

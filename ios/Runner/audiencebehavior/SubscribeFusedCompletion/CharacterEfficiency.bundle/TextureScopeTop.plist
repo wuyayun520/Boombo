@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbardependency</key>
+	<string>newestTime</string>
+	<key>backwardStore</key>
+	<string>handlerAction</string>
+	<key>sustainableCompletion</key>
+	<string>canRebuildCupertino</string>
+	<key>typicalMethod</key>
+	<string>similarModal</string>
+</dict>
+</plist>

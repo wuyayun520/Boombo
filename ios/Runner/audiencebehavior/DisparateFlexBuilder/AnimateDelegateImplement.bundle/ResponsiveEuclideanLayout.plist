@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeRoute</key>
+	<string>themeevolution</string>
+	<key>multiRadius</key>
+	<string>intermediateScene</string>
+	<key>parallelChannels</key>
+	<string>primarySegue</string>
+	<key>robustgradientforce</key>
+	<string>binaryawait</string>
+	<key>shouldValidatePageView</key>
+	<string>disabledPresenter</string>
+</dict>
+</plist>

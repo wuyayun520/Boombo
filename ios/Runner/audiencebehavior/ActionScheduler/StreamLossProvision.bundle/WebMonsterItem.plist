@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedHero</key>
+	<string>basicRichText</string>
+	<key>effectAcceleration</key>
+	<string>collectionName</string>
+	<key>imperativeAction</key>
+	<string>asynchronousascent</string>
+	<key>shouldTransitionImage</key>
+	<string>shouldReplaceObserver</string>
+</dict>
+</plist>

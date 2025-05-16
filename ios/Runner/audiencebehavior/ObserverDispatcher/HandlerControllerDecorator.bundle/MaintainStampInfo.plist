@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanTaxonomy</key>
+	<string>custompaintComposite</string>
+	<key>fusedOccasion</key>
+	<string>petTail</string>
+	<key>integrationRight</key>
+	<string>streamtiermargin</string>
+	<key>listenerShade</key>
+	<string>canRenderCursor</string>
+	<key>listenerstrategydepth</key>
+	<string>smartVertex</string>
+	<key>sceneColor</key>
+	<string>animatedalert</string>
+	<key>scrollableOccasion</key>
+	<string>canResumeAppBar</string>
+</dict>
+</plist>

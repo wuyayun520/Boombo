@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activecontroller</key>
+	<string>fillPreview</string>
+	<key>containerDelay</key>
+	<string>pageviewInterval</string>
+	<key>immediateMenu</key>
+	<string>granularAmortization</string>
+	<key>mainSign</key>
+	<string>cupertinoLocalization</string>
+	<key>playbackResponse</key>
+	<string>disabledDescription</string>
+	<key>reductionInterval</key>
+	<string>statefulBuilder</string>
+	<key>responsivetween</key>
+	<string>listviewCount</string>
+</dict>
+</plist>

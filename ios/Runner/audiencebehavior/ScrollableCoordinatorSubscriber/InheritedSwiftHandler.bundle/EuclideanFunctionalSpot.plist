@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDuration</key>
+	<string>threadShade</string>
+	<key>controllerScale</key>
+	<string>deliveryEdge</string>
+	<key>discardedSpecifier</key>
+	<string>asynchronousbuffer</string>
+	<key>isolateFlags</key>
+	<string>destroyStorage</string>
+	<key>reductionFeedback</key>
+	<string>shouldDisposeSemantics</string>
+	<key>segueOrientation</key>
+	<string>permissiveAppBar</string>
+	<key>shouldListenHeap</key>
+	<string>trainCard</string>
+	<key>smallReference</key>
+	<string>generateCallback</string>
+</dict>
+</plist>

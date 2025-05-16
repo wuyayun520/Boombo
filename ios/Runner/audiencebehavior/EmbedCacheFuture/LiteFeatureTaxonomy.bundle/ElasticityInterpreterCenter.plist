@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionSaturation</key>
+	<string>listviewborder</string>
+	<key>bulletfactory</key>
+	<string>firstconstraint</string>
+	<key>canvasSpeed</key>
+	<string>prevCharacteristic</string>
+	<key>crudeObserver</key>
+	<string>compositionMethod</string>
+	<key>deserializemultiplication</key>
+	<string>loopSpacing</string>
+	<key>pinchableModal</key>
+	<string>injectionHue</string>
+	<key>resilientResolver</key>
+	<string>unaryAction</string>
+	<key>shouldAttachDescriptor</key>
+	<string>tweenRight</string>
+</dict>
+</plist>

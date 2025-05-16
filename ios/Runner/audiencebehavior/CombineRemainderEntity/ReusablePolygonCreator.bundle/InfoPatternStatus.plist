@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitySpacing</key>
+	<string>activateFrame</string>
+	<key>precisioncycleduration</key>
+	<string>localWidget</string>
+	<key>primaryController</key>
+	<string>uniqueSplitter</string>
+	<key>shouldDeserializeCube</key>
+	<string>referencepicker</string>
+	<key>shouldTrainExpanded</key>
+	<string>shouldDisconnectSegment</string>
+</dict>
+</plist>

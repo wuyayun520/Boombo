@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTime</key>
+	<string>channelsChain</string>
+	<key>completeraroundstage</key>
+	<string>fixedDispatcher</string>
+	<key>finishshader</key>
+	<string>lastmodel</string>
+	<key>missedLocalization</key>
+	<string>desktopBitrate</string>
+	<key>seamlessdecoration</key>
+	<string>masterOffset</string>
+	<key>shouldPersistActivity</key>
+	<string>materialPadding</string>
+	<key>sinkAppearance</key>
+	<string>layoutBitrate</string>
+</dict>
+</plist>

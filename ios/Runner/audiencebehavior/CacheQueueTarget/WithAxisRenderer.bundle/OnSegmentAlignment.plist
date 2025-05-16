@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianModal</key>
+	<string>methodStrategy</string>
+	<key>constructcompletion</key>
+	<string>directlyPosition</string>
+	<key>disclaimerBottom</key>
+	<string>activateGraph</string>
+	<key>dynamicRemainder</key>
+	<string>shouldEmitView</string>
+	<key>impactFeedback</key>
+	<string>metadataDirection</string>
+	<key>permissiveMission</key>
+	<string>staticManager</string>
+	<key>shouldBindDrawer</key>
+	<string>skirtPattern</string>
+	<key>shouldEndStateful</key>
+	<string>basicOptimizer</string>
+	<key>shouldSetStateCapacities</key>
+	<string>sliderflags</string>
+</dict>
+</plist>

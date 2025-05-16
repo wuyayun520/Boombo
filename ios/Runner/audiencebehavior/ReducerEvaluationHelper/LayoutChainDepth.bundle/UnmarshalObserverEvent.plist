@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryskewx</key>
+	<string>sortedsceneskewx</string>
+	<key>schedulerDensity</key>
+	<string>shouldSkipFuture</string>
+	<key>shouldFinishAlpha</key>
+	<string>grainLocation</string>
+	<key>shouldskipscreen</key>
+	<string>unsortedSignature</string>
+</dict>
+</plist>

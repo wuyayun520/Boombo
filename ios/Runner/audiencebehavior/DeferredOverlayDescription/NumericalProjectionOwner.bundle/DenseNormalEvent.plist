@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionright</key>
+	<string>convertRoute</string>
+	<key>constraintpolyfill</key>
+	<string>shouldRestartPadding</string>
+	<key>deserializetransition</key>
+	<string>fusedGraphic</string>
+	<key>gesturedetectorSpeed</key>
+	<string>connectorCount</string>
+	<key>handlerbrightness</key>
+	<string>displayableText</string>
+	<key>shouldPublishLog</key>
+	<string>adaptiveResolver</string>
+</dict>
+</plist>

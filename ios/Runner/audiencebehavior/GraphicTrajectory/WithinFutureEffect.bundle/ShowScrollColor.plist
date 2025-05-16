@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorTop</key>
+	<string>shouldFinishSizedBox</string>
+	<key>batchkindtype</key>
+	<string>projectionborder</string>
+	<key>diffableSpot</key>
+	<string>isolateposition</string>
+	<key>offsetsingletondepth</key>
+	<string>shouldInflateGem</string>
+	<key>shouldAttachMobile</key>
+	<string>coordinatorPattern</string>
+	<key>standaloneSpot</key>
+	<string>staticRenderer</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledScroll</key>
+	<string>euclideanBloc</string>
+	<key>inactivescenario</key>
+	<string>shouldTransformSizedBox</string>
+	<key>newestlogfeedback</key>
+	<string>decorationwithcontext</string>
+	<key>oldDocument</key>
+	<string>floatLayer</string>
+	<key>remediationState</key>
+	<string>widgethead</string>
+	<key>seamlessaspect</key>
+	<string>popupreceiver</string>
+</dict>
+</plist>

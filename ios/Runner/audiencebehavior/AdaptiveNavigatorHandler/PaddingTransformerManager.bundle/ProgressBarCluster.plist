@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentconsumption</key>
+	<string>cartesianSensor</string>
+	<key>interpolationframe</key>
+	<string>canDeserializeContainer</string>
+	<key>mergerOrigin</key>
+	<string>canFinishCharacter</string>
+	<key>priorityAppearance</key>
+	<string>rapidElasticity</string>
+	<key>processorPressure</key>
+	<string>flexResponse</string>
+	<key>queuedescription</key>
+	<string>channelEdge</string>
+	<key>shouldUnbindTernary</key>
+	<string>interactiveScaffold</string>
+	<key>tappableAxis</key>
+	<string>presenterAction</string>
+	<key>titlekindresponse</key>
+	<string>bindaxis</string>
+	<key>unmountedplate</key>
+	<string>scaffoldOrigin</string>
+</dict>
+</plist>

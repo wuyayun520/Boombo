@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropoutmodel</key>
+	<string>immediatelocalization</string>
+	<key>inheritedDescent</key>
+	<string>releaseManager</string>
+	<key>lastScroll</key>
+	<string>marginlevelvisibility</string>
+	<key>uniqueBullet</key>
+	<string>displayablecolumn</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationFrequency</key>
+	<string>measureText</string>
+	<key>disclaimerEdge</key>
+	<string>compareFrame</string>
+	<key>effectDirection</key>
+	<string>shouldKeepStep</string>
+	<key>informationName</key>
+	<string>segmentCoord</string>
+	<key>screenColor</key>
+	<string>ephemeralInformation</string>
+	<key>shouldLayoutChannels</key>
+	<string>parallelQuaternion</string>
+	<key>stampsaturation</key>
+	<string>storageFunction</string>
+</dict>
+</plist>

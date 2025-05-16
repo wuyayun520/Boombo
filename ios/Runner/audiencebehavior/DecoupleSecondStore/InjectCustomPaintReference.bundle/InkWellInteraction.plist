@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binarytype</key>
+	<string>utilRate</string>
+	<key>ignoredAmortization</key>
+	<string>assetsingletonvisibility</string>
+	<key>inactiveScale</key>
+	<string>reusablebloc</string>
+	<key>ondrawertap</key>
+	<string>actiontransparency</string>
+	<key>persistentAccessory</key>
+	<string>semanticAxis</string>
+	<key>protectedLayer</key>
+	<string>equipmentDirection</string>
+	<key>semanticreductionbottom</key>
+	<string>functionalpresenteracceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperscopeindex</key>
+	<string>canPrepareReduction</string>
+	<key>durationFeedback</key>
+	<string>interactiveMaterializer</string>
+	<key>elasticDetail</key>
+	<string>popupSaturation</string>
+	<key>futureAppearance</key>
+	<string>permanentLayer</string>
+	<key>momentumzone</key>
+	<string>convertRow</string>
+	<key>nativeHandler</key>
+	<string>divideAlignment</string>
+	<key>processaccessory</key>
+	<string>quantizerAlignment</string>
+	<key>shouldStreamDescriptor</key>
+	<string>disparateSymbol</string>
+	<key>usedBaseline</key>
+	<string>statelessShape</string>
+</dict>
+</plist>

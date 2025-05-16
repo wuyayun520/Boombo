@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveTangent</key>
+	<string>serializeprogressbar</string>
+	<key>isController</key>
+	<string>draggableColor</string>
+	<key>listviewResponse</key>
+	<string>specifierState</string>
+	<key>prismaticCubit</key>
+	<string>canCacheIndicator</string>
+	<key>synchronousfuturefeedback</key>
+	<string>toolDecorator</string>
+</dict>
+</plist>

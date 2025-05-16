@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>permanentConfidentiality</key>
+	<string>streamlineProvider</string>
+	<key>protectedMetrics</key>
+	<string>rotateAllocator</string>
+	<key>providerduringmode</key>
+	<string>threadimpression</string>
+	<key>seamlessNorm</key>
+	<string>shouldBindRichText</string>
+	<key>searcherShade</key>
+	<string>tweakFlags</string>
+	<key>shouldStreamAnchor</key>
+	<string>shouldShowPadding</string>
+	<key>singleDescription</key>
+	<string>restoreInterface</string>
+	<key>throughputvalidation</key>
+	<string>storeCoord</string>
+</dict>
+</plist>

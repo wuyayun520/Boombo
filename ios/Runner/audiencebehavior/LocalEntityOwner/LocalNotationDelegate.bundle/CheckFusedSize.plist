@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSpine</key>
+	<string>globalTabView</string>
+	<key>asynchronousDecoration</key>
+	<string>groupAction</string>
+	<key>custompaintTransparency</key>
+	<string>interpolationawaytype</string>
+	<key>infoBound</key>
+	<string>beginnerCheckbox</string>
+	<key>pauseinteger</key>
+	<string>activatedExponent</string>
+	<key>primaryeffect</key>
+	<string>canEncodeAxis</string>
+	<key>rowAlignment</key>
+	<string>implementRadius</string>
+	<key>shouldEndMatrix</key>
+	<string>semanticmanagerstate</string>
+	<key>shouldhandledelegate</key>
+	<string>hardShader</string>
+	<key>synchronousWrapper</key>
+	<string>errorShade</string>
+</dict>
+</plist>

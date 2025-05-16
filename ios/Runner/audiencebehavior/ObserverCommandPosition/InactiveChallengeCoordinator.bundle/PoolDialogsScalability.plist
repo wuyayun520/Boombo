@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterDistance</key>
+	<string>marginFunction</string>
+	<key>labelMomentum</key>
+	<string>canContinueObserver</string>
+	<key>profiletimer</key>
+	<string>shouldYieldMatrix</string>
+	<key>segmentShape</key>
+	<string>autoQuaternion</string>
+	<key>shouldPushRichText</key>
+	<string>impactTheme</string>
+</dict>
+</plist>

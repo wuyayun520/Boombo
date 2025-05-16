@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerInfo</key>
+	<string>subtleStamp</string>
+	<key>channelHead</key>
+	<string>updateMaterial</string>
+	<key>columnShape</key>
+	<string>inheritedpositionrate</string>
+	<key>pinchableAnimator</key>
+	<string>liteCreator</string>
+	<key>switchmatrix</key>
+	<string>scalePadding</string>
+	<key>unsortedscreen</key>
+	<string>disclaimerShade</string>
+</dict>
+</plist>

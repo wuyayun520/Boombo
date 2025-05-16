@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralRecursion</key>
+	<string>interactiveSplitter</string>
+	<key>gridVelocity</key>
+	<string>graphoperation</string>
+	<key>materialSizedBox</key>
+	<string>canShowKernel</string>
+	<key>shouldLayoutDimension</key>
+	<string>significantLinker</string>
+</dict>
+</plist>

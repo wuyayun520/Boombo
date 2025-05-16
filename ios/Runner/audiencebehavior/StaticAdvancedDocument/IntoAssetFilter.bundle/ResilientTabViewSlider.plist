@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityName</key>
+	<string>touchparticle</string>
+	<key>allocatorsize</key>
+	<string>rowvisitoracceleration</string>
+	<key>basicController</key>
+	<string>widgetstroke</string>
+	<key>granularIntegration</key>
+	<string>seamlessGestureDetector</string>
+	<key>immediateEmitter</key>
+	<string>mediumTentative</string>
+	<key>logarithmoutsideobserver</key>
+	<string>injectionColor</string>
+	<key>secondGrain</key>
+	<string>geometricIntegrity</string>
+</dict>
+</plist>

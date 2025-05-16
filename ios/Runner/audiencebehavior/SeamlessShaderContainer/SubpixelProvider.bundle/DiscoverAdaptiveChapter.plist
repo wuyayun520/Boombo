@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deflatehandler</key>
+	<string>mediacoord</string>
+	<key>disconnectrichtext</key>
+	<string>densePrecision</string>
+	<key>mountchart</key>
+	<string>canAttachStamp</string>
+	<key>requiredScreen</key>
+	<string>observercoord</string>
+	<key>scrollableFeature</key>
+	<string>activatedSegment</string>
+	<key>shouldRouteCard</key>
+	<string>standaloneThread</string>
+	<key>statefulCharacteristic</key>
+	<string>baseBorder</string>
+	<key>synchronouscolumndepth</key>
+	<string>restoreDelegate</string>
+	<key>temporaryScenario</key>
+	<string>uniformComposition</string>
+</dict>
+</plist>

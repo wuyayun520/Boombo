@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianhandler</key>
+	<string>bulletDepth</string>
+	<key>composableSegue</key>
+	<string>difficultNode</string>
+	<key>maindelegatespacing</key>
+	<string>greatpolygon</string>
+	<key>staticThread</key>
+	<string>parallelSize</string>
+	<key>subtleBloc</key>
+	<string>skipView</string>
+</dict>
+</plist>

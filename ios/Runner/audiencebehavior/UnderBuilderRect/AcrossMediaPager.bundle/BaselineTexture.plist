@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeMapper</key>
+	<string>deserializeConfiguration</string>
+	<key>exponentState</key>
+	<string>shouldInflateGradient</string>
+	<key>lazyChart</key>
+	<string>attachasync</string>
+	<key>mobileCenter</key>
+	<string>trainextension</string>
+	<key>mobileMapper</key>
+	<string>bufferbuilder</string>
+	<key>multiMaterial</key>
+	<string>priorSpot</string>
+	<key>onconstraintchanged</key>
+	<string>timerconsumption</string>
+	<key>shouldcacheconvolution</key>
+	<string>kernelStage</string>
+</dict>
+</plist>

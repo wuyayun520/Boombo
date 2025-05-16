@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnpermutation</key>
+	<string>graphDirection</string>
+	<key>detectorBrightness</key>
+	<string>otherSize</string>
+	<key>immutableMetrics</key>
+	<string>canRenderConsumer</string>
+	<key>positionedBorder</key>
+	<string>inheritedSelector</string>
+	<key>rapidAction</key>
+	<string>defaultNib</string>
+</dict>
+</plist>

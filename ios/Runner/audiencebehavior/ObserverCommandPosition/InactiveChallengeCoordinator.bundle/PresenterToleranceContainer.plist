@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lifecycledirection</key>
+	<string>freeZone</string>
+	<key>mainDetail</key>
+	<string>extendLayout</string>
+	<key>pinchableTask</key>
+	<string>disparatecollection</string>
+	<key>singletonOrigin</key>
+	<string>imageActivity</string>
+	<key>usecaseShape</key>
+	<string>autoSine</string>
+	<key>vectortop</key>
+	<string>canBindSubpixel</string>
+</dict>
+</plist>

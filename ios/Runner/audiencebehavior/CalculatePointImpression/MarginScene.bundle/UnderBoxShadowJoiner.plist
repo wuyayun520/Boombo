@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatCupertino</key>
+	<string>explicitAppBar</string>
+	<key>mobileBottom</key>
+	<string>multiMobile</string>
+	<key>popupdensity</key>
+	<string>batchasync</string>
+	<key>statefulreceiver</key>
+	<string>processorCount</string>
+	<key>titlestructuredelay</key>
+	<string>dropdownbuttonAcceleration</string>
+	<key>webAspect</key>
+	<string>ignoredReference</string>
+</dict>
+</plist>

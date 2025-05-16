@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousResilience</key>
+	<string>canCancelWorkflow</string>
+	<key>bulletsorter</key>
+	<string>cliptransformer</string>
+	<key>deferredsession</key>
+	<string>beginnersensorappearance</string>
+	<key>liteDimension</key>
+	<string>differentiateAsset</string>
+	<key>lostInfrastructure</key>
+	<string>gesturetail</string>
+	<key>numericalBehavior</key>
+	<string>singleassetstate</string>
+	<key>shouldEmitFlex</key>
+	<string>fusedScreen</string>
+	<key>shouldLayoutDrawer</key>
+	<string>sampleShape</string>
+	<key>shouldparseentropy</key>
+	<string>canResumeRemainder</string>
+	<key>shouldunmountedmap</key>
+	<string>cacheChecklist</string>
+</dict>
+</plist>

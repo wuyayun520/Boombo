@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseTransition</key>
+	<string>hierarchicalMomentum</string>
+	<key>evolutionFormat</key>
+	<string>draggableRenderer</string>
+	<key>opaqueUtil</key>
+	<string>tickermethodfeedback</string>
+	<key>persistentProgressBar</key>
+	<string>notifierCommand</string>
+	<key>previewshapevelocity</key>
+	<string>canPresentStateless</string>
+	<key>shouldTransitionSwift</key>
+	<string>mountedCurve</string>
+	<key>statefulSelector</key>
+	<string>shouldunmountbutton</string>
+	<key>tappablepolyfill</key>
+	<string>equalizationComposite</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitterShade</key>
+	<string>shouldDeserializeCaption</string>
+	<key>firstResponse</key>
+	<string>scrollScale</string>
+	<key>imperativeAlpha</key>
+	<string>draggableMetrics</string>
+	<key>iterativethreshold</key>
+	<string>subscriptionPattern</string>
+	<key>moduleVisible</key>
+	<string>canValidateLogarithm</string>
+	<key>numericalThroughput</key>
+	<string>shouldDetachView</string>
+	<key>shouldResumeStateful</key>
+	<string>dedicatedAudio</string>
+	<key>shouldhandlemaster</key>
+	<string>hardSpecifier</string>
+	<key>trajectorysaturation</key>
+	<string>swiftCenter</string>
+	<key>unmarshaloperation</key>
+	<string>previewBorder</string>
+</dict>
+</plist>

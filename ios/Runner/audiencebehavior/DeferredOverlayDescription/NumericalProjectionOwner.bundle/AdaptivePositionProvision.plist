@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeOffset</key>
+	<string>misseddetail</string>
+	<key>directDispatcher</key>
+	<string>serviceBuffer</string>
+	<key>directlyAnimation</key>
+	<string>collectionDirection</string>
+	<key>formatrole</key>
+	<string>canStreamBuilder</string>
+	<key>iterativeRichText</key>
+	<string>configureInterface</string>
+	<key>pinchableMedia</key>
+	<string>dismissgem</string>
+	<key>reductionDistance</key>
+	<string>directConfidentiality</string>
+	<key>relationalMetrics</key>
+	<string>canFormatDialogs</string>
+	<key>shouldUpdateConstraint</key>
+	<string>enabledNotation</string>
+</dict>
+</plist>

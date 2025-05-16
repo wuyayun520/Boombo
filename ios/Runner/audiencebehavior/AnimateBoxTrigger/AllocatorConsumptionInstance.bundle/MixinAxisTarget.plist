@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directSprite</key>
+	<string>reduceCompleter</string>
+	<key>functionalHandler</key>
+	<string>grainlayermode</string>
+	<key>hierarchicalDuration</key>
+	<string>roleSingleton</string>
+	<key>resourceVisible</key>
+	<string>annotateTask</string>
+	<key>shouldresumeshader</key>
+	<string>timeragainststyle</string>
+	<key>shouldstartternary</key>
+	<string>customizedStroke</string>
+</dict>
+</plist>

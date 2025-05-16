@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTitle</key>
+	<string>denseEquivalent</string>
+	<key>confidentialityDepth</key>
+	<string>refreshFrame</string>
+	<key>persistentData</key>
+	<string>unactivatedListener</string>
+	<key>resizableManager</key>
+	<string>endObserver</string>
+	<key>sampledescription</key>
+	<string>usedBinary</string>
+	<key>shouldBuildExtension</key>
+	<string>shouldFetchView</string>
+	<key>sophisticatedInkWell</key>
+	<string>allocatorPhase</string>
+</dict>
+</plist>

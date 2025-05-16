@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentSize</key>
+	<string>canPauseActivity</string>
+	<key>capacityinteraction</key>
+	<string>canRenderImage</string>
+	<key>customizedLoss</key>
+	<string>shouldParsePageView</string>
+	<key>elasticLayer</key>
+	<string>constraintcluster</string>
+	<key>explicitintegration</key>
+	<string>deactivateAlignment</string>
+	<key>pivotalLoader</key>
+	<string>notifierForce</string>
+	<key>primaryReduction</key>
+	<string>storyboardhue</string>
+	<key>shouldCachePadding</key>
+	<string>infomomentum</string>
+	<key>shouldMountedStateful</key>
+	<string>shouldDeserializeMultiplication</string>
+	<key>typicalState</key>
+	<string>retainedTweak</string>
+</dict>
+</plist>

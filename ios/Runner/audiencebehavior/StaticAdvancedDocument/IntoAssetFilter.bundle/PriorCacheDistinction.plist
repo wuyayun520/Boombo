@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autosceneleft</key>
+	<string>shouldUnbindResource</string>
+	<key>criticalSearcher</key>
+	<string>discardedeventinset</string>
+	<key>cupertinoalert</key>
+	<string>shouldPauseExpanded</string>
+	<key>dispatcherRate</key>
+	<string>storyboardalignment</string>
+	<key>dividefragment</key>
+	<string>unactivatedInterpolation</string>
+	<key>mechanismVisibility</key>
+	<string>activeInfo</string>
+	<key>prismaticCosine</key>
+	<string>inheritedtimeline</string>
+	<key>shouldNotifyPositioned</key>
+	<string>resourcedescription</string>
+	<key>slashTransparency</key>
+	<string>constructResponse</string>
+</dict>
+</plist>

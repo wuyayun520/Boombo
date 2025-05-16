@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRepository</key>
+	<string>shouldRebuildSegment</string>
+	<key>controllerformtheme</key>
+	<string>storeMomentum</string>
+	<key>displayableModule</key>
+	<string>materialDelay</string>
+	<key>effectdependency</key>
+	<string>activeOptimizer</string>
+	<key>fixedText</key>
+	<string>disconnectRepository</string>
+	<key>granularPreview</key>
+	<string>draggableStamp</string>
+	<key>mainEntity</key>
+	<string>otherCluster</string>
+	<key>resolverFrequency</key>
+	<string>associatedLocalization</string>
+</dict>
+</plist>

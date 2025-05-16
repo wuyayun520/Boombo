@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionProvision</key>
+	<string>semanticPriority</string>
+	<key>cupertinosubscriber</key>
+	<string>limitCoordinator</string>
+	<key>histogramDelay</key>
+	<string>defaultbinary</string>
+	<key>shouldCreateCatalyst</key>
+	<string>specifyAnchor</string>
+	<key>singletonSkewY</key>
+	<string>precisionObserver</string>
+	<key>stopradius</key>
+	<string>sequentialSelector</string>
+</dict>
+</plist>

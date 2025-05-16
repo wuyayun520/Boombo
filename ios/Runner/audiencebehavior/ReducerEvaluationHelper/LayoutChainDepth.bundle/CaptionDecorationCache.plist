@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSensor</key>
+	<string>dependencysize</string>
+	<key>commonTentative</key>
+	<string>mediumSound</string>
+	<key>dedicatedSlider</key>
+	<string>canPopBloc</string>
+	<key>errorthroughvar</key>
+	<string>specifySchema</string>
+	<key>multiReplica</key>
+	<string>sizeenvironmenttheme</string>
+	<key>shouldFormatSession</key>
+	<string>persistTouch</string>
+</dict>
+</plist>

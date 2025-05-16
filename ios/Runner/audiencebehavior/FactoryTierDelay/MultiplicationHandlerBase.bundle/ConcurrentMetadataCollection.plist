@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeProvider</key>
+	<string>dynamicintegration</string>
+	<key>defaultModal</key>
+	<string>keepStateful</string>
+	<key>hyperbolicHeap</key>
+	<string>exceptionalignment</string>
+	<key>multiThroughput</key>
+	<string>canStartMobile</string>
+</dict>
+</plist>

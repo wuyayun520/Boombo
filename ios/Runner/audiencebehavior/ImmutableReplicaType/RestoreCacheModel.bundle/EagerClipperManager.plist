@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventaboutcycle</key>
+	<string>requiredProgressBar</string>
+	<key>modaltolerance</key>
+	<string>setuplayout</string>
+	<key>responsiveExpanded</key>
+	<string>relationalMonster</string>
+	<key>shouldCreateMediaQuery</key>
+	<string>renameConstraint</string>
+	<key>shouldlayouttool</key>
+	<string>holdRadius</string>
+	<key>skirtcoordinator</key>
+	<string>crucialMission</string>
+	<key>storyboardCount</key>
+	<string>endTask</string>
+	<key>subtleCheckbox</key>
+	<string>shouldnotifyduration</string>
+	<key>uniqueRemainder</key>
+	<string>anchorVisitor</string>
+</dict>
+</plist>

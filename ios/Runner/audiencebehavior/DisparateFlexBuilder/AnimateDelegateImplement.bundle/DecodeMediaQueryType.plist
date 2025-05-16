@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitShade</key>
+	<string>listenerVelocity</string>
+	<key>explicitmusicstyle</key>
+	<string>clearGroup</string>
+	<key>factoryType</key>
+	<string>responsiveTrigger</string>
+	<key>handlenavigator</key>
+	<string>associatePosition</string>
+	<key>opaquedetector</key>
+	<string>shouldRenderOperation</string>
+	<key>publisherColor</key>
+	<string>protectedStroke</string>
+	<key>shouldProcessCatalyst</key>
+	<string>intensityEdge</string>
+	<key>subtlepetorientation</key>
+	<string>shouldShowNib</string>
+</dict>
+</plist>

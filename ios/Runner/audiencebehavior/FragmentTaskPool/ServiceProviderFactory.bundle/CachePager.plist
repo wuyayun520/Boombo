@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaittheme</key>
+	<string>canPrepareStream</string>
+	<key>desktopTable</key>
+	<string>awaitresponse</string>
+	<key>enabledAnimation</key>
+	<string>signflags</string>
+	<key>greatGroup</key>
+	<string>shoulddecodeskin</string>
+	<key>missedMapper</key>
+	<string>fragmentState</string>
+	<key>onequipmentchanged</key>
+	<string>dismissProgressBar</string>
+	<key>requiredIntegrity</key>
+	<string>shouldNavigateMedia</string>
+	<key>scalabilityRotation</key>
+	<string>shouldReplaceComposition</string>
+	<key>secondpresenterlocation</key>
+	<string>drawAnimation</string>
+	<key>shouldPublishCollection</key>
+	<string>reduceText</string>
+</dict>
+</plist>

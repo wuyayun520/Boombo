@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundlecharacter</key>
+	<string>inflatenotification</string>
+	<key>comprehensivedescriptionduration</key>
+	<string>publicBox</string>
+	<key>discardedTime</key>
+	<string>shouldFormatAlpha</string>
+	<key>firstData</key>
+	<string>sharedIcon</string>
+	<key>lastPageView</key>
+	<string>canPaintRichText</string>
+	<key>mobileProcessor</key>
+	<string>emitInterpolation</string>
+	<key>primaryCustomPaint</key>
+	<string>notificationfromstage</string>
+	<key>rotatetween</key>
+	<string>encodegesturedetector</string>
+	<key>uniformMission</key>
+	<string>secondEmitter</string>
+</dict>
+</plist>

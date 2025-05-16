@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveData</key>
+	<string>referencealignment</string>
+	<key>draggableJoiner</key>
+	<string>matrixspacing</string>
+	<key>enabledCharacteristic</key>
+	<string>paddingCount</string>
+	<key>globalBinder</key>
+	<string>canInflateComposition</string>
+	<key>localDelivery</key>
+	<string>musicTask</string>
+	<key>resolverofvar</key>
+	<string>mobileInterpreter</string>
+	<key>streamstate</key>
+	<string>listenerValue</string>
+	<key>tappableLayout</key>
+	<string>isolateProxy</string>
+	<key>taskmoderesponse</key>
+	<string>multiplyResource</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedIcon</key>
+	<string>euclideanBox</string>
+	<key>mutableRectangle</key>
+	<string>allocatorspeed</string>
+	<key>nativeconstraintopacity</key>
+	<string>builddescription</string>
+	<key>optionscale</key>
+	<string>publishfuture</string>
+	<key>priorNotifier</key>
+	<string>multiShape</string>
+	<key>providerscope</key>
+	<string>newestSchema</string>
+	<key>renderstack</key>
+	<string>parsefuture</string>
+	<key>servicetrajectory</key>
+	<string>observermethodsize</string>
+	<key>uniformSubpixel</key>
+	<string>bindTask</string>
+</dict>
+</plist>

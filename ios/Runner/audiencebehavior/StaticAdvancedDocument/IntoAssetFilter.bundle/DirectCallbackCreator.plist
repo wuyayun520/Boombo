@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicGesture</key>
+	<string>encodedescription</string>
+	<key>evolutiondirection</key>
+	<string>fusedBase</string>
+	<key>immediateRouter</key>
+	<string>constraintSpeed</string>
+	<key>imperativeHero</key>
+	<string>detailDelay</string>
+	<key>normalanimation</key>
+	<string>tangentSpeed</string>
+	<key>oldGrayscale</key>
+	<string>euclideanProtocol</string>
+	<key>reactiveMetrics</key>
+	<string>handleRoute</string>
+	<key>resetcaption</key>
+	<string>menustructurescale</string>
+	<key>scopeLeft</key>
+	<string>discardedTransition</string>
+</dict>
+</plist>

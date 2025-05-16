@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationlocation</key>
+	<string>disabledStamp</string>
+	<key>delegateFrequency</key>
+	<string>reusableScalability</string>
+	<key>hardtweenappearance</key>
+	<string>routerduration</string>
+	<key>inactiveRectangle</key>
+	<string>canStopCustomPaint</string>
+	<key>intermediateMenu</key>
+	<string>canDisconnectEntropy</string>
+	<key>onanimatedcontainerchanged</key>
+	<string>sustainableTask</string>
+</dict>
+</plist>

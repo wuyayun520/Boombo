@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintColor</key>
+	<string>layoutAppBar</string>
+	<key>diversifiedWidget</key>
+	<string>basicgrayscale</string>
+	<key>factoryopacity</key>
+	<string>undertakeMenu</string>
+	<key>fusedradius</key>
+	<string>inkwellmenu</string>
+	<key>hardWidget</key>
+	<string>multiPlayback</string>
+	<key>integertypestyle</key>
+	<string>delegateaspect</string>
+	<key>managerTheme</key>
+	<string>enabledPlayback</string>
+	<key>spotmodesize</key>
+	<string>keyBandwidth</string>
+</dict>
+</plist>

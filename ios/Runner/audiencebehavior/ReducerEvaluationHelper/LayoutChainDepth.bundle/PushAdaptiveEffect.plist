@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAspectRatio</key>
+	<string>fillLayout</string>
+	<key>concurrentdescription</key>
+	<string>localStatus</string>
+	<key>futureOrigin</key>
+	<string>mediumSkirt</string>
+	<key>matrixTop</key>
+	<string>autoCheckbox</string>
+	<key>precisionkind</key>
+	<string>reusableprofile</string>
+	<key>publisherCenter</key>
+	<string>containerHead</string>
+	<key>thresholdDensity</key>
+	<string>shouldStopFlex</string>
+</dict>
+</plist>

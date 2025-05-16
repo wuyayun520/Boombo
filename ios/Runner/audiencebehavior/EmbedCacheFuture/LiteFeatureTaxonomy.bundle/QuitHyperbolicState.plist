@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customAspect</key>
+	<string>petInterpreter</string>
+	<key>eagerEffect</key>
+	<string>shouldStreamPageView</string>
+	<key>gramSpeed</key>
+	<string>rapidListView</string>
+	<key>mapInteraction</key>
+	<string>semanticMetrics</string>
+	<key>sharedAscent</key>
+	<string>animateExpanded</string>
+	<key>shouldPauseBorder</key>
+	<string>profileSaturation</string>
+	<key>shouldRouteCube</key>
+	<string>declarativeStore</string>
+	<key>strengthSpeed</key>
+	<string>labelincludetask</string>
+	<key>temporaryRichText</key>
+	<string>flexProxy</string>
+	<key>tensoranalyzer</key>
+	<string>localizationContext</string>
+</dict>
+</plist>

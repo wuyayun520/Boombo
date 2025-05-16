@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityreliability</key>
+	<string>stackInset</string>
+	<key>requiredAccessory</key>
+	<string>rapidInkWell</string>
+	<key>significantScreen</key>
+	<string>intermediateSingleton</string>
+	<key>staticRouter</key>
+	<string>quitoption</string>
+</dict>
+</plist>

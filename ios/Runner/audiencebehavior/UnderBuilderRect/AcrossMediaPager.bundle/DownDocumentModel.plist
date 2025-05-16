@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousIntegration</key>
+	<string>shouldPrepareMap</string>
+	<key>convolutionmediatortop</key>
+	<string>typicalNotifier</string>
+	<key>fixedGraph</key>
+	<string>screenrestriction</string>
+	<key>secondSensor</key>
+	<string>touchFuture</string>
+	<key>sequentialUsage</key>
+	<string>dispatcherBottom</string>
+	<key>unactivatedSession</key>
+	<string>encodeNotification</string>
+</dict>
+</plist>

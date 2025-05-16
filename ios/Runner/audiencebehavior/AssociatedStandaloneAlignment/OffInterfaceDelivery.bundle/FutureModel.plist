@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllersystemrate</key>
+	<string>permissiveStep</string>
+	<key>decorationHue</key>
+	<string>unmountedTernary</string>
+	<key>draggableHash</key>
+	<string>decodeInteger</string>
+	<key>elasticConvolution</key>
+	<string>controllerFormat</string>
+	<key>extensionfeedback</key>
+	<string>shouldKeepSine</string>
+	<key>interactiveMatrix</key>
+	<string>inkwellpressure</string>
+	<key>managernearmemento</key>
+	<string>shouldParseSymbol</string>
+	<key>semanticModule</key>
+	<string>canAttachHeap</string>
+</dict>
+</plist>

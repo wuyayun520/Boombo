@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvetransparency</key>
+	<string>writeParticle</string>
+	<key>hierarchicalNode</key>
+	<string>invisibleStream</string>
+	<key>localappbarspacing</key>
+	<string>canPresentBaseline</string>
+	<key>secondCheckbox</key>
+	<string>stampInteraction</string>
+	<key>sinkdistance</key>
+	<string>orchestrateCallback</string>
+	<key>strengthMargin</key>
+	<string>priorState</string>
+	<key>usecaseSkewX</key>
+	<string>emitcustompaint</string>
+</dict>
+</plist>

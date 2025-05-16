@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMerger</key>
+	<string>providershader</string>
+	<key>bundlegesturedetector</key>
+	<string>scaffoldpercycle</string>
+	<key>continueaspectratio</key>
+	<string>webEntity</string>
+	<key>logDensity</key>
+	<string>heapInset</string>
+	<key>makescaffold</key>
+	<string>bitratecoordinator</string>
+	<key>pointbeyondoperation</key>
+	<string>createAlpha</string>
+	<key>saveprojection</key>
+	<string>shouldstopusage</string>
+	<key>statelessfuture</key>
+	<string>standaloneInteraction</string>
+</dict>
+</plist>

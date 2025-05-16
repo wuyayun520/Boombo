@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialbuilder</key>
+	<string>variantSkewY</string>
+	<key>detachmember</key>
+	<string>replaceInterpolation</string>
+	<key>reactiveAudio</key>
+	<string>reusableprovidertop</string>
+	<key>shouldUnmountEffect</key>
+	<string>respectiveJoiner</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclefactory</key>
+	<string>pushentropy</string>
+	<key>itemBound</key>
+	<string>disabledDrawer</string>
+	<key>secondStorage</key>
+	<string>shouldInflateMap</string>
+	<key>semanticCombiner</key>
+	<string>utilanalogy</string>
+	<key>shouldEmitNib</key>
+	<string>detailScale</string>
+	<key>shouldListenTabBar</key>
+	<string>customasset</string>
+	<key>symmetricSchema</key>
+	<string>shouldRestartUsage</string>
+	<key>uniformRadius</key>
+	<string>invisibleInterpolation</string>
+	<key>visibleFinder</key>
+	<string>densesink</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCertificate</key>
+	<string>imperativeSegment</string>
+	<key>aspectstrategycount</key>
+	<string>swiftOrigin</string>
+	<key>immutableContainer</key>
+	<string>canSaveRadio</string>
+	<key>missionbuffersize</key>
+	<string>independentSample</string>
+	<key>provisionLocation</key>
+	<string>touchHandler</string>
+	<key>scenematrix</key>
+	<string>chooserForce</string>
+	<key>shouldObserveOverlay</key>
+	<string>replaceFragment</string>
+</dict>
+</plist>

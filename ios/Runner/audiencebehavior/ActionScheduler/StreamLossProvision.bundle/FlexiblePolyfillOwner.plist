@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentGram</key>
+	<string>endPlayback</string>
+	<key>customAnimator</key>
+	<string>largeBitrate</string>
+	<key>directevaluation</key>
+	<string>shouldSaveLoss</string>
+	<key>ignoredFlex</key>
+	<string>shouldCreateSpecifier</string>
+	<key>interceptinjection</key>
+	<string>repositoryinterpreterindex</string>
+	<key>lazyExtension</key>
+	<string>clonetabview</string>
+	<key>listenerevolution</key>
+	<string>configureDependency</string>
+	<key>mobileAnimatedContainer</key>
+	<string>gradientOrigin</string>
+	<key>onstacktap</key>
+	<string>canPopWorkflow</string>
+	<key>shouldValidateStoryboard</key>
+	<string>resizableCallback</string>
+</dict>
+</plist>

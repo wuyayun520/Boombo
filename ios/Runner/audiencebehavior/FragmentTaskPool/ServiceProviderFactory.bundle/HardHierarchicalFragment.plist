@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttoninterpreterhead</key>
+	<string>canSerializeDelegate</string>
+	<key>declarativeCursor</key>
+	<string>hyperbolictimeline</string>
+	<key>integerincludeactivity</key>
+	<string>granularSchema</string>
+	<key>oldMetrics</key>
+	<string>constructGraph</string>
+	<key>radiusAppearance</key>
+	<string>cupertinoMetrics</string>
+	<key>shouldStreamButton</key>
+	<string>inheritedTweak</string>
+	<key>shouldlistenkernel</key>
+	<string>sceneLevel</string>
+</dict>
+</plist>

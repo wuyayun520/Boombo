@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCard</key>
+	<string>combinerDensity</string>
+	<key>filterStyle</key>
+	<string>lossPadding</string>
+	<key>gateIndex</key>
+	<string>autopicker</string>
+	<key>localSchema</key>
+	<string>baselineTier</string>
+	<key>mediaqueryrotation</key>
+	<string>statelessDimension</string>
+	<key>optimizetextfield</key>
+	<string>inkwellasset</string>
+	<key>semanticSkin</key>
+	<string>deferredCollection</string>
+	<key>tableSaturation</key>
+	<string>seamlessBinary</string>
+	<key>uniqueAscent</key>
+	<string>behaviorVariable</string>
+</dict>
+</plist>

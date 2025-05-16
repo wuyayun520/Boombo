@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agiledescriptorfrequency</key>
+	<string>animationAlignment</string>
+	<key>endusecase</key>
+	<string>shouldUnmountPageView</string>
+	<key>interpolateaspect</key>
+	<string>locateDependency</string>
+	<key>nativevolume</key>
+	<string>baseInterval</string>
+	<key>scenarioTension</key>
+	<string>benchmarkManager</string>
+	<key>selectedScale</key>
+	<string>saveSpine</string>
+</dict>
+</plist>

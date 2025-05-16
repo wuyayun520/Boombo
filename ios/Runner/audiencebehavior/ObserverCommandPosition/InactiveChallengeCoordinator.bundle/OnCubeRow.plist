@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionloop</key>
+	<string>spinehue</string>
+	<key>connectorMomentum</key>
+	<string>numericalGesture</string>
+	<key>interactiveImpression</key>
+	<string>diversifiedhash</string>
+	<key>permanentInfo</key>
+	<string>lastCache</string>
+</dict>
+</plist>

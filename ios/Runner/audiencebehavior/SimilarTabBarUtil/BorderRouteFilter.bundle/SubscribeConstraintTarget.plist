@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedStoryboard</key>
+	<string>offsetPhase</string>
+	<key>concurrentMerger</key>
+	<string>mobileAxis</string>
+	<key>dependencyfragments</key>
+	<string>inflateController</string>
+	<key>ephemeralMaster</key>
+	<string>firststateless</string>
+	<key>imperativeMethod</key>
+	<string>canCreateGem</string>
+	<key>missedExpanded</key>
+	<string>scheduleProgressBar</string>
+	<key>shouldPublishGift</key>
+	<string>disconnectPopup</string>
+	<key>stampAlignment</key>
+	<string>shouldPaintCapsule</string>
+</dict>
+</plist>

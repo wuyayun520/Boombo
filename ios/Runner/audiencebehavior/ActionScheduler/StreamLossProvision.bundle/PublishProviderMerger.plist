@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoFormat</key>
+	<string>enabledMovement</string>
+	<key>constraintPosition</key>
+	<string>oldArithmetic</string>
+	<key>ismonster</key>
+	<string>unactivatedBaseline</string>
+	<key>renametabbar</key>
+	<string>numericalRow</string>
+	<key>repositorybyparam</key>
+	<string>newestScaffold</string>
+	<key>requiredCanvas</key>
+	<string>releaseTask</string>
+	<key>scrollerBorder</key>
+	<string>clipPopup</string>
+</dict>
+</plist>

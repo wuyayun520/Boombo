@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSkirt</key>
+	<string>unmountInterpolation</string>
+	<key>buttonscale</key>
+	<string>nodeContrast</string>
+	<key>commonStoryboard</key>
+	<string>aggregateInjection</string>
+	<key>elasticCompletion</key>
+	<string>serializeprovider</string>
+	<key>graphshader</key>
+	<string>dependencyContrast</string>
+	<key>normalBrush</key>
+	<string>crudeBehavior</string>
+	<key>shouldTransformObserver</key>
+	<string>instructionAdapter</string>
+	<key>shouldunmountprovider</key>
+	<string>clearInteractor</string>
+</dict>
+</plist>

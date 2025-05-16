@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listengrain</key>
+	<string>selectorMomentum</string>
+	<key>normstatus</key>
+	<string>isStoryboard</string>
+	<key>particlename</key>
+	<string>sceneEdge</string>
+	<key>projectionFeedback</key>
+	<string>drawerradius</string>
+	<key>shouldCreateNavigator</key>
+	<string>bundleDependency</string>
+	<key>sortedCreator</key>
+	<string>inheritedVideo</string>
+	<key>staticText</key>
+	<string>listviewParameter</string>
+	<key>symmetricSession</key>
+	<string>bufferfeedback</string>
+	<key>tangentinsidemediator</key>
+	<string>fetchStamp</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featurePosition</key>
+	<string>relationalProcessor</string>
+	<key>notificationShape</key>
+	<string>onbaselinechanged</string>
+	<key>resilientMonster</key>
+	<string>shouldUnmountSwitch</string>
+	<key>sophisticatedlabel</key>
+	<string>pointparamdirection</string>
+	<key>specifyImpression</key>
+	<string>compareTitle</string>
+	<key>stateprovision</key>
+	<string>descriptioninformation</string>
+</dict>
+</plist>

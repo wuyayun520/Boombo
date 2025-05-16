@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertMargin</key>
+	<string>movementShade</string>
+	<key>handlerawayactivity</key>
+	<string>pointfrequency</string>
+	<key>interpolationSkewY</key>
+	<string>resourceLayer</string>
+	<key>standaloneChannel</key>
+	<string>mediumView</string>
+	<key>zonestyle</key>
+	<string>shouldDetachStateful</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeunary</key>
+	<string>mutablecontainer</string>
+	<key>crucialMaterial</key>
+	<string>coordinatoropacity</string>
+	<key>elasticImpression</key>
+	<string>shouldRestartIcon</string>
+	<key>newestSubscription</key>
+	<string>canDispatchModal</string>
+	<key>stampScale</key>
+	<string>compareMenu</string>
+	<key>streamState</key>
+	<string>cellMethod</string>
+	<key>synchronousInfrastructure</key>
+	<string>pointthreshold</string>
+</dict>
+</plist>

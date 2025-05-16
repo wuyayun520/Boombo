@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintInterval</key>
+	<string>popparticle</string>
+	<key>convolutionFrequency</key>
+	<string>canNavigateResource</string>
+	<key>holdcoordinator</key>
+	<string>infrastructureResponse</string>
+	<key>layerselector</key>
+	<string>converterName</string>
+	<key>nextcontainerhead</key>
+	<string>associatedNode</string>
+	<key>resolverValidation</key>
+	<string>paddingTransparency</string>
+	<key>shouldUnmountNavigation</key>
+	<string>capacitiestension</string>
+	<key>shouldfetchvariant</key>
+	<string>lostCapsule</string>
+	<key>skinCount</key>
+	<string>shouldEmitSession</string>
+	<key>yieldbuilder</key>
+	<string>keyButton</string>
+</dict>
+</plist>

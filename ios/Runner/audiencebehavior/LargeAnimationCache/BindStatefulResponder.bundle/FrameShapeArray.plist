@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryPressure</key>
+	<string>trajectoryFrequency</string>
+	<key>declarativeModule</key>
+	<string>hardAlpha</string>
+	<key>directPageView</key>
+	<string>regulateListener</string>
+	<key>mediocreScenario</key>
+	<string>robustChallenge</string>
+	<key>restoreaspect</key>
+	<string>shouldUnbindDrawer</string>
+	<key>shouldPublishPainter</key>
+	<string>serviceContrast</string>
+	<key>streamstatus</key>
+	<string>ephemeralSample</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedPopup</key>
+	<string>prismaticClipper</string>
+	<key>discardedSplitter</key>
+	<string>documentBuffer</string>
+	<key>globalPet</key>
+	<string>scrollableFragment</string>
+	<key>hascontraction</key>
+	<string>activateaspect</string>
+	<key>interactiveIcon</key>
+	<string>singleTool</string>
+	<key>retainedUseCase</key>
+	<string>interactiveReducer</string>
+	<key>shouldReplaceCaption</key>
+	<string>decodeticker</string>
+	<key>shouldRouteSignature</key>
+	<string>currentimage</string>
+</dict>
+</plist>

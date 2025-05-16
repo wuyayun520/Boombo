@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorresolver</key>
+	<string>directModel</string>
+	<key>disabledMenu</key>
+	<string>materialSample</string>
+	<key>explicitGem</key>
+	<string>granularCycle</string>
+	<key>globalDropdownButton</key>
+	<string>channelsAlignment</string>
+	<key>resizableMesh</key>
+	<string>analogyFormat</string>
+	<key>shouldInflateButton</key>
+	<string>hasunary</string>
+	<key>smallPreview</key>
+	<string>allocatorTint</string>
+	<key>subscriptionRotation</key>
+	<string>subsequentGrid</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxcallback</key>
+	<string>titlespacing</string>
+	<key>denseAlert</key>
+	<string>gemschema</string>
+	<key>pinchableInkWell</key>
+	<string>scenariostyle</string>
+	<key>singlecharacter</key>
+	<string>permanentGradient</string>
+	<key>sizedboxOpacity</key>
+	<string>priorAxis</string>
+	<key>staticSine</key>
+	<string>independentTabBar</string>
+	<key>symmetricConstant</key>
+	<string>harddelegateshape</string>
+	<key>tappableMap</key>
+	<string>directFlex</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSizedBox</key>
+	<string>replicaCoord</string>
+	<key>autopainter</key>
+	<string>functionalUtil</string>
+	<key>buttonpresenter</key>
+	<string>canPrepareEqualization</string>
+	<key>denseAlpha</key>
+	<string>mapamongscope</string>
+	<key>directlyPlate</key>
+	<string>deserializeEntropy</string>
+	<key>easyMatrix</key>
+	<string>canPersistBinary</string>
+	<key>navigatorName</key>
+	<string>shouldSkipModal</string>
+	<key>permissivecallback</key>
+	<string>canProcessChallenge</string>
+	<key>promiseResponse</key>
+	<string>synchronousArchitecture</string>
+</dict>
+</plist>

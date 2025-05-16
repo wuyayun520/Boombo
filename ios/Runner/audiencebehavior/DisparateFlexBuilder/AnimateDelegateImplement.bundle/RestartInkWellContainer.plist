@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartbeyondstyle</key>
+	<string>statelessGram</string>
+	<key>cupertinoProvider</key>
+	<string>interactorObserver</string>
+	<key>entropyDelay</key>
+	<string>litetitle</string>
+	<key>fillgesturedetector</key>
+	<string>intermediateEntity</string>
+	<key>hasprotocol</key>
+	<string>canListenBoxShadow</string>
+	<key>onsubpixeltap</key>
+	<string>canObserveTheme</string>
+	<key>playbackinset</key>
+	<string>configurationDuration</string>
+	<key>screenbesidetype</key>
+	<string>refactormaster</string>
+	<key>shouldDisposeStamp</key>
+	<string>shouldPresentBatch</string>
+	<key>shouldupdatesizedbox</key>
+	<string>completionParameter</string>
+</dict>
+</plist>

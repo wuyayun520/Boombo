@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueoffset</key>
+	<string>canFinishSegue</string>
+	<key>encodeswitch</key>
+	<string>widgetVisibility</string>
+	<key>liteEquipment</key>
+	<string>selectedSlider</string>
+	<key>newestIcon</key>
+	<string>deactivateGraph</string>
+	<key>oldIntegration</key>
+	<string>audioFrequency</string>
+	<key>routercapacity</key>
+	<string>canPublishCursor</string>
+	<key>shouldDispatchDropdownButton</key>
+	<string>injectSingleton</string>
+	<key>storyboardvalueleft</key>
+	<string>advancedComponent</string>
+	<key>zonelikestage</key>
+	<string>persistenttextcoord</string>
+</dict>
+</plist>

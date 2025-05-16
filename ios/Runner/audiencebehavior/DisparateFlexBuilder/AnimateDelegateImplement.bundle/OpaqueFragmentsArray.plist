@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPopup</key>
+	<string>listenGestureDetector</string>
+	<key>canvasFeedback</key>
+	<string>fixedcontroller</string>
+	<key>hardfeature</key>
+	<string>inheritedGroup</string>
+	<key>loaderTail</key>
+	<string>pagerContrast</string>
+	<key>mapspacing</key>
+	<string>coordinatorrotation</string>
+	<key>musicStyle</key>
+	<string>imperativeDispatcher</string>
+	<key>normalframe</key>
+	<string>exceptionValue</string>
+	<key>reactiveStore</key>
+	<string>pivotalParticle</string>
+	<key>shouldcontinueeffect</key>
+	<string>animateSpecifier</string>
+</dict>
+</plist>

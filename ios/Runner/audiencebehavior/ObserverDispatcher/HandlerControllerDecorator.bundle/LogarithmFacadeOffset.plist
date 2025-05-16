@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartrecursion</key>
+	<string>tappableKernel</string>
+	<key>handlemonster</key>
+	<string>gridTheme</string>
+	<key>lossincludeenvironment</key>
+	<string>monsterComposite</string>
+	<key>resourceCoord</key>
+	<string>serviceParam</string>
+	<key>shouldShowChallenge</key>
+	<string>agileError</string>
+	<key>statelessAnalogy</key>
+	<string>subscriptionoradapter</string>
+	<key>tensorProgressBar</key>
+	<string>interactiveBox</string>
+</dict>
+</plist>

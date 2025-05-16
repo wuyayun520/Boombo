@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicslash</key>
+	<string>statefulName</string>
+	<key>composableservice</key>
+	<string>hierarchicalTweak</string>
+	<key>grainfromlayer</key>
+	<string>shouldKeepFlex</string>
+	<key>isNavigator</key>
+	<string>pinchableCard</string>
+	<key>modalskewy</key>
+	<string>richtextPlatform</string>
+	<key>selectorFrequency</key>
+	<string>actionamongtier</string>
+	<key>shouldyieldcomposition</key>
+	<string>ephemeralasset</string>
+</dict>
+</plist>

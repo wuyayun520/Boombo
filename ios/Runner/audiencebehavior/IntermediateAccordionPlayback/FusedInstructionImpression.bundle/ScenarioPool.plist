@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeCustomPaint</key>
+	<string>remediationinset</string>
+	<key>dataColor</key>
+	<string>toolStage</string>
+	<key>finderOrigin</key>
+	<string>singleRepository</string>
+	<key>graphRate</key>
+	<string>staticResource</string>
+	<key>greatStamp</key>
+	<string>borderSkewY</string>
+	<key>liteGraphic</key>
+	<string>reusableSegue</string>
+	<key>modulescale</key>
+	<string>missedBitrate</string>
+	<key>otherIntegrity</key>
+	<string>parsescene</string>
+	<key>sharedAnimatedContainer</key>
+	<string>quantizationGraph</string>
+</dict>
+</plist>

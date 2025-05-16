@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryFrequency</key>
+	<string>firstStoryboard</string>
+	<key>nativeBrush</key>
+	<string>pagerScale</string>
+	<key>opaqueOffset</key>
+	<string>shouldDisposeWorkflow</string>
+	<key>optimizerbridgebound</key>
+	<string>dynamicChannel</string>
+	<key>rectifyconstraint</key>
+	<string>chooserHue</string>
+	<key>shouldSkipUsage</key>
+	<string>quaternionCoord</string>
+	<key>soundOrigin</key>
+	<string>newestTask</string>
+</dict>
+</plist>

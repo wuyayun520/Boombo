@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectborder</key>
+	<string>audioLocation</string>
+	<key>compositionmargin</key>
+	<string>resultParameter</string>
+	<key>fragmentsDirection</key>
+	<string>timerPosition</string>
+	<key>hardPriority</key>
+	<string>completionBottom</string>
+	<key>persistentEntity</key>
+	<string>pushNib</string>
+	<key>processinteger</key>
+	<string>shouldPresentImage</string>
+</dict>
+</plist>

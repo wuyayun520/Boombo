@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmenttype</key>
+	<string>requiredGraph</string>
+	<key>entityVisibility</key>
+	<string>explicitConstraint</string>
+	<key>prismaticPainter</key>
+	<string>subtleAnalogy</string>
+	<key>shouldDeserializeButton</key>
+	<string>reusableFuture</string>
+	<key>streampopup</key>
+	<string>criticalExpanded</string>
+	<key>unsortedText</key>
+	<string>hasanchor</string>
+	<key>visibleNorm</key>
+	<string>canTrainReference</string>
+</dict>
+</plist>

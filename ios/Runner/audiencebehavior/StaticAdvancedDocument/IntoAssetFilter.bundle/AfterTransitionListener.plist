@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedcellduration</key>
+	<string>deferredCell</string>
+	<key>dedicatedConstraint</key>
+	<string>directBorder</string>
+	<key>protocolBehavior</key>
+	<string>desktopRow</string>
+	<key>shouldpushprojection</key>
+	<string>numericalPicker</string>
+	<key>specifierAppearance</key>
+	<string>chaptermargin</string>
+</dict>
+</plist>

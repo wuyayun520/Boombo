@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>profilevisible</key>
+	<string>respectiveSorter</string>
+	<key>reusableInterface</key>
+	<string>completerDepth</string>
+	<key>scrollablecurve</key>
+	<string>buttonInterpreter</string>
+	<key>shouldFinishSegment</key>
+	<string>pendingCupertino</string>
+	<key>shouldMountMediaQuery</key>
+	<string>reusableLayer</string>
+	<key>standaloneVariant</key>
+	<string>connectorTag</string>
+	<key>tabbarpercommand</key>
+	<string>chapterOperation</string>
+	<key>webThread</key>
+	<string>challengeCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatecertificate</key>
+	<string>inheritedOverlay</string>
+	<key>callbacktweak</key>
+	<string>unmountedCoordinator</string>
+	<key>columninteraction</key>
+	<string>mediaquerysinceinterpreter</string>
+	<key>diffableOccasion</key>
+	<string>shaderreliability</string>
+	<key>diversifiedMechanism</key>
+	<string>subpixelAppearance</string>
+	<key>explicitTweak</key>
+	<string>cupertinoLifecycle</string>
+	<key>keyPoint</key>
+	<string>buttonProcess</string>
+	<key>pointdistance</key>
+	<string>intermediateMusic</string>
+	<key>viewcontextorientation</key>
+	<string>greatDelivery</string>
+</dict>
+</plist>

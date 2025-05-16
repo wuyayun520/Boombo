@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directButton</key>
+	<string>parallelTouch</string>
+	<key>directShape</key>
+	<string>sortedConverter</string>
+	<key>fusedscalability</key>
+	<string>transformerScale</string>
+	<key>shouldCacheColumn</key>
+	<string>unactivatedCustomPaint</string>
+	<key>shouldFetchSwift</key>
+	<string>opaqueBoxShadow</string>
+	<key>shouldTrainBinary</key>
+	<string>associatedFilter</string>
+	<key>usecaseCoord</key>
+	<string>intermediatecell</string>
+</dict>
+</plist>

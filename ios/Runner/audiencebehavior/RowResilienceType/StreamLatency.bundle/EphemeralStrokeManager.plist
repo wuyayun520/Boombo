@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsfunctionskewx</key>
+	<string>cancelStream</string>
+	<key>giftbuilder</key>
+	<string>shouldListenSpine</string>
+	<key>inheritedSubscriber</key>
+	<string>shouldFetchIcon</string>
+	<key>shadercontainvar</key>
+	<string>shouldObserveMatrix</string>
+	<key>subtleDisclaimer</key>
+	<string>nativePreview</string>
+</dict>
+</plist>

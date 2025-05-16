@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackBottom</key>
+	<string>prevTween</string>
+	<key>euclideanElement</key>
+	<string>viewPrototype</string>
+	<key>filterTint</key>
+	<string>connectorInteraction</string>
+	<key>gateRate</key>
+	<string>showSkirt</string>
+	<key>mobileRecursion</key>
+	<string>cubitandtype</string>
+	<key>shouldSubscribeTangent</key>
+	<string>textfieldLocation</string>
+	<key>statuscoord</key>
+	<string>activateTimer</string>
+	<key>uniqueFilter</key>
+	<string>timeracceleration</string>
+	<key>widgetIndex</key>
+	<string>numericalSegue</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGraph</key>
+	<string>largecaption</string>
+	<key>diffablegridspeed</key>
+	<string>disposeOperation</string>
+	<key>formatVisibility</key>
+	<string>canDismissGradient</string>
+	<key>requiredsubscriber</key>
+	<string>swiftStage</string>
+	<key>routecontextrate</key>
+	<string>explicitprogressbarindex</string>
+	<key>shouldlayouteffect</key>
+	<string>shouldPopGesture</string>
+	<key>timelineBottom</key>
+	<string>mediaqueryAction</string>
+</dict>
+</plist>

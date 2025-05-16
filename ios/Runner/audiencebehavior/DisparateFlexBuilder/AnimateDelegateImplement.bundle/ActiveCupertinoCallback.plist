@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableStatus</key>
+	<string>permissiveskirthead</string>
+	<key>immutableGroup</key>
+	<string>directlyConstraint</string>
+	<key>shouldSubscribeResource</key>
+	<string>canBuildNavigation</string>
+	<key>significantTrigger</key>
+	<string>builderActivity</string>
+	<key>sophisticatedAppBar</key>
+	<string>streamformat</string>
+	<key>typicalEvolution</key>
+	<string>reductionAlignment</string>
+	<key>typicalPadding</key>
+	<string>difficultresilience</string>
+</dict>
+</plist>

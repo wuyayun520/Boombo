@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMesh</key>
+	<string>concreteAccessory</string>
+	<key>bordermerger</key>
+	<string>canSaveCaption</string>
+	<key>lostConfiguration</key>
+	<string>canLayoutStateless</string>
+	<key>screenscopedensity</key>
+	<string>managerBehavior</string>
+	<key>shouldAnimateScroll</key>
+	<string>giftAction</string>
+	<key>shouldPopHeap</key>
+	<string>explicitCluster</string>
+	<key>sophisticatedfragment</key>
+	<string>iconTop</string>
+	<key>tabviewVelocity</key>
+	<string>shouldAnimateBehavior</string>
+</dict>
+</plist>

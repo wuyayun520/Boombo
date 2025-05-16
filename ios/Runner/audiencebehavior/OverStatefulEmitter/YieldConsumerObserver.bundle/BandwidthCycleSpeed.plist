@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveObserver</key>
+	<string>shouldAttachTangent</string>
+	<key>backwardnotifier</key>
+	<string>textVariable</string>
+	<key>graphicpressure</key>
+	<string>reliabilityResponse</string>
+	<key>sharedDocument</key>
+	<string>accordionComposition</string>
+	<key>sustainableRadio</key>
+	<string>gradientAcceleration</string>
+	<key>symmetricPicker</key>
+	<string>listenerCommand</string>
+	<key>transformticker</key>
+	<string>shouldSerializeCheckbox</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubecoord</key>
+	<string>resourceDensity</string>
+	<key>endspecifier</key>
+	<string>elementRate</string>
+	<key>shouldObserveMission</key>
+	<string>stopGestureDetector</string>
+	<key>symmetricMaterializer</key>
+	<string>pinchableAwait</string>
+</dict>
+</plist>

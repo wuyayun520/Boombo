@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendbatch</key>
+	<string>checkSprite</string>
+	<key>dispatcherRate</key>
+	<string>shouldPaintSlash</string>
+	<key>fixedResolver</key>
+	<string>prevBorder</string>
+	<key>mobileDepth</key>
+	<string>transposeHash</string>
+	<key>navigatecube</key>
+	<string>paralleldecorationposition</string>
+	<key>otherStack</key>
+	<string>subsequentArchitecture</string>
+	<key>pinchablePainter</key>
+	<string>nodethanparam</string>
+	<key>shouldParseHistogram</key>
+	<string>renameTexture</string>
+	<key>shouldStreamExtension</key>
+	<string>canUnmountedChallenge</string>
+	<key>temporaryMediaQuery</key>
+	<string>canPauseTangent</string>
+</dict>
+</plist>

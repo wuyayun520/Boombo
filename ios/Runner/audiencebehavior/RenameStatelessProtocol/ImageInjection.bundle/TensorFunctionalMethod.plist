@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialBullet</key>
+	<string>canObserveBrush</string>
+	<key>cyclejobdepth</key>
+	<string>projectValidation</string>
+	<key>fusedintegrity</key>
+	<string>decodePlayback</string>
+	<key>granularMerger</key>
+	<string>webException</string>
+	<key>stepIndex</key>
+	<string>canValidatePadding</string>
+</dict>
+</plist>

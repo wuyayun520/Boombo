@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logarithmwithobserver</key>
+	<string>reusablestream</string>
+	<key>missedcompleter</key>
+	<string>processevent</string>
+	<key>rangeShade</key>
+	<string>robustRow</string>
+	<key>resizableProjection</key>
+	<string>interpolatesensor</string>
+	<key>reusableDropdownButton</key>
+	<string>notifyFlex</string>
+	<key>streamthroughcontext</key>
+	<string>draggableRepository</string>
+	<key>transitionandchain</key>
+	<string>cacheedge</string>
+</dict>
+</plist>

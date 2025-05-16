@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetcount</key>
+	<string>instantiateBuffer</string>
+	<key>asynchronousRecursion</key>
+	<string>executePopup</string>
+	<key>concurrentBaseline</key>
+	<string>initializeSize</string>
+	<key>displayablePrecision</key>
+	<string>paddingInteraction</string>
+	<key>evaluateprovider</key>
+	<string>hierarchicalgrain</string>
+	<key>mutableSample</key>
+	<string>canParseInkWell</string>
+	<key>skiptheme</key>
+	<string>consumeProvider</string>
+	<key>sortedRect</key>
+	<string>fixedCapacities</string>
+	<key>zoneName</key>
+	<string>grayscaleSize</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleRate</key>
+	<string>canYieldLabel</string>
+	<key>lastSingleton</key>
+	<string>cardCoord</string>
+	<key>localmember</key>
+	<string>boxshadowPhase</string>
+	<key>multiStatus</key>
+	<string>statelessPet</string>
+	<key>permissiveHistogram</key>
+	<string>materialHero</string>
+	<key>shouldRouteAnchor</key>
+	<string>canDetachSubpixel</string>
+	<key>textureVelocity</key>
+	<string>drawController</string>
+</dict>
+</plist>

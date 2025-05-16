@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferactivityappearance</key>
+	<string>offsetinterpolation</string>
+	<key>cursorfrommediator</key>
+	<string>retainedSensor</string>
+	<key>disparateBatch</key>
+	<string>robustmanager</string>
+	<key>hardSizedBox</key>
+	<string>flexibleOperation</string>
+	<key>opaqueProject</key>
+	<string>completedLabel</string>
+	<key>popupmementoacceleration</key>
+	<string>independentResponder</string>
+	<key>resilientRoute</key>
+	<string>matrixKind</string>
+	<key>shouldMountedRoute</key>
+	<string>localizationshade</string>
+	<key>symmetricdecorationformat</key>
+	<string>mountpreview</string>
+	<key>transformerRate</key>
+	<string>greatBoxShadow</string>
+</dict>
+</plist>

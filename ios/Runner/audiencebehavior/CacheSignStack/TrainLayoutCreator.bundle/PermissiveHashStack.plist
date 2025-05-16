@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalGroup</key>
+	<string>mainTable</string>
+	<key>functionalcertificateborder</key>
+	<string>hasmedia</string>
+	<key>intuitiveMaterializer</key>
+	<string>canCachePositioned</string>
+	<key>recursionDelay</key>
+	<string>multiChannels</string>
+	<key>shouldConnectCapacities</key>
+	<string>finishBullet</string>
+	<key>shouldStartMusic</key>
+	<string>responsiveGesture</string>
+	<key>shouldTransitionClipper</key>
+	<string>independentConstraint</string>
+	<key>shouldUnmountTechnique</key>
+	<string>significantCompleter</string>
+	<key>temporaryPolyfill</key>
+	<string>largeCharacter</string>
+</dict>
+</plist>

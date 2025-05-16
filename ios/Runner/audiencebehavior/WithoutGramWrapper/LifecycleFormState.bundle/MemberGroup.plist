@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitduration</key>
+	<string>signTheme</string>
+	<key>gridresilience</key>
+	<string>comprehensiveindicator</string>
+	<key>listviewMomentum</key>
+	<string>shouldUnmountedTransition</string>
+	<key>parsedelegate</key>
+	<string>shouldFormatDescriptor</string>
+	<key>prevContainer</key>
+	<string>canvasexceptdecorator</string>
+	<key>publishsession</key>
+	<string>commonChart</string>
+	<key>semanticText</key>
+	<string>maxLog</string>
+	<key>shouldPopTask</key>
+	<string>disparateScenario</string>
+	<key>tabbarStyle</key>
+	<string>moveTransition</string>
+	<key>vectorincludestyle</key>
+	<string>statefulTemple</string>
+</dict>
+</plist>

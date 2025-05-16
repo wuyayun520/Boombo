@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedFlex</key>
+	<string>drawerscale</string>
+	<key>easyComposition</key>
+	<string>selectedCoordinator</string>
+	<key>ignoredSlash</key>
+	<string>canProcessSegue</string>
+	<key>immutableObserver</key>
+	<string>shouldunmountpositioned</string>
+	<key>imperativeMap</key>
+	<string>shouldPublishBatch</string>
+	<key>providersinceadapter</key>
+	<string>cacheAppearance</string>
+	<key>shouldKeepConvolution</key>
+	<string>iconDirection</string>
+	<key>spriteskewy</key>
+	<string>alignmentviaprocess</string>
+	<key>subscriptionHue</key>
+	<string>prepareChallenge</string>
+</dict>
+</plist>

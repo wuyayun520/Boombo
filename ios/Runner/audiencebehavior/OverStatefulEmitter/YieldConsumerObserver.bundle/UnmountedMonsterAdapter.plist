@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorypatternvalidation</key>
+	<string>skipLoss</string>
+	<key>criticalTolerance</key>
+	<string>observePageView</string>
+	<key>decouplebatch</key>
+	<string>currentMetadata</string>
+	<key>disclaimervisible</key>
+	<string>canSerializeGem</string>
+	<key>kernelBottom</key>
+	<string>intermediateAspect</string>
+	<key>largecaptionacceleration</key>
+	<string>eagerProcessor</string>
+	<key>mobileChooser</key>
+	<string>activeMesh</string>
+	<key>shaderdispatcher</key>
+	<string>robustSubscriber</string>
+	<key>webAnimator</key>
+	<string>mediumMusic</string>
+</dict>
+</plist>

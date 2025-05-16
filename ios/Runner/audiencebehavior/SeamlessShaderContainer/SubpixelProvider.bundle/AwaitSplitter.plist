@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordioncosineinteraction</key>
+	<string>viewFlyweight</string>
+	<key>dependencypadding</key>
+	<string>effectdespitetask</string>
+	<key>diffableEvent</key>
+	<string>smartEmitter</string>
+	<key>easyOverlay</key>
+	<string>dependencyForm</string>
+	<key>entropyRight</key>
+	<string>desktopOverlay</string>
+	<key>errorBehavior</key>
+	<string>timerScope</string>
+	<key>impactBehavior</key>
+	<string>dismissindicator</string>
+	<key>pinchableStroke</key>
+	<string>cursoramongvalue</string>
+	<key>timerTag</key>
+	<string>fillDescription</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisresource</key>
+	<string>statelessCapacities</string>
+	<key>inkwellDepth</key>
+	<string>statefulModule</string>
+	<key>interactiveTransformer</key>
+	<string>constraintintegrity</string>
+	<key>medianame</key>
+	<string>canPersistInstruction</string>
+	<key>shouldDismissBehavior</key>
+	<string>binaryOrigin</string>
+	<key>shouldDismissSession</key>
+	<string>semanticCertificate</string>
+	<key>temporarylabeltop</key>
+	<string>comprehensivePrecision</string>
+</dict>
+</plist>

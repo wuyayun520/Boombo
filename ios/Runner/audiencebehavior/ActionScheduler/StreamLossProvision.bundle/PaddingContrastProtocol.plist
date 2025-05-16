@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayablestack</key>
+	<string>axisrotation</string>
+	<key>featureShape</key>
+	<string>canTransformSpot</string>
+	<key>fragmentalongparameter</key>
+	<string>pivotalCharacter</string>
+	<key>hyperbolicSizedBox</key>
+	<string>protectedTrajectory</string>
+	<key>loaderBehavior</key>
+	<string>subtlecapacities</string>
+	<key>nibmethod</key>
+	<string>accordionOptimizer</string>
+	<key>positionedFeedback</key>
+	<string>skipTool</string>
+	<key>regulateduration</key>
+	<string>shouldDecodeDocument</string>
+	<key>remainderLeft</key>
+	<string>canCreateLabel</string>
+</dict>
+</plist>

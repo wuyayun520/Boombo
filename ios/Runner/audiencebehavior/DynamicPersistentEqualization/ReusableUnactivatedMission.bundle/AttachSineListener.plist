@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAlignment</key>
+	<string>annotateHandler</string>
+	<key>catalystSpacing</key>
+	<string>originalSlash</string>
+	<key>progressbarcreator</key>
+	<string>opaqueMetrics</string>
+	<key>roleCoord</key>
+	<string>adaptiveSegment</string>
+	<key>segmentShade</key>
+	<string>invisibleIntegration</string>
+	<key>shouldTransitionInterpolation</key>
+	<string>onpettap</string>
+	<key>shouldValidateGraphic</key>
+	<string>fillGrid</string>
+</dict>
+</plist>

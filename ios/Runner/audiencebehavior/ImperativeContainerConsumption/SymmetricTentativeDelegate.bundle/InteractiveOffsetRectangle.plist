@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterBehavior</key>
+	<string>showGesture</string>
+	<key>detectorTension</key>
+	<string>segmentFlyweight</string>
+	<key>explicitEquivalent</key>
+	<string>shouldStreamMediaQuery</string>
+	<key>normnearscope</key>
+	<string>respectiveAction</string>
+	<key>rangeVisible</key>
+	<string>tentativeAlignment</string>
+	<key>shouldMountedMap</key>
+	<string>smallTopic</string>
+	<key>smallRouter</key>
+	<string>shouldBuildProject</string>
+</dict>
+</plist>

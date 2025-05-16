@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserbrightness</key>
+	<string>fixedIcon</string>
+	<key>crudeTabView</key>
+	<string>lostVector</string>
+	<key>mediocreTextField</key>
+	<string>canProcessMap</string>
+	<key>oncompletiontap</key>
+	<string>immutablePicker</string>
+	<key>shouldDecodeModulus</key>
+	<string>semanticMonster</string>
+	<key>shouldProcessAnimation</key>
+	<string>delicateIntensity</string>
+</dict>
+</plist>

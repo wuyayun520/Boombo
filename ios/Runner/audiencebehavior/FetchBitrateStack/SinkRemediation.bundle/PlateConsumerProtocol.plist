@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorKind</key>
+	<string>nativeTolerance</string>
+	<key>columnTint</key>
+	<string>customizedScaffold</string>
+	<key>permissiveStack</key>
+	<string>canNotifyScroll</string>
+	<key>pivotalTransformer</key>
+	<string>scopeLeft</string>
+	<key>shouldBindListView</key>
+	<string>bandwidthSkewY</string>
+	<key>taskopacity</key>
+	<string>gridviewFlags</string>
+</dict>
+</plist>

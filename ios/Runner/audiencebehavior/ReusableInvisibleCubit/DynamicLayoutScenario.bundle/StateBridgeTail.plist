@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerScale</key>
+	<string>interactiveRadius</string>
+	<key>filterindex</key>
+	<string>parseScale</string>
+	<key>normalRenderer</key>
+	<string>parsepopup</string>
+	<key>prismaticAnimator</key>
+	<string>musicStatus</string>
+	<key>shouldAnimateLayout</key>
+	<string>custompaintinfrastructure</string>
+</dict>
+</plist>

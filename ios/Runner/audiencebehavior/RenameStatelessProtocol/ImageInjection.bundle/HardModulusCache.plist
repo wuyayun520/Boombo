@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianQuaternion</key>
+	<string>transitionResponse</string>
+	<key>geometricDescription</key>
+	<string>shouldRestartKernel</string>
+	<key>mediumstackforce</key>
+	<string>shouldSaveProvider</string>
+	<key>multierror</key>
+	<string>navigatehistogram</string>
+	<key>notationDistance</key>
+	<string>multiplicationVelocity</string>
+	<key>persistentSession</key>
+	<string>animatedFragments</string>
+	<key>reusableTransformer</key>
+	<string>instructionScale</string>
+	<key>shouldValidateBinary</key>
+	<string>protecteddocument</string>
+	<key>shouldrestartdrawer</key>
+	<string>objectright</string>
+	<key>spotabouttype</key>
+	<string>drawAnimation</string>
+</dict>
+</plist>

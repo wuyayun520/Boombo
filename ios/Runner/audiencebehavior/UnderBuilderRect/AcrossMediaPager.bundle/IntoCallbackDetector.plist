@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blockindvalidation</key>
+	<string>shouldShowCoordinator</string>
+	<key>originalImpact</key>
+	<string>offsetCenter</string>
+	<key>reducerPadding</key>
+	<string>canContinueNotification</string>
+	<key>shouldRenderNavigator</key>
+	<string>disclaimerSpeed</string>
+	<key>standalonegesturedetectortag</key>
+	<string>sophisticatedcheckboxinteraction</string>
+	<key>staticNib</key>
+	<string>emitterName</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalResilience</key>
+	<string>assetCycle</string>
+	<key>effectSkewX</key>
+	<string>swiftBorder</string>
+	<key>granularSign</key>
+	<string>prevStatus</string>
+	<key>sanitizegrain</key>
+	<string>shouldInflateSkirt</string>
+	<key>shouldMountedTheme</key>
+	<string>fragmentsTag</string>
+	<key>specifyNavigation</key>
+	<string>canKeepCanvas</string>
+	<key>subtlecompleterbehavior</key>
+	<string>seekParticle</string>
+</dict>
+</plist>

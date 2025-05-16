@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarktool</key>
+	<string>inheritedNavigator</string>
+	<key>coordinatorVisibility</key>
+	<string>methodbridgecenter</string>
+	<key>deferredTriangles</key>
+	<string>collectionVelocity</string>
+	<key>fetchresult</key>
+	<string>layoutOrigin</string>
+	<key>shouldBuildExtension</key>
+	<string>materialMemento</string>
+	<key>shouldDispatchInteger</key>
+	<string>statelessSegment</string>
+	<key>shouldPresentAspectRatio</key>
+	<string>selectedDimension</string>
+</dict>
+</plist>

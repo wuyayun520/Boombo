@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheframe</key>
+	<string>scheduleParticle</string>
+	<key>decorationprocessbottom</key>
+	<string>bindPet</string>
+	<key>paddingVisibility</key>
+	<string>shouldResumePlayback</string>
+	<key>projectLeft</key>
+	<string>observenavigation</string>
+	<key>sequentialSubscriber</key>
+	<string>accordionTween</string>
+	<key>shouldBuildCell</key>
+	<string>shouldPersistScreen</string>
+	<key>shouldReplaceGram</key>
+	<string>rebuildAlpha</string>
+	<key>shouldrenderoperation</key>
+	<string>draggableChannels</string>
+	<key>timerkind</key>
+	<string>persistFuture</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionstatus</key>
+	<string>certificateDuration</string>
+	<key>descriptorName</key>
+	<string>setstateListView</string>
+	<key>shouldSetStateMediaQuery</key>
+	<string>streamimpact</string>
+	<key>significantFrame</key>
+	<string>sequentialView</string>
+	<key>trianglesVisible</key>
+	<string>loadChecklist</string>
+	<key>uniqueSubscription</key>
+	<string>graphskewy</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loaderValidation</key>
+	<string>precisionstatus</string>
+	<key>notificationallocator</key>
+	<string>activeTechnique</string>
+	<key>permanentProvision</key>
+	<string>shouldTransitionEqualization</string>
+	<key>resourcephaseborder</key>
+	<string>deserializeTitle</string>
+	<key>selectednotifier</key>
+	<string>reusableCaption</string>
+	<key>semanticText</key>
+	<string>dispatchUsage</string>
+	<key>semanticmembershade</key>
+	<string>canEmitCycle</string>
+	<key>triggerOrigin</key>
+	<string>pauseNavigation</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativesemanticsrotation</key>
+	<string>constraintVisitor</string>
+	<key>effectRight</key>
+	<string>recursionPadding</string>
+	<key>ephemeralResource</key>
+	<string>strokefeedback</string>
+	<key>frameduration</key>
+	<string>resolveindicator</string>
+	<key>inkwellsingletonname</key>
+	<string>operationVisitor</string>
+	<key>missedAlignment</key>
+	<string>unscheduleCallback</string>
+	<key>movementdirection</key>
+	<string>flexiblemodulusstatus</string>
+	<key>originalCoordinator</key>
+	<string>grainSkewY</string>
+	<key>serializetween</key>
+	<string>statefulDistance</string>
+	<key>shouldPaintScale</key>
+	<string>singletonBottom</string>
+</dict>
+</plist>

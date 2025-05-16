@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectconstraint</key>
+	<string>basicdrawer</string>
+	<key>matrixcoord</key>
+	<string>giftInterpreter</string>
+	<key>normalMetadata</key>
+	<string>custompaintPattern</string>
+	<key>shouldRenderSubpixel</key>
+	<string>prevProgressBar</string>
+	<key>triggeracceleration</key>
+	<string>directlyStoryboard</string>
+</dict>
+</plist>

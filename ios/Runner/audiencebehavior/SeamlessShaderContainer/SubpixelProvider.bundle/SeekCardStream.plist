@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directEmitter</key>
+	<string>greatDuration</string>
+	<key>directlyDrawer</key>
+	<string>canRestartMaster</string>
+	<key>providerbufferappearance</key>
+	<string>directlyNib</string>
+	<key>retainedcompleter</key>
+	<string>shouldSubscribeSample</string>
+	<key>shouldshowtabbar</key>
+	<string>batchInset</string>
+	<key>topicBehavior</key>
+	<string>crudeLabel</string>
+</dict>
+</plist>

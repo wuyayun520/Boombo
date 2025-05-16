@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentDetail</key>
+	<string>canYieldBinary</string>
+	<key>delicateBorder</key>
+	<string>switchPattern</string>
+	<key>functionalMaterializer</key>
+	<string>resolverBound</string>
+	<key>handlerSkewY</key>
+	<string>limitlistview</string>
+	<key>ignoredStream</key>
+	<string>persistProjection</string>
+	<key>pageviewmatrix</key>
+	<string>seekRoute</string>
+	<key>prevQuaternion</key>
+	<string>prepareMusic</string>
+	<key>shouldpresentstack</key>
+	<string>saveAlpha</string>
+	<key>similarSlider</key>
+	<string>canPrepareIndicator</string>
+</dict>
+</plist>

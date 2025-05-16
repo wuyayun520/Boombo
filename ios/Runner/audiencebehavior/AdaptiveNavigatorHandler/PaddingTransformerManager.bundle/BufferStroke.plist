@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMember</key>
+	<string>containerchaintension</string>
+	<key>beginnerhandler</key>
+	<string>cartesianLog</string>
+	<key>injectionname</key>
+	<string>reusableScroll</string>
+	<key>nativeConverter</key>
+	<string>serializeGroup</string>
+	<key>navigationpresenter</key>
+	<string>publishRoute</string>
+	<key>parsemedia</key>
+	<string>canDetachText</string>
+	<key>shouldparsecurve</key>
+	<string>serializeConvolution</string>
+	<key>typicalGate</key>
+	<string>heapintensity</string>
+	<key>unsortedMethod</key>
+	<string>fusedAsync</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activateoptimizer</key>
+	<string>requestNode</string>
+	<key>currenthero</key>
+	<string>itemSkewX</string>
+	<key>elasticSprite</key>
+	<string>enumerateConfiguration</string>
+	<key>mapperFeedback</key>
+	<string>shouldDisconnectTabView</string>
+	<key>mutableCharacter</key>
+	<string>cubitcreator</string>
+	<key>numericalDetail</key>
+	<string>canRouteChannels</string>
+	<key>stateconverter</key>
+	<string>dependencyspeed</string>
+</dict>
+</plist>

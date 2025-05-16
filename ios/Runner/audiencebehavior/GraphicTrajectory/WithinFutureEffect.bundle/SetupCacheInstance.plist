@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleQueue</key>
+	<string>indicatorTint</string>
+	<key>missionagainststrategy</key>
+	<string>captionactionborder</string>
+	<key>paddingrate</key>
+	<string>usecaseSaturation</string>
+	<key>prevConstant</key>
+	<string>shouldSaveSegment</string>
+	<key>rendergift</key>
+	<string>shouldSkipVariant</string>
+	<key>shouldAnimateCursor</key>
+	<string>metricsAcceleration</string>
+	<key>shouldRebuildSample</key>
+	<string>shouldLoadTheme</string>
+</dict>
+</plist>

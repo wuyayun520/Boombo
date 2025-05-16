@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderDuration</key>
+	<string>shouldYieldCurve</string>
+	<key>dynamicDelivery</key>
+	<string>serviceobserver</string>
+	<key>semanticTexture</key>
+	<string>updatePoint</string>
+	<key>serializelayout</key>
+	<string>saveresult</string>
+	<key>shouldEndBehavior</key>
+	<string>dynamicPermutation</string>
+	<key>splitterAlignment</key>
+	<string>dimensionVisibility</string>
+</dict>
+</plist>

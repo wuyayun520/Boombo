@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientparametertransparency</key>
+	<string>canRouteChallenge</string>
+	<key>gramDuration</key>
+	<string>shouldpopnotifier</string>
+	<key>largePadding</key>
+	<string>reactiveTheme</string>
+	<key>opaqueTabBar</key>
+	<string>retainview</string>
+	<key>shouldPauseBinary</key>
+	<string>collectionComposite</string>
+</dict>
+</plist>

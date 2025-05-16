@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartTop</key>
+	<string>robustCustomPaint</string>
+	<key>disabledMaster</key>
+	<string>viewpolyfill</string>
+	<key>invisibleBehavior</key>
+	<string>touchCenter</string>
+	<key>liteOccasion</key>
+	<string>newestEffect</string>
+	<key>logdescription</key>
+	<string>criticalCapacities</string>
+	<key>metadataHead</key>
+	<string>deserializeModal</string>
+	<key>missedEquivalent</key>
+	<string>meshInset</string>
+	<key>responsiveTicker</key>
+	<string>injectTask</string>
+	<key>shouldloadgate</key>
+	<string>catalystBridge</string>
+</dict>
+</plist>

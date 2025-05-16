@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveNotifier</key>
+	<string>explicitConstraint</string>
+	<key>appbarFormat</key>
+	<string>accessibleTextField</string>
+	<key>concurrentduration</key>
+	<string>shouldAttachStoryboard</string>
+	<key>cosineCoord</key>
+	<string>commonChapter</string>
+	<key>cupertinoDisclaimer</key>
+	<string>declarativeDimension</string>
+	<key>diffableWorkflow</key>
+	<string>customTextField</string>
+	<key>distinctionBottom</key>
+	<string>shouldMountSlash</string>
+	<key>isCharacter</key>
+	<string>decodeCertificate</string>
+	<key>positionedhash</key>
+	<string>canCacheGradient</string>
+	<key>streamofsingleton</key>
+	<string>mediocreSelector</string>
+</dict>
+</plist>

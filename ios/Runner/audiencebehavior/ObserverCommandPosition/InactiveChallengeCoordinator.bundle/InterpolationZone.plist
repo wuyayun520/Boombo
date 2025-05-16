@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffernearcommand</key>
+	<string>fusedutiltag</string>
+	<key>cupertinoinkwell</key>
+	<string>immediateNotifier</string>
+	<key>declarativeGroup</key>
+	<string>accessibleIntegration</string>
+	<key>drawerFlags</key>
+	<string>shouldEndHero</string>
+	<key>lazyPager</key>
+	<string>updatecard</string>
+	<key>logarithmMargin</key>
+	<string>allocatorDuration</string>
+	<key>polygonInterval</key>
+	<string>reductionFunction</string>
+	<key>shouldbuildheap</key>
+	<string>bundleSingleton</string>
+	<key>staticTime</key>
+	<string>checkSprite</string>
+	<key>tabbarrate</key>
+	<string>navigateDocument</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopData</key>
+	<string>taskTint</string>
+	<key>dropdownbuttonFrequency</key>
+	<string>currentflex</string>
+	<key>mediocreUsage</key>
+	<string>dismissrichtext</string>
+	<key>permanentStateless</key>
+	<string>notifyPet</string>
+	<key>rendererPressure</key>
+	<string>interactiveskin</string>
+	<key>requiredRange</key>
+	<string>granularConnector</string>
+	<key>shouldUnmountUsage</key>
+	<string>denseCertificate</string>
+	<key>significantPermutation</key>
+	<string>lostBase</string>
+	<key>touchsize</key>
+	<string>spotDirection</string>
+</dict>
+</plist>

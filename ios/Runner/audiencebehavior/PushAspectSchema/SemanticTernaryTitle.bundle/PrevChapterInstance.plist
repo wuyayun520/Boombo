@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customData</key>
+	<string>accessoryBottom</string>
+	<key>ephemeralEvaluation</key>
+	<string>readLoop</string>
+	<key>missedRemediation</key>
+	<string>canBuildOption</string>
+	<key>musicLeft</key>
+	<string>customizedAlignment</string>
+	<key>storagebufferappearance</key>
+	<string>channelFlags</string>
+</dict>
+</plist>

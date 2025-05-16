@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedResolver</key>
+	<string>serializeChannels</string>
+	<key>exceptionfrequency</key>
+	<string>reductionShape</string>
+	<key>imageAcceleration</key>
+	<string>buildAnimation</string>
+	<key>independentanimatedcontainerskewx</key>
+	<string>injectionwithmemento</string>
+	<key>resolverFormat</key>
+	<string>documentOrientation</string>
+	<key>scalestyle</key>
+	<string>imageFrequency</string>
+	<key>usageincludestrategy</key>
+	<string>custompaintVisibility</string>
+</dict>
+</plist>

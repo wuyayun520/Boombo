@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionTail</key>
+	<string>shouldResumeMedia</string>
+	<key>consultativeDelegate</key>
+	<string>metadataactivitytint</string>
+	<key>diffableProtocol</key>
+	<string>canPresentSpine</string>
+	<key>diffableSpine</key>
+	<string>canLayoutCycle</string>
+	<key>priorityDistance</key>
+	<string>sortedCell</string>
+	<key>radioTint</key>
+	<string>scalesize</string>
+	<key>rendererCount</key>
+	<string>switchMemento</string>
+	<key>resizableTransformer</key>
+	<string>canStreamGradient</string>
+	<key>shouldRouteCell</key>
+	<string>dialogsPrototype</string>
+	<key>similarTexture</key>
+	<string>shouldConnectStep</string>
+</dict>
+</plist>

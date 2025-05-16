@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultdelegate</key>
+	<string>consumerProxy</string>
+	<key>delicatePlayback</key>
+	<string>inactiveBinder</string>
+	<key>explicitMission</key>
+	<string>intermediateIntegration</string>
+	<key>globalIntensity</key>
+	<string>interactorVelocity</string>
+	<key>independentconsumption</key>
+	<string>yieldSensor</string>
+	<key>listenertint</key>
+	<string>grainDepth</string>
+	<key>priorwidget</key>
+	<string>onmatrixchanged</string>
+	<key>scrollablemedia</key>
+	<string>cupertinoMedia</string>
+</dict>
+</plist>

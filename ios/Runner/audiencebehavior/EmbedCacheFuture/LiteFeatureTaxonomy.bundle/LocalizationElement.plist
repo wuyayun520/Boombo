@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerspacing</key>
+	<string>segmentForm</string>
+	<key>animationvartype</key>
+	<string>metadataDirection</string>
+	<key>fillerror</key>
+	<string>canContinueReference</string>
+	<key>globalRadius</key>
+	<string>retainedTangent</string>
+	<key>lazyPageView</key>
+	<string>unsortedEqualization</string>
+	<key>optionedge</key>
+	<string>navigateScale</string>
+	<key>shouldDispatchAxis</key>
+	<string>canLoadSign</string>
+</dict>
+</plist>

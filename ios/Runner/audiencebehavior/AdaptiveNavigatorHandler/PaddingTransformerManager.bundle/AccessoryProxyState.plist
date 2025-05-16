@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCapacities</key>
+	<string>compositionalCheckbox</string>
+	<key>composableStroke</key>
+	<string>swiftFormat</string>
+	<key>crudeConfidentiality</key>
+	<string>canSubscribeWorkflow</string>
+	<key>crudeScreen</key>
+	<string>onlosstap</string>
+	<key>diffableDetail</key>
+	<string>canReplaceCosine</string>
+	<key>hyperbolicNorm</key>
+	<string>subscribeTextField</string>
+	<key>localizationinterval</key>
+	<string>intermediateAction</string>
+	<key>shouldUnmountedDelegate</key>
+	<string>loopTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedTouch</key>
+	<string>permanentSizedBox</string>
+	<key>dropdownbuttonelement</key>
+	<string>statecontainprototype</string>
+	<key>evolutionScale</key>
+	<string>showScaffold</string>
+	<key>missedFragments</key>
+	<string>shouldSkipDropdownButton</string>
+	<key>protectedtweenposition</key>
+	<string>respectiveMedia</string>
+</dict>
+</plist>

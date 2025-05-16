@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowcontrast</key>
+	<string>independentAspectRatio</string>
+	<key>buttonvolume</key>
+	<string>gridviewPressure</string>
+	<key>composableAsync</key>
+	<string>materializeCallback</string>
+	<key>concurrentPositioned</key>
+	<string>viewMargin</string>
+	<key>constantCenter</key>
+	<string>shouldValidateCustomPaint</string>
+	<key>explicitTouch</key>
+	<string>dispatchSwift</string>
+	<key>memberOpacity</key>
+	<string>prismaticAnimation</string>
+	<key>shouldDisconnectLog</key>
+	<string>rebuildButton</string>
+	<key>shouldmountedgem</key>
+	<string>anchorcompositevelocity</string>
+</dict>
+</plist>

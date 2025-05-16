@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materiallocation</key>
+	<string>canRouteVariant</string>
+	<key>navigationbesideprototype</key>
+	<string>canHandleNotifier</string>
+	<key>pinchableScene</key>
+	<string>shouldObserveSignature</string>
+	<key>shouldBindCard</key>
+	<string>popNode</string>
+	<key>shouldDismissCosine</key>
+	<string>canLayoutGift</string>
+	<key>shouldanimatelog</key>
+	<string>cartesianAwait</string>
+	<key>staticCanvas</key>
+	<string>canSkipActivity</string>
+</dict>
+</plist>

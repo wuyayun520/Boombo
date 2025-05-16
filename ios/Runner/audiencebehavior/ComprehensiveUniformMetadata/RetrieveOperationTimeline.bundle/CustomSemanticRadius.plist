@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoStack</key>
+	<string>particleMemento</string>
+	<key>delicatePrecision</key>
+	<string>canResumeCaption</string>
+	<key>disabledTitle</key>
+	<string>baseAction</string>
+	<key>isInstruction</key>
+	<string>nibForce</string>
+	<key>radiobottom</key>
+	<string>coordinatorFunction</string>
+	<key>removehandler</key>
+	<string>shouldShowSample</string>
+	<key>routeroccasion</key>
+	<string>inactiveDescent</string>
+	<key>scrollerBorder</key>
+	<string>equalizationVisibility</string>
+	<key>shouldUnbindSession</key>
+	<string>optimizeheap</string>
+</dict>
+</plist>

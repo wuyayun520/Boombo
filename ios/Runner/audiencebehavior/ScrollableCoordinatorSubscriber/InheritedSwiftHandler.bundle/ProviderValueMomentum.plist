@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousScroller</key>
+	<string>heroBorder</string>
+	<key>dispatchnavigation</key>
+	<string>protectedPopup</string>
+	<key>explicitProcessor</key>
+	<string>iterativeplate</string>
+	<key>immediateDisclaimer</key>
+	<string>nodeborder</string>
+	<key>occasionOrigin</key>
+	<string>pushMenu</string>
+	<key>pinchableGestureDetector</key>
+	<string>marginFacade</string>
+	<key>substantialFilter</key>
+	<string>convertrouter</string>
+	<key>sustainablegrainresponse</key>
+	<string>embedChapter</string>
+</dict>
+</plist>

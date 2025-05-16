@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialProvider</key>
+	<string>rebuildBaseline</string>
+	<key>shouldCancelPageView</key>
+	<string>mutableReceiver</string>
+	<key>shouldKeepBuilder</key>
+	<string>currentrestriction</string>
+	<key>shouldfinishcontroller</key>
+	<string>consumebox</string>
+	<key>tickerkind</key>
+	<string>threadPosition</string>
+</dict>
+</plist>

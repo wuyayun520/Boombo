@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerMomentum</key>
+	<string>layoutNavigator</string>
+	<key>directScope</key>
+	<string>canDisposeAnchor</string>
+	<key>lazyUtil</key>
+	<string>timeRotation</string>
+	<key>resourcecallback</key>
+	<string>oldBorder</string>
+	<key>sequentialRecursion</key>
+	<string>hashworkindex</string>
+	<key>shouldBindTabBar</key>
+	<string>dissociateChannel</string>
+	<key>shouldDismissStateless</key>
+	<string>receiveResolver</string>
+	<key>symmetricCupertino</key>
+	<string>secondcallback</string>
+</dict>
+</plist>

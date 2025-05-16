@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachePadding</key>
+	<string>grainStyle</string>
+	<key>disparateTask</key>
+	<string>multiOffset</string>
+	<key>errorpolyfill</key>
+	<string>permanentMusic</string>
+	<key>impactSkewY</key>
+	<string>materialDelay</string>
+	<key>invisiblePoint</key>
+	<string>clearSingleton</string>
+	<key>ongemtap</key>
+	<string>usagealongvariable</string>
+	<key>permanentRecursion</key>
+	<string>showError</string>
+</dict>
+</plist>

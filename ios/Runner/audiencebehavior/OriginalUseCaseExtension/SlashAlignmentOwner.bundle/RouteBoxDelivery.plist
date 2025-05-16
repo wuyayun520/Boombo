@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>smallObject</key>
+	<string>shearChannel</string>
+	<key>transitionslash</key>
+	<string>connectGem</string>
+	<key>transitionthreshold</key>
+	<string>encapsulateChapter</string>
+</dict>
+</plist>

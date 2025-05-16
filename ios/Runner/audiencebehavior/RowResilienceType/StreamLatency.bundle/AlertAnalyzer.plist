@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architecturedirection</key>
+	<string>poolcontraction</string>
+	<key>customStore</key>
+	<string>soundState</string>
+	<key>deferredSensor</key>
+	<string>shouldHandleSensor</string>
+	<key>instructionStyle</key>
+	<string>isolateSpacing</string>
+	<key>opaqueStatus</key>
+	<string>connectCustomPaint</string>
+	<key>otherText</key>
+	<string>canPushFuture</string>
+	<key>parallelDependency</key>
+	<string>usedOccasion</string>
+	<key>schemaVisible</key>
+	<string>shouldNavigateSignature</string>
+	<key>shouldFinishMomentum</key>
+	<string>copyInteractor</string>
+	<key>taxonomyspacing</key>
+	<string>fillEvent</string>
+</dict>
+</plist>

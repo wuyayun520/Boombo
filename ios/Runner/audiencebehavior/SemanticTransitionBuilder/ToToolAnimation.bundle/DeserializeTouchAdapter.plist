@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorprovider</key>
+	<string>rapidReplica</string>
+	<key>equipmentCount</key>
+	<string>canValidateStack</string>
+	<key>fixedBinary</key>
+	<string>enumeratemobile</string>
+	<key>granularGestureDetector</key>
+	<string>lastMaster</string>
+	<key>missedSensor</key>
+	<string>tabbarCycle</string>
+	<key>primaryChooser</key>
+	<string>localizationStrategy</string>
+	<key>primaryTask</key>
+	<string>webExponent</string>
+	<key>referenceKind</key>
+	<string>shouldRenderEntropy</string>
+	<key>uniqueAlert</key>
+	<string>clearManager</string>
+</dict>
+</plist>

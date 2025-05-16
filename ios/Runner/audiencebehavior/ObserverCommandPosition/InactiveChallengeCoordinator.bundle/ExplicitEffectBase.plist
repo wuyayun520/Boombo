@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directSkin</key>
+	<string>descriptionShade</string>
+	<key>integrationOrientation</key>
+	<string>timeName</string>
+	<key>itemOffset</key>
+	<string>widgetaboutsystem</string>
+	<key>primaryGate</key>
+	<string>nextprecisionshade</string>
+	<key>rangeRate</key>
+	<string>smallGridView</string>
+	<key>shouldYieldBehavior</key>
+	<string>islog</string>
+	<key>skinSpacing</key>
+	<string>introspectLayout</string>
+	<key>subtleintegeredge</key>
+	<string>selectedboxshadow</string>
+	<key>tappableReliability</key>
+	<string>notifyFrame</string>
+</dict>
+</plist>

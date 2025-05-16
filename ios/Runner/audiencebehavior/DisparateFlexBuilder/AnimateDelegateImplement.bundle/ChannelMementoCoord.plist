@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventMargin</key>
+	<string>visibleNavigation</string>
+	<key>fusedTransition</key>
+	<string>canRenderNavigator</string>
+	<key>newestCube</key>
+	<string>dropoutVector</string>
+	<key>priorNorm</key>
+	<string>paddingcommandduration</string>
+	<key>respectiveTolerance</key>
+	<string>selectorOffset</string>
+</dict>
+</plist>

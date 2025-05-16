@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSwift</key>
+	<string>concreteListener</string>
+	<key>equipmentopacity</key>
+	<string>projectForm</string>
+	<key>listenrouter</key>
+	<string>signSaturation</string>
+	<key>optionInset</key>
+	<string>presentConvolution</string>
+	<key>persistentfuturescale</key>
+	<string>segmentFlyweight</string>
+	<key>singleDependency</key>
+	<string>canPauseSign</string>
+	<key>sophisticatedListView</key>
+	<string>matrixAlignment</string>
+	<key>unsortedObserver</key>
+	<string>singleProfile</string>
+</dict>
+</plist>

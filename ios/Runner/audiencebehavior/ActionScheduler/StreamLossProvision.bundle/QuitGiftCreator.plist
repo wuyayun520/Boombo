@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxTint</key>
+	<string>captionMediator</string>
+	<key>subscribemodel</key>
+	<string>unlockspot</string>
+	<key>subsequentMobile</key>
+	<string>canPrepareCell</string>
+</dict>
+</plist>

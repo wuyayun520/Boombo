@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineFrequency</key>
+	<string>resultEnvironment</string>
+	<key>curveintegration</key>
+	<string>currentChapter</string>
+	<key>globalOption</key>
+	<string>losscallback</string>
+	<key>pivotalAnimation</key>
+	<string>publicdetector</string>
+	<key>rendererDuration</key>
+	<string>shouldTransitionCaption</string>
+	<key>resourceBrightness</key>
+	<string>persistentMaterial</string>
+	<key>sinematerial</key>
+	<string>providescene</string>
+	<key>sortedFlex</key>
+	<string>lostFeature</string>
+</dict>
+</plist>

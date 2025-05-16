@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMaster</key>
+	<string>rectfeedback</string>
+	<key>diffableTriangles</key>
+	<string>roleHue</string>
+	<key>layoutaction</key>
+	<string>capsuleMode</string>
+	<key>materialCell</key>
+	<string>switchviafunction</string>
+	<key>permanentSizedBox</key>
+	<string>handleAppBar</string>
+	<key>robustDistinction</key>
+	<string>ephemeralBatch</string>
+	<key>sustainableResult</key>
+	<string>dynamicInstruction</string>
+</dict>
+</plist>

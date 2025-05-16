@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSubscription</key>
+	<string>primaryVertex</string>
+	<key>independentRemainder</key>
+	<string>presentnode</string>
+	<key>onaperturechanged</key>
+	<string>storageVisibility</string>
+	<key>primaryCluster</key>
+	<string>canRebuildBitrate</string>
+	<key>priorityEdge</key>
+	<string>instantiateallocator</string>
+</dict>
+</plist>

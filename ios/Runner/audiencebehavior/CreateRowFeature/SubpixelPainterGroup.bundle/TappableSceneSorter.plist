@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectortransparency</key>
+	<string>imperativeText</string>
+	<key>denseStroke</key>
+	<string>evolutionFormat</string>
+	<key>deserializegroup</key>
+	<string>resilientCupertino</string>
+	<key>hyperbolicUseCase</key>
+	<string>refactorNavigator</string>
+	<key>ignoredLabel</key>
+	<string>listviewFormat</string>
+	<key>persistentDescription</key>
+	<string>workflowStyle</string>
+	<key>segmentVelocity</key>
+	<string>hierarchicalanimator</string>
+	<key>shouldKeepButton</key>
+	<string>showBrush</string>
+	<key>sortedwidgetposition</key>
+	<string>canEncodeDrawer</string>
+</dict>
+</plist>

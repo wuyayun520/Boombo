@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxsearcher</key>
+	<string>batchAlignment</string>
+	<key>processinterface</key>
+	<string>buildSemantics</string>
+	<key>publicStorage</key>
+	<string>modalskewx</string>
+	<key>resolverMargin</key>
+	<string>streamResponse</string>
+	<key>robustResponse</key>
+	<string>permanentRectangle</string>
+	<key>splitterHue</key>
+	<string>usageBrightness</string>
+	<key>widgetTransparency</key>
+	<string>otherListView</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAllocator</key>
+	<string>repositoryStage</string>
+	<key>behaviorVisibility</key>
+	<string>sequentialChallenge</string>
+	<key>cubitMode</key>
+	<string>connectorBehavior</string>
+	<key>euclideanChallenge</key>
+	<string>exceptionloader</string>
+	<key>explicitCell</key>
+	<string>benchmarkGroup</string>
+	<key>uniformResponder</key>
+	<string>semanticInteger</string>
+</dict>
+</plist>

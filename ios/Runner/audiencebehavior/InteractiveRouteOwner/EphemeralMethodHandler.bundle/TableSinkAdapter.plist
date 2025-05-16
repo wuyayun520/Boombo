@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalMenu</key>
+	<string>paintStateful</string>
+	<key>gridstrategyrotation</key>
+	<string>displayableTicker</string>
+	<key>shouldDecodeBehavior</key>
+	<string>schedulerbrightness</string>
+	<key>shouldResumeFlex</key>
+	<string>canSerializeMargin</string>
+	<key>shouldcachecosine</key>
+	<string>canUnmountMovement</string>
+	<key>sortedStack</key>
+	<string>spinCoordinator</string>
+	<key>tabbarLocation</key>
+	<string>sequentialLifecycle</string>
+</dict>
+</plist>

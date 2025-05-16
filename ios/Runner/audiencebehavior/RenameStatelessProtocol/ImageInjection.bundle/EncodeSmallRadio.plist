@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorShape</key>
+	<string>consultativeresponseskewx</string>
+	<key>lazyMember</key>
+	<string>fetchBinary</string>
+	<key>shouldPersistNavigator</key>
+	<string>resilienceskewy</string>
+	<key>tappablePresenter</key>
+	<string>greatEvent</string>
+	<key>thresholdResponse</key>
+	<string>touchForm</string>
+	<key>topicforcontext</key>
+	<string>localizationlocation</string>
+	<key>unaryOrigin</key>
+	<string>canFormatButton</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heroInset</key>
+	<string>litePreview</string>
+	<key>kernelsound</key>
+	<string>autoEmitter</string>
+	<key>parallelSession</key>
+	<string>obtainStorage</string>
+	<key>resolversystemfeedback</key>
+	<string>boxshadowName</string>
+	<key>shouldFinishOption</key>
+	<string>decoupleEntity</string>
+	<key>shouldRenderMonster</key>
+	<string>deliveryVelocity</string>
+	<key>shouldYieldSegue</key>
+	<string>movementFlags</string>
+	<key>slideruntiltype</key>
+	<string>missionatstrategy</string>
+</dict>
+</plist>

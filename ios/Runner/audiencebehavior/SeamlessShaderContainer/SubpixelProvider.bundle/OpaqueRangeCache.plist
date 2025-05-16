@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnallocator</key>
+	<string>spinFactory</string>
+	<key>frameBrightness</key>
+	<string>requiredSegment</string>
+	<key>inactiveMetadata</key>
+	<string>persistentAwait</string>
+	<key>radiusposition</key>
+	<string>criticalExpanded</string>
+	<key>rapidGrain</key>
+	<string>momentumVar</string>
+	<key>sampleMomentum</key>
+	<string>isRadio</string>
+	<key>shouldMountMaster</key>
+	<string>enumerateSink</string>
+	<key>shouldRouteLoss</key>
+	<string>canEncodeDialogs</string>
+	<key>splitterCenter</key>
+	<string>canRebuildIcon</string>
+</dict>
+</plist>

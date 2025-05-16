@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customMaster</key>
+	<string>permanentLayout</string>
+	<key>directMusic</key>
+	<string>shoulddeserializecapacities</string>
+	<key>invisibleTexture</key>
+	<string>shouldUnmountClipper</string>
+	<key>localChannels</key>
+	<string>attachSample</string>
+	<key>reducenorm</key>
+	<string>createInteger</string>
+	<key>shouldRenderComposition</key>
+	<string>effectDecorator</string>
+	<key>subpixelName</key>
+	<string>shouldDispatchThread</string>
+</dict>
+</plist>

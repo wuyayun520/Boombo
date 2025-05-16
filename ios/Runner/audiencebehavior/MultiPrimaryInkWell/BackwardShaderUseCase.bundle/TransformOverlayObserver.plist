@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveReplica</key>
+	<string>dimensionBehavior</string>
+	<key>createpet</key>
+	<string>numericalStateless</string>
+	<key>delegateInset</key>
+	<string>smallMargin</string>
+	<key>enabledLatency</key>
+	<string>interfacescale</string>
+	<key>infrastructureBorder</key>
+	<string>shouldDetachCatalyst</string>
+	<key>isboxshadow</key>
+	<string>processBorder</string>
+	<key>positionedBottom</key>
+	<string>stampTint</string>
+	<key>shouldFormatButton</key>
+	<string>largeModel</string>
+	<key>taskhead</key>
+	<string>canInflateKernel</string>
+</dict>
+</plist>

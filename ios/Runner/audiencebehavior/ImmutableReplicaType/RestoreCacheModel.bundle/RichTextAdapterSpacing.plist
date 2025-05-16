@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablePadding</key>
+	<string>metricsHue</string>
+	<key>convertpadding</key>
+	<string>escalateCallback</string>
+	<key>entityslider</key>
+	<string>decodetween</string>
+	<key>firstCanvas</key>
+	<string>boxmementoedge</string>
+	<key>reconcilecell</key>
+	<string>protectedRepository</string>
+	<key>shouldDetachSensor</key>
+	<string>serializeNotifier</string>
+	<key>statefulcontrollerpadding</key>
+	<string>fillAction</string>
+</dict>
+</plist>

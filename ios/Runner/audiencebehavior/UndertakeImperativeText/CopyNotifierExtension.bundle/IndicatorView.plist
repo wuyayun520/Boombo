@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasMomentum</key>
+	<string>isolateInterval</string>
+	<key>capsuleStatus</key>
+	<string>nativeObject</string>
+	<key>disabledPresenter</key>
+	<string>interpolationSpacing</string>
+	<key>durationsubscriber</key>
+	<string>routeBound</string>
+	<key>plateLeft</key>
+	<string>sampleStructure</string>
+	<key>progressbarFlags</key>
+	<string>sustainableAction</string>
+	<key>smallentityskewx</key>
+	<string>bundleConstraint</string>
+	<key>statelessQueue</key>
+	<string>canFetchInterpolation</string>
+</dict>
+</plist>

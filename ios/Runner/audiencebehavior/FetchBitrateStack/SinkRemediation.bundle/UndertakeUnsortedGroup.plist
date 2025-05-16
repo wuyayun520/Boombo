@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAnimatedContainer</key>
+	<string>subpixelSpacing</string>
+	<key>appbarState</key>
+	<string>injectionreducer</string>
+	<key>denseCycle</key>
+	<string>shouldParseWidget</string>
+	<key>processfeature</key>
+	<string>selectedRemainder</string>
+	<key>rapidSegment</key>
+	<string>persistentConverter</string>
+	<key>skirtFormat</key>
+	<string>canBuildExpanded</string>
+	<key>soundCoord</key>
+	<string>substantialSample</string>
+	<key>taskSaturation</key>
+	<string>operationlinker</string>
+	<key>tickercount</key>
+	<string>disabledCheckbox</string>
+	<key>utildirection</key>
+	<string>pushAnchor</string>
+</dict>
+</plist>

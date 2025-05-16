@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioShape</key>
+	<string>yieldcell</string>
+	<key>cellshade</key>
+	<string>layoutSizedBox</string>
+	<key>channelsrange</key>
+	<string>navigateError</string>
+	<key>customPoint</key>
+	<string>positionForm</string>
+	<key>descriptorAppearance</key>
+	<string>offsetshape</string>
+	<key>originalDelivery</key>
+	<string>persistentJoiner</string>
+	<key>rebuildcell</key>
+	<string>onmemberchanged</string>
+	<key>scrollablerepositorystyle</key>
+	<string>detachArithmetic</string>
+	<key>tensorSpecifier</key>
+	<string>shouldUpdateExpanded</string>
+</dict>
+</plist>

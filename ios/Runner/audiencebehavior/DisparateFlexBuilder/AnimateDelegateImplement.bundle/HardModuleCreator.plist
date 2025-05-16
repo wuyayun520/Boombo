@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowphasefeedback</key>
+	<string>sophisticatedGroup</string>
+	<key>greatStore</key>
+	<string>logColor</string>
+	<key>keyAspect</key>
+	<string>pinchableTolerance</string>
+	<key>statelessSpecifier</key>
+	<string>notifyAnchor</string>
+	<key>synchronousCustomPaint</key>
+	<string>advancedPosition</string>
+</dict>
+</plist>

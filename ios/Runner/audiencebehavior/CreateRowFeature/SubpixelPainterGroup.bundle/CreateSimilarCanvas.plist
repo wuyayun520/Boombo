@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDelegate</key>
+	<string>onroletap</string>
+	<key>consultativeImpact</key>
+	<string>oldindicatorcount</string>
+	<key>infoLeft</key>
+	<string>profileVariable</string>
+	<key>persistentPageView</key>
+	<string>writeEvent</string>
+	<key>queuetolerance</key>
+	<string>insteadCallback</string>
+	<key>shouldPopDrawer</key>
+	<string>connectPriority</string>
+	<key>shouldShowKernel</key>
+	<string>staticZone</string>
+</dict>
+</plist>

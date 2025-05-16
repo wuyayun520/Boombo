@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigationTheme</key>
+	<string>resourceshade</string>
+	<key>receiveconstraint</key>
+	<string>crucialSink</string>
+	<key>shouldFinishDimension</key>
+	<string>factoryLayer</string>
+	<key>shouldpushheap</key>
+	<string>shouldTrainColumn</string>
+	<key>subscriptionscalability</key>
+	<string>loopstrategyrotation</string>
+	<key>vectorOrigin</key>
+	<string>canUnmountMap</string>
+</dict>
+</plist>

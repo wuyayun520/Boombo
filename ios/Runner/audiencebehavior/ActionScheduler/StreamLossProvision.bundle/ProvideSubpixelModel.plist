@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengevalidation</key>
+	<string>dedicatedDecoration</string>
+	<key>clonetask</key>
+	<string>navigateTabBar</string>
+	<key>matrixvariabletransparency</key>
+	<string>servicetaxonomy</string>
+	<key>nextDescriptor</key>
+	<string>canUnbindIcon</string>
+	<key>shouldUnbindResource</key>
+	<string>inactiveSegue</string>
+	<key>shoulddispatchplayback</key>
+	<string>customPopup</string>
+	<key>unsortedDelegate</key>
+	<string>reducerdensity</string>
+</dict>
+</plist>

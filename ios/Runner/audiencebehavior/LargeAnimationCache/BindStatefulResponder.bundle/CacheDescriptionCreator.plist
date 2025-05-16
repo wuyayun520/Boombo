@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisvisitorhue</key>
+	<string>temporaryNode</string>
+	<key>delegatemargin</key>
+	<string>keyIntensity</string>
+	<key>equalizationStyle</key>
+	<string>regulateTopic</string>
+	<key>gemTint</key>
+	<string>reduceLocalization</string>
+	<key>navigationtimeline</key>
+	<string>mainWidget</string>
+	<key>pickerIndex</key>
+	<string>bundleTimer</string>
+	<key>pivotalDrawer</key>
+	<string>publicIntensity</string>
+	<key>tappableSpot</key>
+	<string>shouldShowMonster</string>
+	<key>transformerplatformresponse</key>
+	<string>canDispatchConsumer</string>
+	<key>wrapperVisible</key>
+	<string>declarativeInjection</string>
+</dict>
+</plist>

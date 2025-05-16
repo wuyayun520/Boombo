@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatormend</key>
+	<string>isolateSystem</string>
+	<key>greatContrast</key>
+	<string>addProgressBar</string>
+	<key>ismomentum</key>
+	<string>canFinishBatch</string>
+	<key>optionShade</key>
+	<string>persistentCluster</string>
+	<key>prismaticNavigator</key>
+	<string>deserializeSink</string>
+</dict>
+</plist>

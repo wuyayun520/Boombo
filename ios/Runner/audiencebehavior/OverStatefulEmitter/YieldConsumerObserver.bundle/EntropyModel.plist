@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedlinker</key>
+	<string>petMargin</string>
+	<key>challengeasset</key>
+	<string>modalPosition</string>
+	<key>compositionalTriangles</key>
+	<string>selectorRotation</string>
+	<key>coordinatorshape</key>
+	<string>writeState</string>
+	<key>dataMargin</key>
+	<string>offsetscroll</string>
+	<key>delicateHero</key>
+	<string>descriptorFlags</string>
+	<key>segmentBottom</key>
+	<string>spritePrototype</string>
+	<key>shouldReplaceClipper</key>
+	<string>timerKind</string>
+	<key>subtlePlayback</key>
+	<string>filterStyle</string>
+	<key>sustainablespot</key>
+	<string>normalProgressBar</string>
+</dict>
+</plist>

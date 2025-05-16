@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGrid</key>
+	<string>clipperObserver</string>
+	<key>gridCoord</key>
+	<string>shouldShowCell</string>
+	<key>mainFinder</key>
+	<string>shouldRebuildLogarithm</string>
+	<key>oncontrollertap</key>
+	<string>histogramLevel</string>
+	<key>processorSpacing</key>
+	<string>canObserveReference</string>
+	<key>rapidTopic</key>
+	<string>sortedHash</string>
+	<key>usedBaseline</key>
+	<string>canRouteDescriptor</string>
+</dict>
+</plist>

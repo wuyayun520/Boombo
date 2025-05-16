@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTechnique</key>
+	<string>canLoadGridView</string>
+	<key>directTrigger</key>
+	<string>autohero</string>
+	<key>erroractionmode</key>
+	<string>shouldShowGram</string>
+	<key>listenerinsidefacade</key>
+	<string>canUnmountedNavigator</string>
+	<key>momentumposition</key>
+	<string>robustMend</string>
+	<key>onskirtchanged</key>
+	<string>shouldPaintSegue</string>
+	<key>resultStyle</key>
+	<string>progressbarLeft</string>
+	<key>shouldListenBrush</key>
+	<string>keepBuilder</string>
+	<key>shouldShowLayout</key>
+	<string>canTransitionBehavior</string>
+</dict>
+</plist>

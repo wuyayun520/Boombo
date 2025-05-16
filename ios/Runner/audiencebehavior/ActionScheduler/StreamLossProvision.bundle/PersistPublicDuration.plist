@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderRight</key>
+	<string>shouldKeepModal</string>
+	<key>resilienttransitionshade</key>
+	<string>tweenChain</string>
+	<key>shouldDisposeCompletion</key>
+	<string>invisibleDuration</string>
+	<key>shouldTransitionHeap</key>
+	<string>commonIntensity</string>
+	<key>significantListener</key>
+	<string>restartNib</string>
+</dict>
+</plist>

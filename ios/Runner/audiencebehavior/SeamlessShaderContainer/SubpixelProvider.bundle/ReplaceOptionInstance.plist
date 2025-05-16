@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultstep</key>
+	<string>shouldpopnavigator</string>
+	<key>denseBrush</key>
+	<string>ephemeralAnimatedContainer</string>
+	<key>immutableemitter</key>
+	<string>sophisticatedVertex</string>
+	<key>registerwidget</key>
+	<string>activeScreen</string>
+	<key>stateBorder</key>
+	<string>transitionWidget</string>
+	<key>widgetFlags</key>
+	<string>shouldCacheSwitch</string>
+</dict>
+</plist>

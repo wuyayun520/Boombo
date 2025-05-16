@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerInteraction</key>
+	<string>oncelltap</string>
+	<key>controllerinsidestyle</key>
+	<string>shouldLayoutPlayback</string>
+	<key>dedicatedStrength</key>
+	<string>certificateDistance</string>
+	<key>interactiveOffset</key>
+	<string>frameTask</string>
+	<key>intermediateRectangle</key>
+	<string>shouldSkipPromise</string>
+	<key>missedSpot</key>
+	<string>animateGestureDetector</string>
+	<key>onmaterialtap</key>
+	<string>greatInterpolation</string>
+	<key>protecteddecorationtension</key>
+	<string>publishChallenge</string>
+	<key>shouldFormatAspectRatio</key>
+	<string>readRow</string>
+	<key>shouldNotifyCollection</key>
+	<string>canTransitionMedia</string>
+</dict>
+</plist>

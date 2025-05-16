@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basefrequency</key>
+	<string>restoreTopic</string>
+	<key>dataFeedback</key>
+	<string>primaryAxis</string>
+	<key>deliverySkewY</key>
+	<string>otherCertificate</string>
+	<key>disclaimerType</key>
+	<string>resourceRotation</string>
+	<key>displayableentity</key>
+	<string>factoryorientation</string>
+	<key>globalTween</key>
+	<string>backwardLoader</string>
+	<key>prismaticLifecycle</key>
+	<string>canInflateTask</string>
+	<key>scrollcolor</key>
+	<string>shouldrestartcycle</string>
+</dict>
+</plist>

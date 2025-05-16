@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>otherTabBar</key>
+	<string>sensorContrast</string>
+	<key>permutationDepth</key>
+	<string>shouldStopSegue</string>
+	<key>pivotalInteger</key>
+	<string>integrityBound</string>
+	<key>routernumberinteraction</key>
+	<string>shouldRouteText</string>
+	<key>sanitizedescription</key>
+	<string>canFetchBase</string>
+	<key>shouldBuildShader</key>
+	<string>handlerStatus</string>
+	<key>unmountdecoration</key>
+	<string>mobileFilter</string>
+	<key>usecaseOrigin</key>
+	<string>canDismissDrawer</string>
+</dict>
+</plist>

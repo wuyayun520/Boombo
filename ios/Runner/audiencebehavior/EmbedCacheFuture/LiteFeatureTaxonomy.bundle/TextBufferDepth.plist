@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventtaxonomy</key>
+	<string>borderForm</string>
+	<key>keySound</key>
+	<string>canProcessTransition</string>
+	<key>lazycachevisibility</key>
+	<string>compositionalLabel</string>
+	<key>materialUtil</key>
+	<string>agilePreview</string>
+	<key>orchestratecontainer</key>
+	<string>quantizerSprite</string>
+	<key>signatureStyle</key>
+	<string>variantwithfacade</string>
+	<key>tensorTransition</key>
+	<string>mediaName</string>
+	<key>triggerAcceleration</key>
+	<string>shouldDismissTabBar</string>
+	<key>unactivatedUnary</key>
+	<string>retainedFragment</string>
+</dict>
+</plist>

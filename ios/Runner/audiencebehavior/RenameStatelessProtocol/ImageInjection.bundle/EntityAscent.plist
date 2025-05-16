@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStyle</key>
+	<string>tweakSize</string>
+	<key>consultativeInterpolation</key>
+	<string>shouldYieldScaffold</string>
+	<key>discardedDuration</key>
+	<string>shouldEncodeBaseline</string>
+	<key>responsiveArithmetic</key>
+	<string>seamlessPrecision</string>
+	<key>shouldRebuildBatch</key>
+	<string>mountSpot</string>
+	<key>significantBorder</key>
+	<string>deserializeTitle</string>
+	<key>tabviewoperation</key>
+	<string>mediaqueryMethod</string>
+	<key>unmountanimation</key>
+	<string>canFinishChannels</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableUsage</key>
+	<string>chapterAcceleration</string>
+	<key>effectDistance</key>
+	<string>prevSensor</string>
+	<key>firstLocalization</key>
+	<string>tangentRate</string>
+	<key>injectionevolution</key>
+	<string>canProcessSegue</string>
+	<key>permanentFilter</key>
+	<string>shouldUnmountedMaster</string>
+	<key>playbackFlags</key>
+	<string>imperativeAnalyzer</string>
+	<key>poolunary</key>
+	<string>introspectEntity</string>
+	<key>throughputTension</key>
+	<string>cardValue</string>
+</dict>
+</plist>

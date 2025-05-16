@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalScalability</key>
+	<string>tappableChecklist</string>
+	<key>inkwelllocalization</key>
+	<string>canProcessInterpolation</string>
+	<key>numericalrect</key>
+	<string>nextAppBar</string>
+	<key>overrideentity</key>
+	<string>lazyButton</string>
+	<key>shouldEndRadio</key>
+	<string>sharedSubpixel</string>
+	<key>sorterskewx</key>
+	<string>statelessSemantics</string>
+	<key>tensorSink</key>
+	<string>significantmaterial</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildservice</key>
+	<string>denseCustomPaint</string>
+	<key>channelTop</key>
+	<string>sliderFormat</string>
+	<key>diffableInterface</key>
+	<string>appendInteractor</string>
+	<key>materializerMargin</key>
+	<string>robustAction</string>
+	<key>multiMaterializer</key>
+	<string>originalCompleter</string>
+	<key>shouldDecodeCard</key>
+	<string>sortedTime</string>
+	<key>shouldYieldPlate</key>
+	<string>canStopBorder</string>
+	<key>significantmaterialcenter</key>
+	<string>pivotalLinker</string>
+	<key>sortedRichText</key>
+	<string>decorationproxysize</string>
+	<key>vectorDirection</key>
+	<string>nextDescent</string>
+</dict>
+</plist>

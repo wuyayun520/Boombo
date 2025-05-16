@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlecoordinator</key>
+	<string>granularAccessory</string>
+	<key>processstore</key>
+	<string>concatenateSprite</string>
+	<key>releasemenu</key>
+	<string>canDisposeMediaQuery</string>
+	<key>resolverLeft</key>
+	<string>equivalentInset</string>
+	<key>shouldUnmountedAlert</key>
+	<string>activecollection</string>
+	<key>tentativeSpeed</key>
+	<string>navigatormapper</string>
+	<key>usedaccessorydelay</key>
+	<string>quitRow</string>
+</dict>
+</plist>

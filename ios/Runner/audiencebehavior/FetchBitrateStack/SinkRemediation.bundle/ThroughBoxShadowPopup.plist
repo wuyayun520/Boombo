@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTint</key>
+	<string>lockTopic</string>
+	<key>backwardReceiver</key>
+	<string>interactiveResilience</string>
+	<key>commonRecursion</key>
+	<string>semanticInkWell</string>
+	<key>customizedTernary</key>
+	<string>hierarchicalBullet</string>
+	<key>explicitfeaturespeed</key>
+	<string>chapterForm</string>
+	<key>handlecapacities</key>
+	<string>navigatorstyle</string>
+	<key>mutableContainer</key>
+	<string>listenerOffset</string>
+	<key>resizableZone</key>
+	<string>annotateController</string>
+	<key>responsiveController</key>
+	<string>loadNib</string>
+</dict>
+</plist>

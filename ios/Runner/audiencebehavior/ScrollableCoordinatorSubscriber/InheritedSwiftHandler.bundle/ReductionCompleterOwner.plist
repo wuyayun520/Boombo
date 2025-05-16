@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateScalability</key>
+	<string>basicBitrate</string>
+	<key>enabledBaseline</key>
+	<string>currentAsset</string>
+	<key>interfacemodel</key>
+	<string>draggableAsync</string>
+	<key>materializerstyle</key>
+	<string>sophisticatedFrame</string>
+	<key>retainedScenario</key>
+	<string>activitykindskewy</string>
+	<key>shouldFormatAspect</key>
+	<string>shouldNavigateTangent</string>
+	<key>steptypecount</key>
+	<string>enabledInformation</string>
+	<key>subsequentResource</key>
+	<string>directlyDocument</string>
+</dict>
+</plist>

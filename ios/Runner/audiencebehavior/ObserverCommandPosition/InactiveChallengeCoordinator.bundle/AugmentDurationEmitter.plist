@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeChapter</key>
+	<string>canStreamGraphic</string>
+	<key>diffablesingleton</key>
+	<string>paddingFeedback</string>
+	<key>originalListView</key>
+	<string>presentCard</string>
+	<key>resilientTolerance</key>
+	<string>contrastFormat</string>
+	<key>searchtabbar</key>
+	<string>sinkFeedback</string>
+	<key>shouldPaintAnimation</key>
+	<string>singleOperation</string>
+</dict>
+</plist>

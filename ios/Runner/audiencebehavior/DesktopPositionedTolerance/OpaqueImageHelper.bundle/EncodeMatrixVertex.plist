@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionFuture</key>
+	<string>anchorevent</string>
+	<key>ascentmode</key>
+	<string>canRenderBuilder</string>
+	<key>dedicatedModal</key>
+	<string>resizableSymbol</string>
+	<key>dynamicSizedBox</key>
+	<string>cupertinoMediaQuery</string>
+	<key>extensionSpeed</key>
+	<string>columnAcceleration</string>
+	<key>rectState</key>
+	<string>directlycurve</string>
+	<key>shouldFetchNotification</key>
+	<string>shouldPaintMusic</string>
+</dict>
+</plist>

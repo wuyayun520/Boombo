@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formatTension</key>
+	<string>modalCycle</string>
+	<key>logBrightness</key>
+	<string>protocolreducer</string>
+	<key>reactiveChannel</key>
+	<string>enabledNode</string>
+	<key>rotatetexture</key>
+	<string>discardedProcessor</string>
+	<key>uniformFinder</key>
+	<string>dropoutCurve</string>
+</dict>
+</plist>

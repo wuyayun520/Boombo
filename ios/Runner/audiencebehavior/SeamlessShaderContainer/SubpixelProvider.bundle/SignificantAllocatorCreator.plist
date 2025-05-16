@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorframe</key>
+	<string>evaluationFrequency</string>
+	<key>primarypositionvelocity</key>
+	<string>ternaryFunction</string>
+	<key>scrollableTransition</key>
+	<string>resetGraph</string>
+	<key>singletonmatrix</key>
+	<string>immediateDetail</string>
+	<key>visibleFeature</key>
+	<string>fixedAlignment</string>
+</dict>
+</plist>

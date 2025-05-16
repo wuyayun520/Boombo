@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTheme</key>
+	<string>quaternionLeft</string>
+	<key>geometricLatency</key>
+	<string>polygonCenter</string>
+	<key>immediateMobile</key>
+	<string>shouldunmountedimage</string>
+	<key>liteintensitypressure</key>
+	<string>lastSwift</string>
+	<key>localLoader</key>
+	<string>canSubscribeCursor</string>
+	<key>pivotalPageView</key>
+	<string>descentHue</string>
+	<key>shouldEndRow</key>
+	<string>optimizerTag</string>
+	<key>shouldInflateCard</key>
+	<string>alphaposition</string>
+	<key>tweakMomentum</key>
+	<string>streamFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasTechnique</key>
+	<string>usageintegrity</string>
+	<key>optimizerSkewY</key>
+	<string>originalgridrate</string>
+	<key>shouldParseGrayscale</key>
+	<string>dispatcherTheme</string>
+	<key>shouldSerializeMusic</key>
+	<string>parseAsset</string>
+	<key>shouldYieldMaterial</key>
+	<string>animateReduction</string>
+	<key>statelessScroll</key>
+	<string>notifyChallenge</string>
+	<key>unsortedScope</key>
+	<string>allocatePopup</string>
+</dict>
+</plist>

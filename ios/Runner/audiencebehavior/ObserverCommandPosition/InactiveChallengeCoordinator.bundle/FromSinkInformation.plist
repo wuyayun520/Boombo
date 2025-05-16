@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyContraction</key>
+	<string>navigatorParam</string>
+	<key>encodebloc</key>
+	<string>canCreateCursor</string>
+	<key>latencyStyle</key>
+	<string>frameFormat</string>
+	<key>mediocreLifecycle</key>
+	<string>cleanProgressBar</string>
+	<key>onstatefulchanged</key>
+	<string>renameException</string>
+	<key>protectedAscent</key>
+	<string>sessionduringproxy</string>
+	<key>sizedboxTop</key>
+	<string>rectProxy</string>
+	<key>uniqueResource</key>
+	<string>significantLog</string>
+</dict>
+</plist>

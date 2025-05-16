@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerEvaluation</key>
+	<string>parseModal</string>
+	<key>indicatorIndex</key>
+	<string>brushObserver</string>
+	<key>playbackTint</key>
+	<string>semanticElasticity</string>
+	<key>provideprojection</key>
+	<string>statefulHue</string>
+	<key>shouldPersistNib</key>
+	<string>strokePosition</string>
+	<key>smartScalability</key>
+	<string>updateMonster</string>
+	<key>widgetbesideaction</key>
+	<string>popupinfo</string>
+</dict>
+</plist>

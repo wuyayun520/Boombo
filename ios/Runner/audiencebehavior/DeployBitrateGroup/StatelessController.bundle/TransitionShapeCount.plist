@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAcceleration</key>
+	<string>revisitTimer</string>
+	<key>borderOrigin</key>
+	<string>shouldFinishOptimizer</string>
+	<key>fusedmethod</key>
+	<string>geometricConstant</string>
+	<key>invisibleScroll</key>
+	<string>canDetachSignature</string>
+	<key>pinchableCollection</key>
+	<string>clusterAcceleration</string>
+	<key>semanticStrength</key>
+	<string>brushVelocity</string>
+	<key>shouldBuildMobile</key>
+	<string>addTitle</string>
+	<key>shouldEncodePromise</key>
+	<string>animatemetadata</string>
+</dict>
+</plist>

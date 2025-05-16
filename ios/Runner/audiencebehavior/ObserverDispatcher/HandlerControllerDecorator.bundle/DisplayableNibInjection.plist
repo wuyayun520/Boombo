@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioOrientation</key>
+	<string>graphinterval</string>
+	<key>crucialOverlay</key>
+	<string>cartesianEquipment</string>
+	<key>disabledMobile</key>
+	<string>gridviewsplitter</string>
+	<key>explicitStoryboard</key>
+	<string>shouldRebuildSpecifier</string>
+	<key>subscriptionenvironmentbottom</key>
+	<string>canParseProjection</string>
+	<key>synchronizeresult</key>
+	<string>explicitDisclaimer</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveUsage</key>
+	<string>disconnectDependency</string>
+	<key>functionalDescriptor</key>
+	<string>temporaryPoint</string>
+	<key>shouldFinishBrush</key>
+	<string>normLevel</string>
+	<key>shouldPrepareView</key>
+	<string>consumeFeature</string>
+	<key>shouldShowPriority</key>
+	<string>impressionColor</string>
+	<key>shouldcontinuesample</key>
+	<string>canNavigateProvider</string>
+	<key>toolbound</key>
+	<string>inflatePriority</string>
+	<key>zoneBorder</key>
+	<string>shouldStreamTextField</string>
+</dict>
+</plist>

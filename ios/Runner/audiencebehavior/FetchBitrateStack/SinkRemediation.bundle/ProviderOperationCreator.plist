@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hascustompaint</key>
+	<string>canDisposeBase</string>
+	<key>introspectchapter</key>
+	<string>animatedMaterial</string>
+	<key>intuitiveRectangle</key>
+	<string>destroyStore</string>
+	<key>observerpublisher</key>
+	<string>hierarchicalMomentum</string>
+	<key>shouldParseGradient</key>
+	<string>canvasDuration</string>
+	<key>spriteMomentum</key>
+	<string>shouldObserveRichText</string>
+	<key>stringifymodel</key>
+	<string>cycleVisitor</string>
+</dict>
+</plist>

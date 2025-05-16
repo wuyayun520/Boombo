@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoCount</key>
+	<string>typicalmission</string>
+	<key>disparateCache</key>
+	<string>lazyvariant</string>
+	<key>isolateFeedback</key>
+	<string>routevelocity</string>
+	<key>visibleScroll</key>
+	<string>tensorProfile</string>
+</dict>
+</plist>

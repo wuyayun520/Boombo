@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseScreen</key>
+	<string>disconnectmenu</string>
+	<key>inheritedsink</key>
+	<string>eagerData</string>
+	<key>shouldMountScroll</key>
+	<string>drawerMethod</string>
+	<key>shouldstartimage</key>
+	<string>modulusSkewY</string>
+	<key>sliderformmode</key>
+	<string>defaultMonster</string>
+	<key>staticlayout</key>
+	<string>substantialSelector</string>
+	<key>subtleInteractor</key>
+	<string>relationalinterface</string>
+	<key>uniformsizetheme</key>
+	<string>reconcileHandler</string>
+</dict>
+</plist>

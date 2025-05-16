@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeArchitecture</key>
+	<string>ignoredManager</string>
+	<key>aspectduration</key>
+	<string>canObserveImage</string>
+	<key>displayableProject</key>
+	<string>automusic</string>
+	<key>linkerScale</key>
+	<string>graphSaturation</string>
+	<key>marginviastructure</key>
+	<string>reducerDecorator</string>
+	<key>matrixVisibility</key>
+	<string>switchCount</string>
+	<key>stackalongvar</key>
+	<string>synchronousPosition</string>
+</dict>
+</plist>

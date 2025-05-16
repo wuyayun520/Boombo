@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustgram</key>
+	<string>semanticTrajectory</string>
+	<key>basethroughtype</key>
+	<string>finishBase</string>
+	<key>descriptionvalidation</key>
+	<string>keySprite</string>
+	<key>evaluationInterval</key>
+	<string>consultativeColor</string>
+	<key>interactorinsideaction</key>
+	<string>channelstask</string>
+	<key>persistentContainer</key>
+	<string>shouldAttachEqualization</string>
+	<key>reductionfromvar</key>
+	<string>occasionResponse</string>
+	<key>splitterValidation</key>
+	<string>fixedcapacity</string>
+</dict>
+</plist>

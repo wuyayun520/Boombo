@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeScheduler</key>
+	<string>disposepoint</string>
+	<key>extensionnavigator</key>
+	<string>requestFeedback</string>
+	<key>polyfillVisible</key>
+	<string>immediateHash</string>
+	<key>prevTaxonomy</key>
+	<string>radiusOrigin</string>
+	<key>tabviewAlignment</key>
+	<string>advancedNorm</string>
+	<key>tangentVelocity</key>
+	<string>eagerExtension</string>
+</dict>
+</plist>

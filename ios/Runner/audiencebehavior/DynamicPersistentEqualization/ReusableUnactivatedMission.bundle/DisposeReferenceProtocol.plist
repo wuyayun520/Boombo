@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonSize</key>
+	<string>moveFactory</string>
+	<key>hyperbolicFactory</key>
+	<string>shouldRouteCupertino</string>
+	<key>responsedispatcher</key>
+	<string>constraintBehavior</string>
+	<key>storageduration</key>
+	<string>shouldRouteChallenge</string>
+	<key>transformerstateborder</key>
+	<string>oldSkirt</string>
+</dict>
+</plist>

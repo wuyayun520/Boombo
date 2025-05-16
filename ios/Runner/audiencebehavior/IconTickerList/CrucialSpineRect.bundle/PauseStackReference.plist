@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarMargin</key>
+	<string>shouldSerializeThread</string>
+	<key>controllerTag</key>
+	<string>textfieldsingletonlocation</string>
+	<key>delicateFlex</key>
+	<string>gridviewTag</string>
+	<key>neweststorageborder</key>
+	<string>instructionOpacity</string>
+	<key>shouldProcessWorkflow</key>
+	<string>tabviewconsumer</string>
+	<key>storagevelocity</key>
+	<string>sharedStep</string>
+</dict>
+</plist>

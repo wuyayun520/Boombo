@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emittouch</key>
+	<string>currentprofile</string>
+	<key>originalCustomPaint</key>
+	<string>trainInstruction</string>
+	<key>resilienttextfield</key>
+	<string>customBehavior</string>
+	<key>screenBehavior</key>
+	<string>backwardGram</string>
+	<key>spineOffset</key>
+	<string>canvasValue</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlestateful</key>
+	<string>loadinteger</string>
+	<key>inactiveCollection</key>
+	<string>schemaDepth</string>
+	<key>isdescriptor</key>
+	<string>clearTitle</string>
+	<key>layoutmatrix</key>
+	<string>firstInstruction</string>
+	<key>lazyObject</key>
+	<string>geometricTransformer</string>
+	<key>materialTimeline</key>
+	<string>shouldLoadOperation</string>
+	<key>setstatetexture</key>
+	<string>shouldListenFragment</string>
+	<key>shouldCancelCoordinator</key>
+	<string>shouldConnectEntropy</string>
+	<key>shouldDeserializeAlert</key>
+	<string>popGroup</string>
+</dict>
+</plist>

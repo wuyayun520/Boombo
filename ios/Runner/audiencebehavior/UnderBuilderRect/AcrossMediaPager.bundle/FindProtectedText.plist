@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureelement</key>
+	<string>completionPrototype</string>
+	<key>descriptiontentative</key>
+	<string>rangeStatus</string>
+	<key>sequentialReference</key>
+	<string>saveMaster</string>
+	<key>slashimpact</key>
+	<string>trajectoryLeft</string>
+	<key>streamSkewX</key>
+	<string>shouldResumeDelegate</string>
+</dict>
+</plist>

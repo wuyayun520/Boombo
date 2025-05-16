@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAudio</key>
+	<string>deserializeIsolate</string>
+	<key>itemSaturation</key>
+	<string>dedicatedUsage</string>
+	<key>materialcombiner</key>
+	<string>shouldStreamCharacter</string>
+	<key>rapidIcon</key>
+	<string>registerAlignment</string>
+	<key>routevolume</key>
+	<string>canProcessProject</string>
+	<key>unscheduleframe</key>
+	<string>dimensionVisitor</string>
+</dict>
+</plist>

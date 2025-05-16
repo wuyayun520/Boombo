@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardoffset</key>
+	<string>semanticConstant</string>
+	<key>firstSine</key>
+	<string>kernelscale</string>
+	<key>globallayeropacity</key>
+	<string>independentoverlay</string>
+	<key>numericalUtil</key>
+	<string>tableOperation</string>
+	<key>routeskewy</key>
+	<string>shouldPresentMaster</string>
+	<key>shouldRouteProvider</key>
+	<string>capsuleOffset</string>
+	<key>shouldreplaceequipment</key>
+	<string>uniqueStream</string>
+	<key>shouldtrainbase</key>
+	<string>commonpetpressure</string>
+	<key>spotBound</key>
+	<string>finderRight</string>
+</dict>
+</plist>

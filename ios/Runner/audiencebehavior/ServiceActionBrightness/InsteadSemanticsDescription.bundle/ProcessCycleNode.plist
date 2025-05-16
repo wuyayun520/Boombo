@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerFrame</key>
+	<string>canYieldMaster</string>
+	<key>intuitiveMaterializer</key>
+	<string>canDisconnectGram</string>
+	<key>nextGrayscale</key>
+	<string>assetmargin</string>
+	<key>persistentRestriction</key>
+	<string>hasnavigator</string>
+	<key>slashsaturation</key>
+	<string>canObserveAspectRatio</string>
+	<key>sortedCallback</key>
+	<string>compositionalRepository</string>
+</dict>
+</plist>

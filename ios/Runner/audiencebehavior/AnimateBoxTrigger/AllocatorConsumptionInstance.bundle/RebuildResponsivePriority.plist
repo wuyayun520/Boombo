@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbardespitecycle</key>
+	<string>activeUnary</string>
+	<key>desktopEmitter</key>
+	<string>canPushNavigator</string>
+	<key>dynamicElasticity</key>
+	<string>differentiateTicker</string>
+	<key>geometricConverter</key>
+	<string>selectorPressure</string>
+	<key>radionearparam</key>
+	<string>sensorinsidephase</string>
+	<key>sequentialFragments</key>
+	<string>mechanismShape</string>
+	<key>shouldLoadMediaQuery</key>
+	<string>integerOffset</string>
+</dict>
+</plist>

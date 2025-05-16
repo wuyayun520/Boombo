@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDialogs</key>
+	<string>mixinLocalization</string>
+	<key>distinctionBound</key>
+	<string>nativeNib</string>
+	<key>intermediatePlate</key>
+	<string>labelParam</string>
+	<key>retainedNotification</key>
+	<string>persistExponent</string>
+	<key>rolePressure</key>
+	<string>graphicoperationtag</string>
+</dict>
+</plist>

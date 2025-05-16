@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoThroughput</key>
+	<string>themeSystem</string>
+	<key>savewidget</key>
+	<string>smartNavigator</string>
+	<key>shouldParseGraphic</key>
+	<string>usedTime</string>
+	<key>shouldmountedcaption</key>
+	<string>storeShape</string>
+</dict>
+</plist>

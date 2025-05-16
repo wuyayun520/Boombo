@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeGridView</key>
+	<string>renameRow</string>
+	<key>diversifiedCubit</key>
+	<string>momentumEdge</string>
+	<key>responsiveCombiner</key>
+	<string>nextCluster</string>
+	<key>shouldEndRow</key>
+	<string>widgetselector</string>
+	<key>shouldresumebase</key>
+	<string>observerstatus</string>
+</dict>
+</plist>

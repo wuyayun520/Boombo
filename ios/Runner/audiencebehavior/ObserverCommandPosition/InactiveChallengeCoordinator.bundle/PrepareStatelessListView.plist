@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAlignment</key>
+	<string>shouldShowExpanded</string>
+	<key>inheritedRadio</key>
+	<string>movementAppearance</string>
+	<key>menuSkewY</key>
+	<string>stackFacade</string>
+	<key>polygonDistance</key>
+	<string>canFetchScreen</string>
+	<key>refreshvector</key>
+	<string>animatedcontainerradius</string>
+	<key>subtleThread</key>
+	<string>overrideIsolate</string>
+</dict>
+</plist>

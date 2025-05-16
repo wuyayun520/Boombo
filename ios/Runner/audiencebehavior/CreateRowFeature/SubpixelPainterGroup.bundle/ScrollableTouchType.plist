@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediumtexture</key>
+	<string>shouldKeepCanvas</string>
+	<key>multiTool</key>
+	<string>initializeTask</string>
+	<key>onvarianttap</key>
+	<string>pushBehavior</string>
+	<key>resizableMenu</key>
+	<string>easyMetrics</string>
+	<key>routeanimatedcontainer</key>
+	<string>notifierDuration</string>
+	<key>shouldendprovider</key>
+	<string>iscursor</string>
+	<key>subscribeprecision</key>
+	<string>multiHash</string>
+</dict>
+</plist>

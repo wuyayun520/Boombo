@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTopic</key>
+	<string>hierarchicalImpact</string>
+	<key>dedicatedSink</key>
+	<string>calculateBuilder</string>
+	<key>inheritedInterface</key>
+	<string>listenparticle</string>
+	<key>localNavigation</key>
+	<string>workflowAlignment</string>
+	<key>pivotalTouch</key>
+	<string>routeborder</string>
+	<key>sensorparticle</key>
+	<string>resilientGridView</string>
+	<key>shouldValidateInterpolation</key>
+	<string>shouldPushMaster</string>
+	<key>spinetypebehavior</key>
+	<string>canUnmountedIcon</string>
+</dict>
+</plist>

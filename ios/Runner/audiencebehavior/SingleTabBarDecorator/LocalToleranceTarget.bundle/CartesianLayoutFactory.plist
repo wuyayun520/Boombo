@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateviaadapter</key>
+	<string>introspectPosition</string>
+	<key>curvequaternion</key>
+	<string>difficultVertex</string>
+	<key>customizedDelegate</key>
+	<string>canConnectTextField</string>
+	<key>denseModal</key>
+	<string>tabviewCommand</string>
+	<key>errorSaturation</key>
+	<string>blocComposite</string>
+	<key>firstEquipment</key>
+	<string>animatelayout</string>
+	<key>inheritednotification</key>
+	<string>priorMusic</string>
+	<key>shouldPresentBoxShadow</key>
+	<string>shouldCacheDrawer</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblelatency</key>
+	<string>canDetachVariant</string>
+	<key>explicitListener</key>
+	<string>canRoutePriority</string>
+	<key>gemShade</key>
+	<string>loopformskewx</string>
+	<key>keepbox</key>
+	<string>rapidEvaluation</string>
+	<key>masterRight</key>
+	<string>clusterTension</string>
+	<key>normwithvariable</key>
+	<string>canRenderContainer</string>
+	<key>relationalBinary</key>
+	<string>handlerow</string>
+	<key>statelessCoordinator</key>
+	<string>searchDecoration</string>
+	<key>variantPressure</key>
+	<string>subtleResponder</string>
+</dict>
+</plist>

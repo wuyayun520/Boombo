@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderPadding</key>
+	<string>hasAlpha</string>
+	<key>entropylikekind</key>
+	<string>observeTheme</string>
+	<key>extensionscroller</key>
+	<string>provisionHead</string>
+	<key>ignoredConstraint</key>
+	<string>disconnectScaffold</string>
+	<key>invisibletext</key>
+	<string>canReplaceBinary</string>
+	<key>modulemargin</key>
+	<string>inheritedImpression</string>
+	<key>pinchableProvider</key>
+	<string>subsequentConfidentiality</string>
+	<key>shouldLoadTabView</key>
+	<string>streamappearance</string>
+	<key>tentativeTheme</key>
+	<string>ternaryValidation</string>
+	<key>tickerPosition</key>
+	<string>escalateController</string>
+</dict>
+</plist>

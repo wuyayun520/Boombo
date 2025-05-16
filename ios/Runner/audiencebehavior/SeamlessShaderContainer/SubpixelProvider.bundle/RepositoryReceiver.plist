@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionStyle</key>
+	<string>injectHandler</string>
+	<key>disabledReduction</key>
+	<string>equalizationincludelayer</string>
+	<key>mediumhistogrambrightness</key>
+	<string>compositionalGesture</string>
+	<key>pageviewTop</key>
+	<string>prevBullet</string>
+	<key>permanentRenderer</key>
+	<string>canRouteHeap</string>
+</dict>
+</plist>

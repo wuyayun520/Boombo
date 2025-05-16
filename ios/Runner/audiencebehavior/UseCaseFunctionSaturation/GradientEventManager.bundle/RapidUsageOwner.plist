@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeNib</key>
+	<string>adaptivelistenerdensity</string>
+	<key>capsulerange</key>
+	<string>binaryMode</string>
+	<key>dropdownbuttonhead</key>
+	<string>visibleScreen</string>
+	<key>priorFormat</key>
+	<string>positionedutil</string>
+	<key>protocolmapper</key>
+	<string>menuTier</string>
+	<key>screeninset</key>
+	<string>memberPosition</string>
+	<key>shouldCacheCustomPaint</key>
+	<string>processSegment</string>
+	<key>smartSubscriber</key>
+	<string>disparateBitrate</string>
+</dict>
+</plist>

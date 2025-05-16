@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capturebuffer</key>
+	<string>shouldPublishBase</string>
+	<key>coordinatorbandwidth</key>
+	<string>observeBorder</string>
+	<key>eagerContrast</key>
+	<string>shouldCacheWidget</string>
+	<key>eagerSlash</key>
+	<string>mainModule</string>
+	<key>futurevisibility</key>
+	<string>mutableroute</string>
+	<key>resultanalyzer</key>
+	<string>eagerPrecision</string>
+	<key>shouldBindNib</key>
+	<string>diversifiedMatrix</string>
+	<key>sizedboxTag</key>
+	<string>shouldAnimateMedia</string>
+	<key>statelessCheckbox</key>
+	<string>ignoredWidget</string>
+</dict>
+</plist>

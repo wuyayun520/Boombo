@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityMode</key>
+	<string>sineSystem</string>
+	<key>directGesture</key>
+	<string>significantGate</string>
+	<key>grayscaleAppearance</key>
+	<string>disparateEquipment</string>
+	<key>hasProjection</key>
+	<string>workflowWork</string>
+	<key>infoStatus</key>
+	<string>canSkipInteger</string>
+	<key>remediationBorder</key>
+	<string>toolAlignment</string>
+</dict>
+</plist>

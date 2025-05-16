@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyFlags</key>
+	<string>liteScenario</string>
+	<key>constraintstyleacceleration</key>
+	<string>prepareAnchor</string>
+	<key>interpolationobserverresponse</key>
+	<string>tickertint</string>
+	<key>normalintegration</key>
+	<string>entityimpression</string>
+	<key>profileResponse</key>
+	<string>otherDependency</string>
+	<key>publicTextField</key>
+	<string>keyMerger</string>
+	<key>sequentialInterface</key>
+	<string>originalTernary</string>
+	<key>shouldDetachOverlay</key>
+	<string>associatedTaxonomy</string>
+	<key>usageBrightness</key>
+	<string>unactivatedchannelinteraction</string>
+</dict>
+</plist>

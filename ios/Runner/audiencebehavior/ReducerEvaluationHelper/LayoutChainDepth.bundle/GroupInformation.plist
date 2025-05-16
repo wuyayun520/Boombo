@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCache</key>
+	<string>liteaudio</string>
+	<key>criticalPager</key>
+	<string>registerQueue</string>
+	<key>greatmaprotation</key>
+	<string>publishUsage</string>
+	<key>persistentMediaQuery</key>
+	<string>permutationSpeed</string>
+	<key>staticCurve</key>
+	<string>canNotifyMonster</string>
+</dict>
+</plist>

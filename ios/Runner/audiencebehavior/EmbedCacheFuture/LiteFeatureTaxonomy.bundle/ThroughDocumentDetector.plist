@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeObject</key>
+	<string>responsivebloc</string>
+	<key>buildchannels</key>
+	<string>generateMetadata</string>
+	<key>customizedCoordinator</key>
+	<string>scrollableChapter</string>
+	<key>fixedBase</key>
+	<string>shouldSetStateSpecifier</string>
+	<key>lazybloc</key>
+	<string>framePressure</string>
+	<key>notifyactivity</key>
+	<string>infrastructureBottom</string>
+	<key>oldModal</key>
+	<string>accessibleAudio</string>
+	<key>shouldEmitOptimizer</key>
+	<string>customBandwidth</string>
+	<key>showtransition</key>
+	<string>reductiondrawer</string>
+	<key>usagestate</key>
+	<string>mainpermutation</string>
+</dict>
+</plist>

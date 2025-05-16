@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatEvent</key>
+	<string>stampSize</string>
+	<key>layershade</key>
+	<string>boxAdapter</string>
+	<key>losstentative</key>
+	<string>dropoutcertificate</string>
+	<key>recttransformer</key>
+	<string>widgethead</string>
+	<key>shouldKeepFlex</key>
+	<string>declarativeRoute</string>
+	<key>shouldShowRadio</key>
+	<string>canBuildMediaQuery</string>
+	<key>statelessCanvas</key>
+	<string>canDecodeColumn</string>
+</dict>
+</plist>

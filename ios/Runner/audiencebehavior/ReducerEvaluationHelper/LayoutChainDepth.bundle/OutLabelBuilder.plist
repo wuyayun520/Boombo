@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileModel</key>
+	<string>localAudio</string>
+	<key>configurationascontext</key>
+	<string>transposetable</string>
+	<key>frametop</key>
+	<string>positionedInterpreter</string>
+	<key>layerTag</key>
+	<string>uniqueTaxonomy</string>
+	<key>multiplicationmoderate</key>
+	<string>webException</string>
+	<key>platetime</key>
+	<string>shouldProcessStep</string>
+	<key>schemaInset</key>
+	<string>associatedlabel</string>
+	<key>topicTransparency</key>
+	<string>toolwrapper</string>
+</dict>
+</plist>

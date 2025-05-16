@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameSize</key>
+	<string>gestureInterpreter</string>
+	<key>normalRectangle</key>
+	<string>statelessChapter</string>
+	<key>normalTernary</key>
+	<string>alignmentlocation</string>
+	<key>reactiveBehavior</key>
+	<string>semanticIsolate</string>
+	<key>shouldCancelTabBar</key>
+	<string>particleAppearance</string>
+	<key>shouldFetchText</key>
+	<string>revisitimage</string>
+	<key>slashMode</key>
+	<string>canRouteSlider</string>
+	<key>sophisticatedGradient</key>
+	<string>normalDisclaimer</string>
+	<key>swiftFlags</key>
+	<string>autoconstraint</string>
+	<key>visitpopup</key>
+	<string>encodeMission</string>
+</dict>
+</plist>

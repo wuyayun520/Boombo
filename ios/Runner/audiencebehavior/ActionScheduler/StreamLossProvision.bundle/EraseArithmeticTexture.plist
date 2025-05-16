@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartfromtype</key>
+	<string>draggablequeueposition</string>
+	<key>equipmentjoiner</key>
+	<string>deferredMenu</string>
+	<key>offsetstatus</key>
+	<string>firstWidget</string>
+	<key>pivotalIntegration</key>
+	<string>poolRow</string>
+	<key>statelessReference</key>
+	<string>specifyCapacity</string>
+	<key>storelinker</key>
+	<string>inflateeffect</string>
+	<key>temporaryInteraction</key>
+	<string>synchronousProfile</string>
+	<key>transitiontint</key>
+	<string>retrieveSingleton</string>
+</dict>
+</plist>

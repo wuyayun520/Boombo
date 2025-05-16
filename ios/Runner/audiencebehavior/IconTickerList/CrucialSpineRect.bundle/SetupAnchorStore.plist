@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAspectRatio</key>
+	<string>cursorTask</string>
+	<key>dimensionShade</key>
+	<string>concreteConstraint</string>
+	<key>gradientDirection</key>
+	<string>loopvolume</string>
+	<key>materialMapper</key>
+	<string>concurrentLifecycle</string>
+	<key>overlayPadding</key>
+	<string>toolValidation</string>
+	<key>playbackInterval</key>
+	<string>inheritedEntity</string>
+	<key>stopprecision</key>
+	<string>calculateappbar</string>
+</dict>
+</plist>

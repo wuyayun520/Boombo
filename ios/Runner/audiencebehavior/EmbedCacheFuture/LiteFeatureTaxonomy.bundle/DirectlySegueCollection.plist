@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynccommandmargin</key>
+	<string>equipmentsensor</string>
+	<key>certificatevisible</key>
+	<string>webManager</string>
+	<key>shouldFormatComposition</key>
+	<string>observerbrightness</string>
+	<key>shouldSubscribeButton</key>
+	<string>missedInterpolation</string>
+	<key>singleWorkflow</key>
+	<string>permanentNavigator</string>
+	<key>stackCenter</key>
+	<string>shouldBuildImage</string>
+</dict>
+</plist>

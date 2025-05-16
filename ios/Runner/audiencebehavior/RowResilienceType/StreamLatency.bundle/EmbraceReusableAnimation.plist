@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryShape</key>
+	<string>labelMediator</string>
+	<key>consumelayout</key>
+	<string>shearNavigator</string>
+	<key>interpolationinterval</key>
+	<string>detectorSkewY</string>
+	<key>navigatorcompositeinteraction</key>
+	<string>petduringcycle</string>
+	<key>opaqueaccessorytint</key>
+	<string>canShowBullet</string>
+	<key>prevEntity</key>
+	<string>imperativeBloc</string>
+	<key>scaleCount</key>
+	<string>shouldRenderOptimizer</string>
+	<key>shouldCancelTabView</key>
+	<string>quitQueue</string>
+</dict>
+</plist>

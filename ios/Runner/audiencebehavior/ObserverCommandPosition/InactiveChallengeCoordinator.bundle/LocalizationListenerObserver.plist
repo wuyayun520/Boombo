@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isCube</key>
+	<string>hierarchicalprovider</string>
+	<key>scenepainter</key>
+	<string>canRenderFragment</string>
+	<key>setuptimer</key>
+	<string>keepTabBar</string>
+	<key>standaloneMechanism</key>
+	<string>canMountSwitch</string>
+	<key>tappableradiusmode</key>
+	<string>performDuration</string>
+</dict>
+</plist>

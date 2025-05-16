@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleEntity</key>
+	<string>lastCollection</string>
+	<key>deferredDescription</key>
+	<string>singletonAcceleration</string>
+	<key>entityandlevel</key>
+	<string>statelessTable</string>
+	<key>functionalTouch</key>
+	<string>encodeCurve</string>
+	<key>granularInformation</key>
+	<string>animatedcontainerVelocity</string>
+	<key>ignoredStroke</key>
+	<string>seamlessEfficiency</string>
+	<key>metadataphasescale</key>
+	<string>routeFlags</string>
+	<key>playbackexceptmode</key>
+	<string>resizableRadio</string>
+</dict>
+</plist>

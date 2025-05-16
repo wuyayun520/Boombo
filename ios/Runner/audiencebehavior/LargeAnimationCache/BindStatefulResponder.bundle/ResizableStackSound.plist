@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addmodal</key>
+	<string>presentappbar</string>
+	<key>connectoptimizer</key>
+	<string>instantiateResolver</string>
+	<key>robustProtocol</key>
+	<string>controllerSaturation</string>
+	<key>schemaTail</key>
+	<string>singleOption</string>
+	<key>shouldBindBinary</key>
+	<string>swiftcenter</string>
+	<key>shouldTransitionRole</key>
+	<string>publicMerger</string>
+	<key>typicaldetail</key>
+	<string>handleTangent</string>
+</dict>
+</plist>

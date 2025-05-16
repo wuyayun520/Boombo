@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackcharacteristic</key>
+	<string>fillRepository</string>
+	<key>capacitiesResponse</key>
+	<string>observerParameter</string>
+	<key>kernelRate</key>
+	<string>providerShade</string>
+	<key>localoffset</key>
+	<string>shouldConnectNotifier</string>
+	<key>reductionforminterval</key>
+	<string>shouldFormatSpecifier</string>
+	<key>sceneType</key>
+	<string>sizeassingleton</string>
+	<key>shouldDisconnectWorkflow</key>
+	<string>directlyScheduler</string>
+	<key>shouldkeepusage</key>
+	<string>dismissChart</string>
+	<key>statichistogram</key>
+	<string>imperativeDetail</string>
+</dict>
+</plist>

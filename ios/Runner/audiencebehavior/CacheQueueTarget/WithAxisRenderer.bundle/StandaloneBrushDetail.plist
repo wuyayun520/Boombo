@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedLoop</key>
+	<string>mainGraphic</string>
+	<key>intuitiveClipper</key>
+	<string>linkerOrigin</string>
+	<key>tensorscene</key>
+	<string>canDismissGrayscale</string>
+</dict>
+</plist>

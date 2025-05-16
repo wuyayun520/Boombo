@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>impressionTransparency</key>
+	<string>activatedBrush</string>
+	<key>lazyModule</key>
+	<string>delegateParticle</string>
+	<key>shouldNotifyAccessory</key>
+	<string>mediumSine</string>
+	<key>shouldSaveMargin</key>
+	<string>canPersistBox</string>
+	<key>timelineMode</key>
+	<string>shouldUnmountChecklist</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMesh</key>
+	<string>assetshape</string>
+	<key>behaviorofkind</key>
+	<string>diversifiedNavigator</string>
+	<key>decorationAlignment</key>
+	<string>queuetasksize</string>
+	<key>liteAppBar</key>
+	<string>directChooser</string>
+	<key>modulustypestate</key>
+	<string>beginnerDisclaimer</string>
+	<key>navigatorduringvisitor</key>
+	<string>statefulTint</string>
+	<key>shouldFinishUnary</key>
+	<string>listviewVelocity</string>
+	<key>shouldRebuildProfile</key>
+	<string>emitCycle</string>
+	<key>signaturebound</key>
+	<string>comprehensiveTabView</string>
+</dict>
+</plist>

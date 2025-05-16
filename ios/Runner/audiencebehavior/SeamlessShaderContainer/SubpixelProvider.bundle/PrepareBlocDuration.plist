@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackaroundstage</key>
+	<string>mobileAperture</string>
+	<key>featuremethodpadding</key>
+	<string>findException</string>
+	<key>geometricVector</key>
+	<string>robustSorter</string>
+	<key>inactiveBoxShadow</key>
+	<string>layoutdepth</string>
+	<key>inactivetheme</key>
+	<string>timerBorder</string>
+	<key>listenerCenter</key>
+	<string>parallelWorkflow</string>
+	<key>mediaqueryPressure</key>
+	<string>shouldProcessTransition</string>
+	<key>persistentRoute</key>
+	<string>processlayer</string>
+	<key>shouldAnimateIcon</key>
+	<string>secondFeature</string>
+</dict>
+</plist>

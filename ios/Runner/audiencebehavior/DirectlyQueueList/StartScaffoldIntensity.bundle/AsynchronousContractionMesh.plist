@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedtransformer</key>
+	<string>stepresource</string>
+	<key>agilePainter</key>
+	<string>shouldDispatchSample</string>
+	<key>allocatorDirection</key>
+	<string>imperativeEmitter</string>
+	<key>compositionalasset</key>
+	<string>scenarioPadding</string>
+	<key>functionalMultiplication</key>
+	<string>previewVisibility</string>
+	<key>prevModule</key>
+	<string>isMultiplication</string>
+	<key>sampleForce</key>
+	<string>connectLoop</string>
+	<key>specifyAscent</key>
+	<string>lazyInterface</string>
+	<key>streamdecoratorrotation</key>
+	<string>canUnmountedSpecifier</string>
+</dict>
+</plist>

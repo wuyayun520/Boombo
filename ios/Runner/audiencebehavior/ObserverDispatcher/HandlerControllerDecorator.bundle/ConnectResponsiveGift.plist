@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistOrientation</key>
+	<string>textfieldTransparency</string>
+	<key>euclideanMargin</key>
+	<string>numericalProfile</string>
+	<key>eventColor</key>
+	<string>singleCheckbox</string>
+	<key>remaindercolor</key>
+	<string>anchorRight</string>
+	<key>setstateradio</key>
+	<string>semanticsPadding</string>
+	<key>shouldSerializeSegment</key>
+	<string>usageMode</string>
+	<key>tweenInset</key>
+	<string>iconBottom</string>
+</dict>
+</plist>

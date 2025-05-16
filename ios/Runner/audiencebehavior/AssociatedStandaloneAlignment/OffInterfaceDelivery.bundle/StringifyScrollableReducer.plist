@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderdescription</key>
+	<string>regulateState</string>
+	<key>dedicatedScroll</key>
+	<string>canStartBaseline</string>
+	<key>positionedState</key>
+	<string>enabledAccessory</string>
+	<key>scrollableText</key>
+	<string>unmountedPlate</string>
+	<key>shouldcancelinstruction</key>
+	<string>shouldLayoutCycle</string>
+	<key>taskcombiner</key>
+	<string>quantizerResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorFrequency</key>
+	<string>modulePosition</string>
+	<key>denseScalability</key>
+	<string>positionedaroundphase</string>
+	<key>equivalentMode</key>
+	<string>canNotifyOption</string>
+	<key>greatHandler</key>
+	<string>implementAlignment</string>
+	<key>intuitiveSubscription</key>
+	<string>resourcecallback</string>
+	<key>routeranimator</key>
+	<string>pivotalTween</string>
+</dict>
+</plist>

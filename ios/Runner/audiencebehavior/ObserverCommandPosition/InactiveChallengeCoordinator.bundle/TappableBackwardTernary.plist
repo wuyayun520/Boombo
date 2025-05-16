@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellsensor</key>
+	<string>cubitposition</string>
+	<key>currentindicator</key>
+	<string>zoneDelay</string>
+	<key>elasticMetadata</key>
+	<string>cubitAlignment</string>
+	<key>multiMonster</key>
+	<string>awaitShape</string>
+	<key>positionFlags</key>
+	<string>accessibleMethod</string>
+	<key>robustPadding</key>
+	<string>draggableHash</string>
+	<key>shouldKeepMomentum</key>
+	<string>mediumGroup</string>
+	<key>shouldRouteAperture</key>
+	<string>associateFrame</string>
+	<key>significantAspect</key>
+	<string>similarException</string>
+</dict>
+</plist>

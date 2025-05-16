@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>parallelMember</key>
+	<string>requiredTransition</string>
+	<key>scopeFormat</key>
+	<string>primaryBloc</string>
+	<key>scopeRight</key>
+	<string>asynchronousContraction</string>
+	<key>sliderFormat</key>
+	<string>asyncconfidentiality</string>
+	<key>smallscope</key>
+	<string>nativeIsolate</string>
+	<key>statebridgeposition</key>
+	<string>utilChain</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerOrientation</key>
+	<string>plateForm</string>
+	<key>customizedgraphappearance</key>
+	<string>requiredElement</string>
+	<key>gesturedetectorstatesize</key>
+	<string>shouldRenderUnary</string>
+	<key>remainderPressure</key>
+	<string>chooserShape</string>
+	<key>sequentialUtil</key>
+	<string>spinSubscription</string>
+	<key>ternaryasparameter</key>
+	<string>popListView</string>
+</dict>
+</plist>

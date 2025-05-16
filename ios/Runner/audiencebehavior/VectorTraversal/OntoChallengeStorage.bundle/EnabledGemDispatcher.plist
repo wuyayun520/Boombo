@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedBatch</key>
+	<string>normMomentum</string>
+	<key>latencybound</key>
+	<string>missionHue</string>
+	<key>lifecycleCount</key>
+	<string>animatorleft</string>
+	<key>pushoffset</key>
+	<string>mainPosition</string>
+	<key>rapidzonerotation</key>
+	<string>tensorInteger</string>
+	<key>relationalconstraintappearance</key>
+	<string>binderflags</string>
+	<key>shouldDeserializeNavigation</key>
+	<string>selectedHero</string>
+	<key>shouldNotifyInterpolation</key>
+	<string>declarativeWorkflow</string>
+	<key>synchronousLifecycle</key>
+	<string>keyscale</string>
+	<key>tabviewmementospeed</key>
+	<string>aggregatespecifier</string>
+</dict>
+</plist>

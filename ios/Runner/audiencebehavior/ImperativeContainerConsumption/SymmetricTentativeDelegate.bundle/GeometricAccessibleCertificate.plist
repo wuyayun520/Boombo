@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedReliability</key>
+	<string>boxshadowTemple</string>
+	<key>capacityValidation</key>
+	<string>shouldPresentScreen</string>
+	<key>elasticTime</key>
+	<string>elasticityCount</string>
+	<key>independentVolume</key>
+	<string>playbackDirection</string>
+	<key>lastobserver</key>
+	<string>defaultMovement</string>
+	<key>newestChannel</key>
+	<string>chapterinteraction</string>
+	<key>shouldYieldGesture</key>
+	<string>canPaintController</string>
+</dict>
+</plist>

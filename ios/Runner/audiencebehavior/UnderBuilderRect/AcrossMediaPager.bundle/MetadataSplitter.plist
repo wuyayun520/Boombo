@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionClipper</key>
+	<string>emitSegment</string>
+	<key>bulletIndex</key>
+	<string>canPresentBase</string>
+	<key>otherSink</key>
+	<string>firstBuffer</string>
+	<key>shouldCacheDocument</key>
+	<string>enumerateAction</string>
+	<key>shouldContinueBinary</key>
+	<string>mitigateResult</string>
+	<key>shouldKeepStamp</key>
+	<string>storemodal</string>
+	<key>sophisticatedStore</key>
+	<string>adjustremainder</string>
+</dict>
+</plist>

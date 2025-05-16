@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePreview</key>
+	<string>primaryStoryboard</string>
+	<key>accordionTernary</key>
+	<string>statetail</string>
+	<key>inactiveDispatcher</key>
+	<string>asynchronousResponder</string>
+	<key>interactiveInfo</key>
+	<string>finishPlayback</string>
+	<key>isCanvas</key>
+	<string>enhanceimage</string>
+	<key>reductionBorder</key>
+	<string>canvasEnvironment</string>
+	<key>refactorcoordinator</key>
+	<string>quantizeraspectratio</string>
+	<key>sampleSpacing</key>
+	<string>missedtextmode</string>
+	<key>segmentDensity</key>
+	<string>shouldPaintWorkflow</string>
+</dict>
+</plist>

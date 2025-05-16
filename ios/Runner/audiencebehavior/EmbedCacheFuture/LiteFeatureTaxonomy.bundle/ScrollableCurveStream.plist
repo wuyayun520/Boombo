@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedsingletonmode</key>
+	<string>storebound</string>
+	<key>autoSelector</key>
+	<string>explicitcontraction</string>
+	<key>chaptercenter</key>
+	<string>displaysingleton</string>
+	<key>handlerright</key>
+	<string>unactivatedSplitter</string>
+	<key>hashshape</key>
+	<string>actionSpeed</string>
+	<key>popupScale</key>
+	<string>sinePrototype</string>
+	<key>shouldSetStateStep</key>
+	<string>deactivateGrid</string>
+	<key>substantialConfiguration</key>
+	<string>anchorBuffer</string>
+</dict>
+</plist>

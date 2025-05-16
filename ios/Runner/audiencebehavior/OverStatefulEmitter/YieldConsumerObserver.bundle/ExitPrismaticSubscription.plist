@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedAsset</key>
+	<string>analyzeController</string>
+	<key>imperativeLinker</key>
+	<string>processorFormat</string>
+	<key>originalAxis</key>
+	<string>displayableCheckbox</string>
+	<key>paddingevent</key>
+	<string>methodOffset</string>
+	<key>shouldEmitAspect</key>
+	<string>granularheapedge</string>
+	<key>shouldReplaceTheme</key>
+	<string>findStorage</string>
+	<key>skinBorder</key>
+	<string>precisionLocation</string>
+	<key>smallScalability</key>
+	<string>responsiveAllocator</string>
+	<key>unsortedTicker</key>
+	<string>priorityAction</string>
+	<key>volumeBottom</key>
+	<string>disconnectProjection</string>
+</dict>
+</plist>

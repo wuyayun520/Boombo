@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorPosition</key>
+	<string>eagerNotifier</string>
+	<key>coordinatorborder</key>
+	<string>normalLinker</string>
+	<key>rowkindcenter</key>
+	<string>inflateVariant</string>
+	<key>shouldPrepareSlider</key>
+	<string>kernelTint</string>
+	<key>shouldSerializeSensor</key>
+	<string>reactiveCapsule</string>
+	<key>unactivatedImage</key>
+	<string>volumeVisible</string>
+</dict>
+</plist>

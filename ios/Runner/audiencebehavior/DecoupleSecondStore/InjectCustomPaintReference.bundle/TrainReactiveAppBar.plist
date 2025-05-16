@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileObserver</key>
+	<string>associatedData</string>
+	<key>backwardPopup</key>
+	<string>singletonFormat</string>
+	<key>fixedSine</key>
+	<string>canDisconnectAlpha</string>
+	<key>relationalLifecycle</key>
+	<string>shouldInflateInterpolation</string>
+	<key>shouldContinueMap</key>
+	<string>currentLifecycle</string>
+	<key>shouldLayoutUnary</key>
+	<string>shouldStreamActivity</string>
+	<key>tappableAlert</key>
+	<string>subscriptionFeedback</string>
+	<key>timerperform</key>
+	<string>sequentialFeature</string>
+</dict>
+</plist>

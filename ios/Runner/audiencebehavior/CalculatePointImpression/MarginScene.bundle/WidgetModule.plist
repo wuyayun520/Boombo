@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintcontainpattern</key>
+	<string>itemInset</string>
+	<key>optionstream</key>
+	<string>groupDensity</string>
+	<key>shouldDispatchUsage</key>
+	<string>gridviewskewx</string>
+	<key>shouldListenTextField</key>
+	<string>subsequentWidget</string>
+	<key>sustainableNotifier</key>
+	<string>listenerMargin</string>
+	<key>widgetadaptertype</key>
+	<string>compositionalGrid</string>
+</dict>
+</plist>

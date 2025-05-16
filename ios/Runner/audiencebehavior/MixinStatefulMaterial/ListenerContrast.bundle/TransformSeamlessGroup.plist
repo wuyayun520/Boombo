@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityprototypeborder</key>
+	<string>hierarchicalDelegate</string>
+	<key>canceltabview</key>
+	<string>titleIndex</string>
+	<key>cupertinoSkirt</key>
+	<string>tweensize</string>
+	<key>explicitContrast</key>
+	<string>canRebuildInstruction</string>
+	<key>marginTheme</key>
+	<string>compileStream</string>
+	<key>metadatadirection</key>
+	<string>gradientEdge</string>
+	<key>shouldPrepareSample</key>
+	<string>recursionColor</string>
+	<key>significantBox</key>
+	<string>prismaticRemediation</string>
+	<key>unsortedLayer</key>
+	<string>webGrayscale</string>
+	<key>variantperparam</key>
+	<string>activatedRadio</string>
+</dict>
+</plist>

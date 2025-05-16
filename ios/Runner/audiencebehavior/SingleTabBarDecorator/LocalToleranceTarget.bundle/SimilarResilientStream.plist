@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureMode</key>
+	<string>globalWidget</string>
+	<key>backwardOverlay</key>
+	<string>canNotifyOperation</string>
+	<key>drawerSize</key>
+	<string>behaviorMemento</string>
+	<key>movementTag</key>
+	<string>displayrow</string>
+	<key>navigatorsorter</key>
+	<string>repositoryProcess</string>
+	<key>newestslider</key>
+	<string>crucialStore</string>
+	<key>permissiveShader</key>
+	<string>typicalEntity</string>
+	<key>retainframe</key>
+	<string>shouldRouteModulus</string>
+	<key>significantmodule</key>
+	<string>subtlealpha</string>
+	<key>unsortedListener</key>
+	<string>latencyDelay</string>
+</dict>
+</plist>

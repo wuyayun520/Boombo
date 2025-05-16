@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfaceBound</key>
+	<string>expandedbinder</string>
+	<key>unsortedinstruction</key>
+	<string>canInflateCharacter</string>
+	<key>usedScale</key>
+	<string>provideswitch</string>
+</dict>
+</plist>

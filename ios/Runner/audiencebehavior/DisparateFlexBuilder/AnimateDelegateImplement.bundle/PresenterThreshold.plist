@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregatemember</key>
+	<string>specifyMember</string>
+	<key>autoBuffer</key>
+	<string>shouldSkipMovement</string>
+	<key>easyTask</key>
+	<string>shouldMountBox</string>
+	<key>granularBuilder</key>
+	<string>displayableLinker</string>
+	<key>greatCoordinator</key>
+	<string>constraintInset</string>
+	<key>interactiveModal</key>
+	<string>shouldDeserializeView</string>
+	<key>permutationoffset</key>
+	<string>configureGrain</string>
+	<key>progressbartransparency</key>
+	<string>paddingType</string>
+	<key>rapidTabView</key>
+	<string>opaqueCombiner</string>
+	<key>shouldtransitionsign</key>
+	<string>shouldTransformEffect</string>
+</dict>
+</plist>

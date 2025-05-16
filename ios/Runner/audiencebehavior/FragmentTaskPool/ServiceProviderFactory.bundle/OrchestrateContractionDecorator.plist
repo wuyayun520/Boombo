@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerfromadapter</key>
+	<string>arithmeticTier</string>
+	<key>diversifiedRadio</key>
+	<string>secondthreshold</string>
+	<key>precisionnearprocess</key>
+	<string>currentconsumer</string>
+	<key>profileBehavior</key>
+	<string>agileTrigger</string>
+	<key>robustDependency</key>
+	<string>shouldFinishNavigation</string>
+	<key>shoulddismissicon</key>
+	<string>immediateGrid</string>
+	<key>smartamortization</key>
+	<string>pendingBloc</string>
+	<key>usedTraversal</key>
+	<string>entropyparameterforce</string>
+</dict>
+</plist>

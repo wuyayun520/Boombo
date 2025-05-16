@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSegue</key>
+	<string>canSkipOptimizer</string>
+	<key>arithmeticStoryboard</key>
+	<string>similarbinder</string>
+	<key>associatedVolume</key>
+	<string>seekReducer</string>
+	<key>buttonstore</key>
+	<string>statefulReliability</string>
+	<key>explicitthreshold</key>
+	<string>methodCount</string>
+	<key>generateticker</key>
+	<string>elasticConfidentiality</string>
+	<key>hyperbolicCallback</key>
+	<string>standaloneScalability</string>
+	<key>prevDropdownButton</key>
+	<string>canRebuildMonster</string>
+	<key>resilientAxis</key>
+	<string>lossState</string>
+	<key>tweenFormat</key>
+	<string>channelsTheme</string>
+</dict>
+</plist>

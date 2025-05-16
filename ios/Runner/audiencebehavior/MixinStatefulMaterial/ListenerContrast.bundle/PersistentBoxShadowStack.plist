@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertTheme</key>
+	<string>yieldpageview</string>
+	<key>comprehensiveBehavior</key>
+	<string>canStopBehavior</string>
+	<key>detachmenu</key>
+	<string>certificaterenderer</string>
+	<key>documenttolerance</key>
+	<string>displayableCache</string>
+	<key>geometricLayout</key>
+	<string>dissociatetext</string>
+	<key>groupTail</key>
+	<string>dividemethod</string>
+	<key>materialAudio</key>
+	<string>canStopEffect</string>
+	<key>operationcluster</key>
+	<string>prismaticVariant</string>
+</dict>
+</plist>

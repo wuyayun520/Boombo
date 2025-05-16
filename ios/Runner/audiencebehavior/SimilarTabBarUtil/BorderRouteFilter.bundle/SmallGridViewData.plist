@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureaudio</key>
+	<string>grayscaleFormat</string>
+	<key>interactiveConfidentiality</key>
+	<string>shouldContinueTangent</string>
+	<key>localnib</key>
+	<string>canUnmountedTextField</string>
+	<key>singleTabBar</key>
+	<string>appendObserver</string>
+</dict>
+</plist>

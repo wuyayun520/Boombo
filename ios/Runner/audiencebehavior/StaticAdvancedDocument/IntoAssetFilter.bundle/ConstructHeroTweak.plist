@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorDelay</key>
+	<string>oldInstruction</string>
+	<key>comprehensiveNavigation</key>
+	<string>sliderStatus</string>
+	<key>contractionacceleration</key>
+	<string>scenarioLocation</string>
+	<key>groupLeft</key>
+	<string>overridereference</string>
+	<key>immutableCanvas</key>
+	<string>ephemeralGem</string>
+	<key>menuOffset</key>
+	<string>chooserTop</string>
+	<key>shouldPublishExponent</key>
+	<string>modelforflyweight</string>
+</dict>
+</plist>

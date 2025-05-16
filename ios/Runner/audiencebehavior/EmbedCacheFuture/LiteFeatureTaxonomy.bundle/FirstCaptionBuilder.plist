@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completercharacteristic</key>
+	<string>semanticskind</string>
+	<key>dynamicRemainder</key>
+	<string>shouldResumeMobile</string>
+	<key>resolveradapterbrightness</key>
+	<string>sizedboxLocation</string>
+	<key>scaledecoratorsize</key>
+	<string>canFinishStack</string>
+	<key>shouldTrainAspectRatio</key>
+	<string>unbindSpot</string>
+	<key>subtleplate</key>
+	<string>canPersistGraphic</string>
+	<key>usagevertex</key>
+	<string>basicTangent</string>
+</dict>
+</plist>

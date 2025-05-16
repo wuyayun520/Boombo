@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionCenter</key>
+	<string>bindBaseline</string>
+	<key>activeProfile</key>
+	<string>adaptiveStep</string>
+	<key>alignmentkind</key>
+	<string>paintermargin</string>
+	<key>associatedBandwidth</key>
+	<string>prioritybottom</string>
+	<key>deployswift</key>
+	<string>pushbuilder</string>
+	<key>shouldBuildDelegate</key>
+	<string>canConnectPromise</string>
+	<key>shouldMountSign</key>
+	<string>ignoredDispatcher</string>
+	<key>typicalSplitter</key>
+	<string>shouldValidatePlayback</string>
+</dict>
+</plist>

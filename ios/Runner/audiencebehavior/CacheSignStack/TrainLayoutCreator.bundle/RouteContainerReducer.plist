@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionTag</key>
+	<string>pinchableDispatcher</string>
+	<key>displayableloopalignment</key>
+	<string>seamlessvectorappearance</string>
+	<key>imperativeZone</key>
+	<string>listenerMode</string>
+	<key>mutableSubpixel</key>
+	<string>shaderContrast</string>
+	<key>pivotalStore</key>
+	<string>cycleVelocity</string>
+	<key>standaloneFinder</key>
+	<string>traversalInteraction</string>
+	<key>subtleChecklist</key>
+	<string>difficultLinker</string>
+</dict>
+</plist>

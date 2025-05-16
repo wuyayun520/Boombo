@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBound</key>
+	<string>beginnerItem</string>
+	<key>crudeSubscription</key>
+	<string>canUpdateTextField</string>
+	<key>intermediateImpact</key>
+	<string>prevequalization</string>
+	<key>shouldnotifycache</key>
+	<string>signatureKind</string>
+</dict>
+</plist>

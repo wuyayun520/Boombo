@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCharacteristic</key>
+	<string>greatmultiplicationmargin</string>
+	<key>beginnercapacities</key>
+	<string>shouldLayoutBloc</string>
+	<key>customLifecycle</key>
+	<string>reactiveAxis</string>
+	<key>dimensionprocesshue</key>
+	<string>shouldRebuildAlert</string>
+	<key>discardedStatus</key>
+	<string>constantEdge</string>
+	<key>inheritedFlex</key>
+	<string>graphicObserver</string>
+	<key>listviewShade</key>
+	<string>canNavigateDescriptor</string>
+	<key>looptierresponse</key>
+	<string>multiplicationright</string>
+	<key>shouldBuildCurve</key>
+	<string>mountedResource</string>
+	<key>shouldConnectSegue</key>
+	<string>intermediateController</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleandependency</key>
+	<string>insteadqueue</string>
+	<key>lazyHeap</key>
+	<string>accessibleTraversal</string>
+	<key>prismaticOperation</key>
+	<string>canDecodeCycle</string>
+	<key>semanticbuttonacceleration</key>
+	<string>shouldDeserializeWorkflow</string>
+	<key>temporaryUsage</key>
+	<string>firstinteractor</string>
+</dict>
+</plist>

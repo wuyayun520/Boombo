@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGate</key>
+	<string>disposeBaseline</string>
+	<key>easysignaturedensity</key>
+	<string>persistDelegate</string>
+	<key>shouldAttachScroll</key>
+	<string>batchValidation</string>
+	<key>shouldlayoutpriority</key>
+	<string>textureformformat</string>
+	<key>smallStream</key>
+	<string>shouldPopScreen</string>
+	<key>swiftAcceleration</key>
+	<string>apertureSingleton</string>
+</dict>
+</plist>

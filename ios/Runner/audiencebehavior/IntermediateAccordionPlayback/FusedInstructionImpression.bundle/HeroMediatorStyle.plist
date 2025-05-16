@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildercompositeskewy</key>
+	<string>canUnmountedWorkflow</string>
+	<key>interactivestoragecoord</key>
+	<string>prismaticMerger</string>
+	<key>lasttickerflags</key>
+	<string>canRouteMaterial</string>
+	<key>shouldHandleNib</key>
+	<string>emitrect</string>
+</dict>
+</plist>

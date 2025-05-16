@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerBoxShadow</key>
+	<string>canDetachHistogram</string>
+	<key>mainScene</key>
+	<string>canHandleExpanded</string>
+	<key>shouldDisconnectIcon</key>
+	<string>iscard</string>
+	<key>sortednotation</key>
+	<string>shouldShowDocument</string>
+	<key>workflowPressure</key>
+	<string>ignoredAnalyzer</string>
+</dict>
+</plist>

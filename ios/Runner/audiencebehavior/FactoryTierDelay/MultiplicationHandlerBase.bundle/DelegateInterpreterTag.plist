@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSymbol</key>
+	<string>spineduration</string>
+	<key>cubitobserver</key>
+	<string>receiverIndex</string>
+	<key>directInteger</key>
+	<string>canUnmountedClipper</string>
+	<key>encodeoption</key>
+	<string>permissiveMenu</string>
+	<key>scrollerMargin</key>
+	<string>canUnbindMember</string>
+	<key>shouldPushNotifier</key>
+	<string>persistentListener</string>
+	<key>sizeasobserver</key>
+	<string>rapidGraph</string>
+</dict>
+</plist>

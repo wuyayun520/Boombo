@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLatency</key>
+	<string>discardedsubscriber</string>
+	<key>agileTolerance</key>
+	<string>stopdecoration</string>
+	<key>hardCombiner</key>
+	<string>denseStream</string>
+	<key>labelstyle</key>
+	<string>shouldReplaceChannels</string>
+	<key>shouldPersistCache</key>
+	<string>pageviewPrototype</string>
+</dict>
+</plist>

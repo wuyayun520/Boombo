@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaVelocity</key>
+	<string>mainFinder</string>
+	<key>concretezonelocation</key>
+	<string>staticTask</string>
+	<key>executesink</key>
+	<string>cupertinoTool</string>
+	<key>singleRecursion</key>
+	<string>geometricScene</string>
+	<key>standaloneExtension</key>
+	<string>eagerpresenter</string>
+</dict>
+</plist>

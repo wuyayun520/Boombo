@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultAnimation</key>
+	<string>confidentialitySpeed</string>
+	<key>intermediatebinder</key>
+	<string>accordionResponder</string>
+	<key>isolateconfidentiality</key>
+	<string>gridviewconfiguration</string>
+	<key>positionedtopic</key>
+	<string>rapidResponse</string>
+</dict>
+</plist>

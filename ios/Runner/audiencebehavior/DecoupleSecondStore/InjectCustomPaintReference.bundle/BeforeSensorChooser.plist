@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyvalidation</key>
+	<string>descriptionstyle</string>
+	<key>disparateScreen</key>
+	<string>rebuildScaffold</string>
+	<key>radioShade</key>
+	<string>shouldUpdateTheme</string>
+	<key>shouldPushMusic</key>
+	<string>shouldRebuildPlayback</string>
+	<key>smartPositioned</key>
+	<string>specifySensor</string>
+	<key>sustainableNavigation</key>
+	<string>protectedicontype</string>
+</dict>
+</plist>

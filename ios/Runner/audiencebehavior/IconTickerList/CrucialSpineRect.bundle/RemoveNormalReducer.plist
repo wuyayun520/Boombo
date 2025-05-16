@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicCatalyst</key>
+	<string>canDisconnectScaffold</string>
+	<key>euclideanConstraint</key>
+	<string>yieldticker</string>
+	<key>interactionbehavior</key>
+	<string>shouldPushTask</string>
+	<key>keyConvolution</key>
+	<string>canAttachTernary</string>
+	<key>shouldHandleMobile</key>
+	<string>canContinueNavigation</string>
+	<key>shouldPersistGradient</key>
+	<string>canRenderReference</string>
+	<key>shouldPersistMaterial</key>
+	<string>tabbarevent</string>
+</dict>
+</plist>

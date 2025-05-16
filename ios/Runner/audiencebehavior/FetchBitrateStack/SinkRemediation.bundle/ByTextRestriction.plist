@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorBehavior</key>
+	<string>sorterSpeed</string>
+	<key>animatedMaterial</key>
+	<string>interpolateController</string>
+	<key>blocrotation</key>
+	<string>firstAwait</string>
+	<key>mediocreSegue</key>
+	<string>sizeAlignment</string>
+	<key>permutationtransparency</key>
+	<string>attachMargin</string>
+	<key>referenceAcceleration</key>
+	<string>aspectBorder</string>
+	<key>shouldUnmountedAspectRatio</key>
+	<string>canDeserializeNib</string>
+	<key>subscriberInterval</key>
+	<string>searchRequest</string>
+	<key>subscriptionVisible</key>
+	<string>singletonnearbridge</string>
+	<key>synchronousHeap</key>
+	<string>insteadZone</string>
+</dict>
+</plist>

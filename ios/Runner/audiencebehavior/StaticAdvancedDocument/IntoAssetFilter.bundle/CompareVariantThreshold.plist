@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMargin</key>
+	<string>deserializeMember</string>
+	<key>concretecallback</key>
+	<string>thresholdInteraction</string>
+	<key>geometricMap</key>
+	<string>navigateBehavior</string>
+	<key>mediumSlash</key>
+	<string>canDispatchRemainder</string>
+	<key>resilientdescriptor</key>
+	<string>easyPermutation</string>
+	<key>responsivegateindex</key>
+	<string>accessibleMovement</string>
+	<key>semanticResult</key>
+	<string>canPaintExtension</string>
+	<key>shouldPopTable</key>
+	<string>accessibleBuilder</string>
+	<key>skirtBottom</key>
+	<string>deferredMesh</string>
+</dict>
+</plist>

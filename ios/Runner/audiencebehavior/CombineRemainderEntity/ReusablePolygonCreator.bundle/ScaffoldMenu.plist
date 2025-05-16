@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitytrigger</key>
+	<string>criticalProject</string>
+	<key>cupertinoProvider</key>
+	<string>scaffoldAcceleration</string>
+	<key>fixedConvolution</key>
+	<string>disclaimerLocation</string>
+	<key>globalMediaQuery</key>
+	<string>unsortedChecklist</string>
+	<key>pageviewCoord</key>
+	<string>receiverPadding</string>
+	<key>reliabilityCoord</key>
+	<string>intensityrate</string>
+	<key>shouldUnbindRichText</key>
+	<string>unsortedSizedBox</string>
+	<key>switchcenter</key>
+	<string>decorationInteraction</string>
+</dict>
+</plist>

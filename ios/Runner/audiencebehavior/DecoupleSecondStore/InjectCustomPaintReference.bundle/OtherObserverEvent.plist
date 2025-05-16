@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitgram</key>
+	<string>checkBloc</string>
+	<key>imperativefeatureacceleration</key>
+	<string>cursorlikeobserver</string>
+	<key>mobileposition</key>
+	<string>crudeScalability</string>
+	<key>modulusrate</key>
+	<string>positionedoperationright</string>
+	<key>notifierversusmode</key>
+	<string>shouldYieldFragment</string>
+	<key>originalRenderer</key>
+	<string>concretePet</string>
+	<key>restartcapsule</key>
+	<string>shouldRenderCoordinator</string>
+	<key>shouldReplaceOptimizer</key>
+	<string>pointuntilform</string>
+	<key>tappableSlider</key>
+	<string>synchronousModulus</string>
+</dict>
+</plist>

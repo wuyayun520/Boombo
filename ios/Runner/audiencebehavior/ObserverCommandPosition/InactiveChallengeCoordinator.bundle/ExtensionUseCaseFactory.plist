@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesRotation</key>
+	<string>canPauseRichText</string>
+	<key>chartalignment</key>
+	<string>storyboardstagerate</string>
+	<key>disclaimerDuration</key>
+	<string>consumptionType</string>
+	<key>endcontainer</key>
+	<string>concatenateSubscription</string>
+	<key>finishtopic</key>
+	<string>independentGroup</string>
+	<key>notifiervideo</key>
+	<string>symmetricThreshold</string>
+	<key>shouldCacheBinary</key>
+	<string>exceptionDepth</string>
+	<key>shouldValidateMember</key>
+	<string>captionTheme</string>
+	<key>sophisticatedResource</key>
+	<string>loopTail</string>
+</dict>
+</plist>

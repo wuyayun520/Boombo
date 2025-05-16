@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkmovement</key>
+	<string>customizedAxis</string>
+	<key>dynamicSpine</key>
+	<string>mediumEvaluation</string>
+	<key>equivalenttype</key>
+	<string>largecubitvisible</string>
+	<key>gradientright</key>
+	<string>alignmentcommandright</string>
+	<key>hasGesture</key>
+	<string>pageviewForm</string>
+	<key>invisibleTernary</key>
+	<string>offsetView</string>
+	<key>plateFlags</key>
+	<string>activatedTweak</string>
+	<key>prioritytriangles</key>
+	<string>transpileDecoration</string>
+	<key>protocolacceleration</key>
+	<string>statelessEffect</string>
+	<key>roleawait</key>
+	<string>shouldUnmountedSignature</string>
+</dict>
+</plist>

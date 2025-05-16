@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creatorOrigin</key>
+	<string>respondManager</string>
+	<key>customLinker</key>
+	<string>painterSystem</string>
+	<key>disabledZone</key>
+	<string>nodefunctioncolor</string>
+	<key>diversifiedActivity</key>
+	<string>shouldSubscribeMission</string>
+	<key>equipmentcenter</key>
+	<string>clearProvider</string>
+	<key>imperativeResource</key>
+	<string>hardDispatcher</string>
+	<key>navigationbandwidth</key>
+	<string>chartJob</string>
+	<key>shouldFormatNotification</key>
+	<string>threadPlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyName</key>
+	<string>shouldcacheradio</string>
+	<key>interactiveentitypressure</key>
+	<string>transformBehavior</string>
+	<key>modelDirection</key>
+	<string>volumeCoord</string>
+	<key>permanentEntity</key>
+	<string>hasAxis</string>
+	<key>seamlessProgressBar</key>
+	<string>symbolcubit</string>
+	<key>storageOpacity</key>
+	<string>anchorBuffer</string>
+	<key>subtlenavigator</key>
+	<string>shouldSerializeBoxShadow</string>
+</dict>
+</plist>

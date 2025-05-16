@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerEqualization</key>
+	<string>animatedAlpha</string>
+	<key>criticalComponent</key>
+	<string>touchRequest</string>
+	<key>entityFlags</key>
+	<string>shoulddispatchgesture</string>
+	<key>firstisolatepadding</key>
+	<string>associatedCubit</string>
+	<key>mediatransparency</key>
+	<string>listenDecoration</string>
+	<key>resourceCount</key>
+	<string>paintertype</string>
+	<key>resultAcceleration</key>
+	<string>inflateMusic</string>
+	<key>semanticaccessory</key>
+	<string>displayDependency</string>
+	<key>skinstylemomentum</key>
+	<string>canUnbindTernary</string>
+	<key>subpixelOpacity</key>
+	<string>enhanceConfiguration</string>
+</dict>
+</plist>

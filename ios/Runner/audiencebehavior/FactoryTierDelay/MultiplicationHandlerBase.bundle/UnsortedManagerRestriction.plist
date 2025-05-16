@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customTitle</key>
+	<string>presenterIndex</string>
+	<key>disclaimerVisibility</key>
+	<string>shouldPushNorm</string>
+	<key>onthreadtap</key>
+	<string>spriteInset</string>
+	<key>otherEntropy</key>
+	<string>cupertinoSkewX</string>
+	<key>shouldStopMediaQuery</key>
+	<string>streamlocation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerFormat</key>
+	<string>keepCard</string>
+	<key>decorationMode</key>
+	<string>invokeRepository</string>
+	<key>lazyStorage</key>
+	<string>unbindCanvas</string>
+	<key>mergerrate</key>
+	<string>shouldPaintButton</string>
+	<key>shouldDisposeSpine</key>
+	<string>unactivatedAllocator</string>
+	<key>shouldinflatestateful</key>
+	<string>shouldKeepIndicator</string>
+	<key>standaloneLatency</key>
+	<string>newestTangent</string>
+	<key>temporarySubscription</key>
+	<string>ephemeralCupertino</string>
+	<key>throughputinterval</key>
+	<string>shearGraph</string>
+</dict>
+</plist>

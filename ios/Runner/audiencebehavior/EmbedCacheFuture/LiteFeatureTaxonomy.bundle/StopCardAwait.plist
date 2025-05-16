@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatetask</key>
+	<string>grayscaleslider</string>
+	<key>litebaselinetype</key>
+	<string>hasSpecifier</string>
+	<key>obtainevent</key>
+	<string>canSkipInteger</string>
+	<key>oldalignmentindex</key>
+	<string>efficiencyIndex</string>
+	<key>progressbarContrast</key>
+	<string>dynamicDetector</string>
+	<key>shouldAttachDialogs</key>
+	<string>gramalignment</string>
+	<key>unbindskirt</key>
+	<string>filterLocation</string>
+	<key>visiblesubpixel</key>
+	<string>canEndMovement</string>
+</dict>
+</plist>

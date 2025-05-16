@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>registertopic</key>
+	<string>encodeModel</string>
+	<key>resilientmapper</key>
+	<string>transposeConfiguration</string>
+	<key>responsiveRemediation</key>
+	<string>handlerplatformorigin</string>
+	<key>soundSkewX</key>
+	<string>statelessInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialPet</key>
+	<string>framemesh</string>
+	<key>giftradius</key>
+	<string>routebuffertension</string>
+	<key>modalShade</key>
+	<string>cupertinoHero</string>
+	<key>observenavigation</key>
+	<string>canRenderBrush</string>
+	<key>oldschema</key>
+	<string>interactorParameter</string>
+	<key>shouldConnectBatch</key>
+	<string>loadUnary</string>
+	<key>shouldLoadPlayback</key>
+	<string>cupertinoProtocol</string>
+	<key>sortedDelivery</key>
+	<string>pinchableworkflow</string>
+	<key>substantialdata</key>
+	<string>channelsFunction</string>
+</dict>
+</plist>

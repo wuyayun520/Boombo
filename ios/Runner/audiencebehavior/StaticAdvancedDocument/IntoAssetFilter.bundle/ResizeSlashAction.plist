@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffabletouch</key>
+	<string>containerComposite</string>
+	<key>difficultRectangle</key>
+	<string>finishMission</string>
+	<key>overlayOffset</key>
+	<string>synchronousListView</string>
+	<key>routertransformer</key>
+	<string>hyperbolicTask</string>
+	<key>scaffoldoutsideactivity</key>
+	<string>eagerIntensity</string>
+	<key>shouldObserveScroll</key>
+	<string>instructionDistance</string>
+	<key>temporaryBuffer</key>
+	<string>immutableSwift</string>
+</dict>
+</plist>

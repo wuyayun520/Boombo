@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorDirection</key>
+	<string>curveVisible</string>
+	<key>granularDimension</key>
+	<string>dispatcherKind</string>
+	<key>greatAperture</key>
+	<string>segmentKind</string>
+	<key>masterLocation</key>
+	<string>numericalElement</string>
+	<key>symmetricConsumer</key>
+	<string>paintScaffold</string>
+</dict>
+</plist>

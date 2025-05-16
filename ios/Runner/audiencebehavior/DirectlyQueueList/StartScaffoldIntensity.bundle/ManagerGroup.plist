@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSpot</key>
+	<string>euclideanPager</string>
+	<key>customizedFragments</key>
+	<string>defaultsession</string>
+	<key>descriptionDensity</key>
+	<string>boxedge</string>
+	<key>equalizationTransparency</key>
+	<string>newestScope</string>
+	<key>inactiveUseCase</key>
+	<string>tableSkewX</string>
+	<key>managerTag</key>
+	<string>handlerScope</string>
+	<key>oldSwitch</key>
+	<string>toleranceOrigin</string>
+	<key>shouldDisconnectGift</key>
+	<string>resolverSystem</string>
+	<key>shouldDismissClipper</key>
+	<string>shouldUnmountedRemainder</string>
+	<key>shouldUpdateBox</key>
+	<string>presentervaluespacing</string>
+</dict>
+</plist>

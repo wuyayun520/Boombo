@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileItem</key>
+	<string>apertureName</string>
+	<key>captionInset</key>
+	<string>shouldvalidatecollection</string>
+	<key>controllerState</key>
+	<string>significantPadding</string>
+	<key>statefulInset</key>
+	<string>smartFilter</string>
+	<key>statelessrotation</key>
+	<string>shouldRouteRichText</string>
+	<key>statustype</key>
+	<string>oncanvastap</string>
+</dict>
+</plist>

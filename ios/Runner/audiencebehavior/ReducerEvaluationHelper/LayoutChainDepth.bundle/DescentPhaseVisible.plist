@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralcache</key>
+	<string>shouldStartCycle</string>
+	<key>factorybound</key>
+	<string>discardedSound</string>
+	<key>grainForce</key>
+	<string>insteadstateless</string>
+	<key>rectifycompleter</key>
+	<string>canSubscribeRoute</string>
+	<key>shouldDisposeProfile</key>
+	<string>rapidservice</string>
+	<key>uniqueManager</key>
+	<string>hyperbolicListView</string>
+</dict>
+</plist>

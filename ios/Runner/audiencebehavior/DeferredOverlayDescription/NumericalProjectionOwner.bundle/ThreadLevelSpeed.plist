@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbararoundcommand</key>
+	<string>canHandleNavigator</string>
+	<key>deflateevent</key>
+	<string>lostChannels</string>
+	<key>errormodevisible</key>
+	<string>shouldPaintChallenge</string>
+	<key>missedTransition</key>
+	<string>unbindduration</string>
+	<key>previewDensity</key>
+	<string>logBottom</string>
+	<key>scrollableThreshold</key>
+	<string>draggableAudio</string>
+	<key>shouldLayoutDropdownButton</key>
+	<string>semanticsTransparency</string>
+	<key>specifyScope</key>
+	<string>shouldPaintVariant</string>
+	<key>statefulframeworkposition</key>
+	<string>canUpdateGrayscale</string>
+	<key>usageDelay</key>
+	<string>nextScalability</string>
+</dict>
+</plist>

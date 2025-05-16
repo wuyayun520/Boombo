@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorySaturation</key>
+	<string>evaluationDensity</string>
+	<key>arithmeticVisible</key>
+	<string>shouldPersistModulus</string>
+	<key>mainScroller</key>
+	<string>controllertail</string>
+	<key>mendFeedback</key>
+	<string>resumeBitrate</string>
+	<key>secondsemantics</key>
+	<string>heroplatformindex</string>
+	<key>shouldDismissShader</key>
+	<string>directCell</string>
+	<key>shouldSaveCertificate</key>
+	<string>materialinterpolationformat</string>
+	<key>standaloneanimation</key>
+	<string>reflectObserver</string>
+</dict>
+</plist>

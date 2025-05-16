@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedImpact</key>
+	<string>richtextFunction</string>
+	<key>axisversussingleton</key>
+	<string>canTransformMaterial</string>
+	<key>behaviorDensity</key>
+	<string>registerPopup</string>
+	<key>eventDuration</key>
+	<string>updateSink</string>
+	<key>multiPainter</key>
+	<string>signDelay</string>
+	<key>objectBottom</key>
+	<string>movementservice</string>
+	<key>sustainableStroke</key>
+	<string>writeRow</string>
+</dict>
+</plist>

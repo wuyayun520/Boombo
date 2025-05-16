@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMerger</key>
+	<string>subscriberindex</string>
+	<key>checkliststore</key>
+	<string>shouldSubscribeOption</string>
+	<key>flexPadding</key>
+	<string>navigationTier</string>
+	<key>lostDetail</key>
+	<string>metadataChain</string>
+	<key>opaqueLoss</key>
+	<string>connectinjection</string>
+	<key>selectedsample</key>
+	<string>unmountTask</string>
+	<key>shouldEndEntropy</key>
+	<string>deferredCell</string>
+	<key>smartaction</key>
+	<string>concatenateAlignment</string>
+	<key>ternaryEdge</key>
+	<string>materializeAsync</string>
+</dict>
+</plist>

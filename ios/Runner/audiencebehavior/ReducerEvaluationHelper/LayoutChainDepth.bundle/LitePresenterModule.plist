@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeLinker</key>
+	<string>publicAlert</string>
+	<key>cupertinoEntity</key>
+	<string>uniqueDisclaimer</string>
+	<key>keyImpression</key>
+	<string>localSizedBox</string>
+	<key>persistmedia</key>
+	<string>resultdensity</string>
+	<key>publicEvaluation</key>
+	<string>firstImpact</string>
+	<key>renameentropy</key>
+	<string>permanentSlash</string>
+</dict>
+</plist>

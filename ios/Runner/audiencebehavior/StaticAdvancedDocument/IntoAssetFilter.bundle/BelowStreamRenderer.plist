@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvenearchain</key>
+	<string>enabledTween</string>
+	<key>denseFormat</key>
+	<string>showChart</string>
+	<key>flexibleInkWell</key>
+	<string>sliderAppearance</string>
+	<key>interactiveButton</key>
+	<string>cancelRow</string>
+	<key>losttextopacity</key>
+	<string>spotcenter</string>
+	<key>materialSorter</key>
+	<string>sortedMomentum</string>
+	<key>poolzone</key>
+	<string>singlescroller</string>
+	<key>shouldCreateDropdownButton</key>
+	<string>routeresponse</string>
+	<key>smallBullet</key>
+	<string>capsulereducer</string>
+</dict>
+</plist>

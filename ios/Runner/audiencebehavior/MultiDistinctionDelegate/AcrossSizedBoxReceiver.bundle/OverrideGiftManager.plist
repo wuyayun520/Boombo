@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildlog</key>
+	<string>synchronizeUtil</string>
+	<key>escalatepromise</key>
+	<string>retainedPlayback</string>
+	<key>masterBehavior</key>
+	<string>shouldDisposeEqualization</string>
+	<key>particleintegrity</key>
+	<string>scrollStrategy</string>
+	<key>scrollableRenderer</key>
+	<string>denseListView</string>
+	<key>specifyaxis</key>
+	<string>canDisconnectSymbol</string>
+</dict>
+</plist>

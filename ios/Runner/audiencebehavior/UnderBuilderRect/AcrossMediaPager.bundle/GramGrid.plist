@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularCluster</key>
+	<string>assetParameter</string>
+	<key>lastPopup</key>
+	<string>pushsink</string>
+	<key>newestStep</key>
+	<string>awaitLayer</string>
+	<key>shouldTrainMedia</key>
+	<string>shouldPresentDecoration</string>
+	<key>sortedPlayback</key>
+	<string>animatorRate</string>
+	<key>statefulActivity</key>
+	<string>inkwellInterval</string>
+	<key>unsortedMatrix</key>
+	<string>retrieveProgressBar</string>
+	<key>usedCharacteristic</key>
+	<string>shouldFinishInstruction</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableCoordinator</key>
+	<string>movecontainer</string>
+	<key>disabledEvaluation</key>
+	<string>canBindAnimatedContainer</string>
+	<key>discardedcontainer</key>
+	<string>coordinatorFlags</string>
+	<key>fixedSession</key>
+	<string>wrapperSpeed</string>
+	<key>listviewchainorientation</key>
+	<string>synchronousBitrate</string>
+	<key>onradiochanged</key>
+	<string>permanentResource</string>
+	<key>publicMesh</key>
+	<string>webCertificate</string>
+	<key>shouldStreamSensor</key>
+	<string>dropdownbuttonBorder</string>
+	<key>similarObject</key>
+	<string>usagereducer</string>
+	<key>webPromise</key>
+	<string>subscribeTextField</string>
+</dict>
+</plist>

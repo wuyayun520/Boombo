@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integerTransparency</key>
+	<string>nextoperation</string>
+	<key>keyShader</key>
+	<string>sequentialCompleter</string>
+	<key>pageviewreliability</key>
+	<string>allocateAsset</string>
+	<key>projectionactionbehavior</key>
+	<string>requiredLabel</string>
+	<key>reactiveGroup</key>
+	<string>priorAllocator</string>
+	<key>sophisticatedCoordinator</key>
+	<string>inactiveSchema</string>
+	<key>storyboardatmethod</key>
+	<string>unmarshalBuilder</string>
+	<key>tappableSwift</key>
+	<string>resilientSink</string>
+</dict>
+</plist>

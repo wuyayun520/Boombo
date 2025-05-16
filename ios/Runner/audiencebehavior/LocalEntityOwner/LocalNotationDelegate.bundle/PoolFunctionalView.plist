@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graintime</key>
+	<string>histogramorientation</string>
+	<key>localizationbottom</key>
+	<string>shouldobserveradio</string>
+	<key>presentalignment</key>
+	<string>deferredSwift</string>
+	<key>reduceresolver</key>
+	<string>gridviewComposite</string>
+	<key>respectiveSize</key>
+	<string>shouldPrepareBullet</string>
+	<key>shouldDisposeListView</key>
+	<string>defaultmission</string>
+	<key>shouldLoadOptimizer</key>
+	<string>basicSwitch</string>
+	<key>singleCurve</key>
+	<string>robustOption</string>
+</dict>
+</plist>

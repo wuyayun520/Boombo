@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonSlider</key>
+	<string>originalStep</string>
+	<key>dynamicDrawer</key>
+	<string>ignoredLatency</string>
+	<key>elasticityName</key>
+	<string>canPublishLabel</string>
+	<key>futureBound</key>
+	<string>activatedModel</string>
+	<key>gridviewslider</key>
+	<string>storyboardResponse</string>
+	<key>observeractionborder</key>
+	<string>momentumefficiency</string>
+	<key>scrollableLocalization</key>
+	<string>grayscaleHead</string>
+</dict>
+</plist>

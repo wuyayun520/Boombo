@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customsubpixeltint</key>
+	<string>lifecycleSpacing</string>
+	<key>descentBound</key>
+	<string>shouldSerializeDrawer</string>
+	<key>loopdensity</key>
+	<string>shouldshowsizedbox</string>
+	<key>shouldLayoutPositioned</key>
+	<string>gemVisible</string>
+	<key>tweenresponse</key>
+	<string>canPaintSpot</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitchainvisibility</key>
+	<string>singleGroup</string>
+	<key>declarativeInkWell</key>
+	<string>writeRow</string>
+	<key>mainMember</key>
+	<string>playcosine</string>
+	<key>navigationSkewY</key>
+	<string>quantizerCubit</string>
+	<key>resizableAction</key>
+	<string>gestureValidation</string>
+	<key>sliderquaternion</key>
+	<string>criticalconstraint</string>
+</dict>
+</plist>

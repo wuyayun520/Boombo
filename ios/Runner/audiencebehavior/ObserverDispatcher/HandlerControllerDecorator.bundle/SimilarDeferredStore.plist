@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTimeline</key>
+	<string>syncWidget</string>
+	<key>gradientstatus</key>
+	<string>presenterSkewY</string>
+	<key>hierarchicalImage</key>
+	<string>subtleAspectRatio</string>
+	<key>interactivecoordinatorrotation</key>
+	<string>visualizeText</string>
+</dict>
+</plist>

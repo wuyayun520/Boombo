@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinesize</key>
+	<string>playMethod</string>
+	<key>moduleFlags</key>
+	<string>debugRoute</string>
+	<key>scrollableIcon</key>
+	<string>routeLayout</string>
+	<key>shouldReplaceCupertino</key>
+	<string>newestSorter</string>
+	<key>shouldvalidatecycle</key>
+	<string>restartswift</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePromise</key>
+	<string>canDisposeRichText</string>
+	<key>columnsaturation</key>
+	<string>listviewFeedback</string>
+	<key>directlyStateful</key>
+	<string>switchPlatform</string>
+	<key>gridviewTransparency</key>
+	<string>dropoutCoordinator</string>
+	<key>mediocreSine</key>
+	<string>statelessPolygon</string>
+	<key>platetask</key>
+	<string>shouldskipcollection</string>
+	<key>sharedCatalyst</key>
+	<string>shearChannel</string>
+	<key>storyboardType</key>
+	<string>shouldPopCustomPaint</string>
+</dict>
+</plist>

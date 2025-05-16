@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultExtension</key>
+	<string>significantTaxonomy</string>
+	<key>defaultLayout</key>
+	<string>canStopPrecision</string>
+	<key>draggablePlayback</key>
+	<string>mobileCapacity</string>
+	<key>globalChannels</key>
+	<string>loophue</string>
+	<key>shouldHandleBaseline</key>
+	<string>usageScope</string>
+	<key>shouldSubscribeBitrate</key>
+	<string>standaloneVertex</string>
+	<key>tickersensor</key>
+	<string>removeProgressBar</string>
+	<key>typicalfeatureduration</key>
+	<string>ignoredmaster</string>
+</dict>
+</plist>

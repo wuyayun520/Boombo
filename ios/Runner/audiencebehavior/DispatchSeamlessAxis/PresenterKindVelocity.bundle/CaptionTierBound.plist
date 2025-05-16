@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleaudio</key>
+	<string>processSpecifier</string>
+	<key>permanentAwait</key>
+	<string>overlayLevel</string>
+	<key>shouldPaintBorder</key>
+	<string>canStartCertificate</string>
+	<key>webnotification</key>
+	<string>kernelVariable</string>
+</dict>
+</plist>

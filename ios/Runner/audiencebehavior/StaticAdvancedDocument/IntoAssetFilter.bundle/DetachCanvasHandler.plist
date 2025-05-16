@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleEmitter</key>
+	<string>desktopDecoration</string>
+	<key>beginnerRadius</key>
+	<string>receiverStyle</string>
+	<key>curvetheme</key>
+	<string>lossForce</string>
+	<key>delicateZone</key>
+	<string>poolbrush</string>
+	<key>draggablefactory</key>
+	<string>repositoryFunction</string>
+	<key>gateTransparency</key>
+	<string>sanitizeFuture</string>
+	<key>sharedConsumer</key>
+	<string>brushCycle</string>
+	<key>typicalMatrix</key>
+	<string>futuretheme</string>
+</dict>
+</plist>

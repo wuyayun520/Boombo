@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationconstant</key>
+	<string>renderpopup</string>
+	<key>clippercoord</key>
+	<string>dissociatePreview</string>
+	<key>currentreduction</key>
+	<string>dispatchConstraint</string>
+	<key>sharedStroke</key>
+	<string>deployTicker</string>
+</dict>
+</plist>

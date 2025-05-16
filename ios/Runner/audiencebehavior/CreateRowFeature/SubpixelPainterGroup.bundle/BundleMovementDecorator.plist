@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardConsumption</key>
+	<string>newestobserverorigin</string>
+	<key>backwardsensor</key>
+	<string>criticalSplitter</string>
+	<key>commonBitrate</key>
+	<string>criticalEvaluation</string>
+	<key>handlerlikedecorator</key>
+	<string>currentInteger</string>
+	<key>keyCursor</key>
+	<string>canMountTangent</string>
+	<key>lossactionedge</key>
+	<string>shouldformatanchor</string>
+	<key>publicCertificate</key>
+	<string>accordionLog</string>
+	<key>shouldRestartSample</key>
+	<string>canFormatReference</string>
+</dict>
+</plist>

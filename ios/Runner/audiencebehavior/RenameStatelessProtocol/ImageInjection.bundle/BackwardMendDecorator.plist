@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAscent</key>
+	<string>shouldRouteAxis</string>
+	<key>eventopacity</key>
+	<string>storyboardSpacing</string>
+	<key>firstTweak</key>
+	<string>swiftStyle</string>
+	<key>operationcount</key>
+	<string>invokeLoop</string>
+	<key>reusableChannels</key>
+	<string>dynamicSearcher</string>
+	<key>savestream</key>
+	<string>resilientCanvas</string>
+	<key>standaloneVector</key>
+	<string>canDetachIcon</string>
+	<key>tensorAnalogy</key>
+	<string>canCreateCurve</string>
+	<key>threadScale</key>
+	<string>switchRight</string>
+</dict>
+</plist>

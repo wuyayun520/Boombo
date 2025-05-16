@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopPlate</key>
+	<string>currentdialogs</string>
+	<key>disparateTicker</key>
+	<string>unactivatedAspect</string>
+	<key>positionedmodevisible</key>
+	<string>instructionDelay</string>
+	<key>prevResponse</key>
+	<string>symmetricData</string>
+	<key>reactiveScope</key>
+	<string>ignoredPosition</string>
+	<key>shouldPopBoxShadow</key>
+	<string>shouldMountedTable</string>
+	<key>shouldPublishIcon</key>
+	<string>shouldPauseTabBar</string>
+</dict>
+</plist>

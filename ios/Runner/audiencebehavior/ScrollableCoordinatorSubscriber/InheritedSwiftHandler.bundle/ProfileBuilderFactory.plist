@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousInkWell</key>
+	<string>issegment</string>
+	<key>efficiencyposition</key>
+	<string>visibleComponent</string>
+	<key>exceptioninterval</key>
+	<string>skirtInterval</string>
+	<key>musicScale</key>
+	<string>interactorContext</string>
+	<key>numericalSink</key>
+	<string>hashMethod</string>
+	<key>pivotalSize</key>
+	<string>shouldLayoutAnimatedContainer</string>
+	<key>requiredInteraction</key>
+	<string>easyPolyfill</string>
+	<key>resultrestriction</key>
+	<string>resourceMemento</string>
+	<key>shouldUnbindLayout</key>
+	<string>missedDescriptor</string>
+	<key>shouldkeeptext</key>
+	<string>navigatormatrix</string>
+</dict>
+</plist>

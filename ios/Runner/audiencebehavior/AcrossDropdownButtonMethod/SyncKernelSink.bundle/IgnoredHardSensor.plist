@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedConsumption</key>
+	<string>clearbutton</string>
+	<key>arithmeticRate</key>
+	<string>drawerObserver</string>
+	<key>buttontransformer</key>
+	<string>masterSaturation</string>
+	<key>equalizationmomentum</key>
+	<string>unsortedSizedBox</string>
+	<key>parallelRow</key>
+	<string>shouldTransitionUnary</string>
+	<key>promisedepth</key>
+	<string>rotatePresenter</string>
+	<key>seamlessMaterializer</key>
+	<string>easyAnalogy</string>
+	<key>shouldUpdateWorkflow</key>
+	<string>customFeature</string>
+	<key>sophisticatedGraphic</key>
+	<string>axispressure</string>
+	<key>tappableSprite</key>
+	<string>pivotalSingleton</string>
+</dict>
+</plist>

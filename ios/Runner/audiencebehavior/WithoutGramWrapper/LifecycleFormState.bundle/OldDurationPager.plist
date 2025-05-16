@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDistinction</key>
+	<string>mobileskewy</string>
+	<key>fusedBuilder</key>
+	<string>ephemeraltentative</string>
+	<key>overlayshapevalidation</key>
+	<string>flexibleAnimatedContainer</string>
+	<key>trianglesVisible</key>
+	<string>shouldNavigateActivity</string>
+</dict>
+</plist>

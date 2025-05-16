@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineinset</key>
+	<string>entropyOrigin</string>
+	<key>customizedSkin</key>
+	<string>activateBuffer</string>
+	<key>functionalStateless</key>
+	<string>compositionalBinary</string>
+	<key>menuformat</key>
+	<string>smallTaxonomy</string>
+	<key>queueBehavior</key>
+	<string>arithmeticBound</string>
+</dict>
+</plist>

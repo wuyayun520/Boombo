@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationName</key>
+	<string>rebuildDialogs</string>
+	<key>asynchronousBrush</key>
+	<string>canInflateGraphic</string>
+	<key>dynamicIntegrity</key>
+	<string>comprehensiveSkin</string>
+	<key>fixedGate</key>
+	<string>captionVisible</string>
+	<key>lostCertificate</key>
+	<string>gradientSystem</string>
+	<key>receiverColor</key>
+	<string>channelTail</string>
+	<key>shouldParseMonster</key>
+	<string>pushGesture</string>
+	<key>shouldProcessActivity</key>
+	<string>dispatcherdirection</string>
+</dict>
+</plist>

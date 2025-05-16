@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticclipper</key>
+	<string>serializeBloc</string>
+	<key>dropdownbuttonDensity</key>
+	<string>shouldLoadHero</string>
+	<key>geometricLoader</key>
+	<string>functionalAsync</string>
+	<key>scrollableTransformer</key>
+	<string>decorationbyfunction</string>
+	<key>smallOffset</key>
+	<string>creatorShape</string>
+	<key>sortedTriangles</key>
+	<string>detachSlider</string>
+	<key>symmetricrequestopacity</key>
+	<string>cachegesture</string>
+	<key>uniqueMultiplication</key>
+	<string>shouldYieldEqualization</string>
+	<key>visibleSearcher</key>
+	<string>hasprotocol</string>
+</dict>
+</plist>

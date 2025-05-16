@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardbyaction</key>
+	<string>navigateScene</string>
+	<key>easyChannel</key>
+	<string>taxonomyhead</string>
+	<key>hierarchicalSchema</key>
+	<string>compositionSystem</string>
+	<key>localAlignment</key>
+	<string>canStreamTernary</string>
+	<key>localScheduler</key>
+	<string>matrixparameterindex</string>
+	<key>resolverBrightness</key>
+	<string>baseSpeed</string>
+	<key>shouldValidateHistogram</key>
+	<string>grapharoundtemple</string>
+	<key>statefulRight</key>
+	<string>animationdistinction</string>
+</dict>
+</plist>

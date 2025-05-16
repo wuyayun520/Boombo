@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentTheme</key>
+	<string>pageviewInset</string>
+	<key>elasticStrength</key>
+	<string>easyStream</string>
+	<key>gateName</key>
+	<string>hierarchicalSegue</string>
+	<key>geometricSink</key>
+	<string>elasticDelivery</string>
+	<key>largeScene</key>
+	<string>tangentSaturation</string>
+	<key>marginspeed</key>
+	<string>smartContainer</string>
+	<key>parallelPainter</key>
+	<string>shouldPauseNib</string>
+	<key>sequentialScenario</key>
+	<string>processorKind</string>
+	<key>stampKind</key>
+	<string>advancedTaxonomy</string>
+	<key>tappableMargin</key>
+	<string>normalAccessory</string>
+</dict>
+</plist>

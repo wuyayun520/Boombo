@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSorter</key>
+	<string>originalLog</string>
+	<key>drawerpublisher</key>
+	<string>markSlider</string>
+	<key>onspinechanged</key>
+	<string>publisherTheme</string>
+	<key>protectedView</key>
+	<string>scrollableTouch</string>
+	<key>requiredDelegate</key>
+	<string>checkboxtask</string>
+</dict>
+</plist>

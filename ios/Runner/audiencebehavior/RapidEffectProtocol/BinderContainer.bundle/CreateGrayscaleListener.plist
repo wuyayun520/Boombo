@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentmediaquery</key>
+	<string>skipSample</string>
+	<key>fusedBloc</key>
+	<string>showSample</string>
+	<key>hyperbolicPromise</key>
+	<string>singlebase</string>
+	<key>mutableresolver</key>
+	<string>parallelMobile</string>
+	<key>shouldPublishUsage</key>
+	<string>smartReceiver</string>
+	<key>shouldStopRichText</key>
+	<string>repositorystrategytransparency</string>
+	<key>traversalStyle</key>
+	<string>retainedInformation</string>
+	<key>trianglesStyle</key>
+	<string>managerVisibility</string>
+</dict>
+</plist>

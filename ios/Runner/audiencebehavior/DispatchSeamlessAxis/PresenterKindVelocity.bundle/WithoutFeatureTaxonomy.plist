@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendintensity</key>
+	<string>otherTabBar</string>
+	<key>behaviorForce</key>
+	<string>cyclefrequency</string>
+	<key>granularView</key>
+	<string>mutableBinder</string>
+	<key>immutableHistogram</key>
+	<string>replicaOffset</string>
+	<key>keyskinacceleration</key>
+	<string>tappableTouch</string>
+	<key>materializerdensity</key>
+	<string>subscribeTheme</string>
+	<key>offsetmediatortension</key>
+	<string>shouldPauseBaseline</string>
+	<key>parseinteger</key>
+	<string>shouldnavigatevariant</string>
+	<key>pointState</key>
+	<string>controllerstyle</string>
+	<key>slashDirection</key>
+	<string>displayableDialogs</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorFeedback</key>
+	<string>shouldPersistGridView</string>
+	<key>mainPriority</key>
+	<string>canValidateNotifier</string>
+	<key>oldConverter</key>
+	<string>similarView</string>
+	<key>scrollableService</key>
+	<string>assetTemple</string>
+	<key>significantTentative</key>
+	<string>vectorconverter</string>
+	<key>sinebuilder</key>
+	<string>mediumConsumer</string>
+	<key>singletonFrequency</key>
+	<string>layoutagainstmediator</string>
+	<key>smartWrapper</key>
+	<string>denseinteractortransparency</string>
+	<key>visiblePoint</key>
+	<string>specifySchema</string>
+</dict>
+</plist>

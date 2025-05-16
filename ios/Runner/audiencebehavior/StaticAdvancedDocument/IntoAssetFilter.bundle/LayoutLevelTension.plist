@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCaption</key>
+	<string>comprehensiveTangent</string>
+	<key>backwardLayout</key>
+	<string>renamebuilder</string>
+	<key>capsulescene</key>
+	<string>canDispatchCard</string>
+	<key>graphOrigin</key>
+	<string>pagerTag</string>
+	<key>materialGradient</key>
+	<string>geometricstate</string>
+	<key>seamlessDetector</key>
+	<string>usedscaffold</string>
+</dict>
+</plist>

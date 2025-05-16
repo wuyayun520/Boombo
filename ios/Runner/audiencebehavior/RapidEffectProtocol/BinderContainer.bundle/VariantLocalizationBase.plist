@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindgrid</key>
+	<string>curveFacade</string>
+	<key>delicateIndicator</key>
+	<string>captureNavigator</string>
+	<key>disposeerror</key>
+	<string>gridForm</string>
+	<key>keyDisclaimer</key>
+	<string>autoEntity</string>
+	<key>scrollableasync</key>
+	<string>canBindModulus</string>
+</dict>
+</plist>

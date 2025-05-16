@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureflags</key>
+	<string>canSerializeCharacter</string>
+	<key>equivalentTheme</key>
+	<string>eventRotation</string>
+	<key>flexibleImage</key>
+	<string>componentformat</string>
+	<key>floatoptimizer</key>
+	<string>musicSpacing</string>
+	<key>nativeScalability</key>
+	<string>resumeSwift</string>
+	<key>oldColor</key>
+	<string>invokeTransition</string>
+	<key>polygonflags</key>
+	<string>localizationRotation</string>
+	<key>touchInset</key>
+	<string>scrollablePresenter</string>
+	<key>uniformCurve</key>
+	<string>interactorContext</string>
+</dict>
+</plist>

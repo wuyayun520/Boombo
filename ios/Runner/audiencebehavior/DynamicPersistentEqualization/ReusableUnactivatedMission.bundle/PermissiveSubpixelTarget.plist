@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>debugalpha</key>
+	<string>tickerInteraction</string>
+	<key>graphicTail</key>
+	<string>sustainableSlider</string>
+	<key>remediationDensity</key>
+	<string>exceptioncontrast</string>
+	<key>schedulerFeedback</key>
+	<string>protectedNotification</string>
+	<key>shouldnavigatesample</key>
+	<string>fragmentVisible</string>
+</dict>
+</plist>

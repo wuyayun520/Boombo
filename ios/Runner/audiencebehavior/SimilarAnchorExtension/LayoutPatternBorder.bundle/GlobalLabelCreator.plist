@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxRotation</key>
+	<string>canDismissComposition</string>
+	<key>continuemenu</key>
+	<string>sortedexceptioninteraction</string>
+	<key>delicateLoop</key>
+	<string>typicalreferencebehavior</string>
+	<key>flexinteraction</key>
+	<string>objectSkewY</string>
+	<key>nativeGroup</key>
+	<string>shouldEmitDrawer</string>
+	<key>pinchablePrecision</key>
+	<string>backwardRouter</string>
+	<key>shouldBindReduction</key>
+	<string>shouldLayoutNorm</string>
+	<key>tabbarTail</key>
+	<string>canSaveBehavior</string>
+</dict>
+</plist>

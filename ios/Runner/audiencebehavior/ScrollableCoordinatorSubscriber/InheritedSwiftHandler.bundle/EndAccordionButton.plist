@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileWidget</key>
+	<string>resizableBinary</string>
+	<key>asynchronousTransformer</key>
+	<string>axisColor</string>
+	<key>cosineFormat</key>
+	<string>prepareShader</string>
+	<key>disabledStateless</key>
+	<string>tappableUtil</string>
+	<key>intuitiveBloc</key>
+	<string>switchRotation</string>
+	<key>lostSorter</key>
+	<string>publishSpine</string>
+	<key>musicCenter</key>
+	<string>responsiveMargin</string>
+	<key>mutableSignature</key>
+	<string>delegateconstraint</string>
+	<key>shouldHandleActivity</key>
+	<string>canListenBaseline</string>
+</dict>
+</plist>

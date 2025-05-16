@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleProtocol</key>
+	<string>hardTopic</string>
+	<key>activeStateful</key>
+	<string>exceptionAppearance</string>
+	<key>declarativeMatrix</key>
+	<string>activeConnector</string>
+	<key>discardedtask</key>
+	<string>collectionTransparency</string>
+	<key>inheritedPriority</key>
+	<string>imperativeColor</string>
+	<key>materializeprogressbar</key>
+	<string>mediumservice</string>
+	<key>permutationIndex</key>
+	<string>resultKind</string>
+	<key>robustScenario</key>
+	<string>displayAlignment</string>
+	<key>scrollableRoute</key>
+	<string>marshalTransition</string>
+	<key>shouldobservedimension</key>
+	<string>canUnmountMonster</string>
+</dict>
+</plist>

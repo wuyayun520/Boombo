@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralBehavior</key>
+	<string>heapLeft</string>
+	<key>ignoredcompletion</key>
+	<string>collectiontransparency</string>
+	<key>multiTween</key>
+	<string>tensorRequest</string>
+	<key>shouldPersistAspectRatio</key>
+	<string>hashname</string>
+	<key>unactivatedCharacter</key>
+	<string>canKeepMobile</string>
+	<key>unmountanimatedcontainer</key>
+	<string>statefulRotation</string>
+	<key>unregisterresponse</key>
+	<string>shouldPauseOptimizer</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetShade</key>
+	<string>canResumeColumn</string>
+	<key>granularVolume</key>
+	<string>deliveryPosition</string>
+	<key>iconTop</key>
+	<string>indicatorBound</string>
+	<key>infoBorder</key>
+	<string>offsetCurve</string>
+	<key>invisibleHeap</key>
+	<string>hierarchicalSkirt</string>
+	<key>isolateSpeed</key>
+	<string>cacheMobile</string>
+	<key>missionResponse</key>
+	<string>createQueue</string>
+	<key>shouldInflateScale</key>
+	<string>audioTension</string>
+	<key>strengthAlignment</key>
+	<string>functionalWrapper</string>
+	<key>tensorAscent</key>
+	<string>canStreamGradient</string>
+</dict>
+</plist>

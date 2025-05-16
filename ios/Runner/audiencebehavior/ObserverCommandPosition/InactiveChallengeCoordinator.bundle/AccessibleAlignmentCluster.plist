@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityFormat</key>
+	<string>currentBullet</string>
+	<key>currentTernary</key>
+	<string>nodeflags</string>
+	<key>customizedText</key>
+	<string>batchType</string>
+	<key>joinerShape</key>
+	<string>drawVector</string>
+	<key>lastMovement</key>
+	<string>interactiveequalization</string>
+	<key>oncontractionchanged</key>
+	<string>metadatathancomposite</string>
+	<key>registerindicator</key>
+	<string>custompaintMargin</string>
+	<key>shouldDismissMovement</key>
+	<string>disabledMaterializer</string>
+	<key>substantialWrapper</key>
+	<string>canDispatchCell</string>
+	<key>timeSpacing</key>
+	<string>attachAnimation</string>
+</dict>
+</plist>

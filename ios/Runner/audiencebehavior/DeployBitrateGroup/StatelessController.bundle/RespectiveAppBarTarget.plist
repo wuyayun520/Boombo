@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineOrigin</key>
+	<string>navigatorframeworkacceleration</string>
+	<key>completercount</key>
+	<string>shouldmountedaxis</string>
+	<key>dedicatedBehavior</key>
+	<string>canPublishMaterial</string>
+	<key>dynamicFormat</key>
+	<string>shouldMountedMultiplication</string>
+	<key>explicitSwift</key>
+	<string>customizedTable</string>
+	<key>shouldDismissResource</key>
+	<string>webBuffer</string>
+	<key>shouldNotifyBrush</key>
+	<string>mapBound</string>
+</dict>
+</plist>

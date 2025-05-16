@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerisolate</key>
+	<string>sustainableTentative</string>
+	<key>elasticBorder</key>
+	<string>unsortedBuilder</string>
+	<key>ignoredButton</key>
+	<string>canResumeMediaQuery</string>
+	<key>inheritedLayout</key>
+	<string>oldSubscriber</string>
+	<key>isConsumer</key>
+	<string>exitAllocator</string>
+	<key>projectSkewY</key>
+	<string>diffableModal</string>
+	<key>referenceSize</key>
+	<string>momentumDirection</string>
+	<key>shaderlikedecorator</key>
+	<string>isImage</string>
+</dict>
+</plist>

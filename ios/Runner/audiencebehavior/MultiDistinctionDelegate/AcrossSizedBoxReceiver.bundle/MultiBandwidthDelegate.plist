@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customPainter</key>
+	<string>tweakVisibility</string>
+	<key>customTexture</key>
+	<string>enabledDelivery</string>
+	<key>granularConstraint</key>
+	<string>fragmentsAcceleration</string>
+	<key>prevDispatcher</key>
+	<string>cubitDelay</string>
+	<key>protectedCapacity</key>
+	<string>shouldRouteTool</string>
+	<key>selectorindex</key>
+	<string>paintText</string>
+</dict>
+</plist>

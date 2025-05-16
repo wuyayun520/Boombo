@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureconfiguration</key>
+	<string>sophisticatedWorkflow</string>
+	<key>concretePolyfill</key>
+	<string>publicInterface</string>
+	<key>filterTail</key>
+	<string>reusableCapsule</string>
+	<key>mendDelay</key>
+	<string>restartDelegate</string>
+	<key>shouldBindSignature</key>
+	<string>uniformSingleton</string>
+	<key>synchronousSize</key>
+	<string>modulusVariable</string>
+	<key>uniformConnector</key>
+	<string>unmountNorm</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionCount</key>
+	<string>canLoadColumn</string>
+	<key>constraintformappearance</key>
+	<string>hierarchicalBloc</string>
+	<key>crudeSorter</key>
+	<string>projectionSaturation</string>
+	<key>descriptorMargin</key>
+	<string>canProcessSlider</string>
+	<key>desktopRemainder</key>
+	<string>discardedMatrix</string>
+	<key>multiIcon</key>
+	<string>similarFilter</string>
+	<key>referenceVelocity</key>
+	<string>canPushSample</string>
+	<key>replicaMomentum</key>
+	<string>commondrawer</string>
+	<key>shouldresumevariant</key>
+	<string>subpixelversusaction</string>
+</dict>
+</plist>

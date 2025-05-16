@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completiontheme</key>
+	<string>processtangent</string>
+	<key>disabledSemantics</key>
+	<string>annotateCoordinator</string>
+	<key>hierarchicalComponent</key>
+	<string>tabbarinterval</string>
+	<key>localizationbyjob</key>
+	<string>compileMetadata</string>
+	<key>normalanimationopacity</key>
+	<string>fixedDecoration</string>
+	<key>scrollableTask</key>
+	<string>specifyCapacity</string>
+	<key>semanticsDensity</key>
+	<string>oneffectchanged</string>
+	<key>shouldPrepareChallenge</key>
+	<string>interpolationDistance</string>
+	<key>skipprovider</key>
+	<string>shouldRouteChannels</string>
+	<key>slashpolygon</key>
+	<string>shouldYieldCell</string>
+</dict>
+</plist>

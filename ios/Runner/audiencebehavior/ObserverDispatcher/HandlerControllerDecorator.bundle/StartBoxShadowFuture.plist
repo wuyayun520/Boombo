@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audiospacing</key>
+	<string>mediocrePoint</string>
+	<key>cupertinodescriptiontheme</key>
+	<string>converterDelay</string>
+	<key>disclaimerFeedback</key>
+	<string>declarativecurve</string>
+	<key>enabledState</key>
+	<string>desktopParticle</string>
+	<key>modulustypefeedback</key>
+	<string>gesturecontroller</string>
+	<key>numericalTraversal</key>
+	<string>descentColor</string>
+	<key>semanticoffsettransparency</key>
+	<string>radiusFlyweight</string>
+	<key>trianglesOffset</key>
+	<string>pinchableThreshold</string>
+</dict>
+</plist>

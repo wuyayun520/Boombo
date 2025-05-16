@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinePressure</key>
+	<string>shouldSetStateCycle</string>
+	<key>cellSpacing</key>
+	<string>renderNorm</string>
+	<key>consumptionBrightness</key>
+	<string>flexInteraction</string>
+	<key>listviewName</key>
+	<string>completionbehavior</string>
+	<key>mechanismhead</key>
+	<string>animatenotification</string>
+	<key>shouldDisconnectBatch</key>
+	<string>resolverversustask</string>
+	<key>techniqueimage</key>
+	<string>lostAudio</string>
+	<key>tensorBatch</key>
+	<string>completerDirection</string>
+	<key>usecaseHue</key>
+	<string>spotOrigin</string>
+</dict>
+</plist>

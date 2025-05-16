@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderadapterinterval</key>
+	<string>tickerVariable</string>
+	<key>directConsumer</key>
+	<string>deflateButton</string>
+	<key>lazyDropdownButton</key>
+	<string>comprehensivebuilder</string>
+	<key>liteRadio</key>
+	<string>pushSession</string>
+	<key>mediuminteractor</key>
+	<string>extensionSpacing</string>
+	<key>normalcompleter</key>
+	<string>largeComposition</string>
+	<key>protectedDrawer</key>
+	<string>unbindMatrix</string>
+</dict>
+</plist>

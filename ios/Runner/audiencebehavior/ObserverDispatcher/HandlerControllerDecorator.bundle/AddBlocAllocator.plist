@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelTop</key>
+	<string>sophisticatedConstraint</string>
+	<key>reusableOptimizer</key>
+	<string>interactiveStep</string>
+	<key>sequentialScene</key>
+	<string>validateMediaQuery</string>
+	<key>shouldPauseTabBar</key>
+	<string>showmaster</string>
+	<key>stepequivalent</key>
+	<string>shouldRenderMaster</string>
+</dict>
+</plist>

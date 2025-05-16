@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardService</key>
+	<string>hyperbolicCurve</string>
+	<key>positionmode</key>
+	<string>subtleComposition</string>
+	<key>primaryZone</key>
+	<string>navigatorStatus</string>
+	<key>transformerInterval</key>
+	<string>listenMenu</string>
+</dict>
+</plist>

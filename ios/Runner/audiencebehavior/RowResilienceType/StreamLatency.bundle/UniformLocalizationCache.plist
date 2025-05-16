@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousFuture</key>
+	<string>diffableSlash</string>
+	<key>criticalPoint</key>
+	<string>parallelImage</string>
+	<key>defaultObserver</key>
+	<string>shouldSubscribeAccessory</string>
+	<key>directPopup</key>
+	<string>screenScope</string>
+	<key>intuitiveScale</key>
+	<string>replaceScene</string>
+	<key>normalchapter</key>
+	<string>delegateprocesspadding</string>
+	<key>pinchableProvider</key>
+	<string>multiplicationOperation</string>
+</dict>
+</plist>

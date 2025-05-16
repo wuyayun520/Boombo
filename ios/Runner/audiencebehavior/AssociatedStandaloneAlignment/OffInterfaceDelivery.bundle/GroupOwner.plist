@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCatalyst</key>
+	<string>reusableChapter</string>
+	<key>autoJoiner</key>
+	<string>desktopScale</string>
+	<key>chartstateappearance</key>
+	<string>difficultThread</string>
+	<key>greatDetail</key>
+	<string>fixedScreen</string>
+	<key>infoshape</key>
+	<string>gesturedetectorFunction</string>
+	<key>largeBuilder</key>
+	<string>nodesystemskewy</string>
+	<key>publishbutton</key>
+	<string>pushEntity</string>
+	<key>shouldProcessAxis</key>
+	<string>subscriberOrientation</string>
+</dict>
+</plist>

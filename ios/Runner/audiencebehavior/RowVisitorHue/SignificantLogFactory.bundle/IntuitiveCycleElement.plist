@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferDuration</key>
+	<string>columnSize</string>
+	<key>directlyscope</key>
+	<string>shouldUnbindController</string>
+	<key>dispatchstep</key>
+	<string>concurrentTabBar</string>
+	<key>liteSelector</key>
+	<string>quitError</string>
+	<key>mastertaskdensity</key>
+	<string>iscompletion</string>
+	<key>shouldnavigatemedia</key>
+	<string>diversifiedDuration</string>
+	<key>sizedboxType</key>
+	<string>comprehensiveSearcher</string>
+	<key>sliderpervisitor</key>
+	<string>responderOpacity</string>
+	<key>usecaseplatformappearance</key>
+	<string>signDensity</string>
+</dict>
+</plist>

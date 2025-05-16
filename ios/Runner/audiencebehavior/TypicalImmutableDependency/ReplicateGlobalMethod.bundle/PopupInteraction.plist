@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateopacity</key>
+	<string>canPersistKernel</string>
+	<key>materialRenderer</key>
+	<string>canPublishMomentum</string>
+	<key>materialtransition</key>
+	<string>shouldDisposeConstraint</string>
+	<key>nibmechanism</key>
+	<string>canPushOperation</string>
+	<key>shouldDismissNavigation</key>
+	<string>shouldBuildTable</string>
+	<key>tensorExponent</key>
+	<string>hasOption</string>
+</dict>
+</plist>

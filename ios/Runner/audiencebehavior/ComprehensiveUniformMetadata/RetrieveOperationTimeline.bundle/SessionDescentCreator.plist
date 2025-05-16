@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileIntensity</key>
+	<string>largeAmortization</string>
+	<key>customWidget</key>
+	<string>popupCenter</string>
+	<key>flexibleEqualization</key>
+	<string>repositoryactivityresponse</string>
+	<key>grayscaleVisibility</key>
+	<string>observeractiondepth</string>
+	<key>gridcharacteristic</key>
+	<string>debugDelegate</string>
+	<key>joinerDepth</key>
+	<string>celldensity</string>
+	<key>rapidMap</key>
+	<string>shouldKeepProject</string>
+	<key>sensoradaptervisible</key>
+	<string>symmetricstate</string>
+	<key>shouldKeepConsumer</key>
+	<string>accordionBuffer</string>
+	<key>standaloneStep</key>
+	<string>elasticAspectRatio</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachnorm</key>
+	<string>cellName</string>
+	<key>displayableMonster</key>
+	<string>canTrainMargin</string>
+	<key>lazyTheme</key>
+	<string>smartGrayscale</string>
+	<key>localconsumption</key>
+	<string>uniformPoint</string>
+	<key>protectedSubscriber</key>
+	<string>requiredexception</string>
+	<key>retainedDetector</key>
+	<string>optionFeedback</string>
+</dict>
+</plist>

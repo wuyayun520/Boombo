@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleExtension</key>
+	<string>draweropacity</string>
+	<key>crucialPlayback</key>
+	<string>modalResponse</string>
+	<key>injectionAppearance</key>
+	<string>declarativeLifecycle</string>
+	<key>invisibleCycle</key>
+	<string>heapValue</string>
+	<key>mobileRect</key>
+	<string>smartSegment</string>
+	<key>onconstrainttap</key>
+	<string>canHandleUsage</string>
+	<key>subpixelwithoutcycle</key>
+	<string>anchorwithbuffer</string>
+</dict>
+</plist>

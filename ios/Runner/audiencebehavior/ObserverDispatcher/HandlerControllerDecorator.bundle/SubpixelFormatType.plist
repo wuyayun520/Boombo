@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardExtension</key>
+	<string>shouldProcessCupertino</string>
+	<key>diversifiedconsumerposition</key>
+	<string>queueOrigin</string>
+	<key>mediumSubscription</key>
+	<string>imageValidation</string>
+	<key>mobileKernel</key>
+	<string>detachPageView</string>
+	<key>shouldHandleMission</key>
+	<string>containerTop</string>
+	<key>startpriority</key>
+	<string>entityMediator</string>
+	<key>uniformrect</key>
+	<string>sharedStoryboard</string>
+	<key>zoneOrientation</key>
+	<string>sanitizeGraph</string>
+</dict>
+</plist>

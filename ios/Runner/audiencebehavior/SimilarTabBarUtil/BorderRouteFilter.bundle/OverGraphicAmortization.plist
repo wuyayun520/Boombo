@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedInstruction</key>
+	<string>widgetsize</string>
+	<key>constraintphasemargin</key>
+	<string>aspectDepth</string>
+	<key>descentFeedback</key>
+	<string>consumerBrightness</string>
+	<key>endlog</key>
+	<string>findBuilder</string>
+	<key>lastData</key>
+	<string>shouldAttachOption</string>
+	<key>mapcyclespacing</key>
+	<string>rebuildConvolution</string>
+	<key>occasionBrightness</key>
+	<string>persistentDimension</string>
+	<key>shaderFormat</key>
+	<string>basicConstraint</string>
+	<key>smartVector</key>
+	<string>collectionTemple</string>
+</dict>
+</plist>

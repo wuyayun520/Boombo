@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeRenderer</key>
+	<string>easyConsumption</string>
+	<key>defaultShader</key>
+	<string>switchFeedback</string>
+	<key>denseerrordistance</key>
+	<string>prevunarycount</string>
+	<key>shouldRenderDescriptor</key>
+	<string>scaffoldSingleton</string>
+	<key>sliderwithoperation</key>
+	<string>storeQueue</string>
+</dict>
+</plist>

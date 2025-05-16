@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerspacing</key>
+	<string>movechapter</string>
+	<key>durationPosition</key>
+	<string>chapterFacade</string>
+	<key>tickerstyle</key>
+	<string>normalContrast</string>
+</dict>
+</plist>

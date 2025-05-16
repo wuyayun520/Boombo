@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachetint</key>
+	<string>combineProvider</string>
+	<key>eagerStream</key>
+	<string>advancedLog</string>
+	<key>mergerInset</key>
+	<string>publicresource</string>
+	<key>scrollableOptimizer</key>
+	<string>emitterorientation</string>
+	<key>significantInteractor</key>
+	<string>savedropdownbutton</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionelasticity</key>
+	<string>capsuleLocation</string>
+	<key>functionalDependency</key>
+	<string>geometricAspect</string>
+	<key>grayscaleDensity</key>
+	<string>allocateManager</string>
+	<key>prevCertificate</key>
+	<string>effectForm</string>
+	<key>trianglesTheme</key>
+	<string>immediateCustomPaint</string>
+</dict>
+</plist>

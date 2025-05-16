@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeequipment</key>
+	<string>dedicatedCaption</string>
+	<key>dedicatedLatency</key>
+	<string>rapidExpanded</string>
+	<key>delicateShader</key>
+	<string>interactiveTransformer</string>
+	<key>globaltitleoffset</key>
+	<string>largeLatency</string>
+	<key>graphicSkewX</key>
+	<string>radiusLevel</string>
+	<key>kernelLeft</key>
+	<string>shouldEncodeShader</string>
+	<key>nativeExponent</key>
+	<string>activatednodeskewx</string>
+	<key>routerMargin</key>
+	<string>referenceTask</string>
+</dict>
+</plist>

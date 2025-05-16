@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyBorder</key>
+	<string>defaultTable</string>
+	<key>discardedStack</key>
+	<string>shouldAttachTangent</string>
+	<key>displayableChannel</key>
+	<string>shouldLoadPromise</string>
+	<key>isScaffold</key>
+	<string>symmetricController</string>
+	<key>optimizercenter</key>
+	<string>isexponent</string>
+	<key>resetresponse</key>
+	<string>shouldattachrole</string>
+	<key>shouldDisposeConsumer</key>
+	<string>shouldPublishSemantics</string>
+	<key>standaloneResolver</key>
+	<string>canDetachSkirt</string>
+</dict>
+</plist>

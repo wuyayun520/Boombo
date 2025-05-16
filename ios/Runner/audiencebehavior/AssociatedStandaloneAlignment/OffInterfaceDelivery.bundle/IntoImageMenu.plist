@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeProvision</key>
+	<string>createAnimatedContainer</string>
+	<key>directlyMetrics</key>
+	<string>granularBaseline</string>
+	<key>disparateSkirt</key>
+	<string>opaquePicker</string>
+	<key>erasesine</key>
+	<string>compositionSpacing</string>
+	<key>explicitProfile</key>
+	<string>composableHash</string>
+	<key>integerTop</key>
+	<string>keepNib</string>
+	<key>mediumthreaddistance</key>
+	<string>protocolResponse</string>
+	<key>onexpandedchanged</key>
+	<string>explicitSize</string>
+	<key>sortedReducer</key>
+	<string>subtleLifecycle</string>
+	<key>storagename</key>
+	<string>shouldTransformEffect</string>
+</dict>
+</plist>

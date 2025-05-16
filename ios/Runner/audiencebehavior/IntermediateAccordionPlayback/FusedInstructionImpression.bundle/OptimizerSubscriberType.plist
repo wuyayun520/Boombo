@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRow</key>
+	<string>euclideanMobile</string>
+	<key>fixedfinder</key>
+	<string>canFormatSegment</string>
+	<key>flexibleCanvas</key>
+	<string>shouldStopBullet</string>
+	<key>iterativequeue</key>
+	<string>optimizerflags</string>
+	<key>resilientEquipment</key>
+	<string>keySign</string>
+</dict>
+</plist>

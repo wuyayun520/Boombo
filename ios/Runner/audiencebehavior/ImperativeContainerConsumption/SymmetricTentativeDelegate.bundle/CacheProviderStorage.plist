@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileService</key>
+	<string>notationOrientation</string>
+	<key>continuepageview</key>
+	<string>smallEvent</string>
+	<key>customizedElasticity</key>
+	<string>shaderPhase</string>
+	<key>ephemeralCosine</key>
+	<string>shouldPopCompletion</string>
+	<key>interactioncoord</key>
+	<string>parallelPopup</string>
+	<key>interactoraroundactivity</key>
+	<string>buttontension</string>
+	<key>polyfillLeft</key>
+	<string>attachSkirt</string>
+	<key>publicRect</key>
+	<string>titleLocation</string>
+	<key>resolvelayout</key>
+	<string>interpolationandflyweight</string>
+</dict>
+</plist>

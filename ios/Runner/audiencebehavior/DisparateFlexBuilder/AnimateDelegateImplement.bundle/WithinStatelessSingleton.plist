@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePositioned</key>
+	<string>invokeEntity</string>
+	<key>agilebehavior</key>
+	<string>shouldSkipSlash</string>
+	<key>cartesianTimer</key>
+	<string>responsiveTabBar</string>
+	<key>cupertinosearcher</key>
+	<string>agileObserver</string>
+	<key>discardedBrush</key>
+	<string>profilePattern</string>
+	<key>elasticMonster</key>
+	<string>immediateInteraction</string>
+	<key>largeMediaQuery</key>
+	<string>shouldRebuildBox</string>
+	<key>shouldFinishCapsule</key>
+	<string>publishMaterial</string>
+	<key>skirtAcceleration</key>
+	<string>shareddependencyspeed</string>
+</dict>
+</plist>

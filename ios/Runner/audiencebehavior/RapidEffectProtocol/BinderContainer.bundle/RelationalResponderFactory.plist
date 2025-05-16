@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinestatestyle</key>
+	<string>keepprotocol</string>
+	<key>defaultkernel</key>
+	<string>currentrecursion</string>
+	<key>discardedVertex</key>
+	<string>criticalPositioned</string>
+	<key>elasticClipper</key>
+	<string>graphshape</string>
+	<key>iterativeComponent</key>
+	<string>loadSpine</string>
+	<key>originalPermutation</key>
+	<string>encodeTitle</string>
+	<key>storekindorientation</key>
+	<string>mapperAlignment</string>
+</dict>
+</plist>

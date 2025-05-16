@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalfinder</key>
+	<string>makeCubit</string>
+	<key>impactVelocity</key>
+	<string>giftAction</string>
+	<key>imperativeState</key>
+	<string>shouldPopMaterial</string>
+	<key>scrollablecontainervisible</key>
+	<string>tensorgraphic</string>
+	<key>shouldLayoutIndicator</key>
+	<string>draggableAnimator</string>
+	<key>titleSkewX</key>
+	<string>statefulCell</string>
+</dict>
+</plist>

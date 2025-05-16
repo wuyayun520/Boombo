@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertqueue</key>
+	<string>canPublishText</string>
+	<key>draggablemesh</key>
+	<string>prismaticThreshold</string>
+	<key>granularTaxonomy</key>
+	<string>eagerEffect</string>
+	<key>scrollPressure</key>
+	<string>traversalRight</string>
+	<key>semanticTask</key>
+	<string>unaryforparameter</string>
+	<key>sinevisible</key>
+	<string>samplenode</string>
+</dict>
+</plist>

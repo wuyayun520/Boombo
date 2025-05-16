@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedDescriptor</key>
+	<string>canTrainStep</string>
+	<key>containeroffset</key>
+	<string>parseHeap</string>
+	<key>iterativeRectangle</key>
+	<string>elasticSkin</string>
+	<key>marginwithoutcycle</key>
+	<string>rotateHash</string>
+	<key>mediatopic</key>
+	<string>crudeduration</string>
+	<key>shouldCacheSegue</key>
+	<string>dynamicBinder</string>
+	<key>shouldCreateLabel</key>
+	<string>providernearstructure</string>
+	<key>storecyclecolor</key>
+	<string>storeTicker</string>
+	<key>uniqueTable</key>
+	<string>tabbarContrast</string>
+</dict>
+</plist>

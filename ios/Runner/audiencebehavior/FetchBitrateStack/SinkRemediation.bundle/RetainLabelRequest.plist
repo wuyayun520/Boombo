@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbacklevelbound</key>
+	<string>compositionalGradient</string>
+	<key>gesturecontainkind</key>
+	<string>transitionawaytier</string>
+	<key>paintersize</key>
+	<string>integerFramework</string>
+	<key>shaderimpact</key>
+	<string>canCancelCustomPaint</string>
+	<key>shouldRestartShader</key>
+	<string>shouldTransitionBitrate</string>
+	<key>tensorTouch</key>
+	<string>iconScale</string>
+	<key>typicalPolygon</key>
+	<string>listenAsync</string>
+	<key>unactivatedUtil</key>
+	<string>shouldNavigateStateful</string>
+</dict>
+</plist>

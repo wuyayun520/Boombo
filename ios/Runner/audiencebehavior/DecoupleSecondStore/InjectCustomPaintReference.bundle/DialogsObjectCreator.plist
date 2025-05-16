@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableInformation</key>
+	<string>inflateRow</string>
+	<key>drawerDelay</key>
+	<string>pagerRate</string>
+	<key>receiverMomentum</key>
+	<string>logarithmTint</string>
+	<key>shouldpersistnavigator</key>
+	<string>shouldStreamNavigator</string>
+	<key>singletondensity</key>
+	<string>requiredSample</string>
+	<key>substantialModule</key>
+	<string>backwardPreview</string>
+</dict>
+</plist>

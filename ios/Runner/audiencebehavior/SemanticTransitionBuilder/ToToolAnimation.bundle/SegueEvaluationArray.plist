@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseDrawer</key>
+	<string>cleanTitle</string>
+	<key>labelmechanism</key>
+	<string>rectLeft</string>
+	<key>protectedResolver</key>
+	<string>benchmarkConstraint</string>
+	<key>sequentialConverter</key>
+	<string>chartFormat</string>
+	<key>shaderSkewY</key>
+	<string>persistentTernary</string>
+	<key>stackcoord</key>
+	<string>sophisticatedPublisher</string>
+	<key>transitiongrain</key>
+	<string>aspectmode</string>
+	<key>unmountslider</key>
+	<string>permutationContrast</string>
+</dict>
+</plist>

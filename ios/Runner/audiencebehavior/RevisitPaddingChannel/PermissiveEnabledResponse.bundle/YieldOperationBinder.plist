@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveElasticity</key>
+	<string>shouldAnimateDimension</string>
+	<key>borderKind</key>
+	<string>deployFactory</string>
+	<key>draggableScope</key>
+	<string>rapidslider</string>
+	<key>enabledContraction</key>
+	<string>lossStrategy</string>
+	<key>interfacestructurebehavior</key>
+	<string>backwardanimation</string>
+	<key>intuitiveRestriction</key>
+	<string>canInflateComposition</string>
+	<key>persistentInterpolation</key>
+	<string>persistlayer</string>
+	<key>spinemargin</key>
+	<string>rapidLocalization</string>
+</dict>
+</plist>

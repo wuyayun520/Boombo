@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianBox</key>
+	<string>shouldDetachLog</string>
+	<key>diffableText</key>
+	<string>shouldDismissStoryboard</string>
+	<key>shouldDetachBuilder</key>
+	<string>rapidInjection</string>
+	<key>shouldRebuildBoxShadow</key>
+	<string>numericalCell</string>
+	<key>shouldRestartSegue</key>
+	<string>cupertinoEntity</string>
+	<key>shouldYieldCard</key>
+	<string>capsuleAdapter</string>
+</dict>
+</plist>

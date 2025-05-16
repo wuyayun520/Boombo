@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directConstraint</key>
+	<string>delegateContext</string>
+	<key>elasticListView</key>
+	<string>cacheCanvas</string>
+	<key>fusedSegue</key>
+	<string>stackcontrast</string>
+	<key>nativeCard</key>
+	<string>connectGift</string>
+	<key>priorityoccasion</key>
+	<string>disposeDecoration</string>
+	<key>tickerkind</key>
+	<string>protocolRight</string>
+	<key>timelineAppearance</key>
+	<string>publishEquipment</string>
+	<key>usedCosine</key>
+	<string>shouldattachlayout</string>
+</dict>
+</plist>

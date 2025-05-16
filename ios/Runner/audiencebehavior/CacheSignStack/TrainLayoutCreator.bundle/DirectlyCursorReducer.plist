@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMap</key>
+	<string>subsequentDescent</string>
+	<key>baseEdge</key>
+	<string>shouldParseGrayscale</string>
+	<key>compositionalLayout</key>
+	<string>screenAction</string>
+	<key>operationactionbrightness</key>
+	<string>compositionalScope</string>
+	<key>optimizerlifecycle</key>
+	<string>cupertinoOverlay</string>
+	<key>originalNotation</key>
+	<string>enabledCompleter</string>
+	<key>radioPressure</key>
+	<string>processorvisible</string>
+	<key>shouldUnbindHistogram</key>
+	<string>eventFrequency</string>
+</dict>
+</plist>

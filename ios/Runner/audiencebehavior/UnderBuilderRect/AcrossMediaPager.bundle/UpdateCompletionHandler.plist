@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationincludevisitor</key>
+	<string>ephemeralIntegrity</string>
+	<key>axisForce</key>
+	<string>threadForce</string>
+	<key>contractionFormat</key>
+	<string>mapmatrix</string>
+	<key>pinchableObject</key>
+	<string>restartinteger</string>
+	<key>resetroute</key>
+	<string>shouldTransformTextField</string>
+	<key>timeMode</key>
+	<string>retainedPresenter</string>
+	<key>unsortedDimension</key>
+	<string>mountscene</string>
+</dict>
+</plist>

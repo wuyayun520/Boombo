@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoLoop</key>
+	<string>consultativeTitle</string>
+	<key>custompaintMode</key>
+	<string>ephemeralRange</string>
+	<key>makeview</key>
+	<string>customDimension</string>
+	<key>nativeFinder</key>
+	<string>inactiveOverlay</string>
+	<key>paintcanvas</key>
+	<string>typicalAspectRatio</string>
+	<key>shouldFetchBuilder</key>
+	<string>stepInterval</string>
+	<key>spriteVisibility</key>
+	<string>shouldProcessConstraint</string>
+	<key>standaloneResource</key>
+	<string>buildtool</string>
+	<key>techniqueDensity</key>
+	<string>hasrole</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMapper</key>
+	<string>lazyInteractor</string>
+	<key>concurrentOption</key>
+	<string>connectCanvas</string>
+	<key>constraintstate</key>
+	<string>mergerMargin</string>
+	<key>dispatchertype</key>
+	<string>advancedvideo</string>
+	<key>shouldDismissNavigator</key>
+	<string>throughputSpacing</string>
+	<key>smallFinder</key>
+	<string>positionStyle</string>
+	<key>staticRoute</key>
+	<string>intermediateException</string>
+</dict>
+</plist>

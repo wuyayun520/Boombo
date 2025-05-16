@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelfactory</key>
+	<string>primaryException</string>
+	<key>composableLayout</key>
+	<string>touchTransparency</string>
+	<key>dynamicworkflow</key>
+	<string>executeRect</string>
+	<key>mendValidation</key>
+	<string>selectedpageview</string>
+	<key>shouldemiticon</key>
+	<string>shouldFormatInstruction</string>
+	<key>shouldencodebase</key>
+	<string>oldLayout</string>
+</dict>
+</plist>

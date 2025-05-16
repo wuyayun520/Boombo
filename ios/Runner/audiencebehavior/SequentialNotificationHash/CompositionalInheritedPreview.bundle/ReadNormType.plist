@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentWrapper</key>
+	<string>showInterpolation</string>
+	<key>geometricInteractor</key>
+	<string>contractionTag</string>
+	<key>invisiblecapsule</key>
+	<string>composableDecoration</string>
+	<key>lostInterface</key>
+	<string>animatedVolume</string>
+	<key>resilientPolygon</key>
+	<string>presenterNumber</string>
+	<key>routemenu</key>
+	<string>invisibleCapacities</string>
+	<key>tabviewassystem</key>
+	<string>scrollerOrigin</string>
+	<key>tensorProgressBar</key>
+	<string>observerparametershade</string>
+</dict>
+</plist>

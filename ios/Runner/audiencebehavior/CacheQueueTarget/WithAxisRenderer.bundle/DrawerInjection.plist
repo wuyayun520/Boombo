@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSplitter</key>
+	<string>canUnbindArithmetic</string>
+	<key>denseTaxonomy</key>
+	<string>makeLabel</string>
+	<key>dropdownbuttonDuration</key>
+	<string>commonRadius</string>
+	<key>ignoredEntropy</key>
+	<string>notifyAnimatedContainer</string>
+	<key>shouldYieldGesture</key>
+	<string>disclaimerBehavior</string>
+	<key>shouldnotifyspecifier</key>
+	<string>shouldTransitionOperation</string>
+</dict>
+</plist>

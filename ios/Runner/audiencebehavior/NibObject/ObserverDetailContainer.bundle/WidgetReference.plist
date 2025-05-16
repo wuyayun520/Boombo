@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonLifecycle</key>
+	<string>providerDelay</string>
+	<key>equalizationDuration</key>
+	<string>scrollableInterface</string>
+	<key>multispritedelay</key>
+	<string>protectedMovement</string>
+	<key>sustainableLatency</key>
+	<string>lostMobile</string>
+</dict>
+</plist>

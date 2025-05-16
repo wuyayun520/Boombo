@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCapsule</key>
+	<string>menuactivityacceleration</string>
+	<key>displayablevolume</key>
+	<string>loaderDuration</string>
+	<key>expandedscale</key>
+	<string>shouldListenScroll</string>
+	<key>granularrestriction</key>
+	<string>widgetbesidevariable</string>
+	<key>immediatemoduluscoord</key>
+	<string>ignoredAmortization</string>
+	<key>indicatorContrast</key>
+	<string>crudeMaterial</string>
+	<key>iterativedurationalignment</key>
+	<string>remainderMethod</string>
+	<key>sliderSpacing</key>
+	<string>convertFeature</string>
+</dict>
+</plist>

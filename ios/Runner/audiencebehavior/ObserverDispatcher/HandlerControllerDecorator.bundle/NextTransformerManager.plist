@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocmechanism</key>
+	<string>configurationcompositetype</string>
+	<key>blocorientation</key>
+	<string>canSaveSlider</string>
+	<key>delicateManager</key>
+	<string>skirtProcess</string>
+	<key>oldOffset</key>
+	<string>conformInjection</string>
+	<key>sceneresponder</key>
+	<string>captureheap</string>
+	<key>shouldPrepareRemainder</key>
+	<string>compositionalLoop</string>
+	<key>shouldProcessUnary</key>
+	<string>selectedternary</string>
+	<key>transposeobserver</key>
+	<string>textfieldAppearance</string>
+</dict>
+</plist>

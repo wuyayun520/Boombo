@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>executeconstraint</key>
+	<string>factoryHead</string>
+	<key>priorityvarstyle</key>
+	<string>shouldConnectAspectRatio</string>
+	<key>scaffoldPosition</key>
+	<string>shoulddetachgradient</string>
+	<key>secondcheckbox</key>
+	<string>smartGraph</string>
+	<key>similarMomentum</key>
+	<string>descriptionEdge</string>
+</dict>
+</plist>

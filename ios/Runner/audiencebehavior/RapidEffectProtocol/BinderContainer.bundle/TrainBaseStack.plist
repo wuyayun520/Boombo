@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMedia</key>
+	<string>dedicatedTransformer</string>
+	<key>coordinatortop</key>
+	<string>touchSink</string>
+	<key>largeOffset</key>
+	<string>checkPreview</string>
+	<key>resolvertierflags</key>
+	<string>progressbarsincelevel</string>
+	<key>shouldBuildIcon</key>
+	<string>parseUtil</string>
+	<key>shouldFetchDropdownButton</key>
+	<string>oldLogarithm</string>
+	<key>similarContraction</key>
+	<string>significantAxis</string>
+	<key>statefulbutton</key>
+	<string>histogramstatemargin</string>
+</dict>
+</plist>

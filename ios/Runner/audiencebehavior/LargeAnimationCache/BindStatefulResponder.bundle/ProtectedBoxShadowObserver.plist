@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateawait</key>
+	<string>criticalCell</string>
+	<key>fixedData</key>
+	<string>schedulehash</string>
+	<key>kernelDelay</key>
+	<string>shouldProcessHistogram</string>
+	<key>nextResponse</key>
+	<string>normalEntropy</string>
+	<key>processgraph</key>
+	<string>canYieldConstraint</string>
+	<key>sampleLeft</key>
+	<string>formatisolate</string>
+</dict>
+</plist>

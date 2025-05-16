@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionposition</key>
+	<string>dismissDocument</string>
+	<key>delegatepager</key>
+	<string>expandedborder</string>
+	<key>immutableoptionshade</key>
+	<string>sophisticatedicon</string>
+	<key>interactiveException</key>
+	<string>navigationinformation</string>
+	<key>liteController</key>
+	<string>similarTriangles</string>
+	<key>observermethodcount</key>
+	<string>positionedbloc</string>
+	<key>oldGradient</key>
+	<string>canPushWorkflow</string>
+	<key>shouldHandleMatrix</key>
+	<string>imageForce</string>
+	<key>smartPermutation</key>
+	<string>shouldserializetabbar</string>
+</dict>
+</plist>

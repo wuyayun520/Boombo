@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetnumbertail</key>
+	<string>independentMetrics</string>
+	<key>concurrentContraction</key>
+	<string>binaryoperationvisible</string>
+	<key>custompaintanimation</key>
+	<string>tweencoord</string>
+	<key>kernelarchitecture</key>
+	<string>cleanHandler</string>
+	<key>operationrepository</key>
+	<string>canDecodeCompletion</string>
+	<key>shouldDecodeFuture</key>
+	<string>decodehandler</string>
+	<key>specifyprovider</key>
+	<string>shouldRebuildNavigation</string>
+	<key>statefulspineshade</key>
+	<string>mediumFuture</string>
+</dict>
+</plist>

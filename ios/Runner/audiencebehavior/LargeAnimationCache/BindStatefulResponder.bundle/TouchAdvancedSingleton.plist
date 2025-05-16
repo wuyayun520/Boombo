@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTabBar</key>
+	<string>updateUseCase</string>
+	<key>comprehensiveClipper</key>
+	<string>requiredGrid</string>
+	<key>metadataactivityflags</key>
+	<string>unactivatedScheduler</string>
+	<key>notificationsaturation</key>
+	<string>significantSchema</string>
+	<key>pivotalActivity</key>
+	<string>effectRate</string>
+</dict>
+</plist>

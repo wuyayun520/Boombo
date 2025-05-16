@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoEffect</key>
+	<string>prepareHistogram</string>
+	<key>litetopic</key>
+	<string>standaloneRole</string>
+	<key>standaloneInfo</key>
+	<string>persistentPermutation</string>
+	<key>temporaryrectangle</key>
+	<string>disparateStateful</string>
+	<key>uniqueCapacities</key>
+	<string>lifecycleVisibility</string>
+</dict>
+</plist>

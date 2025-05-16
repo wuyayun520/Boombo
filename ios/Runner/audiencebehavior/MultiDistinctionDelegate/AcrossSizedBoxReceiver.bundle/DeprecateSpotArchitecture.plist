@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventLocation</key>
+	<string>momentumResponse</string>
+	<key>lastTolerance</key>
+	<string>scrollRight</string>
+	<key>shouldConnectBullet</key>
+	<string>escalateError</string>
+	<key>staticRequest</key>
+	<string>threadAlignment</string>
+</dict>
+</plist>

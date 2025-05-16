@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeRoute</key>
+	<string>missionResponse</string>
+	<key>dedicatedIntegrity</key>
+	<string>cosineOrigin</string>
+	<key>mendBound</key>
+	<string>showBorder</string>
+	<key>progressbarTail</key>
+	<string>restartTouch</string>
+	<key>shouldCacheFlex</key>
+	<string>symmetricException</string>
+	<key>shouldUnmountedSpine</key>
+	<string>semanticsLevel</string>
+</dict>
+</plist>

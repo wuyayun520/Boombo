@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedEntity</key>
+	<string>subpixelOpacity</string>
+	<key>blocaroundmethod</key>
+	<string>storageoperation</string>
+	<key>chaptertint</key>
+	<string>shouldEmitInkWell</string>
+	<key>currentFinder</key>
+	<string>constantBrightness</string>
+	<key>shouldSkipOptimizer</key>
+	<string>shouldPaintSkin</string>
+	<key>shouldUnmountedBoxShadow</key>
+	<string>respectiveInfrastructure</string>
+	<key>specifycatalystforce</key>
+	<string>animatedFilter</string>
+	<key>stopcoordinator</key>
+	<string>semanticTween</string>
+	<key>tickerviastructure</key>
+	<string>canCreateDialogs</string>
+</dict>
+</plist>

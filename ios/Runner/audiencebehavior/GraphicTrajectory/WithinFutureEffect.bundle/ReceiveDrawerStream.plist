@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblebutton</key>
+	<string>deflateIntensity</string>
+	<key>animatedSizedBox</key>
+	<string>draggableTabBar</string>
+	<key>immutableMultiplication</key>
+	<string>integerPlatform</string>
+	<key>immutableTable</key>
+	<string>shouldUnbindView</string>
+	<key>isSubpixel</key>
+	<string>requestgesturedetector</string>
+	<key>missionOffset</key>
+	<string>displayStorage</string>
+	<key>pageviewFrequency</key>
+	<string>pendingRichText</string>
+	<key>shoulddismisstable</key>
+	<string>disparatePermutation</string>
+	<key>smartGrain</key>
+	<string>setstateSignature</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedInterface</key>
+	<string>requiredanimation</string>
+	<key>disconnectinjection</key>
+	<string>routeDecoration</string>
+	<key>mendstatus</key>
+	<string>liteWrapper</string>
+	<key>offsettype</key>
+	<string>deserializePrecision</string>
+	<key>refactorslider</key>
+	<string>interactortransparency</string>
+	<key>secondCapacities</key>
+	<string>detectorSpacing</string>
+</dict>
+</plist>

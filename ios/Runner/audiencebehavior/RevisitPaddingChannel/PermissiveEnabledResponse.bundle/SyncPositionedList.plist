@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateintensity</key>
+	<string>mobileListener</string>
+	<key>asynchronousPicker</key>
+	<string>unsortedText</string>
+	<key>creatorSize</key>
+	<string>benchmarkRow</string>
+	<key>difficultSession</key>
+	<string>scenarioAcceleration</string>
+	<key>mobileAscent</key>
+	<string>diversifiedMediaQuery</string>
+	<key>reduceplayback</key>
+	<string>shouldPushCycle</string>
+	<key>savegraphic</key>
+	<string>scrollableSchema</string>
+	<key>shouldDisposeLogarithm</key>
+	<string>textureVisibility</string>
+	<key>shouldProcessMobile</key>
+	<string>easyTicker</string>
+</dict>
+</plist>

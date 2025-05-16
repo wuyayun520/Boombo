@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistatcommand</key>
+	<string>prismaticMusic</string>
+	<key>relationalAction</key>
+	<string>shouldtransitionchecklist</string>
+	<key>shouldCreateRoute</key>
+	<string>monsterrouter</string>
+	<key>smallNotation</key>
+	<string>pendingPoint</string>
+	<key>subsequentSegue</key>
+	<string>shouldPauseGradient</string>
+</dict>
+</plist>

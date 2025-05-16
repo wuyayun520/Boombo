@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderSpacing</key>
+	<string>grayscaleLevel</string>
+	<key>euclideanmetadata</key>
+	<string>smallLoader</string>
+	<key>factorySize</key>
+	<string>largeInstruction</string>
+	<key>frameState</key>
+	<string>persistentduration</string>
+	<key>largeDuration</key>
+	<string>aspectratioLayer</string>
+	<key>largeRepository</key>
+	<string>subtleStore</string>
+	<key>resizableTangent</key>
+	<string>canPaintAspect</string>
+	<key>slashTension</key>
+	<string>similarSearcher</string>
+	<key>spinemodescale</key>
+	<string>resilientScroller</string>
+</dict>
+</plist>

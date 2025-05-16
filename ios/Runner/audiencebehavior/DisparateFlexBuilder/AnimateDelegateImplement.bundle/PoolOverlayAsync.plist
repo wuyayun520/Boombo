@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardVelocity</key>
+	<string>documentPosition</string>
+	<key>diffablepopup</key>
+	<string>mechanismInterval</string>
+	<key>kernelTop</key>
+	<string>serviceFeedback</string>
+	<key>popupskewy</key>
+	<string>convolutionForm</string>
+	<key>scrollableconsumption</key>
+	<string>debugZone</string>
+	<key>shaderSpacing</key>
+	<string>shouldNotifyNotification</string>
+	<key>statelessbeyondoperation</key>
+	<string>cartesianEquipment</string>
+</dict>
+</plist>

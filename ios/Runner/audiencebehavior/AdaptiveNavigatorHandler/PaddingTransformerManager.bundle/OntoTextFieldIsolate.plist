@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleImage</key>
+	<string>opaqueTraversal</string>
+	<key>autoGrid</key>
+	<string>displayableMobile</string>
+	<key>basicContrast</key>
+	<string>cosineVariable</string>
+	<key>rectsize</key>
+	<string>resultDistance</string>
+	<key>replicaSaturation</key>
+	<string>activatedAlpha</string>
+	<key>strokeTail</key>
+	<string>timeroroperation</string>
+	<key>usedSprite</key>
+	<string>retainedFormat</string>
+</dict>
+</plist>

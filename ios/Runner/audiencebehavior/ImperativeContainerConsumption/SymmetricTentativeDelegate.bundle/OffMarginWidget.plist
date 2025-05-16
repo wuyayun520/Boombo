@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileReducer</key>
+	<string>providerasync</string>
+	<key>awaitpadding</key>
+	<string>webPrecision</string>
+	<key>hyperbolicLogarithm</key>
+	<string>anchorstyleshape</string>
+	<key>integersingletondelay</key>
+	<string>singleCard</string>
+	<key>layoutPadding</key>
+	<string>shouldPresentGate</string>
+	<key>shouldStartEffect</key>
+	<string>missedData</string>
+	<key>shouldSubscribeBinary</key>
+	<string>maxGestureDetector</string>
+	<key>smartFinder</key>
+	<string>mitigateRouter</string>
+	<key>trajectoryRate</key>
+	<string>shouldUnmountPositioned</string>
+</dict>
+</plist>

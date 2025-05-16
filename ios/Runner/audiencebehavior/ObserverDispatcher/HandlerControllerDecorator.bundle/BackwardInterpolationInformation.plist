@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directResult</key>
+	<string>equalizationLeft</string>
+	<key>enabledUsage</key>
+	<string>dialogsStyle</string>
+	<key>interceptcallback</key>
+	<string>newestBuilder</string>
+	<key>relationalPageView</key>
+	<string>canBindReference</string>
+	<key>sineLeft</key>
+	<string>spotMode</string>
+</dict>
+</plist>

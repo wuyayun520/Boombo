@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionalignment</key>
+	<string>normalcosineduration</string>
+	<key>assetFrequency</key>
+	<string>completionsorter</string>
+	<key>immediateCursor</key>
+	<string>inheritedMission</string>
+	<key>observerBorder</key>
+	<string>timeDuration</string>
+</dict>
+</plist>

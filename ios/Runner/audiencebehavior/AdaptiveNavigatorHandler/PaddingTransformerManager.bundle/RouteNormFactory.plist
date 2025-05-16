@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSegment</key>
+	<string>stackSkewY</string>
+	<key>defaultSession</key>
+	<string>soundStyle</string>
+	<key>defaultswift</key>
+	<string>permissiveShader</string>
+	<key>sensorRate</key>
+	<string>typicalTextField</string>
+	<key>statelessVolume</key>
+	<string>canConnectBitrate</string>
+	<key>themePressure</key>
+	<string>animatebutton</string>
+</dict>
+</plist>

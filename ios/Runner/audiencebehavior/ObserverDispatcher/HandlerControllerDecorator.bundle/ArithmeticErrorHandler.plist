@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeVisible</key>
+	<string>saveImage</string>
+	<key>impactTail</key>
+	<string>shouldStopPet</string>
+	<key>interactiveResult</key>
+	<string>currentTheme</string>
+	<key>sequentialKernel</key>
+	<string>statefulMaterializer</string>
+	<key>shaderTransparency</key>
+	<string>rapidDescription</string>
+	<key>shouldDecodeCycle</key>
+	<string>extendEvent</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowShade</key>
+	<string>shouldSetStateTheme</string>
+	<key>elasticLog</key>
+	<string>canAttachMovement</string>
+	<key>intermediatePolyfill</key>
+	<string>shaderOffset</string>
+	<key>intuitiveChannels</key>
+	<string>materialresponseoffset</string>
+	<key>missedManager</key>
+	<string>optimizeFrame</string>
+	<key>requiredrepository</key>
+	<string>respectiveResult</string>
+	<key>shouldCancelLayout</key>
+	<string>saveProtocol</string>
+	<key>sophisticatedWidget</key>
+	<string>shouldDispatchScale</string>
+</dict>
+</plist>

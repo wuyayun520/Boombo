@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorBound</key>
+	<string>resultFeedback</string>
+	<key>protectedElement</key>
+	<string>entitymomentum</string>
+	<key>rapidRenderer</key>
+	<string>permanentalignment</string>
+	<key>scrollType</key>
+	<string>collectionActivity</string>
+	<key>shouldNavigateProtocol</key>
+	<string>relationalImpression</string>
+	<key>shouldSetStateCube</key>
+	<string>actionAppearance</string>
+	<key>shouldShowPainter</key>
+	<string>unsortedBox</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerCenter</key>
+	<string>uniformBinary</string>
+	<key>fixedSpot</key>
+	<string>layoutAnimation</string>
+	<key>loopInset</key>
+	<string>roleBuffer</string>
+	<key>pinchableCallback</key>
+	<string>plateEnvironment</string>
+	<key>reactiveProject</key>
+	<string>erasepoint</string>
+	<key>serviceLeft</key>
+	<string>criticalPolyfill</string>
+	<key>smartColumn</key>
+	<string>analyzeDecoration</string>
+	<key>tabviewFlags</key>
+	<string>subpixelloop</string>
+	<key>taxonomyTheme</key>
+	<string>statelessRequest</string>
+</dict>
+</plist>

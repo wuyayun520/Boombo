@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionFlags</key>
+	<string>characteristicName</string>
+	<key>iterativeDecoration</key>
+	<string>shouldMountedCanvas</string>
+	<key>liteElasticity</key>
+	<string>defaultshader</string>
+	<key>shouldSubscribeIcon</key>
+	<string>temporaryInterpolation</string>
+	<key>statusResponse</key>
+	<string>skinBound</string>
+</dict>
+</plist>

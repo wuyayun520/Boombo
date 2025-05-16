@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAlert</key>
+	<string>shouldCacheInkWell</string>
+	<key>brushskewx</key>
+	<string>shouldFetchLabel</string>
+	<key>mediumTime</key>
+	<string>entropyFramework</string>
+	<key>shouldNotifyIndicator</key>
+	<string>primaryImpact</string>
+	<key>touchOrigin</key>
+	<string>shouldDispatchMaterial</string>
+	<key>typicalbitratevisibility</key>
+	<string>graphinmediator</string>
+	<key>webSearcher</key>
+	<string>shouldPersistCustomPaint</string>
+</dict>
+</plist>

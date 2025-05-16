@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileAxis</key>
+	<string>quaternionColor</string>
+	<key>disabledEquipment</key>
+	<string>decorationInteraction</string>
+	<key>repositoryRight</key>
+	<string>switchtaskcontrast</string>
+	<key>shouldPresentHeap</key>
+	<string>decorationbeyondfacade</string>
+	<key>shouldRouteCollection</key>
+	<string>multiPoint</string>
+	<key>transitionInterval</key>
+	<string>shouldPublishStateful</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxflyweightformat</key>
+	<string>dependencyInterpreter</string>
+	<key>retainconsumer</key>
+	<string>offsetProcess</string>
+	<key>statelessEquipment</key>
+	<string>releaseInterface</string>
+</dict>
+</plist>

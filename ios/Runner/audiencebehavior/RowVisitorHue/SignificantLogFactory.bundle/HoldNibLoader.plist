@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterdepth</key>
+	<string>tangentOffset</string>
+	<key>immutableMission</key>
+	<string>accessibleMap</string>
+	<key>norminteraction</key>
+	<string>performResult</string>
+	<key>shouldTrainScaffold</key>
+	<string>texturebehavior</string>
+	<key>statusHead</key>
+	<string>stopCard</string>
+</dict>
+</plist>

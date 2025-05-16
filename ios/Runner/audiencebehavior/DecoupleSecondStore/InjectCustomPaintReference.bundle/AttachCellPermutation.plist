@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowDepth</key>
+	<string>disabledGraph</string>
+	<key>elasticCreator</key>
+	<string>priorityframe</string>
+	<key>requiredCupertino</key>
+	<string>greatStoryboard</string>
+	<key>shouldSetStatePainter</key>
+	<string>criticalChecklist</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedUseCase</key>
+	<string>coordinatorsingletonkind</string>
+	<key>dimensionsubscription</key>
+	<string>mountedMediaQuery</string>
+	<key>functionalListView</key>
+	<string>standaloneTabView</string>
+	<key>graphplatformsize</key>
+	<string>pointOffset</string>
+	<key>immediateStorage</key>
+	<string>lazyDecoration</string>
+	<key>intuitiveColumn</key>
+	<string>curveprototypedepth</string>
+	<key>mobileRect</key>
+	<string>lastBinary</string>
+	<key>normalbuttonscale</key>
+	<string>gesturedetectorfunctiontint</string>
+	<key>statefulDecoration</key>
+	<string>instantiateContainer</string>
+</dict>
+</plist>

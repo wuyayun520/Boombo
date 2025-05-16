@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeView</key>
+	<string>subtleDistinction</string>
+	<key>cursorvarresponse</key>
+	<string>transposelayer</string>
+	<key>directlyDelegate</key>
+	<string>shouldSerializeSpot</string>
+	<key>roleaudio</key>
+	<string>canTrainGate</string>
+	<key>shouldSerializeSkirt</key>
+	<string>originalLocalization</string>
+	<key>synchronousTransition</key>
+	<string>canSaveStack</string>
+	<key>usedThroughput</key>
+	<string>publicStoryboard</string>
+</dict>
+</plist>

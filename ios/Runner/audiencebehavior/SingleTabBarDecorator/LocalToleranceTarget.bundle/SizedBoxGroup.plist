@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elementmode</key>
+	<string>certificateFormat</string>
+	<key>futureincludestyle</key>
+	<string>advancedNode</string>
+	<key>immutableRange</key>
+	<string>canTransformRoute</string>
+	<key>lossalignment</key>
+	<string>buildStateless</string>
+	<key>missionfactory</key>
+	<string>priorCapsule</string>
+	<key>shouldPaintPainter</key>
+	<string>hierarchicalDrawer</string>
+	<key>subsequentConverter</key>
+	<string>beginnerCupertino</string>
+	<key>sustainableinterface</key>
+	<string>canDispatchModulus</string>
+</dict>
+</plist>

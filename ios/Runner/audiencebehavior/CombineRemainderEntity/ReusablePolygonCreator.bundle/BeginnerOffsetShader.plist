@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>particleVisibility</key>
+	<string>onshaderchanged</string>
+	<key>pointthanvariable</key>
+	<string>cachePlate</string>
+	<key>positionedKind</key>
+	<string>disparateMap</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartFrequency</key>
+	<string>shouldtrainmusic</string>
+	<key>constantVelocity</key>
+	<string>streamVelocity</string>
+	<key>coordinatorBorder</key>
+	<string>uniqueextension</string>
+	<key>injectionpressure</key>
+	<string>replicateSink</string>
+	<key>lossBrightness</key>
+	<string>themeValue</string>
+	<key>meshSkewX</key>
+	<string>primaryAlert</string>
+</dict>
+</plist>

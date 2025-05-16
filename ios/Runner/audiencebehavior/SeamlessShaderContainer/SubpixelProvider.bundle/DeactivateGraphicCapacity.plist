@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerTint</key>
+	<string>replaceBorder</string>
+	<key>concurrentcapacities</key>
+	<string>statefultweenduration</string>
+	<key>displayableBatch</key>
+	<string>tabbarreceiver</string>
+	<key>gestureTransparency</key>
+	<string>selectedAxis</string>
+	<key>opaqueBaseline</key>
+	<string>canCancelNotification</string>
+	<key>priorarchitecture</key>
+	<string>layoutSwitch</string>
+	<key>shoulddetachcaption</key>
+	<string>substantialContainer</string>
+	<key>smallObject</key>
+	<string>resultComposite</string>
+</dict>
+</plist>

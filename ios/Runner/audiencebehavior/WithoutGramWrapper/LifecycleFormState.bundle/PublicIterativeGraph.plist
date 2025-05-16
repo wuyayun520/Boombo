@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeShape</key>
+	<string>presenterBridge</string>
+	<key>displayableHero</key>
+	<string>shouldHandleObserver</string>
+	<key>layoutstrategyopacity</key>
+	<string>indicatorDepth</string>
+	<key>precisioninsidestate</key>
+	<string>inactiveListener</string>
+	<key>shouldParsePoint</key>
+	<string>canUpdateRichText</string>
+</dict>
+</plist>

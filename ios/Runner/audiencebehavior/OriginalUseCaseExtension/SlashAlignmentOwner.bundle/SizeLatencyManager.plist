@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationresponse</key>
+	<string>showDocument</string>
+	<key>heapVisibility</key>
+	<string>transpileTransition</string>
+	<key>loopEdge</key>
+	<string>shouldconnectsine</string>
+	<key>pointType</key>
+	<string>geometriccurve</string>
+	<key>previewTail</key>
+	<string>canDetachIcon</string>
+	<key>progressbarType</key>
+	<string>modalformat</string>
+	<key>unsortedTriangles</key>
+	<string>fusedStep</string>
+</dict>
+</plist>

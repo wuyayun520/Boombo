@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticInteractor</key>
+	<string>releaseTexture</string>
+	<key>cleancurve</key>
+	<string>calculateDependency</string>
+	<key>distinctionHead</key>
+	<string>shouldStreamProfile</string>
+	<key>flexDepth</key>
+	<string>assetevolution</string>
+	<key>hierarchicalCombiner</key>
+	<string>schemaHue</string>
+	<key>hierarchicalMaterial</key>
+	<string>canTransformSample</string>
+	<key>largeAppBar</key>
+	<string>sizeofprototype</string>
+	<key>prioritybuilder</key>
+	<string>robustCapacity</string>
+	<key>unactivatedSubpixel</key>
+	<string>titleDistance</string>
+</dict>
+</plist>

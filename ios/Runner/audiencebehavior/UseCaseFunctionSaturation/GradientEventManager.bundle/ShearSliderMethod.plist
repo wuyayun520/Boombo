@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleScreen</key>
+	<string>pushCustomPaint</string>
+	<key>delicateFinder</key>
+	<string>persistentScreen</string>
+	<key>intuitiveReducer</key>
+	<string>transformPriority</string>
+	<key>modelFeedback</key>
+	<string>obtainChapter</string>
+	<key>seamlessChecklist</key>
+	<string>converterVelocity</string>
+	<key>slashdescription</key>
+	<string>eventlayerhue</string>
+	<key>statelessValidation</key>
+	<string>canRenderBoxShadow</string>
+</dict>
+</plist>

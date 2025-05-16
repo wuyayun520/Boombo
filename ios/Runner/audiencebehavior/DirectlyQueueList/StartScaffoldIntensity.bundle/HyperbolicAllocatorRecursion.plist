@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinorow</key>
+	<string>mitigatePopup</string>
+	<key>generatefragment</key>
+	<string>difficultintensity</string>
+	<key>multiconfiguration</key>
+	<string>featureedge</string>
+	<key>onreductionchanged</key>
+	<string>unsortedThreshold</string>
+	<key>scrollVisible</key>
+	<string>elasticBuilder</string>
+	<key>shouldPushInteger</key>
+	<string>graphScale</string>
+	<key>statefulMember</key>
+	<string>converttask</string>
+	<key>transformerForce</key>
+	<string>partitionTransition</string>
+</dict>
+</plist>

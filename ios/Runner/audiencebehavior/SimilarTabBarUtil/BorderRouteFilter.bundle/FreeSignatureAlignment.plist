@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSegue</key>
+	<string>symmetricrect</string>
+	<key>composablefragmentspacing</key>
+	<string>hasstream</string>
+	<key>itemFeedback</key>
+	<string>symboltentative</string>
+	<key>shouldTransitionInteger</key>
+	<string>menuaspect</string>
+	<key>shouldskipmap</key>
+	<string>shouldConnectScaffold</string>
+	<key>symbolDirection</key>
+	<string>eagerCanvas</string>
+	<key>synchronousDelivery</key>
+	<string>disposeSkin</string>
+	<key>unsortedRequest</key>
+	<string>mediaDecorator</string>
+	<key>webSensor</key>
+	<string>handlerstate</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedelegate</key>
+	<string>significantElasticity</string>
+	<key>blocKind</key>
+	<string>rapidRemainder</string>
+	<key>inheritedscope</key>
+	<string>selectorBorder</string>
+	<key>publicreducerbound</key>
+	<string>enabledHeap</string>
+	<key>savedrawer</key>
+	<string>hardTween</string>
+	<key>secondDescent</key>
+	<string>resourceemitter</string>
+	<key>selectedAxis</key>
+	<string>resizeMetadata</string>
+	<key>shouldPauseCatalyst</key>
+	<string>sizedboxVelocity</string>
+</dict>
+</plist>

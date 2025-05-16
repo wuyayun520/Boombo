@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackhue</key>
+	<string>setstateWidget</string>
+	<key>currentview</key>
+	<string>webalert</string>
+	<key>hasSwift</key>
+	<string>poolTitle</string>
+	<key>modulusLeft</key>
+	<string>configureEntity</string>
+	<key>previewOffset</key>
+	<string>shouldNavigateColumn</string>
+	<key>responsiveConnector</key>
+	<string>fragmentBrightness</string>
+	<key>sequentialinjectionvisibility</key>
+	<string>canRebuildModulus</string>
+	<key>shouldPopTable</key>
+	<string>objectTheme</string>
+</dict>
+</plist>

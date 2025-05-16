@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityLeft</key>
+	<string>resizableConstraint</string>
+	<key>inactiveElement</key>
+	<string>stateDuration</string>
+	<key>interactionLocation</key>
+	<string>cupertinoName</string>
+	<key>interpolatehistogram</key>
+	<string>canDismissGridView</string>
+	<key>petmanager</key>
+	<string>createresolver</string>
+	<key>shouldTransformPet</key>
+	<string>granularSubpixel</string>
+	<key>sorterTint</key>
+	<string>canSubscribeCompletion</string>
+	<key>statetaskdensity</key>
+	<string>attachtextfield</string>
+	<key>techniqueorpattern</key>
+	<string>pushGestureDetector</string>
+</dict>
+</plist>

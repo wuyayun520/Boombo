@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedbandwidth</key>
+	<string>shouldPersistDialogs</string>
+	<key>declarativeRestriction</key>
+	<string>viewstate</string>
+	<key>expandedoperationtail</key>
+	<string>visualizeScene</string>
+	<key>prevRow</key>
+	<string>parallelsubscription</string>
+	<key>relationalSink</key>
+	<string>shouldLayoutRichText</string>
+	<key>segueOrientation</key>
+	<string>convertRoute</string>
+	<key>shouldListenBase</key>
+	<string>shouldBuildGate</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedtransition</key>
+	<string>priorityPlatform</string>
+	<key>fetchmenu</key>
+	<string>lazyModule</string>
+	<key>intuitiveLoader</key>
+	<string>textureHead</string>
+	<key>resizableCoordinator</key>
+	<string>streamPromise</string>
+	<key>significantNotation</key>
+	<string>explicitVolume</string>
+	<key>subtlesymbol</key>
+	<string>grayscalekind</string>
+	<key>syncreducer</key>
+	<string>spinService</string>
+	<key>unsortedMaterial</key>
+	<string>canDecodeEqualization</string>
+</dict>
+</plist>

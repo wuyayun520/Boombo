@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderLocation</key>
+	<string>replaceIsolate</string>
+	<key>componentFrequency</key>
+	<string>canCreateText</string>
+	<key>denseConfiguration</key>
+	<string>shouldResumeCapacities</string>
+	<key>granularContrast</key>
+	<string>dispatchTabView</string>
+	<key>rendererBrightness</key>
+	<string>sophisticatedAsync</string>
+	<key>shouldTransitionGesture</key>
+	<string>shouldObserveTask</string>
+	<key>shoulddispatchcell</key>
+	<string>shouldResumeKernel</string>
+</dict>
+</plist>

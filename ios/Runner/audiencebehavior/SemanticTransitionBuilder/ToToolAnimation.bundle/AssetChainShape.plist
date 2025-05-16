@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorKind</key>
+	<string>directlyArchitecture</string>
+	<key>cardRate</key>
+	<string>capsuleFunction</string>
+	<key>infoRate</key>
+	<string>mobileElement</string>
+	<key>interactivealignment</key>
+	<string>variantVisitor</string>
+	<key>largeCertificate</key>
+	<string>standaloneBatch</string>
+	<key>parallelColor</key>
+	<string>decodeHeap</string>
+	<key>secondRemediation</key>
+	<string>chartposition</string>
+	<key>shouldEmitProjection</key>
+	<string>instantiateFeature</string>
+	<key>shouldMountedCertificate</key>
+	<string>standaloneLayout</string>
+	<key>shouldSaveCharacter</key>
+	<string>providerinsidememento</string>
+</dict>
+</plist>

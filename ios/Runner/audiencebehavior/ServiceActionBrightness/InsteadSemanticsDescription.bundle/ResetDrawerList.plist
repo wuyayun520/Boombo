@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedEmitter</key>
+	<string>shouldDispatchStoryboard</string>
+	<key>compositionalKernel</key>
+	<string>multiTolerance</string>
+	<key>primarySizedBox</key>
+	<string>keepBitrate</string>
+	<key>routeMomentum</key>
+	<string>traversalsize</string>
+	<key>specifyTitle</key>
+	<string>aggregateManager</string>
+	<key>subtleMetrics</key>
+	<string>selectedSample</string>
+	<key>tappableDispatcher</key>
+	<string>volumeTheme</string>
+	<key>typicalHero</key>
+	<string>canEndSpot</string>
+	<key>unaryInterval</key>
+	<string>reduceCoordinator</string>
+</dict>
+</plist>

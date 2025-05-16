@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledUtil</key>
+	<string>convertIsolate</string>
+	<key>mapMode</key>
+	<string>normalPet</string>
+	<key>projecttag</key>
+	<string>unmountAppBar</string>
+	<key>respectivesigndirection</key>
+	<string>canDismissTextField</string>
+	<key>seamlessConsumption</key>
+	<string>shouldCreateInterpolation</string>
+</dict>
+</plist>

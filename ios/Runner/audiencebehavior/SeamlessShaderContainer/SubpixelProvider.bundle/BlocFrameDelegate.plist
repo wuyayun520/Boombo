@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>soundposition</key>
+	<string>indicatorDistance</string>
+	<key>statefulNotifier</key>
+	<string>materialnearbuffer</string>
+	<key>stateshapespacing</key>
+	<string>oldConstant</string>
+	<key>swiftincludesystem</key>
+	<string>shouldNotifyExponent</string>
+	<key>textfieldutil</key>
+	<string>metadataLocation</string>
+</dict>
+</plist>

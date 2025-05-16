@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseposition</key>
+	<string>renameBuilder</string>
+	<key>callbackresponse</key>
+	<string>equalCallback</string>
+	<key>pointOrientation</key>
+	<string>nibascomposite</string>
+	<key>shouldReplaceSample</key>
+	<string>basicMetadata</string>
+	<key>shouldValidateBorder</key>
+	<string>canEndGrayscale</string>
+	<key>singletontransformer</key>
+	<string>capsulemode</string>
+	<key>stringifybuffer</key>
+	<string>recursionTheme</string>
+</dict>
+</plist>

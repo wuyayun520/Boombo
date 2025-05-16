@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteParticle</key>
+	<string>descriptorStage</string>
+	<key>constraintOffset</key>
+	<string>rotateRadius</string>
+	<key>interpolationIndex</key>
+	<string>mediocremesh</string>
+	<key>lazyDimension</key>
+	<string>volumeTail</string>
+	<key>publicGradient</key>
+	<string>switchLeft</string>
+	<key>shouldInflateView</key>
+	<string>canDeserializeLabel</string>
+</dict>
+</plist>

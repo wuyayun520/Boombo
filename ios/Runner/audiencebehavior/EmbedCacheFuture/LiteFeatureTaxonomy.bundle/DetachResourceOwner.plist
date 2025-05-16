@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationintegrity</key>
+	<string>geometricIsolate</string>
+	<key>exceptionBottom</key>
+	<string>lockResult</string>
+	<key>offsetpublisher</key>
+	<string>equivalentrotation</string>
+	<key>permissiveIcon</key>
+	<string>loadsprite</string>
+	<key>queueskewy</key>
+	<string>mediaHead</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoShader</key>
+	<string>sinkactionrotation</string>
+	<key>instructionkind</key>
+	<string>nextVariant</string>
+	<key>opaqueAspect</key>
+	<string>segueTemple</string>
+	<key>permissiveProfile</key>
+	<string>canUnbindNavigator</string>
+	<key>scrollableUsage</key>
+	<string>restartMobile</string>
+	<key>shouldFinishCatalyst</key>
+	<string>clipGrain</string>
+	<key>standaloneCombiner</key>
+	<string>agilecanvas</string>
+	<key>subsequentradiusdistance</key>
+	<string>executePosition</string>
+	<key>utilpager</key>
+	<string>grainTemple</string>
+</dict>
+</plist>

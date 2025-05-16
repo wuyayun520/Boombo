@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteCollection</key>
+	<string>basicColumn</string>
+	<key>draggableRange</key>
+	<string>receiveUseCase</string>
+	<key>notifychannel</key>
+	<string>concreteWrapper</string>
+	<key>subtlescaledelay</key>
+	<string>continueEqualization</string>
+	<key>varianttag</key>
+	<string>thresholdPressure</string>
+</dict>
+</plist>

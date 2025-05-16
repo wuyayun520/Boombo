@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoEquivalent</key>
+	<string>advancedvariant</string>
+	<key>protectedreplica</key>
+	<string>currentCanvas</string>
+	<key>rendererDistance</key>
+	<string>loaderFrequency</string>
+	<key>resizableLabel</key>
+	<string>encodeStorage</string>
+	<key>scrollSpeed</key>
+	<string>canStartDrawer</string>
+</dict>
+</plist>

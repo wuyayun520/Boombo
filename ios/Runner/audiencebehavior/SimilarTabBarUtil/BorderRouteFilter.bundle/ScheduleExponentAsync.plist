@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missedSign</key>
+	<string>formatFeedback</string>
+	<key>permanentSensor</key>
+	<string>globalText</string>
+	<key>reusableCheckbox</key>
+	<string>disconnectWorkflow</string>
+	<key>subsequentMechanism</key>
+	<string>shouldPersistWidget</string>
+	<key>visibleinjectionbehavior</key>
+	<string>toolInterpreter</string>
+	<key>widgetplatformflags</key>
+	<string>activitypopup</string>
+</dict>
+</plist>

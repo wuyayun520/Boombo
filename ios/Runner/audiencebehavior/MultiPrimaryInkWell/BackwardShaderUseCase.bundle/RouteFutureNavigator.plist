@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAppBar</key>
+	<string>shouldPrepareRadio</string>
+	<key>buttonIndex</key>
+	<string>sortedRenderer</string>
+	<key>concurrentBoxShadow</key>
+	<string>singleStamp</string>
+	<key>cursorSpacing</key>
+	<string>receiverFlags</string>
+	<key>directEquipment</key>
+	<string>crudeVideo</string>
+	<key>giftintensity</key>
+	<string>canDismissPadding</string>
+	<key>mobileUnary</key>
+	<string>mechanismColor</string>
+	<key>normalOption</key>
+	<string>serializeSlider</string>
+	<key>notificationAcceleration</key>
+	<string>comprehensiveManager</string>
+	<key>statefulListener</key>
+	<string>prevRectangle</string>
+</dict>
+</plist>

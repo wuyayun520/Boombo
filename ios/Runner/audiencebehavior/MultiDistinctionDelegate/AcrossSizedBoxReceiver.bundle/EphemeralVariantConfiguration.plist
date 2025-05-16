@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesiandrawer</key>
+	<string>keepArithmetic</string>
+	<key>durationDensity</key>
+	<string>receiveDuration</string>
+	<key>inactiveRequest</key>
+	<string>statefulScale</string>
+	<key>keyCertificate</key>
+	<string>reactiveTabView</string>
+	<key>selectorScale</key>
+	<string>resilientAperture</string>
+	<key>setupscale</key>
+	<string>metadataTag</string>
+	<key>shouldDecodeDelegate</key>
+	<string>workflowCoord</string>
+	<key>shouldpaintdocument</key>
+	<string>aggregateResult</string>
+	<key>shouldpublishanchor</key>
+	<string>missedStore</string>
+</dict>
+</plist>

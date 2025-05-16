@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerPainter</key>
+	<string>prepareNavigation</string>
+	<key>commongrayscaleedge</key>
+	<string>aspectscale</string>
+	<key>losttextfieldduration</key>
+	<string>logSkewX</string>
+	<key>modelInteraction</key>
+	<string>operationMomentum</string>
+	<key>normalSlider</key>
+	<string>quantizerTitle</string>
+	<key>subpixelStatus</key>
+	<string>diversifiedEfficiency</string>
+	<key>timerMode</key>
+	<string>otherThreshold</string>
+</dict>
+</plist>

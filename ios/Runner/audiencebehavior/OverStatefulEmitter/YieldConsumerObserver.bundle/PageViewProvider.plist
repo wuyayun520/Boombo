@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedReliability</key>
+	<string>missionrotation</string>
+	<key>permissiveCard</key>
+	<string>controllercommandtheme</string>
+	<key>resilientMaster</key>
+	<string>transformMovement</string>
+	<key>shouldAttachExponent</key>
+	<string>giftSingleton</string>
+	<key>shouldEncodeCupertino</key>
+	<string>findInjection</string>
+	<key>smallCaption</key>
+	<string>hasusage</string>
+	<key>subtleFragments</key>
+	<string>shouldPersistReduction</string>
+</dict>
+</plist>

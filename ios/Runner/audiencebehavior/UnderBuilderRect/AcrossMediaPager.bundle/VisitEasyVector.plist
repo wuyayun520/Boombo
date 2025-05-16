@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralDialogs</key>
+	<string>shouldHandleDelegate</string>
+	<key>groupStatus</key>
+	<string>aggregateStorage</string>
+	<key>lazyResilience</key>
+	<string>promiseDirection</string>
+	<key>mediumMission</key>
+	<string>canLayoutLogarithm</string>
+	<key>seamlessLayout</key>
+	<string>capsulePrototype</string>
+	<key>skipskin</key>
+	<string>dispatchTabView</string>
+	<key>statefulThreshold</key>
+	<string>listentween</string>
+	<key>sustainablemissionposition</key>
+	<string>textfieldcontextinteraction</string>
+	<key>tweensubscriber</key>
+	<string>customizedTangent</string>
+</dict>
+</plist>

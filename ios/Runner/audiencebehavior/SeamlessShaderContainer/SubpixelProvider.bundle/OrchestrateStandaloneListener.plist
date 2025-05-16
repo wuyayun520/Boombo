@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeEntropy</key>
+	<string>easyPresenter</string>
+	<key>dedicatedTweak</key>
+	<string>flexibleTransformer</string>
+	<key>effectColor</key>
+	<string>inactiveRequest</string>
+	<key>mediaLeft</key>
+	<string>alertskewy</string>
+	<key>mobileCache</key>
+	<string>materialDisclaimer</string>
+	<key>prismaticDetector</key>
+	<string>cubeNumber</string>
+	<key>seamlessCheckbox</key>
+	<string>modulusBound</string>
+	<key>sequentialPublisher</key>
+	<string>prismaticFragment</string>
+</dict>
+</plist>

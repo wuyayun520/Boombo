@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedmedia</key>
+	<string>difficultHeap</string>
+	<key>currentCompleter</key>
+	<string>indicatorInset</string>
+	<key>disparateSplitter</key>
+	<string>sceneanddecorator</string>
+	<key>exitsubpixel</key>
+	<string>chapterVariable</string>
+	<key>frameandcomposite</key>
+	<string>tickermodespacing</string>
+	<key>showbuffer</key>
+	<string>canCacheGridView</string>
+	<key>unbindequipment</key>
+	<string>actionHue</string>
+</dict>
+</plist>

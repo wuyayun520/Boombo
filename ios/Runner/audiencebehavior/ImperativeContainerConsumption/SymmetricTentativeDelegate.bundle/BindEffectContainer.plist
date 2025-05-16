@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBrush</key>
+	<string>uniqueBinary</string>
+	<key>dialogsmediatorshape</key>
+	<string>canLoadDescriptor</string>
+	<key>fusedframeforce</key>
+	<string>disparateStream</string>
+	<key>shouldNavigateSlash</key>
+	<string>processState</string>
+	<key>shouldResumeKernel</key>
+	<string>resilientalerttype</string>
+	<key>shouldUnmountView</key>
+	<string>canDismissTouch</string>
+	<key>symmetricFragment</key>
+	<string>decouplescaffold</string>
+	<key>transitionborder</key>
+	<string>confidentialityFlags</string>
+</dict>
+</plist>

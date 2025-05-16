@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonEquivalent</key>
+	<string>shouldStartPriority</string>
+	<key>delicateResolver</key>
+	<string>shouldNotifyController</string>
+	<key>playbackasvar</key>
+	<string>subsequenttransitionindex</string>
+	<key>processorSize</key>
+	<string>alphaFrequency</string>
+	<key>storyboardstream</key>
+	<string>singletonviadecorator</string>
+	<key>synchronoustaskdistance</key>
+	<string>extensionBottom</string>
+	<key>tappableMend</key>
+	<string>firstInteraction</string>
+	<key>viewBrightness</key>
+	<string>shouldFetchScreen</string>
+	<key>visiblePermutation</key>
+	<string>diffableMenu</string>
+</dict>
+</plist>

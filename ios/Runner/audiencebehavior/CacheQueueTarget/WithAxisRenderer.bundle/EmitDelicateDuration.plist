@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonperfunction</key>
+	<string>mainBullet</string>
+	<key>checkboxDirection</key>
+	<string>globalLayout</string>
+	<key>geometricIntegration</key>
+	<string>currentLinker</string>
+	<key>geometricscalability</key>
+	<string>asynchronouspreviewhead</string>
+	<key>mountqueue</key>
+	<string>statelessForce</string>
+	<key>shapeDuration</key>
+	<string>ternaryOrigin</string>
+	<key>shouldPushVariant</key>
+	<string>elasticticker</string>
+	<key>smallProjection</key>
+	<string>orchestrateSize</string>
+	<key>strengthTail</key>
+	<string>mixinmember</string>
+</dict>
+</plist>

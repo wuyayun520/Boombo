@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addstream</key>
+	<string>keepInteger</string>
+	<key>lostDelegate</key>
+	<string>cupertinoHue</string>
+	<key>pageviewDensity</key>
+	<string>protectedstate</string>
+	<key>resolverIndex</key>
+	<string>compareStream</string>
+	<key>rowType</key>
+	<string>interpolateStore</string>
+	<key>shouldPublishLog</key>
+	<string>visibleResilience</string>
+	<key>shouldSerializeMatrix</key>
+	<string>shouldParseBloc</string>
+	<key>shoulddisconnectcolumn</key>
+	<string>relationalGradient</string>
+	<key>synchronousAnalogy</key>
+	<string>notifyAperture</string>
+</dict>
+</plist>

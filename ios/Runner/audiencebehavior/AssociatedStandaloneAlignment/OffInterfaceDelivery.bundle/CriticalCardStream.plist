@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterstageflags</key>
+	<string>curvevelocity</string>
+	<key>navigationBrightness</key>
+	<string>emittersize</string>
+	<key>responseTint</key>
+	<string>spinanchor</string>
+	<key>shouldAttachSizedBox</key>
+	<string>agilehandler</string>
+	<key>shouldConnectCube</key>
+	<string>canFinishTable</string>
+	<key>shouldYieldSpot</key>
+	<string>stepTemple</string>
+</dict>
+</plist>

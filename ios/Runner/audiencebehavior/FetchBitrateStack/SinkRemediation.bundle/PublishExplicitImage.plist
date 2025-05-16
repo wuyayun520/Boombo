@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containertypecoord</key>
+	<string>emitterBrightness</string>
+	<key>dedicatedIsolate</key>
+	<string>impressionVelocity</string>
+	<key>draggablePet</key>
+	<string>liteTriangles</string>
+	<key>intuitiveGridView</key>
+	<string>cartesianaspect</string>
+	<key>materializehash</key>
+	<string>interpolateBuilder</string>
+	<key>reactiveactionflags</key>
+	<string>advancedHash</string>
+	<key>routerBorder</key>
+	<string>optimizerDelay</string>
+	<key>shouldAnimateBorder</key>
+	<string>trainKernel</string>
+	<key>shouldSetStateImage</key>
+	<string>otherCertificate</string>
+	<key>singleContraction</key>
+	<string>nextAlert</string>
+</dict>
+</plist>

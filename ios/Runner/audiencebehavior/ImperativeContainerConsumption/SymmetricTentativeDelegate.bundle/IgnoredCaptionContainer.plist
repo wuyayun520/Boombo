@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCycle</key>
+	<string>captureInterface</string>
+	<key>comprehensiveBuffer</key>
+	<string>smallStoryboard</string>
+	<key>concurrentcomponent</key>
+	<string>unbindContraction</string>
+	<key>currentPainter</key>
+	<string>obtainallocator</string>
+	<key>directlyLoop</key>
+	<string>ignoredbinder</string>
+	<key>notificationinfo</key>
+	<string>annotatecache</string>
+	<key>projectionSpeed</key>
+	<string>shouldCacheArithmetic</string>
+	<key>propagatescaffold</key>
+	<string>visitGraph</string>
+	<key>tensorAscent</key>
+	<string>relationalcallbackspeed</string>
+</dict>
+</plist>

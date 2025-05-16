@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicAlignment</key>
+	<string>delegateMediator</string>
+	<key>lazyScroll</key>
+	<string>bundleGrain</string>
+	<key>protocolShade</key>
+	<string>requiredDelivery</string>
+	<key>stepScale</key>
+	<string>canValidateAnchor</string>
+</dict>
+</plist>

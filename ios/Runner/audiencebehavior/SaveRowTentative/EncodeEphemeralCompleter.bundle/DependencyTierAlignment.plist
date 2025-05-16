@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerscopebrightness</key>
+	<string>constantHead</string>
+	<key>controllerPosition</key>
+	<string>parallelIsolate</string>
+	<key>matrixForce</key>
+	<string>shouldConnectDocument</string>
+	<key>notifierRight</key>
+	<string>euclideanDelegate</string>
+	<key>seamlessBatch</key>
+	<string>datavalidation</string>
+</dict>
+</plist>

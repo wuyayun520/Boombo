@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuegesturedetector</key>
+	<string>basicAnalogy</string>
+	<key>diffableLifecycle</key>
+	<string>canSaveCanvas</string>
+	<key>pickerSize</key>
+	<string>commonInformation</string>
+	<key>shouldRebuildPlate</key>
+	<string>positionedcount</string>
+	<key>shouldYieldHistogram</key>
+	<string>persistentConnector</string>
+	<key>smallModule</key>
+	<string>providerwithfunction</string>
+</dict>
+</plist>

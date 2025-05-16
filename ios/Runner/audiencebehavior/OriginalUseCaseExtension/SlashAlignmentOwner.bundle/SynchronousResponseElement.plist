@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRouter</key>
+	<string>multiMomentum</string>
+	<key>ignoredInfrastructure</key>
+	<string>overlayBehavior</string>
+	<key>multiVideo</key>
+	<string>temporaryConsumer</string>
+	<key>parallelSession</key>
+	<string>multiResult</string>
+	<key>semanticsColor</key>
+	<string>keepSignature</string>
+	<key>thresholdinset</key>
+	<string>publicDelivery</string>
+	<key>typicalDisclaimer</key>
+	<string>schedulerSpeed</string>
+	<key>uniformconverter</key>
+	<string>shouldStartHero</string>
+	<key>unmountloop</key>
+	<string>associatedComposition</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulescheduler</key>
+	<string>fixedMobile</string>
+	<key>decorationkindhue</key>
+	<string>spinebound</string>
+	<key>globalDelivery</key>
+	<string>shouldNotifyInstruction</string>
+	<key>injectresponse</key>
+	<string>canRouteChannels</string>
+	<key>labelAlignment</key>
+	<string>singletonParameter</string>
+	<key>relationalQueue</key>
+	<string>pointoperationspacing</string>
+	<key>repositorycoord</key>
+	<string>shouldStartSwift</string>
+	<key>transformerResponse</key>
+	<string>multiplicationbeyondkind</string>
+	<key>typicallayout</key>
+	<string>agiletool</string>
+</dict>
+</plist>

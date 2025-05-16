@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveInteractor</key>
+	<string>semanticSkirt</string>
+	<key>asynchronousIsolate</key>
+	<string>fixedChooser</string>
+	<key>binderFlags</key>
+	<string>explicitSkin</string>
+	<key>bitratematerial</key>
+	<string>channelsInteraction</string>
+	<key>dedicatedQueue</key>
+	<string>staticScreen</string>
+	<key>typicalConsumer</key>
+	<string>missionPadding</string>
+</dict>
+</plist>

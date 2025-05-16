@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedButton</key>
+	<string>provideEntity</string>
+	<key>columnColor</key>
+	<string>directlyGrid</string>
+	<key>delicateSorter</key>
+	<string>elasticfeature</string>
+	<key>keyIntegrity</key>
+	<string>logContrast</string>
+	<key>navigatorRotation</key>
+	<string>shouldCacheModal</string>
+	<key>shouldBuildCursor</key>
+	<string>mobileInset</string>
+	<key>shouldSetStateSymbol</key>
+	<string>dynamicTime</string>
+	<key>thresholdDelay</key>
+	<string>intuitivePicker</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredExtension</key>
+	<string>shouldKeepStack</string>
+	<key>geometriccombiner</key>
+	<string>discardedTabView</string>
+	<key>hierarchicalConsumer</key>
+	<string>errorFormat</string>
+	<key>lifecycleAcceleration</key>
+	<string>frameFacade</string>
+	<key>loopValidation</key>
+	<string>firstBinary</string>
+	<key>nextAmortization</key>
+	<string>propagateRouter</string>
+	<key>processorDepth</key>
+	<string>standaloneCharacteristic</string>
+	<key>shouldContinueCaption</key>
+	<string>gridbeyondphase</string>
+	<key>shouldStopSpine</key>
+	<string>entropyActivity</string>
+</dict>
+</plist>

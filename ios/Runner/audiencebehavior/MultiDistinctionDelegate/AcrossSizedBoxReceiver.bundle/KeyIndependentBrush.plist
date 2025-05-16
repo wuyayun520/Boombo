@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardLog</key>
+	<string>associatecubit</string>
+	<key>injectionkind</key>
+	<string>captionforfunction</string>
+	<key>loopBehavior</key>
+	<string>interfaceforframework</string>
+	<key>materialvianumber</key>
+	<string>canPrepareSwitch</string>
+</dict>
+</plist>

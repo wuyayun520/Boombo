@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferedge</key>
+	<string>smartLoss</string>
+	<key>canvastheme</key>
+	<string>criticalParticle</string>
+	<key>cubeSaturation</key>
+	<string>infrastructureMode</string>
+	<key>diffableLifecycle</key>
+	<string>shouldConnectAnimation</string>
+	<key>durationtraversal</key>
+	<string>dialogsFacade</string>
+	<key>heroSkewX</key>
+	<string>sharedcubit</string>
+	<key>isgradient</key>
+	<string>canFetchSession</string>
+	<key>seamlessaction</key>
+	<string>animatedListView</string>
+	<key>shouldPauseStack</key>
+	<string>cartesianNavigator</string>
+</dict>
+</plist>

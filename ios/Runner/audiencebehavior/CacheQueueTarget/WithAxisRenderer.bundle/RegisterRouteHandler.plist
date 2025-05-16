@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionfrequency</key>
+	<string>integerTop</string>
+	<key>analogyHead</key>
+	<string>singleConsumption</string>
+	<key>checklistmode</key>
+	<string>providerSize</string>
+	<key>converterBrightness</key>
+	<string>searchController</string>
+	<key>delegateorientation</key>
+	<string>materiallayoutmomentum</string>
+	<key>fixedRemainder</key>
+	<string>descriptorInterval</string>
+	<key>pageviewexceptnumber</key>
+	<string>deferredtolerance</string>
+	<key>stateMargin</key>
+	<string>statelessstoryboard</string>
+	<key>tangentCount</key>
+	<string>meshTint</string>
+</dict>
+</plist>

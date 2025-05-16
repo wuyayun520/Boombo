@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitybandwidth</key>
+	<string>checkboxDensity</string>
+	<key>collectionpadding</key>
+	<string>durationacceleration</string>
+	<key>dialogsOffset</key>
+	<string>captionuntilmediator</string>
+	<key>explicitCharacteristic</key>
+	<string>quantizationinterface</string>
+	<key>gateCoord</key>
+	<string>typicalSprite</string>
+	<key>indicatorDirection</key>
+	<string>hierarchicalHandler</string>
+	<key>storyboardScale</key>
+	<string>cubitHue</string>
+	<key>triggerPadding</key>
+	<string>localizationLevel</string>
+	<key>viewincludenumber</key>
+	<string>equalizationResponse</string>
+</dict>
+</plist>

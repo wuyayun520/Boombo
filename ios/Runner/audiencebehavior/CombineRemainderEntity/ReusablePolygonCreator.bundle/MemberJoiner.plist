@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantresponse</key>
+	<string>transitiontop</string>
+	<key>dynamicInteraction</key>
+	<string>expandedmaterializer</string>
+	<key>independentLoader</key>
+	<string>fusedScope</string>
+	<key>largeAnalyzer</key>
+	<string>shouldbindwidget</string>
+	<key>moduluslocalization</key>
+	<string>canSerializeResource</string>
+	<key>shouldDispatchMaterial</key>
+	<string>sustainableVertex</string>
+	<key>slashValidation</key>
+	<string>canUnbindCompletion</string>
+	<key>tabviewDistance</key>
+	<string>reactiveContrast</string>
+	<key>visibleMesh</key>
+	<string>effectTier</string>
+</dict>
+</plist>

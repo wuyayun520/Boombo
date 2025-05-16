@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletContrast</key>
+	<string>loopBottom</string>
+	<key>crudeAnalogy</key>
+	<string>fixedConsumption</string>
+	<key>customfactory</key>
+	<string>pageviewMode</string>
+	<key>explicitPainter</key>
+	<string>deferredBase</string>
+	<key>largeArithmetic</key>
+	<string>canSkipInkWell</string>
+</dict>
+</plist>

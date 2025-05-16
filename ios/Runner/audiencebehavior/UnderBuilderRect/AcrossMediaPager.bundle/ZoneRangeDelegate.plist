@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAlpha</key>
+	<string>loadermomentum</string>
+	<key>destroyscaffold</key>
+	<string>resultCenter</string>
+	<key>materialTextField</key>
+	<string>aggregateresult</string>
+	<key>shouldDeserializeMargin</key>
+	<string>dynamicTheme</string>
+</dict>
+</plist>

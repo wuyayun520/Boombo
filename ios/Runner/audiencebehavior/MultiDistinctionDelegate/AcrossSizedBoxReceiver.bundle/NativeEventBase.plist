@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitsubpixel</key>
+	<string>disabledItem</string>
+	<key>filterSpacing</key>
+	<string>unregisterChart</string>
+	<key>itemAcceleration</key>
+	<string>missedController</string>
+	<key>shouldCreateProjection</key>
+	<string>dynamicDescriptor</string>
+	<key>shouldPublishStateless</key>
+	<string>providerdelay</string>
+</dict>
+</plist>

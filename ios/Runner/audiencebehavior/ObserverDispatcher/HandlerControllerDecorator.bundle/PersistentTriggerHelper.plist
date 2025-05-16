@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationsound</key>
+	<string>buildTransition</string>
+	<key>gramSize</key>
+	<string>tappableCatalyst</string>
+	<key>graphmechanism</key>
+	<string>activatedChallenge</string>
+	<key>largeimage</key>
+	<string>prismaticSubscriber</string>
+	<key>multiplicationfeedback</key>
+	<string>bandwidthMomentum</string>
+	<key>sampleactivityinteraction</key>
+	<string>draggableMetadata</string>
+	<key>shouldPushOption</key>
+	<string>autoStorage</string>
+	<key>sorterOpacity</key>
+	<string>canCacheMaterial</string>
+	<key>timerSaturation</key>
+	<string>publicConfiguration</string>
+</dict>
+</plist>

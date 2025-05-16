@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxValidation</key>
+	<string>displayableTexture</string>
+	<key>buildscroll</key>
+	<string>transformGraphic</string>
+	<key>debugentity</key>
+	<string>missiontolerance</string>
+	<key>multiBase</key>
+	<string>futurebesidelayer</string>
+	<key>webUseCase</key>
+	<string>smartCompletion</string>
+</dict>
+</plist>

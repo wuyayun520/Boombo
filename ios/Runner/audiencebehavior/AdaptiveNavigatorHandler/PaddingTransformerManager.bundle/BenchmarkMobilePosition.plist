@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertthroughstrategy</key>
+	<string>formatStateless</string>
+	<key>criticalInteger</key>
+	<string>accessibleAwait</string>
+	<key>denseException</key>
+	<string>shouldReplaceVariant</string>
+	<key>diversifiedData</key>
+	<string>deferredContainer</string>
+	<key>optimizerAcceleration</key>
+	<string>shouldPresentReduction</string>
+	<key>searcherDepth</key>
+	<string>interpolationShape</string>
+	<key>shouldDeserializeCupertino</key>
+	<string>viewOffset</string>
+	<key>shouldStopMatrix</key>
+	<string>captiontheme</string>
+	<key>shouldUnmountModal</key>
+	<string>handleVariant</string>
+</dict>
+</plist>

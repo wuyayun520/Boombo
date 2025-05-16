@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticcube</key>
+	<string>mediumDescriptor</string>
+	<key>bundlebaseline</key>
+	<string>canListenIcon</string>
+	<key>encapsulaterow</key>
+	<string>hasTask</string>
+	<key>smallcontrollerinteraction</key>
+	<string>accelerateTransition</string>
+	<key>statelessStateless</key>
+	<string>mutableRow</string>
+</dict>
+</plist>

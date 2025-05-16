@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteChannels</key>
+	<string>vertexMomentum</string>
+	<key>discardedRequest</key>
+	<string>converterShade</string>
+	<key>hashVisible</key>
+	<string>shouldSavePrecision</string>
+	<key>hashprototypetail</key>
+	<string>globalBuilder</string>
+	<key>makeasset</key>
+	<string>activatedTouch</string>
+	<key>mutablestoragesize</key>
+	<string>insteadInjection</string>
+	<key>shouldDetachFuture</key>
+	<string>restartmanager</string>
+</dict>
+</plist>

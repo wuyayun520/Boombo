@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeListener</key>
+	<string>routeGrayscale</string>
+	<key>fragmentContrast</key>
+	<string>sortedConsumption</string>
+	<key>inactiveblocoffset</key>
+	<string>shouldStartButton</string>
+	<key>permissiveStorage</key>
+	<string>canCreateCursor</string>
+	<key>shouldUnbindGram</key>
+	<string>newestController</string>
+	<key>streamamongcommand</key>
+	<string>scrollerCount</string>
+	<key>symmetricloopinset</key>
+	<string>channelStrategy</string>
+	<key>tensorNib</key>
+	<string>brushForce</string>
+	<key>usedNavigator</key>
+	<string>isternary</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalLayout</key>
+	<string>canRenderAccessory</string>
+	<key>inactiveOverlay</key>
+	<string>advancedTernary</string>
+	<key>statelessAccessory</key>
+	<string>lifecycleBorder</string>
+	<key>subsequentAlignment</key>
+	<string>canPrepareScreen</string>
+	<key>visitaspect</key>
+	<string>formatKind</string>
+</dict>
+</plist>

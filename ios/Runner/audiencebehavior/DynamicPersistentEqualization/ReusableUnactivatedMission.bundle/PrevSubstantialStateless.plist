@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationsystemstatus</key>
+	<string>skirtInteraction</string>
+	<key>awaitLeft</key>
+	<string>extensionTop</string>
+	<key>descriptionlocation</key>
+	<string>bufferSize</string>
+	<key>difficultSign</key>
+	<string>autoLayout</string>
+	<key>disclaimerLocation</key>
+	<string>invokePreview</string>
+	<key>imperativeCreator</key>
+	<string>cubitstatepressure</string>
+	<key>routeSaturation</key>
+	<string>bufferRotation</string>
+	<key>stepvisible</key>
+	<string>replaceException</string>
+	<key>switchBottom</key>
+	<string>densePainter</string>
+	<key>temporaryModal</key>
+	<string>inflateTabView</string>
+</dict>
+</plist>

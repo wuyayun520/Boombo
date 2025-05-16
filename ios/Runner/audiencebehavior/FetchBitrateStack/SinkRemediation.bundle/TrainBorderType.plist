@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finderName</key>
+	<string>spriteValidation</string>
+	<key>geometricNib</key>
+	<string>capsulevisible</string>
+	<key>hyperbolicPresenter</key>
+	<string>canEmitMap</string>
+	<key>publicdrawer</key>
+	<string>resizableScreen</string>
+	<key>seamlessRect</key>
+	<string>insteadsession</string>
+	<key>shouldObserveClipper</key>
+	<string>sortedAwait</string>
+	<key>trianglesCenter</key>
+	<string>orchestrateLocalization</string>
+	<key>unsortedVector</key>
+	<string>transpileSlider</string>
+</dict>
+</plist>

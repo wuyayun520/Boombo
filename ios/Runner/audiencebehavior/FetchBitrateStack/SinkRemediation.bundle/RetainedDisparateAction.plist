@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTitle</key>
+	<string>denseviewcoord</string>
+	<key>completerlayertag</key>
+	<string>canPushRow</string>
+	<key>cubeBrightness</key>
+	<string>eagerAlignment</string>
+	<key>fixedOccasion</key>
+	<string>flexibleDetector</string>
+	<key>hyperbolicthreshold</key>
+	<string>observerdirection</string>
+	<key>interactiveSign</key>
+	<string>markGrid</string>
+	<key>symmetricExpanded</key>
+	<string>shouldUnmountedTernary</string>
+	<key>viewdisclaimer</key>
+	<string>composablealert</string>
+</dict>
+</plist>

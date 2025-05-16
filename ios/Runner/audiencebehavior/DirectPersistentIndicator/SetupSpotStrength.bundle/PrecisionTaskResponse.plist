@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertdistance</key>
+	<string>normSystem</string>
+	<key>grainuntilsingleton</key>
+	<string>activatelayout</string>
+	<key>nextNib</key>
+	<string>lostoption</string>
+	<key>shouldcreateactivity</key>
+	<string>canDecodeStateful</string>
+	<key>specifyText</key>
+	<string>capacityAlignment</string>
+	<key>syncscene</key>
+	<string>rowloader</string>
+	<key>tappableProject</key>
+	<string>fetchAxis</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderBrightness</key>
+	<string>statefulMemento</string>
+	<key>invokedialogs</key>
+	<string>unsortedBox</string>
+	<key>iscoordinator</key>
+	<string>singletonBottom</string>
+	<key>shouldDetachAspect</key>
+	<string>metadataParam</string>
+	<key>shouldFormatGraphic</key>
+	<string>rowrectangle</string>
+</dict>
+</plist>

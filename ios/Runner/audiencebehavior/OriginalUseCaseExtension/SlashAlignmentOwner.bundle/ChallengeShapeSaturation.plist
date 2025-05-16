@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialQueue</key>
+	<string>hyperbolicInjection</string>
+	<key>enabledInfo</key>
+	<string>entityRotation</string>
+	<key>normalaction</key>
+	<string>monsterSaturation</string>
+	<key>reducerstyleorigin</key>
+	<string>activeBloc</string>
+	<key>scrollableObserver</key>
+	<string>canDisposeTheme</string>
+	<key>shouldDismissRichText</key>
+	<string>cartesianChannels</string>
+	<key>shouldTransitionPoint</key>
+	<string>mobileCreator</string>
+	<key>smartExpanded</key>
+	<string>retainedWidget</string>
+</dict>
+</plist>

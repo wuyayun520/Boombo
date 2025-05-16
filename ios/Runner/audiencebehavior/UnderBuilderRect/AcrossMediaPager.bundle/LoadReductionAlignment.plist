@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistContrast</key>
+	<string>particleCycle</string>
+	<key>controllerbuffersize</key>
+	<string>autochannel</string>
+	<key>integrationDuration</key>
+	<string>responsiveStore</string>
+	<key>receiverLocation</key>
+	<string>customExtension</string>
+	<key>shouldBuildCustomPaint</key>
+	<string>loadSpecifier</string>
+	<key>shouldemitreference</key>
+	<string>reflectcurve</string>
+	<key>stopbloc</key>
+	<string>fusedCache</string>
+	<key>vectorOffset</key>
+	<string>analyzeAsync</string>
+	<key>viewfeedback</key>
+	<string>nextElement</string>
+</dict>
+</plist>

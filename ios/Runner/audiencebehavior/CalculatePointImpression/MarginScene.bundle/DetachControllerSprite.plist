@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratenumbertop</key>
+	<string>symmetricdimension</string>
+	<key>eagerLog</key>
+	<string>variantForm</string>
+	<key>equivalentSpacing</key>
+	<string>lazyReference</string>
+	<key>equivalentState</key>
+	<string>pausemediaquery</string>
+	<key>hardCard</key>
+	<string>clipperbridgespacing</string>
+	<key>hasoperation</key>
+	<string>replaceBinary</string>
+	<key>reusableloopfrequency</key>
+	<string>directFragment</string>
+	<key>spriteCoord</key>
+	<string>displayableStack</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyBound</key>
+	<string>canBuildCursor</string>
+	<key>mainEvent</key>
+	<string>sizedboxkind</string>
+	<key>responseVisibility</key>
+	<string>canNavigateProtocol</string>
+	<key>schemaBorder</key>
+	<string>beginnerclipperrate</string>
+	<key>shouldDisconnectBorder</key>
+	<string>explicitChooser</string>
+	<key>signPressure</key>
+	<string>descriptioncolor</string>
+	<key>spotAcceleration</key>
+	<string>skinRate</string>
+	<key>substantialSegue</key>
+	<string>numericalMaster</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalSign</key>
+	<string>canPaintStoryboard</string>
+	<key>currentGraph</key>
+	<string>functionalRadio</string>
+	<key>lifecycleStyle</key>
+	<string>syncerror</string>
+	<key>shouldBindBinary</key>
+	<string>channelawayenvironment</string>
+</dict>
+</plist>

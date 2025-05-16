@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorVisible</key>
+	<string>unactivatedTitle</string>
+	<key>bindsubscription</key>
+	<string>shouldFinishSession</string>
+	<key>globalResult</key>
+	<string>navigatorsubscriber</string>
+	<key>iterativeTopic</key>
+	<string>floatRepository</string>
+	<key>requestInteraction</key>
+	<string>webStack</string>
+	<key>shouldEmitPlayback</key>
+	<string>immutablecurve</string>
+	<key>sustainableprotocol</key>
+	<string>aspectpainter</string>
+	<key>temporaryNotification</key>
+	<string>deactivateRequest</string>
+</dict>
+</plist>

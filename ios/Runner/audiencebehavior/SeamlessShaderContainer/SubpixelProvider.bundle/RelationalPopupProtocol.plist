@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticvideo</key>
+	<string>showEffect</string>
+	<key>declarativeLatency</key>
+	<string>zoneTop</string>
+	<key>latencyPressure</key>
+	<string>touchtimer</string>
+	<key>loadbuilder</key>
+	<string>expandedTask</string>
+	<key>priorLog</key>
+	<string>canCacheListView</string>
+	<key>rangeSkewX</key>
+	<string>completedFuture</string>
+	<key>shouldStartGate</key>
+	<string>repositorystatename</string>
+	<key>similarProcessor</key>
+	<string>canResumeContainer</string>
+	<key>synchronousaxis</key>
+	<string>animatedRemediation</string>
+</dict>
+</plist>

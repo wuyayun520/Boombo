@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitinfo</key>
+	<string>unscheduleslider</string>
+	<key>currentRadio</key>
+	<string>lossEnvironment</string>
+	<key>delicateDuration</key>
+	<string>basicStep</string>
+	<key>ignoredConverter</key>
+	<string>materialFormat</string>
+	<key>mapperLocation</key>
+	<string>shouldSkipBoxShadow</string>
+	<key>persistentExtension</key>
+	<string>scaleForce</string>
+	<key>rectangleColor</key>
+	<string>declarativeHistogram</string>
+	<key>shouldDetachBoxShadow</key>
+	<string>desktopBuffer</string>
+	<key>shouldUnmountedCaption</key>
+	<string>shouldSetStateBuilder</string>
+	<key>webNorm</key>
+	<string>viewVariable</string>
+</dict>
+</plist>

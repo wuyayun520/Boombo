@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnlatency</key>
+	<string>priorResilience</string>
+	<key>cubevisible</key>
+	<string>removeCallback</string>
+	<key>currentNavigation</key>
+	<string>immutableEffect</string>
+	<key>customMapper</key>
+	<string>dedicatedAxis</string>
+	<key>infoType</key>
+	<string>hasComposition</string>
+	<key>inkwellType</key>
+	<string>cartesianIsolate</string>
+	<key>shouldEmitContainer</key>
+	<string>smartShape</string>
+	<key>shouldshowentropy</key>
+	<string>axisprovider</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentCertificate</key>
+	<string>rowHead</string>
+	<key>discardedcontroller</key>
+	<string>stackCoord</string>
+	<key>fixedAnimatedContainer</key>
+	<string>canPopDialogs</string>
+	<key>imperativepromisestate</key>
+	<string>canSkipBinary</string>
+	<key>requiredmatrix</key>
+	<string>delicateHeap</string>
+	<key>shouldpersistanimatedcontainer</key>
+	<string>swiftAppearance</string>
+	<key>uniqueInjection</key>
+	<string>providerinteraction</string>
+	<key>vectorIndex</key>
+	<string>geometriccharactercolor</string>
+</dict>
+</plist>

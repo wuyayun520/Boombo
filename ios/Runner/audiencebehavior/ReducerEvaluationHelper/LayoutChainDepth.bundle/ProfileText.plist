@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationprocessor</key>
+	<string>lazyGroup</string>
+	<key>directlyTask</key>
+	<string>appendRepository</string>
+	<key>discardedSlash</key>
+	<string>operationaboutfunction</string>
+	<key>explicitService</key>
+	<string>frameHue</string>
+	<key>geometricRequest</key>
+	<string>directlycharacter</string>
+	<key>projectanimation</key>
+	<string>canLoadSwift</string>
+	<key>publicData</key>
+	<string>shouldPaintTransition</string>
+	<key>receivetabview</key>
+	<string>commonSign</string>
+	<key>recursionInterval</key>
+	<string>replaceScroll</string>
+	<key>respectiveProfile</key>
+	<string>permissiveNotification</string>
+</dict>
+</plist>

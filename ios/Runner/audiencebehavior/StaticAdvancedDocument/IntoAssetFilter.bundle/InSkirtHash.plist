@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableCharacter</key>
+	<string>isolateAppearance</string>
+	<key>contractionAlignment</key>
+	<string>taskOrientation</string>
+	<key>easyVolume</key>
+	<string>gridInset</string>
+	<key>ephemeralResilience</key>
+	<string>accessibleCoordinator</string>
+	<key>equalizationtweak</key>
+	<string>shouldDetachInkWell</string>
+	<key>gradientFlags</key>
+	<string>paintGestureDetector</string>
+	<key>objectTag</key>
+	<string>liteDetail</string>
+	<key>stackPosition</key>
+	<string>attachGraphic</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorInterval</key>
+	<string>provideInterface</string>
+	<key>appbartime</key>
+	<string>asynchronousLocalization</string>
+	<key>functionaloption</key>
+	<string>shouldRouteSpecifier</string>
+	<key>handlerconsumption</key>
+	<string>validatePainter</string>
+	<key>hardCompletion</key>
+	<string>advancedLayout</string>
+	<key>materializerDirection</key>
+	<string>cosineMethod</string>
+	<key>normalGraph</key>
+	<string>exceptionstate</string>
+	<key>spriteScale</key>
+	<string>errorcoord</string>
+	<key>topicwithvisitor</key>
+	<string>textformat</string>
+</dict>
+</plist>

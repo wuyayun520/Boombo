@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowSpeed</key>
+	<string>radioParam</string>
+	<key>cleanintensity</key>
+	<string>limitStorage</string>
+	<key>customPolygon</key>
+	<string>canRouteTransition</string>
+	<key>mediaOpacity</key>
+	<string>interceptAsync</string>
+	<key>mutableUtil</key>
+	<string>temporaryTangent</string>
+	<key>overlayduration</key>
+	<string>staticNib</string>
+</dict>
+</plist>

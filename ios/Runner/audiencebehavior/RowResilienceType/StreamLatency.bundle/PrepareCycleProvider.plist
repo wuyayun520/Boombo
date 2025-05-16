@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTolerance</key>
+	<string>moveError</string>
+	<key>crudeBuilder</key>
+	<string>desktopTrajectory</string>
+	<key>elasticschema</key>
+	<string>multiplicationRotation</string>
+	<key>formatShade</key>
+	<string>declarativeAnalogy</string>
+	<key>hardSample</key>
+	<string>markTransition</string>
+	<key>permanentMediaQuery</key>
+	<string>poolGrid</string>
+	<key>persistentShader</key>
+	<string>serializetext</string>
+	<key>shouldConnectRadio</key>
+	<string>substantialVolume</string>
+	<key>standaloneMaterializer</key>
+	<string>declarativeCard</string>
+	<key>stepContrast</key>
+	<string>trianglesskewx</string>
+</dict>
+</plist>

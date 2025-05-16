@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialTimer</key>
+	<string>disconnectScroll</string>
+	<key>declarativeFlex</key>
+	<string>usedDimension</string>
+	<key>listviewoperation</key>
+	<string>shouldNotifyAccessory</string>
+	<key>shouldpublishbullet</key>
+	<string>columnCount</string>
+	<key>shouldtraincupertino</key>
+	<string>directIcon</string>
+	<key>similarSwift</key>
+	<string>navigateSemantics</string>
+	<key>skinamongtype</key>
+	<string>backwardResponse</string>
+	<key>subsequentamortization</key>
+	<string>fetchCube</string>
+</dict>
+</plist>

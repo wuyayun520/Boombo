@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphasaturation</key>
+	<string>tableHead</string>
+	<key>captionInteraction</key>
+	<string>persistswift</string>
+	<key>combinecurve</key>
+	<string>storagebystructure</string>
+	<key>granularLifecycle</key>
+	<string>discoverGrid</string>
+	<key>independentCube</key>
+	<string>canUnmountTable</string>
+	<key>itemFrequency</key>
+	<string>showPadding</string>
+	<key>multiMaterial</key>
+	<string>inflateCanvas</string>
+	<key>sceneBound</key>
+	<string>easyNavigator</string>
+	<key>sharedResolver</key>
+	<string>nodechooser</string>
+</dict>
+</plist>

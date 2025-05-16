@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationuntilsystem</key>
+	<string>canSkipGradient</string>
+	<key>composableCombiner</key>
+	<string>bitrateBrightness</string>
+	<key>missedTolerance</key>
+	<string>robustMapper</string>
+	<key>nativeCycle</key>
+	<string>cardAction</string>
+	<key>popuplikememento</key>
+	<string>clipperincludekind</string>
+	<key>positionPosition</key>
+	<string>fragmentSystem</string>
+	<key>requiredBatch</key>
+	<string>shouldDisposeInteger</string>
+</dict>
+</plist>

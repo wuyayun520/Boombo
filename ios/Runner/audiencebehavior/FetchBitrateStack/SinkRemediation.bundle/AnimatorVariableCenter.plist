@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicNorm</key>
+	<string>shouldListenNavigator</string>
+	<key>oldSession</key>
+	<string>canLayoutOperation</string>
+	<key>otherComposition</key>
+	<string>completedNavigator</string>
+	<key>scenarioformat</key>
+	<string>aspectOpacity</string>
+	<key>shouldAttachAnimation</key>
+	<string>sinkValidation</string>
+	<key>storeType</key>
+	<string>disconnectSlash</string>
+	<key>webIntegrity</key>
+	<string>consumerRight</string>
+</dict>
+</plist>

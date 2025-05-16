@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbartension</key>
+	<string>typicalDecoration</string>
+	<key>builderLocation</key>
+	<string>onwidgetchanged</string>
+	<key>mobileslider</key>
+	<string>sessionCoord</string>
+	<key>optimizeruntilflyweight</key>
+	<string>skirtForce</string>
+	<key>publisheropacity</key>
+	<string>shouldCacheHero</string>
+	<key>sortedGem</key>
+	<string>subtleConstraint</string>
+	<key>steptheme</key>
+	<string>decodeCycle</string>
+	<key>subtleevent</key>
+	<string>missedStrength</string>
+	<key>visibleAwait</key>
+	<string>touchmetrics</string>
+</dict>
+</plist>

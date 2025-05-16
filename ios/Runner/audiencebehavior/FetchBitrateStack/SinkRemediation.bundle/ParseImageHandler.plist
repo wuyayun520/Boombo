@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderprocessorientation</key>
+	<string>desktopStoryboard</string>
+	<key>nibbeyondsingleton</key>
+	<string>memberTheme</string>
+	<key>pinchableMenu</key>
+	<string>scrollableChecklist</string>
+	<key>responsiveAlert</key>
+	<string>canEndDimension</string>
+	<key>shouldbuildbaseline</key>
+	<string>cachecompositestyle</string>
+</dict>
+</plist>

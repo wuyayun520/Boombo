@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectreliability</key>
+	<string>unsortedinterpolationrotation</string>
+	<key>compositionalTraversal</key>
+	<string>cancelNib</string>
+	<key>declarativetextfield</key>
+	<string>cartesianEqualization</string>
+	<key>durationduringbuffer</key>
+	<string>shouldAnimateBloc</string>
+	<key>flexibleInteractor</key>
+	<string>consultativereducer</string>
+	<key>impressionhead</key>
+	<string>transformerfragments</string>
+	<key>persistentMap</key>
+	<string>createProgressBar</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedGrain</key>
+	<string>canConnectBaseline</string>
+	<key>asynchronousWorkflow</key>
+	<string>concurrentNorm</string>
+	<key>indicatorpressure</key>
+	<string>intermediateDescent</string>
+	<key>multiCard</key>
+	<string>streamCupertino</string>
+	<key>multiNotifier</key>
+	<string>vectorizeCoordinator</string>
+	<key>objectVisibility</key>
+	<string>yieldBitrate</string>
+	<key>respectiveStream</key>
+	<string>customallocatoroffset</string>
+	<key>semanticsAlignment</key>
+	<string>storemethodflags</string>
+	<key>temporaryworkflow</key>
+	<string>pagerStyle</string>
+</dict>
+</plist>

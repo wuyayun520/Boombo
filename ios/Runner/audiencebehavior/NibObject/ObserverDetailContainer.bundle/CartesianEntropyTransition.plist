@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkfragment</key>
+	<string>canPersistHistogram</string>
+	<key>listviewVisibility</key>
+	<string>clusterOffset</string>
+	<key>locksubscription</key>
+	<string>promiseBuffer</string>
+	<key>shouldPresentSegue</key>
+	<string>vectorizeDependency</string>
+	<key>standaloneMesh</key>
+	<string>interceptParticle</string>
+	<key>storyboardvisible</key>
+	<string>decoupleFactory</string>
+	<key>upgradebullet</key>
+	<string>associatedChapter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultRecursion</key>
+	<string>brushmargin</string>
+	<key>draggableModal</key>
+	<string>tappableSelector</string>
+	<key>easyRestriction</key>
+	<string>canTransformSensor</string>
+	<key>kernelbinder</key>
+	<string>robustElasticity</string>
+	<key>mapDistance</key>
+	<string>responsemode</string>
+	<key>sampleInteraction</key>
+	<string>activitycommandname</string>
+	<key>volumetension</key>
+	<string>currentGram</string>
+</dict>
+</plist>

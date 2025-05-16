@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonThread</key>
+	<string>managerPressure</string>
+	<key>compositionalobserver</key>
+	<string>shouldHandleSpine</string>
+	<key>concurrentAction</key>
+	<string>canYieldSine</string>
+	<key>fragmentInterval</key>
+	<string>canHandleActivity</string>
+	<key>resumeactivity</key>
+	<string>composableArithmetic</string>
+	<key>shouldRestartController</key>
+	<string>synclistener</string>
+	<key>shouldpreparesensor</key>
+	<string>renderrichtext</string>
+	<key>spineRight</key>
+	<string>canStartRichText</string>
+</dict>
+</plist>

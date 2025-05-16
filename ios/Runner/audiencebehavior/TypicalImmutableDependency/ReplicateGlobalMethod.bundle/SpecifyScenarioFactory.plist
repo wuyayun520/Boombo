@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateCharacteristic</key>
+	<string>vectorEdge</string>
+	<key>intensityflags</key>
+	<string>replacestack</string>
+	<key>localController</key>
+	<string>advancedTransition</string>
+	<key>persistentsymbolopacity</key>
+	<string>modalScope</string>
+	<key>robustTopic</key>
+	<string>decodecoordinator</string>
+</dict>
+</plist>

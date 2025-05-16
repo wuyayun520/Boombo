@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterTail</key>
+	<string>shouldCreateSwift</string>
+	<key>graphicValidation</key>
+	<string>marginresolver</string>
+	<key>sequentialProjection</key>
+	<string>localizationCenter</string>
+	<key>temporaryDelegate</key>
+	<string>requestduringfacade</string>
+</dict>
+</plist>

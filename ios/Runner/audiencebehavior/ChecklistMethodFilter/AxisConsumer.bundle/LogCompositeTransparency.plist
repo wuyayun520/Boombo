@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectioncontrast</key>
+	<string>quantizationProvider</string>
+	<key>ephemeralCompletion</key>
+	<string>shouldPresentText</string>
+	<key>intuitiveCycle</key>
+	<string>expandedStage</string>
+	<key>menuinformation</key>
+	<string>stepoflevel</string>
+	<key>rapidRepository</key>
+	<string>resizableInkWell</string>
+	<key>scrollviastrategy</key>
+	<string>canEncodeHeap</string>
+</dict>
+</plist>

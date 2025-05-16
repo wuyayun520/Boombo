@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasRoute</key>
+	<string>materialLocation</string>
+	<key>injectionschema</key>
+	<string>greatHistogram</string>
+	<key>pinchableCard</key>
+	<string>themeTension</string>
+	<key>shouldStopReduction</key>
+	<string>setstateSpecifier</string>
+</dict>
+</plist>

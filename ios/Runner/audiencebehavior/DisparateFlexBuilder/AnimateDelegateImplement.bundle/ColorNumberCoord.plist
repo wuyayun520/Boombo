@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetviastage</key>
+	<string>shouldDismissBinary</string>
+	<key>batchoperationinset</key>
+	<string>subscriptionversusinterpreter</string>
+	<key>litePainter</key>
+	<string>gemMediator</string>
+	<key>numericalGesture</key>
+	<string>convolutionComposite</string>
+	<key>requiredAscent</key>
+	<string>flexibleSubpixel</string>
+	<key>scrollableInteractor</key>
+	<string>subtlebox</string>
+	<key>shouldSkipPlayback</key>
+	<string>secondPermutation</string>
+	<key>shouldcreatespecifier</key>
+	<string>symmetricGate</string>
+	<key>singletonTop</key>
+	<string>assetStage</string>
+</dict>
+</plist>

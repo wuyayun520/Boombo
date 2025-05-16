@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyInkWell</key>
+	<string>prevresource</string>
+	<key>numericalstoryboardbottom</key>
+	<string>canCreateLoss</string>
+	<key>originalinteractorfrequency</key>
+	<string>shouldPopLog</string>
+	<key>repositoryRotation</key>
+	<string>quantizationIntensity</string>
+	<key>shouldcontinueimage</key>
+	<string>permanentGrid</string>
+	<key>shouldsaveexpanded</key>
+	<string>canReplaceSensor</string>
+	<key>trajectoryFeedback</key>
+	<string>persistentPermutation</string>
+	<key>uniqueLabel</key>
+	<string>trianglesSkewY</string>
+</dict>
+</plist>

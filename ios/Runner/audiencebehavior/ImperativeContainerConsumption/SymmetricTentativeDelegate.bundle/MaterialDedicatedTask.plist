@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDirection</key>
+	<string>retrieveDependency</string>
+	<key>analyzerMargin</key>
+	<string>mediocreVariant</string>
+	<key>constantSkewX</key>
+	<string>saveAperture</string>
+	<key>independentCreator</key>
+	<string>utilfromstage</string>
+	<key>poolresolver</key>
+	<string>subtleChannel</string>
+	<key>seamlessContainer</key>
+	<string>oncoordinatortap</string>
+	<key>shouldDisconnectScroll</key>
+	<string>setstateRemainder</string>
+	<key>shouldstartrichtext</key>
+	<string>priorityBridge</string>
+	<key>statefulSign</key>
+	<string>currentresultorigin</string>
+</dict>
+</plist>

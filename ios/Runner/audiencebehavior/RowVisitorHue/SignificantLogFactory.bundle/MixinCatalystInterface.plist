@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actioninteraction</key>
+	<string>greatPosition</string>
+	<key>activatedDropdownButton</key>
+	<string>cubitvaluevisible</string>
+	<key>densecellvalidation</key>
+	<string>observerwithoutcomposite</string>
+	<key>enabledTolerance</key>
+	<string>graphbeyondphase</string>
+	<key>greatRenderer</key>
+	<string>autoSplitter</string>
+	<key>listenpoint</key>
+	<string>makeChannel</string>
+	<key>persistentCapacity</key>
+	<string>tweenthroughstyle</string>
+	<key>subsequentBuilder</key>
+	<string>clipperInterval</string>
+	<key>tabbarincludeframework</key>
+	<string>shouldListenCupertino</string>
+</dict>
+</plist>

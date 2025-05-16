@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractioninterval</key>
+	<string>resultindex</string>
+	<key>draggableintensity</key>
+	<string>giftTier</string>
+	<key>mediaHue</key>
+	<string>canStreamGram</string>
+	<key>nodeortype</key>
+	<string>optimizeZone</string>
+	<key>pickerTint</key>
+	<string>visitResponse</string>
+	<key>shouldCancelConsumer</key>
+	<string>singletonchaininset</string>
+	<key>webInterpolation</key>
+	<string>eagerLayer</string>
+</dict>
+</plist>

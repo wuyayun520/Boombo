@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAcceleration</key>
+	<string>publisherDirection</string>
+	<key>discardedSwitch</key>
+	<string>resolvePosition</string>
+	<key>fusedConnector</key>
+	<string>shouldDisconnectMediaQuery</string>
+	<key>mediumInteger</key>
+	<string>declarativeMechanism</string>
+	<key>nibName</key>
+	<string>permanentLatency</string>
+	<key>resilienceSpeed</key>
+	<string>concurrentFormat</string>
+	<key>shouldHandleMission</key>
+	<string>unactivatedSwift</string>
+	<key>synchronousScroller</key>
+	<string>prevBitrate</string>
+	<key>taskmodetint</key>
+	<string>enabledLinker</string>
+	<key>utilForce</key>
+	<string>matrixSkewX</string>
+</dict>
+</plist>

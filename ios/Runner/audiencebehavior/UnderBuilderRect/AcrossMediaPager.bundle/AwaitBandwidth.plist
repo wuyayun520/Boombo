@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCallback</key>
+	<string>upgradeFuture</string>
+	<key>consultativerouter</key>
+	<string>resizableTernary</string>
+	<key>criticalListView</key>
+	<string>persistservice</string>
+	<key>hasinteger</key>
+	<string>canKeepComposition</string>
+	<key>pivotalGestureDetector</key>
+	<string>rebuildShader</string>
+	<key>pivotalsensoralignment</key>
+	<string>animatedCollection</string>
+	<key>signScale</key>
+	<string>subscribeFragment</string>
+	<key>sortedMap</key>
+	<string>viewaroundfunction</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedScene</key>
+	<string>missedReplica</string>
+	<key>autoGridView</key>
+	<string>completerpatterntint</string>
+	<key>componentValidation</key>
+	<string>respondChannel</string>
+	<key>difficultVideo</key>
+	<string>draggableException</string>
+	<key>dispatcherForce</key>
+	<string>scrollableSizedBox</string>
+	<key>imperativeStateless</key>
+	<string>constantColor</string>
+	<key>mergerCount</key>
+	<string>currentmodal</string>
+	<key>persistentPoint</key>
+	<string>architectureOrigin</string>
+</dict>
+</plist>

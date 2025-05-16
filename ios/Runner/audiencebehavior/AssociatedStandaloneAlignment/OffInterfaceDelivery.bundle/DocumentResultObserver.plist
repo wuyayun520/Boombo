@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedgridviewedge</key>
+	<string>canNotifyHeap</string>
+	<key>basicText</key>
+	<string>backwardDispatcher</string>
+	<key>lastMend</key>
+	<string>finderMargin</string>
+	<key>oldStroke</key>
+	<string>decorationVisible</string>
+	<key>otherSegue</key>
+	<string>missionSkewX</string>
+	<key>primaryVector</key>
+	<string>frameMomentum</string>
+	<key>threadOffset</key>
+	<string>createBatch</string>
+</dict>
+</plist>

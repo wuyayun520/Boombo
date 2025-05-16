@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengealongenvironment</key>
+	<string>tweenFlags</string>
+	<key>primaryLocalization</key>
+	<string>prismaticTool</string>
+	<key>shouldSerializeNavigation</key>
+	<string>canDisconnectScroll</string>
+	<key>standalonebuilder</key>
+	<string>gemresult</string>
+</dict>
+</plist>

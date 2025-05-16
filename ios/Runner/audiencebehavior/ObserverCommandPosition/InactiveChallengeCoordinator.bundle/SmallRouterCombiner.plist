@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrenttextureindex</key>
+	<string>basicSchema</string>
+	<key>consumptionStyle</key>
+	<string>bulletlocation</string>
+	<key>contrastOrientation</key>
+	<string>fixedIsolate</string>
+	<key>decorationFlags</key>
+	<string>pointformat</string>
+	<key>hyperbolicefficiency</key>
+	<string>greatUseCase</string>
+	<key>pinchableInkWell</key>
+	<string>repositoryinterpreteroffset</string>
+	<key>subtleNib</key>
+	<string>joinerSkewY</string>
+</dict>
+</plist>

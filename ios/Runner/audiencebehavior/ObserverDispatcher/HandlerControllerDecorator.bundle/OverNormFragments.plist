@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentleft</key>
+	<string>shouldStreamSwitch</string>
+	<key>callbackrate</key>
+	<string>rowContrast</string>
+	<key>delegatestructurecoord</key>
+	<string>webCollection</string>
+	<key>globalInfrastructure</key>
+	<string>shouldSkipSign</string>
+	<key>receiverFeedback</key>
+	<string>continueCaption</string>
+	<key>repositoryTint</key>
+	<string>canProcessScaffold</string>
+	<key>retainedTolerance</key>
+	<string>previewvalueappearance</string>
+	<key>statelessdelegatemomentum</key>
+	<string>batchDuration</string>
+	<key>temporaryEvolution</key>
+	<string>analogyCenter</string>
+</dict>
+</plist>

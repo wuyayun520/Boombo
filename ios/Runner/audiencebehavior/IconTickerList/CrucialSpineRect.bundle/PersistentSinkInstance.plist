@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modelmomentum</key>
+	<string>criticalGroup</string>
+	<key>savenorm</key>
+	<string>buildColumn</string>
+	<key>smallMusic</key>
+	<string>activityNumber</string>
+	<key>spritestatevisible</key>
+	<string>introspectscale</string>
+	<key>timerShape</key>
+	<string>listenerSingleton</string>
+</dict>
+</plist>

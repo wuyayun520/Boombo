@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disposeproject</key>
+	<string>canStopObserver</string>
+	<key>interactiveRemediation</key>
+	<string>activatedCapsule</string>
+	<key>missedListener</key>
+	<string>themePrototype</string>
+	<key>signatureInset</key>
+	<string>typicalLifecycle</string>
+	<key>usedTime</key>
+	<string>directBloc</string>
+</dict>
+</plist>

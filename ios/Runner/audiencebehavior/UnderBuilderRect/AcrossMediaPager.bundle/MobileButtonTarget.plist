@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>destroycapsule</key>
+	<string>textrate</string>
+	<key>embracespine</key>
+	<string>optimizerProcess</string>
+	<key>petFeedback</key>
+	<string>drawerresponse</string>
+	<key>tensorsample</key>
+	<string>commonRow</string>
+	<key>titleType</key>
+	<string>independentEntropy</string>
+</dict>
+</plist>

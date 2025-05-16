@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardRate</key>
+	<string>shouldanimateworkflow</string>
+	<key>consultativetweenspeed</key>
+	<string>normalsampleduration</string>
+	<key>cubittemplehead</key>
+	<string>explicitMesh</string>
+	<key>declarativePrecision</key>
+	<string>shouldRestartTable</string>
+	<key>intensityVisibility</key>
+	<string>protectedScroller</string>
+	<key>memberanimation</key>
+	<string>canKeepNotification</string>
+	<key>persistentExtension</key>
+	<string>activatedWidget</string>
+	<key>rapidResource</key>
+	<string>elasticCapacity</string>
+</dict>
+</plist>

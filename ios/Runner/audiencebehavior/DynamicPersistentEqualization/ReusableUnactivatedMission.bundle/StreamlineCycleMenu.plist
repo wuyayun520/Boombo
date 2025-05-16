@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousHeap</key>
+	<string>permanenttabview</string>
+	<key>easyResult</key>
+	<string>shouldStartGradient</string>
+	<key>meshInteraction</key>
+	<string>finishTabView</string>
+	<key>projectSaturation</key>
+	<string>timerSystem</string>
+	<key>scrollableTriangles</key>
+	<string>infoRate</string>
+	<key>standaloneAspect</key>
+	<string>canSerializeCycle</string>
+	<key>tensorDecoration</key>
+	<string>multiCaption</string>
+	<key>typicalManager</key>
+	<string>activatedInterface</string>
+</dict>
+</plist>

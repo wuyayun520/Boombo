@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianInformation</key>
+	<string>independentTimer</string>
+	<key>commonbullet</key>
+	<string>equalPresenter</string>
+	<key>eagerTouch</key>
+	<string>entropySkewY</string>
+	<key>globalObject</key>
+	<string>shouldPopProvider</string>
+	<key>oldSession</key>
+	<string>unlockMenu</string>
+	<key>publisherDensity</key>
+	<string>sharedRecursion</string>
+	<key>semanticsPressure</key>
+	<string>paintDescriptor</string>
+	<key>stateSkewX</key>
+	<string>brushContext</string>
+</dict>
+</plist>

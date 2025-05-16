@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationCount</key>
+	<string>canPopExpanded</string>
+	<key>asynchronousFragment</key>
+	<string>tableStage</string>
+	<key>binderDelay</key>
+	<string>imageBorder</string>
+	<key>documentskewy</key>
+	<string>sensorStatus</string>
+	<key>flexibleCombiner</key>
+	<string>largeThread</string>
+	<key>geometricSignature</key>
+	<string>controllerDecorator</string>
+	<key>shouldRenderCapacities</key>
+	<string>channelsoradapter</string>
+	<key>substantialTraversal</key>
+	<string>usecaseShade</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveAscent</key>
+	<string>errorOrigin</string>
+	<key>missedCompletion</key>
+	<string>allocatorselector</string>
+	<key>schemaIndex</key>
+	<string>canUnmountedMaterial</string>
+	<key>shouldCancelRow</key>
+	<string>canStopPageView</string>
+	<key>shouldvalidategraphic</key>
+	<string>shouldUnmountedGradient</string>
+	<key>sustainableworkflowspacing</key>
+	<string>mobileConfiguration</string>
+</dict>
+</plist>

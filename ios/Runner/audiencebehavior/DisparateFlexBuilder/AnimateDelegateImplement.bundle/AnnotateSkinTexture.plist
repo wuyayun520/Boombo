@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDetector</key>
+	<string>canPublishWidget</string>
+	<key>concretevariant</key>
+	<string>binaryCoord</string>
+	<key>displayableSkirt</key>
+	<string>canFormatComposition</string>
+	<key>primaryMetrics</key>
+	<string>handlerrotation</string>
+	<key>seamlessThreshold</key>
+	<string>statusFlags</string>
+	<key>shouldPauseProject</key>
+	<string>streamCenter</string>
+</dict>
+</plist>

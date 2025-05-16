@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directCustomPaint</key>
+	<string>canRouteSegue</string>
+	<key>displayableVertex</key>
+	<string>masterComposite</string>
+	<key>webAspect</key>
+	<string>pushLocalization</string>
+</dict>
+</plist>

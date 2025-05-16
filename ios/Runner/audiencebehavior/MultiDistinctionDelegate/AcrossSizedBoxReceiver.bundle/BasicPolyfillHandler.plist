@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveWidget</key>
+	<string>evolutionOrientation</string>
+	<key>shouldPopStateless</key>
+	<string>showGraphic</string>
+	<key>subtleMonster</key>
+	<string>secondStore</string>
+	<key>timelineSkewY</key>
+	<string>ignoredlistener</string>
+	<key>visibleGrayscale</key>
+	<string>switchForce</string>
+</dict>
+</plist>

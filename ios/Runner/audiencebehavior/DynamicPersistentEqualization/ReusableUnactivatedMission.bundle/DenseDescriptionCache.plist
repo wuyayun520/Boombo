@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedRequest</key>
+	<string>injectTicker</string>
+	<key>cupertinoSingleton</key>
+	<string>gridfromwork</string>
+	<key>extensionDensity</key>
+	<string>detachAccessory</string>
+	<key>shouldSerializeSession</key>
+	<string>numericalIcon</string>
+	<key>timelineInset</key>
+	<string>shouldDisposeCustomPaint</string>
+	<key>titledensity</key>
+	<string>priorClipper</string>
+	<key>wrapperRight</key>
+	<string>polyfillTint</string>
+</dict>
+</plist>

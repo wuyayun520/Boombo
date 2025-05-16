@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatoragainstplatform</key>
+	<string>clusterInterval</string>
+	<key>baselineKind</key>
+	<string>shouldRouteClipper</string>
+	<key>easyrange</key>
+	<string>completedSlider</string>
+	<key>futurefrequency</key>
+	<string>remainderPosition</string>
+	<key>missedProcessor</key>
+	<string>findEvent</string>
+	<key>triggerAppearance</key>
+	<string>revisitResource</string>
+</dict>
+</plist>

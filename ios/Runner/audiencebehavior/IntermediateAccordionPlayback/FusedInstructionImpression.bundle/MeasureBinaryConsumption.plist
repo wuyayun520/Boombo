@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTheme</key>
+	<string>graphChain</string>
+	<key>permutationBound</key>
+	<string>listenermargin</string>
+	<key>routeIndex</key>
+	<string>pauseMaster</string>
+	<key>semanticFuture</key>
+	<string>inactiveDimension</string>
+	<key>shouldCreateCheckbox</key>
+	<string>specifyusecase</string>
+	<key>shouldListenPet</key>
+	<string>interactorOrigin</string>
+	<key>shouldTrainStateful</key>
+	<string>exitAnimation</string>
+	<key>skinsink</key>
+	<string>textfieldVisibility</string>
+	<key>subpixelviaprocess</key>
+	<string>interactiveDistinction</string>
+	<key>tappableTriangles</key>
+	<string>navigatorDistance</string>
+</dict>
+</plist>

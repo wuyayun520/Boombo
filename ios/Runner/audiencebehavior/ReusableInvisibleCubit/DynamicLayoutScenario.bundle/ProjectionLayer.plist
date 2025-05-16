@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTimer</key>
+	<string>difficultListener</string>
+	<key>baselineOpacity</key>
+	<string>minBullet</string>
+	<key>eagerPriority</key>
+	<string>canKeepCapsule</string>
+	<key>elasticCharacteristic</key>
+	<string>lossInset</string>
+	<key>smartsubscriptionacceleration</key>
+	<string>hyperbolicLayer</string>
+	<key>sustainableImpact</key>
+	<string>canFormatGram</string>
+</dict>
+</plist>

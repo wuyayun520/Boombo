@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAsync</key>
+	<string>pointBorder</string>
+	<key>cyclecoord</key>
+	<string>positionedbrightness</string>
+	<key>fixedActivity</key>
+	<string>effectColor</string>
+	<key>inflateusecase</key>
+	<string>canEncodeAlpha</string>
+	<key>promiseandfunction</key>
+	<string>shouldnotifytabbar</string>
+	<key>requiredDuration</key>
+	<string>projectStatus</string>
+	<key>schedulerOpacity</key>
+	<string>animationstatus</string>
+	<key>sharedboxshadow</key>
+	<string>reductionFeedback</string>
+	<key>smartRepository</key>
+	<string>geometricschema</string>
+	<key>swiftLocation</key>
+	<string>segueVisibility</string>
+</dict>
+</plist>

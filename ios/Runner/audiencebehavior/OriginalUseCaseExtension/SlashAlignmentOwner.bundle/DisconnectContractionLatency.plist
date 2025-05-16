@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAnimator</key>
+	<string>densefeaturetint</string>
+	<key>independentParticle</key>
+	<string>workflowProcess</string>
+	<key>instructionSpeed</key>
+	<string>selectednib</string>
+	<key>paintslider</key>
+	<string>arithmeticCharacter</string>
+	<key>queueframe</key>
+	<string>validateNavigation</string>
+	<key>staticDetail</key>
+	<string>texturevisible</string>
+	<key>traversalVelocity</key>
+	<string>ephemeraltable</string>
+	<key>widgetdetail</key>
+	<string>ignoredDescription</string>
+</dict>
+</plist>

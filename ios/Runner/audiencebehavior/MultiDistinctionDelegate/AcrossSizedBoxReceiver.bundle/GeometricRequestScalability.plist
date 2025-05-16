@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMapper</key>
+	<string>priorPadding</string>
+	<key>backwardBatch</key>
+	<string>syncDescription</string>
+	<key>beginnerreliability</key>
+	<string>eagerConvolution</string>
+	<key>holdlayout</key>
+	<string>mapbrightness</string>
+	<key>immutabledescriptor</key>
+	<string>activatedCaption</string>
+	<key>shouldResumeStamp</key>
+	<string>hierarchicalEqualization</string>
+	<key>statesize</key>
+	<string>materialNavigation</string>
+	<key>stringifylistview</key>
+	<string>scrollableSkin</string>
+</dict>
+</plist>

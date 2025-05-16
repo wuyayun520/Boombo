@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedButton</key>
+	<string>enhanceVector</string>
+	<key>numericaloffset</key>
+	<string>pagerOrientation</string>
+	<key>pinchableContraction</key>
+	<string>resourcedetail</string>
+	<key>receiverbound</key>
+	<string>inheritedGridView</string>
+	<key>sequentialBaseline</key>
+	<string>graphicPressure</string>
+	<key>subtleRenderer</key>
+	<string>resumeStateful</string>
+</dict>
+</plist>

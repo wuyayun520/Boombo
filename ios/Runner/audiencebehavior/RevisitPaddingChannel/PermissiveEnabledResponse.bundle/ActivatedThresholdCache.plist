@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grouptrigger</key>
+	<string>hierarchicalprofile</string>
+	<key>rapidLifecycle</key>
+	<string>accelerateInjection</string>
+	<key>secondinteger</key>
+	<string>temporaryrect</string>
+	<key>taskTail</key>
+	<string>profilekernel</string>
+</dict>
+</plist>

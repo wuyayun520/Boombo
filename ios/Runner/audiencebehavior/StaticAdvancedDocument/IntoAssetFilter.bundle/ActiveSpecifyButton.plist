@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianTask</key>
+	<string>responsiveDrawer</string>
+	<key>clipperchart</key>
+	<string>controllerflyweightflags</string>
+	<key>collectiongroup</key>
+	<string>firstCompleter</string>
+	<key>enabledMaster</key>
+	<string>invisibleUtil</string>
+	<key>pageviewchapter</key>
+	<string>sophisticatedTimer</string>
+	<key>stamptypetheme</key>
+	<string>concurrentBandwidth</string>
+	<key>textfieldPosition</key>
+	<string>gradientObserver</string>
+</dict>
+</plist>

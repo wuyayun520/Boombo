@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedRole</key>
+	<string>canShowPriority</string>
+	<key>baselineRight</key>
+	<string>beginnerPosition</string>
+	<key>effectreducer</key>
+	<string>chapterPhase</string>
+	<key>granularChart</key>
+	<string>customizedQueue</string>
+	<key>permissiveexceptionstate</key>
+	<string>processstream</string>
+	<key>retainedEntropy</key>
+	<string>callbackValue</string>
+	<key>skirtsubscriber</key>
+	<string>accessiblecompositionbrightness</string>
+	<key>uniqueentity</key>
+	<string>routeslash</string>
+</dict>
+</plist>

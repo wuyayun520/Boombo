@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoEfficiency</key>
+	<string>transitiontempleedge</string>
+	<key>easyBuffer</key>
+	<string>titleTag</string>
+	<key>prevAlpha</key>
+	<string>intermediateFactory</string>
+	<key>robustqueuebehavior</key>
+	<string>saveCheckbox</string>
+	<key>tappableTask</key>
+	<string>replicateController</string>
+	<key>temporaryUtil</key>
+	<string>canBuildNavigation</string>
+</dict>
+</plist>

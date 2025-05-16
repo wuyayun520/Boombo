@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>popupRate</key>
+	<string>shouldRouteMap</string>
+	<key>scrollableScreen</key>
+	<string>recursionOffset</string>
+	<key>shouldPersistColumn</key>
+	<string>requiredFlex</string>
+	<key>shouldkeepbase</key>
+	<string>richtextSingleton</string>
+	<key>soundOffset</key>
+	<string>emitRow</string>
+</dict>
+</plist>

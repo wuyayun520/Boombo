@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableOverlay</key>
+	<string>nativeEffect</string>
+	<key>directlyCharacter</key>
+	<string>disabledMedia</string>
+	<key>hardPageView</key>
+	<string>usedRect</string>
+	<key>hasAnchor</key>
+	<string>floatManager</string>
+	<key>oldFactory</key>
+	<string>asynchronousEfficiency</string>
+	<key>permanentStrength</key>
+	<string>shouldAnimateCurve</string>
+	<key>serializedescription</key>
+	<string>serviceComposite</string>
+	<key>shouldPresentPositioned</key>
+	<string>storeMenu</string>
+	<key>temporaryOffset</key>
+	<string>optionduration</string>
+	<key>viewagainstprocess</key>
+	<string>easyTimer</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedStoryboard</key>
+	<string>shouldDismissNavigator</string>
+	<key>drawerOrigin</key>
+	<string>displayableCube</string>
+	<key>firstPainter</key>
+	<string>paintNavigation</string>
+</dict>
+</plist>

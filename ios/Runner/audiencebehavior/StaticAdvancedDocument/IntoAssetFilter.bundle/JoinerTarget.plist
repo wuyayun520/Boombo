@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStatus</key>
+	<string>hyperbolicpresenter</string>
+	<key>celllocalization</key>
+	<string>agileRow</string>
+	<key>curvebottom</key>
+	<string>gestureState</string>
+	<key>giftmode</key>
+	<string>shouldUnmountedEntropy</string>
+</dict>
+</plist>

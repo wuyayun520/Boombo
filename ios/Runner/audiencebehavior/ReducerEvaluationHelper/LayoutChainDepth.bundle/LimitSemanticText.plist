@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedChecklist</key>
+	<string>commonUseCase</string>
+	<key>beginnerlogarithmmode</key>
+	<string>directError</string>
+	<key>currentcontrollermode</key>
+	<string>granularEmitter</string>
+	<key>finishequalization</key>
+	<string>subsequentInterface</string>
+	<key>menuTop</key>
+	<string>shouldInflateChallenge</string>
+	<key>persisttopic</key>
+	<string>oncursorchanged</string>
+</dict>
+</plist>

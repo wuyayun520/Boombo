@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveHeap</key>
+	<string>configurationscale</string>
+	<key>crudespine</key>
+	<string>uniqueLocalization</string>
+	<key>granularImpression</key>
+	<string>grainFacade</string>
+	<key>marshalimage</key>
+	<string>moveController</string>
+	<key>shouldSkipCheckbox</key>
+	<string>interactiveCoordinator</string>
+	<key>skirtMode</key>
+	<string>staticModal</string>
+	<key>sortedRemainder</key>
+	<string>geometricMethod</string>
+</dict>
+</plist>

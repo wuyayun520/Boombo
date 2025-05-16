@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorlikephase</key>
+	<string>sineSpeed</string>
+	<key>desktopTask</key>
+	<string>directlyBuffer</string>
+	<key>diffableButton</key>
+	<string>upgradeBloc</string>
+	<key>localPet</key>
+	<string>subscriptionShade</string>
+	<key>oldlistvieworigin</key>
+	<string>layerDecorator</string>
+	<key>queueorigin</key>
+	<string>playbackBehavior</string>
+	<key>reactiveAnimation</key>
+	<string>enabledTabView</string>
+	<key>sustainableInstruction</key>
+	<string>shouldLoadGate</string>
+</dict>
+</plist>

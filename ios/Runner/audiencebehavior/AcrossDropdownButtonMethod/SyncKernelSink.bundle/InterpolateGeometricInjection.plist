@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionUsage</key>
+	<string>viewSize</string>
+	<key>delicateanimation</key>
+	<string>giftOpacity</string>
+	<key>enabledReducer</key>
+	<string>canPresentEntropy</string>
+	<key>shoulddisconnectcolumn</key>
+	<string>permutationDepth</string>
+</dict>
+</plist>

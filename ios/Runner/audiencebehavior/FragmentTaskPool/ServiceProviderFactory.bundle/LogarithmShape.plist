@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorTint</key>
+	<string>flexlistener</string>
+	<key>extensionTop</key>
+	<string>processchecklist</string>
+	<key>infrastructureDensity</key>
+	<string>scheduleSink</string>
+	<key>mobileScenario</key>
+	<string>filterCount</string>
+	<key>scenarioOrigin</key>
+	<string>multiplicationspeed</string>
+	<key>shouldEmitGraphic</key>
+	<string>attachunary</string>
+	<key>splittershade</key>
+	<string>responsiveGate</string>
+	<key>updatecheckbox</key>
+	<string>showbuffer</string>
+</dict>
+</plist>

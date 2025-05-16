@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticdependencyvisibility</key>
+	<string>oldTrigger</string>
+	<key>discardedChooser</key>
+	<string>inactiveElement</string>
+	<key>lossStatus</key>
+	<string>oldAnimator</string>
+	<key>processchapter</key>
+	<string>canDisposeTabView</string>
+	<key>scalabilityStyle</key>
+	<string>handleSession</string>
+	<key>scaleTop</key>
+	<string>injectRect</string>
+	<key>shouldDispatchCycle</key>
+	<string>similarProcessor</string>
+	<key>significantResilience</key>
+	<string>characterFunction</string>
+	<key>timerrange</key>
+	<string>ephemeralPublisher</string>
+	<key>uniqueAspectRatio</key>
+	<string>greatDetail</string>
+</dict>
+</plist>

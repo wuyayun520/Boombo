@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSubpixel</key>
+	<string>subtleFormat</string>
+	<key>bufferphasetint</key>
+	<string>enumerateAnimation</string>
+	<key>diffableInterface</key>
+	<string>eagerEquivalent</string>
+	<key>directlyVariant</key>
+	<string>backwardBitrate</string>
+	<key>resultthanform</key>
+	<string>singleFormat</string>
+	<key>shouldUnmountedTabBar</key>
+	<string>notifierType</string>
+</dict>
+</plist>

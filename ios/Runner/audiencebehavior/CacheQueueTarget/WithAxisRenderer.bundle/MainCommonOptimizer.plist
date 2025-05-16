@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableIsolate</key>
+	<string>uniquegraphvalidation</string>
+	<key>ephemeralMovement</key>
+	<string>parseClipper</string>
+	<key>greatStroke</key>
+	<string>deferredProvider</string>
+	<key>publishcertificate</key>
+	<string>insteadHandler</string>
+	<key>sceneSaturation</key>
+	<string>canFormatStoryboard</string>
+	<key>shouldKeepCatalyst</key>
+	<string>factoryTemple</string>
+	<key>traversalShade</key>
+	<string>canPrepareAxis</string>
+</dict>
+</plist>

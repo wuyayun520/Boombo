@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousInteger</key>
+	<string>shouldAnimateCompletion</string>
+	<key>buildradius</key>
+	<string>independentPromise</string>
+	<key>ephemeralScroller</key>
+	<string>fixedSignature</string>
+	<key>permutationSize</key>
+	<string>wrapWidget</string>
+	<key>playmodal</key>
+	<string>cardacceleration</string>
+	<key>segueaboutproxy</key>
+	<string>instructionSystem</string>
+	<key>shouldObserveBullet</key>
+	<string>defaultSample</string>
+	<key>typicalImpression</key>
+	<string>basicPermutation</string>
+</dict>
+</plist>

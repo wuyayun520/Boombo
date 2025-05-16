@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionNotation</key>
+	<string>meshBound</string>
+	<key>dialogsVelocity</key>
+	<string>providerLevel</string>
+	<key>hardstroke</key>
+	<string>requiredPolyfill</string>
+	<key>impressionIndex</key>
+	<string>materialDelegate</string>
+	<key>mediaForce</key>
+	<string>canvasAction</string>
+	<key>shouldStreamController</key>
+	<string>methodDecorator</string>
+	<key>spincapsule</key>
+	<string>shouldProcessHeap</string>
+</dict>
+</plist>

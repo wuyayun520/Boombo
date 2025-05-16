@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphShade</key>
+	<string>dedicatedChecklist</string>
+	<key>lazyFactory</key>
+	<string>shouldYieldBuilder</string>
+	<key>positionedState</key>
+	<string>shouldDismissMedia</string>
+	<key>publicBinder</key>
+	<string>shouldRestartContainer</string>
+	<key>relationalNotification</key>
+	<string>bufferDuration</string>
+	<key>sharedTitle</key>
+	<string>shouldRestartSegment</string>
+	<key>shouldRebuildWidget</key>
+	<string>cacheColumn</string>
+	<key>strengthOpacity</key>
+	<string>persistTask</string>
+	<key>trainfeature</key>
+	<string>equalizationColor</string>
+</dict>
+</plist>

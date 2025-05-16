@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPadding</key>
+	<string>seamlessdelegate</string>
+	<key>bulletTag</key>
+	<string>shouldSerializeProtocol</string>
+	<key>independentassettype</key>
+	<string>annotateAsync</string>
+	<key>instructionPadding</key>
+	<string>navigationOffset</string>
+	<key>largeSensor</key>
+	<string>playoverlay</string>
+	<key>shouldnavigatecoordinator</key>
+	<string>dynamicSegment</string>
+</dict>
+</plist>

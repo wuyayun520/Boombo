@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileProjection</key>
+	<string>radioKind</string>
+	<key>captionprogressbar</key>
+	<string>crudeloop</string>
+	<key>reducertempleoffset</key>
+	<string>sustainableHeap</string>
+	<key>shouldSetStateNib</key>
+	<string>respectiveGestureDetector</string>
+	<key>shouldSkipRadio</key>
+	<string>heroFormat</string>
+</dict>
+</plist>

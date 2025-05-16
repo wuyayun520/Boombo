@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleEdge</key>
+	<string>canAnimateProject</string>
+	<key>euclideanGraphic</key>
+	<string>displayableTable</string>
+	<key>lostProvision</key>
+	<string>euclideanStateless</string>
+	<key>sortedBehavior</key>
+	<string>expandedframeworkname</string>
+	<key>tabbarContrast</key>
+	<string>dismissUsage</string>
+	<key>textureaction</key>
+	<string>deferredService</string>
+	<key>webChapter</key>
+	<string>audioPadding</string>
+</dict>
+</plist>

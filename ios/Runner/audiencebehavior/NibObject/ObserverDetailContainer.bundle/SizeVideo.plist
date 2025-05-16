@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclebuilder</key>
+	<string>vertexSaturation</string>
+	<key>immediateGroup</key>
+	<string>multiPrecision</string>
+	<key>mediocreScalability</key>
+	<string>aspectTop</string>
+	<key>restartcupertino</key>
+	<string>findSprite</string>
+</dict>
+</plist>

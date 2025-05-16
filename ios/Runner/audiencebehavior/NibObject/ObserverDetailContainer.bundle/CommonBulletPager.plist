@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSubpixel</key>
+	<string>statelessCard</string>
+	<key>asynchronousThreshold</key>
+	<string>statelessTextField</string>
+	<key>featureOpacity</key>
+	<string>displaycupertino</string>
+	<key>liteBehavior</key>
+	<string>shouldDetachLogarithm</string>
+	<key>multiCurve</key>
+	<string>easyFuture</string>
+	<key>shouldTrainHistogram</key>
+	<string>mobileSample</string>
+	<key>shoulddeserializepriority</key>
+	<string>canRebuildDelegate</string>
+	<key>streamlinescroll</key>
+	<string>deactivateContainer</string>
+	<key>uniformImpact</key>
+	<string>pinchableTween</string>
+	<key>uniformSchema</key>
+	<string>subtleStack</string>
+</dict>
+</plist>

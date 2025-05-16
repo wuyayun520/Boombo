@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorfrequency</key>
+	<string>enabledlayoutskewy</string>
+	<key>descriptionHead</key>
+	<string>deflateTransformer</string>
+	<key>disposepoint</key>
+	<string>handlerShape</string>
+	<key>emitevent</key>
+	<string>immutableListView</string>
+	<key>enabledHandler</key>
+	<string>responsiveInkWell</string>
+	<key>navigatorcenter</key>
+	<string>mediaqueryTag</string>
+	<key>particleprocesscolor</key>
+	<string>sliderInterval</string>
+	<key>shouldCacheGem</key>
+	<string>immutableAnchor</string>
+	<key>tentativeDistance</key>
+	<string>canKeepSizedBox</string>
+</dict>
+</plist>

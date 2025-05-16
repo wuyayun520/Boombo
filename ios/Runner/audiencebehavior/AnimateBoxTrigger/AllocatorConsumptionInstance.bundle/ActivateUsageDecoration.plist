@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeConfidentiality</key>
+	<string>shouldSkipProvider</string>
+	<key>factoryacceleration</key>
+	<string>actionresponse</string>
+	<key>masterOrigin</key>
+	<string>cartesiantimer</string>
+	<key>modalSkewX</key>
+	<string>skirtAcceleration</string>
+	<key>reusablemodulus</key>
+	<string>dialogsstatus</string>
+	<key>shouldlistenroute</key>
+	<string>accordionRow</string>
+	<key>singleCoordinator</key>
+	<string>topicSingleton</string>
+	<key>symmetricdelegateopacity</key>
+	<string>crudeComposition</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDocument</key>
+	<string>bundleMetadata</string>
+	<key>equalizationmanager</key>
+	<string>shouldUnbindMedia</string>
+	<key>equipmentShape</key>
+	<string>keyprovider</string>
+	<key>iterativePolygon</key>
+	<string>shouldKeepAspect</string>
+	<key>logcommandtype</key>
+	<string>shouldTransformDelegate</string>
+	<key>popupbrightness</key>
+	<string>shouldStartPriority</string>
+	<key>retainedbehavior</key>
+	<string>canKeepStep</string>
+	<key>shouldSetStateFuture</key>
+	<string>visualizeStorage</string>
+</dict>
+</plist>

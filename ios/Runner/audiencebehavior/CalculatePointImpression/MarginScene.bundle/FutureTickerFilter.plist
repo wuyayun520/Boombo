@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledNotation</key>
+	<string>canCreateStep</string>
+	<key>inheritedReliability</key>
+	<string>routeContrast</string>
+	<key>isstamp</key>
+	<string>movementInterval</string>
+	<key>optimizerstrategyalignment</key>
+	<string>sequentialRemainder</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeTabView</key>
+	<string>endPriority</string>
+	<key>isNorm</key>
+	<string>tangentStructure</string>
+	<key>observerTail</key>
+	<string>joinerRight</string>
+	<key>opaqueTrigger</key>
+	<string>shouldUpdateRemainder</string>
+</dict>
+</plist>

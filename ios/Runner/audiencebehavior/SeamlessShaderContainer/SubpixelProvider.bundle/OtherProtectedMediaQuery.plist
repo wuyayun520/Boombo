@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveLayer</key>
+	<string>unsortedProvision</string>
+	<key>originaltrigger</key>
+	<string>temporaryPublisher</string>
+	<key>shouldParseTable</key>
+	<string>canPauseCell</string>
+	<key>shouldPauseTechnique</key>
+	<string>shouldSaveText</string>
+</dict>
+</plist>

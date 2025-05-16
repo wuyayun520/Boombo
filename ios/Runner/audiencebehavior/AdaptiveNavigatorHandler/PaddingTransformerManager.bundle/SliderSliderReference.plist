@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCompleter</key>
+	<string>hardLayer</string>
+	<key>desktopExtension</key>
+	<string>receiveLoop</string>
+	<key>futureexception</key>
+	<string>animateMusic</string>
+	<key>interactiveFormat</key>
+	<string>onreferencechanged</string>
+	<key>intuitiveAperture</key>
+	<string>pinchableTriangles</string>
+	<key>shouldShowTable</key>
+	<string>semanticScene</string>
+	<key>shouldfinishcompletion</key>
+	<string>canAttachSkirt</string>
+	<key>temporaryDrawer</key>
+	<string>intuitiveLayout</string>
+	<key>transpilepositioned</key>
+	<string>gridviewScope</string>
+</dict>
+</plist>

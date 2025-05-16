@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryDensity</key>
+	<string>routeGate</string>
+	<key>largeImpression</key>
+	<string>cellContrast</string>
+	<key>overlayCenter</key>
+	<string>lazyNode</string>
+	<key>semanticProfile</key>
+	<string>renderAnimation</string>
+	<key>shouldBuildSample</key>
+	<string>robustposition</string>
+	<key>staticduration</key>
+	<string>quantizationRadius</string>
+</dict>
+</plist>

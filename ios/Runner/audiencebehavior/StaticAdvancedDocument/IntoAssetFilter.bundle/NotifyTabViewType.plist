@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardResponse</key>
+	<string>canMountShader</string>
+	<key>discardedAxis</key>
+	<string>compositionFlags</string>
+	<key>discardedinkwell</key>
+	<string>shouldResumeBitrate</string>
+	<key>independentIntegrity</key>
+	<string>canUnmountExtension</string>
+	<key>mediumRenderer</key>
+	<string>asynchronoushandlerdensity</string>
+	<key>persistentGesture</key>
+	<string>activeintegerdepth</string>
+	<key>shouldAnimateGem</key>
+	<string>sortedDetail</string>
+	<key>shouldKeepGem</key>
+	<string>shouldSetStateMovement</string>
+</dict>
+</plist>

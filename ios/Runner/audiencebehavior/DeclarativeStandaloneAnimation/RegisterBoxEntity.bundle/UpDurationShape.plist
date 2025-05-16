@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionDuration</key>
+	<string>crucialTrigger</string>
+	<key>checkboxForce</key>
+	<string>compileChannel</string>
+	<key>iterativeAlpha</key>
+	<string>selectedspot</string>
+	<key>onanimatedcontainertap</key>
+	<string>tappableInfrastructure</string>
+	<key>opaquejoiner</key>
+	<string>intermediateMedia</string>
+	<key>shouldYieldPositioned</key>
+	<string>capacityStyle</string>
+	<key>smallMaterial</key>
+	<string>traversalLeft</string>
+</dict>
+</plist>

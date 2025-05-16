@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoStroke</key>
+	<string>textfieldBridge</string>
+	<key>deferredCycle</key>
+	<string>pauseScroll</string>
+	<key>layerthroughstructure</key>
+	<string>permissiveSize</string>
+	<key>resizableAmortization</key>
+	<string>webBandwidth</string>
+	<key>routeRotation</key>
+	<string>cosinechooser</string>
+	<key>shouldReplaceUsage</key>
+	<string>techniquePressure</string>
+	<key>transitionBottom</key>
+	<string>transformCheckbox</string>
+</dict>
+</plist>

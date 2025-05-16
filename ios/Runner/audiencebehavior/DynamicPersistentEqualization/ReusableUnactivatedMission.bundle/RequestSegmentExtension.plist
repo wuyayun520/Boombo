@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateSelector</key>
+	<string>usageindex</string>
+	<key>fragmentTransparency</key>
+	<string>priorError</string>
+	<key>indicatorInterval</key>
+	<string>specifybuffer</string>
+	<key>missedPresenter</key>
+	<string>lazyAlignment</string>
+	<key>originallocalizationvelocity</key>
+	<string>skinTier</string>
+	<key>plateResponse</key>
+	<string>presentTool</string>
+	<key>routeScale</key>
+	<string>ternarydelay</string>
+	<key>shouldConnectMedia</key>
+	<string>unmountSlash</string>
+	<key>synchronoustextfield</key>
+	<string>materializerCenter</string>
+</dict>
+</plist>

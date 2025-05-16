@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTransition</key>
+	<string>parseview</string>
+	<key>dedicatedBuffer</key>
+	<string>smallIcon</string>
+	<key>defaultnavigation</key>
+	<string>endSubpixel</string>
+	<key>isModulus</key>
+	<string>typicalReference</string>
+	<key>lastSwitch</key>
+	<string>vectorizeWidget</string>
+	<key>lostSelector</key>
+	<string>unsortedDecoration</string>
+	<key>respectiveExpanded</key>
+	<string>paddingAlignment</string>
+	<key>shouldCacheCatalyst</key>
+	<string>statefulsaturation</string>
+</dict>
+</plist>

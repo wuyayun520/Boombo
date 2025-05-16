@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseHead</key>
+	<string>statefulresourceflags</string>
+	<key>cupertinotransformer</key>
+	<string>shaderInteraction</string>
+	<key>geometricMapper</key>
+	<string>shouldRebuildFragment</string>
+	<key>responsiveVideo</key>
+	<string>associatedTheme</string>
+	<key>unsortedArchitecture</key>
+	<string>requiredinterpolation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelprogressbar</key>
+	<string>cleanContainer</string>
+	<key>discardedSlash</key>
+	<string>animatedchooser</string>
+	<key>graphvalidation</key>
+	<string>reduceAsset</string>
+	<key>mobileTask</key>
+	<string>deprecateButton</string>
+	<key>modulusrect</key>
+	<string>prevAnimation</string>
+	<key>zoneoperationspacing</key>
+	<string>shouldSkipDescriptor</string>
+</dict>
+</plist>

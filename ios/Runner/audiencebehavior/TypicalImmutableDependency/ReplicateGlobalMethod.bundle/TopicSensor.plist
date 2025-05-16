@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentbound</key>
+	<string>containerchainposition</string>
+	<key>managerstatetype</key>
+	<string>shouldSubscribeCharacter</string>
+	<key>promiseTension</key>
+	<string>componenttension</string>
+	<key>resizableAnimatedContainer</key>
+	<string>uniquePadding</string>
+	<key>resizableOptimizer</key>
+	<string>switchLocation</string>
+	<key>shouldUpdateSpot</key>
+	<string>respectiveMovement</string>
+</dict>
+</plist>

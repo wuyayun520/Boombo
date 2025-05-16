@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstdocumentvalidation</key>
+	<string>notificationcompleter</string>
+	<key>impactdelay</key>
+	<string>richtextOffset</string>
+	<key>pageviewMomentum</key>
+	<string>shouldDeserializeHistogram</string>
+	<key>shouldEncodeCosine</key>
+	<string>vectorTask</string>
+	<key>shouldRestartBaseline</key>
+	<string>shouldSaveConstraint</string>
+</dict>
+</plist>

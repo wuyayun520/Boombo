@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentchannel</key>
+	<string>shouldPaintSubpixel</string>
+	<key>bulletStyle</key>
+	<string>shouldDetachAspectRatio</string>
+	<key>customizedService</key>
+	<string>resourceedge</string>
+	<key>desktopSprite</key>
+	<string>desktopIsolate</string>
+	<key>mediaquerystylemode</key>
+	<string>quaternionIndex</string>
+	<key>paddingHead</key>
+	<string>immutablePolygon</string>
+	<key>singleOptimizer</key>
+	<string>composableEffect</string>
+	<key>staticElement</key>
+	<string>shouldRebuildSample</string>
+	<key>typicalArchitecture</key>
+	<string>cacheAcceleration</string>
+</dict>
+</plist>

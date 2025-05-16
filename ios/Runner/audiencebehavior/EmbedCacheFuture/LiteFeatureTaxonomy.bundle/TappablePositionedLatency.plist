@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelfilter</key>
+	<string>ignoredDropdownButton</string>
+	<key>resilientVolume</key>
+	<string>heroSingleton</string>
+	<key>scenarioMode</key>
+	<string>shouldDisconnectWorkflow</string>
+	<key>tappableSymbol</key>
+	<string>polyfillrate</string>
+</dict>
+</plist>

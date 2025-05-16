@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveanchor</key>
+	<string>bulletIndex</string>
+	<key>dedicatedContrast</key>
+	<string>chartleveldelay</string>
+	<key>layoutbuilder</key>
+	<string>canPaintTernary</string>
+	<key>promiseDelay</key>
+	<string>toolVisibility</string>
+	<key>radiusMargin</key>
+	<string>permissiveText</string>
+	<key>relationalAwait</key>
+	<string>mobileResponse</string>
+	<key>shouldProcessIndicator</key>
+	<string>basicObserver</string>
+</dict>
+</plist>

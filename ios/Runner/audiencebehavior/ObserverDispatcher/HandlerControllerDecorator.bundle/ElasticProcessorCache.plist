@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTitle</key>
+	<string>instructionMargin</string>
+	<key>axisOrigin</key>
+	<string>diffableInteger</string>
+	<key>compositionalGraph</key>
+	<string>replacepopup</string>
+	<key>compositionalMultiplication</key>
+	<string>smartreceiver</string>
+	<key>discardedTimeline</key>
+	<string>canCreateBox</string>
+	<key>interactiveRecursion</key>
+	<string>inflaterow</string>
+	<key>mutableAccessory</key>
+	<string>subscriptionTask</string>
+	<key>scaleSkewY</key>
+	<string>toolSpacing</string>
+	<key>standalonePriority</key>
+	<string>symbolForce</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorDirection</key>
+	<string>compareModel</string>
+	<key>criticalLatency</key>
+	<string>desktopRadius</string>
+	<key>firstutilfrequency</key>
+	<string>moduleContrast</string>
+	<key>inactiveImage</key>
+	<string>shouldStopBorder</string>
+	<key>originalTask</key>
+	<string>detachSemantics</string>
+	<key>precisionHue</key>
+	<string>processPromise</string>
+	<key>typicalStream</key>
+	<string>comprehensiveShader</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioBorder</key>
+	<string>delegateColor</string>
+	<key>chartscale</key>
+	<string>numericalGrain</string>
+	<key>numericalProgressBar</key>
+	<string>disparateDisclaimer</string>
+	<key>originalStroke</key>
+	<string>arithmeticProcessor</string>
+	<key>respectiveReference</key>
+	<string>standaloneMapper</string>
+	<key>similarArchitecture</key>
+	<string>hierarchicalCompleter</string>
+	<key>spriteAppearance</key>
+	<string>denseStoryboard</string>
+	<key>storeFormat</key>
+	<string>grayscalemodel</string>
+	<key>stringifycapsule</key>
+	<string>canBindDecoration</string>
+	<key>workflowVisible</key>
+	<string>emittermode</string>
+</dict>
+</plist>

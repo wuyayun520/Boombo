@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerAppearance</key>
+	<string>sinkhue</string>
+	<key>nativePlayback</key>
+	<string>menutension</string>
+	<key>nativePoint</key>
+	<string>columnMode</string>
+	<key>shouldFetchScaffold</key>
+	<string>disabledInteractor</string>
+	<key>shouldMountedOptimizer</key>
+	<string>crudeTransition</string>
+	<key>sustainableinteger</key>
+	<string>typicalMaster</string>
+</dict>
+</plist>

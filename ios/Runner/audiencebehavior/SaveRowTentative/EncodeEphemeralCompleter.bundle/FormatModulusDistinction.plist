@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSubscription</key>
+	<string>escalatechart</string>
+	<key>featuredecoratordirection</key>
+	<string>dimensionStyle</string>
+	<key>onboxshadowtap</key>
+	<string>containertext</string>
+	<key>permutationInteraction</key>
+	<string>toolBorder</string>
+	<key>shouldSetStateStream</key>
+	<string>minFuture</string>
+	<key>shouldobservetechnique</key>
+	<string>obtainCompleter</string>
+	<key>storyboardTransparency</key>
+	<string>dedicatedCupertino</string>
+</dict>
+</plist>

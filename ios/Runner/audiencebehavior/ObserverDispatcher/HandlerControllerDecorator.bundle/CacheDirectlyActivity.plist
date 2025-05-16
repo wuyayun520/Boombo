@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionresolver</key>
+	<string>sinkComposite</string>
+	<key>composableTraversal</key>
+	<string>concurrentObject</string>
+	<key>desktopStorage</key>
+	<string>globalScheduler</string>
+	<key>enabledmultiplication</key>
+	<string>multiLayer</string>
+	<key>moduleOrigin</key>
+	<string>protectedParticle</string>
+	<key>parallelbuilder</key>
+	<string>observerSpeed</string>
+	<key>shouldDispatchPadding</key>
+	<string>interactorTail</string>
+	<key>shoulddisposedescriptor</key>
+	<string>responsiveRestriction</string>
+	<key>statefulInterface</key>
+	<string>positionCycle</string>
+	<key>uniformTabView</key>
+	<string>shouldSetStateListView</string>
+</dict>
+</plist>

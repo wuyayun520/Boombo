@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachechainresponse</key>
+	<string>publicConsumption</string>
+	<key>easyCupertino</key>
+	<string>checklistPadding</string>
+	<key>modulusnearactivity</key>
+	<string>canAttachRemainder</string>
+	<key>painttransformer</key>
+	<string>prepareMatrix</string>
+</dict>
+</plist>

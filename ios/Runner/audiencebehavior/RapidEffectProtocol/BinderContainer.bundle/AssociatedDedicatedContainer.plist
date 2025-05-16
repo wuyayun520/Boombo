@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAppBar</key>
+	<string>replaceTabView</string>
+	<key>injectionmode</key>
+	<string>deferredMatrix</string>
+	<key>opaqueModule</key>
+	<string>hierarchicalStoryboard</string>
+	<key>resultTail</key>
+	<string>gridEnvironment</string>
+	<key>shouldParseLog</key>
+	<string>shouldListenPet</string>
+	<key>synchronouschapterpressure</key>
+	<string>shouldSetStateProvider</string>
+</dict>
+</plist>

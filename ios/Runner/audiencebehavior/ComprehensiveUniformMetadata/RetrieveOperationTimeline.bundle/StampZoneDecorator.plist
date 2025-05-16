@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultDocument</key>
+	<string>cursorstream</string>
+	<key>ignoredUnary</key>
+	<string>cupertinoTask</string>
+	<key>mediocreFrame</key>
+	<string>unmountrequest</string>
+	<key>oldPager</key>
+	<string>pauseSizedBox</string>
+	<key>staticClipper</key>
+	<string>canConnectMaster</string>
+	<key>tableframe</key>
+	<string>prevBuffer</string>
+	<key>themeInset</key>
+	<string>accessibleBandwidth</string>
+	<key>transitionoutsidecycle</key>
+	<string>canBindBorder</string>
+</dict>
+</plist>

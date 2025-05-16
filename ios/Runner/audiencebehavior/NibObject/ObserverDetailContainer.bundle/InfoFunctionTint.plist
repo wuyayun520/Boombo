@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisInterval</key>
+	<string>canCancelComposition</string>
+	<key>layoutscene</key>
+	<string>metadatatension</string>
+	<key>parallelanimation</key>
+	<string>alertOrigin</string>
+	<key>repositorysincefacade</key>
+	<string>semanticModulus</string>
+	<key>shouldDismissDropdownButton</key>
+	<string>loaderSpeed</string>
+	<key>specifyConnector</key>
+	<string>intuitiveCatalyst</string>
+	<key>taskrate</key>
+	<string>desktopNavigator</string>
+</dict>
+</plist>

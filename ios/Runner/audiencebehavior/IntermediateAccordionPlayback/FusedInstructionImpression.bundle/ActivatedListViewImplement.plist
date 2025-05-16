@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferStyle</key>
+	<string>mainInteractor</string>
+	<key>canvasposition</key>
+	<string>vertexstatus</string>
+	<key>elasticScheduler</key>
+	<string>deployService</string>
+	<key>iterativeHero</key>
+	<string>cupertinobound</string>
+	<key>plateinformation</key>
+	<string>lockAction</string>
+	<key>precisionMargin</key>
+	<string>otherFragment</string>
+	<key>shouldSkipNavigator</key>
+	<string>entityDistance</string>
+	<key>stacklikevariable</key>
+	<string>slashinfo</string>
+</dict>
+</plist>

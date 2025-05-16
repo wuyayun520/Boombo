@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTime</key>
+	<string>comprehensiveMenu</string>
+	<key>characteristicspeed</key>
+	<string>characterInterval</string>
+	<key>commonScalability</key>
+	<string>crudePreview</string>
+	<key>factoryDuration</key>
+	<string>deliveryResponse</string>
+	<key>missedReplica</key>
+	<string>specifyTriangles</string>
+	<key>shouldTrainSpot</key>
+	<string>bufferTop</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCycle</key>
+	<string>agileAnimation</string>
+	<key>advancedExponent</key>
+	<string>priorDescent</string>
+	<key>capturebuffer</key>
+	<string>cursorJob</string>
+	<key>controllerfeedback</key>
+	<string>animatedPager</string>
+	<key>intermediateSelector</key>
+	<string>canSkipNotification</string>
+	<key>semanticController</key>
+	<string>provideError</string>
+	<key>shouldkeepchecklist</key>
+	<string>lockTween</string>
+	<key>unactivatedSymbol</key>
+	<string>normalCapacity</string>
+</dict>
+</plist>

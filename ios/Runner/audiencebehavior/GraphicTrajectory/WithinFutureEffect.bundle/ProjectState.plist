@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderperstyle</key>
+	<string>multiEffect</string>
+	<key>futureHead</key>
+	<string>canPresentController</string>
+	<key>largeThreshold</key>
+	<string>uniformFrame</string>
+	<key>lastDisclaimer</key>
+	<string>nativeButton</string>
+	<key>polygonDensity</key>
+	<string>currentBandwidth</string>
+	<key>requestdelay</key>
+	<string>canValidateLayout</string>
+	<key>uniqueStoryboard</key>
+	<string>autoImpression</string>
+</dict>
+</plist>

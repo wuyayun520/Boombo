@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatestyleresponse</key>
+	<string>resilienceborder</string>
+	<key>directlyEntropy</key>
+	<string>methodValue</string>
+	<key>fusedMetadata</key>
+	<string>renameWidget</string>
+	<key>protectedMargin</key>
+	<string>createtimer</string>
+	<key>themecompleter</key>
+	<string>criticalboxvisible</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencydespitefunction</key>
+	<string>permissiveCluster</string>
+	<key>globalHash</key>
+	<string>embedBloc</string>
+	<key>interactiveData</key>
+	<string>persistentStateless</string>
+	<key>shouldUnmountSizedBox</key>
+	<string>minSlash</string>
+</dict>
+</plist>

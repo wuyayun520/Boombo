@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalExtension</key>
+	<string>paintNavigator</string>
+	<key>isNavigator</key>
+	<string>arithmeticDropdownButton</string>
+	<key>numericalOptimizer</key>
+	<string>eagerCupertino</string>
+	<key>opaqueMember</key>
+	<string>shouldDecodeCapacities</string>
+	<key>sharedDescriptor</key>
+	<string>textfieldLocation</string>
+	<key>sharedListView</key>
+	<string>agileView</string>
+	<key>statefulformat</key>
+	<string>functionalAnimator</string>
+	<key>usedFrame</key>
+	<string>aggregateAlignment</string>
+</dict>
+</plist>

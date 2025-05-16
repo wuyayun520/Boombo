@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluationContrast</key>
+	<string>canPrepareModal</string>
+	<key>makelocalization</key>
+	<string>canDismissArithmetic</string>
+	<key>methodbottom</key>
+	<string>quaternionVisibility</string>
+	<key>resolverintegration</key>
+	<string>shouldSerializeAnimation</string>
+	<key>webUnary</key>
+	<string>shouldSetStateDropdownButton</string>
+</dict>
+</plist>

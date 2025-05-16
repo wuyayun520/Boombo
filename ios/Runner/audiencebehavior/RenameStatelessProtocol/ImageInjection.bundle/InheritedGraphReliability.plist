@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedTabView</key>
+	<string>independentScale</string>
+	<key>displaydecoration</key>
+	<string>shouldCreateNotification</string>
+	<key>elasticCertificate</key>
+	<string>ascentCount</string>
+	<key>shouldHandleTask</key>
+	<string>yieldStream</string>
+</dict>
+</plist>

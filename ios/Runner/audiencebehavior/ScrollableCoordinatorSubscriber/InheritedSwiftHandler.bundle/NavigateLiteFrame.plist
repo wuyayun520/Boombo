@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSensor</key>
+	<string>shouldYieldRole</string>
+	<key>clipmenu</key>
+	<string>detectorAppearance</string>
+	<key>herocount</key>
+	<string>chooserColor</string>
+	<key>normagainstframework</key>
+	<string>routeRemainder</string>
+	<key>otherMission</key>
+	<string>canPaintReference</string>
+	<key>plateAcceleration</key>
+	<string>dialogsSpacing</string>
+	<key>priorChart</key>
+	<string>minChallenge</string>
+	<key>smartLatency</key>
+	<string>momentumKind</string>
+</dict>
+</plist>

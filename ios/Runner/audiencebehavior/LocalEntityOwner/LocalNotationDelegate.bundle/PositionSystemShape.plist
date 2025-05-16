@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileBox</key>
+	<string>stringifyAlignment</string>
+	<key>animatedFeature</key>
+	<string>monsterlevelstyle</string>
+	<key>bitrateTint</key>
+	<string>opaqueInteger</string>
+	<key>cubitDuration</key>
+	<string>thresholdOrientation</string>
+	<key>wrapperskewy</key>
+	<string>statefulAnimation</string>
+</dict>
+</plist>

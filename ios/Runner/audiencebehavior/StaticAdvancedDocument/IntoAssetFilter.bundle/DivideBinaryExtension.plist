@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedUtil</key>
+	<string>pushSlash</string>
+	<key>liteException</key>
+	<string>semanticRemainder</string>
+	<key>mediocreMultiplication</key>
+	<string>shouldRenderScaffold</string>
+	<key>precisionDepth</key>
+	<string>gradientMediator</string>
+	<key>remediationRight</key>
+	<string>configurationProxy</string>
+	<key>resizableMenu</key>
+	<string>loaderVelocity</string>
+	<key>selectedEquipment</key>
+	<string>attachAspect</string>
+	<key>spotAlignment</key>
+	<string>buildTabView</string>
+	<key>tweakname</key>
+	<string>canLayoutCell</string>
+	<key>updatenavigation</key>
+	<string>shouldRebuildTabView</string>
+</dict>
+</plist>

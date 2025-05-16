@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferTag</key>
+	<string>parallelInstruction</string>
+	<key>eagerLatency</key>
+	<string>elementRate</string>
+	<key>filterTail</key>
+	<string>detailVisibility</string>
+	<key>handleratkind</key>
+	<string>tweakFlags</string>
+	<key>imageLocation</key>
+	<string>routeinterpreterbound</string>
+	<key>inkwellposition</key>
+	<string>renderaspectratio</string>
+	<key>shouldCancelPet</key>
+	<string>composableFormat</string>
+	<key>shouldPrepareTextField</key>
+	<string>currentcontroller</string>
+</dict>
+</plist>

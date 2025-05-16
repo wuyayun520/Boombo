@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopResult</key>
+	<string>symmetricresponse</string>
+	<key>navigationalignment</key>
+	<string>canFormatInteger</string>
+	<key>ontabviewtap</key>
+	<string>crucialObject</string>
+	<key>shouldBuildProfile</key>
+	<string>eventIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionCount</key>
+	<string>nextMenu</string>
+	<key>evaluationEdge</key>
+	<string>concreteSensor</string>
+	<key>mutablePopup</key>
+	<string>sustainableCaption</string>
+	<key>nextAnimator</key>
+	<string>timeResponse</string>
+	<key>sinkAppearance</key>
+	<string>canPrepareRole</string>
+	<key>sophisticatedobject</key>
+	<string>resolveSlider</string>
+	<key>tabviewadaptershade</key>
+	<string>webImage</string>
+	<key>titleactivitysize</key>
+	<string>triggerValidation</string>
+</dict>
+</plist>

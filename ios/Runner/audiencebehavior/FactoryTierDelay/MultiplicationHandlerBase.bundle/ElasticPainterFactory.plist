@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedinterfaceflags</key>
+	<string>fixedUseCase</string>
+	<key>easyLayout</key>
+	<string>introspectDecoration</string>
+	<key>independentNotation</key>
+	<string>concreteScalability</string>
+	<key>prevBehavior</key>
+	<string>canCacheSwift</string>
+	<key>queuestagelocation</key>
+	<string>trainconstraint</string>
+	<key>temporaryIntegration</key>
+	<string>shouldDispatchTabView</string>
+</dict>
+</plist>

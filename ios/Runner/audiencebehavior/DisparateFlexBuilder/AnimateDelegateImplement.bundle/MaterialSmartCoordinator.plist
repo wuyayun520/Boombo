@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalConverter</key>
+	<string>gridliketier</string>
+	<key>reactiveMethod</key>
+	<string>deployChannel</string>
+	<key>routeduration</key>
+	<string>variantcontainactivity</string>
+	<key>timerformalignment</key>
+	<string>largeStorage</string>
+</dict>
+</plist>

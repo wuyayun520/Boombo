@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateInset</key>
+	<string>resilientAudio</string>
+	<key>draggableLoop</key>
+	<string>shouldNotifyTask</string>
+	<key>fusedAnalyzer</key>
+	<string>concatenateAction</string>
+	<key>secondProvision</key>
+	<string>sampleDepth</string>
+	<key>shouldPrepareEquipment</key>
+	<string>lossBridge</string>
+	<key>statefulframe</key>
+	<string>canEndSine</string>
+	<key>substantialTimeline</key>
+	<string>materialFunction</string>
+</dict>
+</plist>

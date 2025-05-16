@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerScroll</key>
+	<string>shouldDetachSlider</string>
+	<key>independentImpression</key>
+	<string>nibForm</string>
+	<key>missedReducer</key>
+	<string>webinteger</string>
+	<key>projectstageformat</key>
+	<string>canRebuildEffect</string>
+	<key>publicCell</key>
+	<string>normalDelivery</string>
+	<key>resizableBehavior</key>
+	<string>builderresolver</string>
+	<key>savetexture</key>
+	<string>newestNotation</string>
+	<key>shouldCacheGesture</key>
+	<string>significantStore</string>
+	<key>shouldValidateRow</key>
+	<string>injectRadius</string>
+</dict>
+</plist>

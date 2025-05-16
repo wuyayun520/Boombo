@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetnearactivity</key>
+	<string>evaluateAsset</string>
+	<key>brushinbuffer</key>
+	<string>granularAspectRatio</string>
+	<key>buttonstatus</key>
+	<string>dismissEquipment</string>
+	<key>comprehensiveLoop</key>
+	<string>cupertinoMethod</string>
+	<key>presenterformat</key>
+	<string>blocFunction</string>
+	<key>shouldShowDelegate</key>
+	<string>replaceCallback</string>
+	<key>tappableManager</key>
+	<string>buildercompleter</string>
+	<key>visibleButton</key>
+	<string>singleRoute</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperBound</key>
+	<string>requiredPosition</string>
+	<key>eventScale</key>
+	<string>keyMap</string>
+	<key>explicitInstruction</key>
+	<string>draggableswitchkind</string>
+	<key>graphicPadding</key>
+	<string>expandedFeedback</string>
+	<key>liteDimension</key>
+	<string>shouldBuildSpot</string>
+	<key>multiPicker</key>
+	<string>plateScope</string>
+	<key>shouldobservecontraction</key>
+	<string>activityContext</string>
+	<key>singleCharacteristic</key>
+	<string>smartImpression</string>
+</dict>
+</plist>

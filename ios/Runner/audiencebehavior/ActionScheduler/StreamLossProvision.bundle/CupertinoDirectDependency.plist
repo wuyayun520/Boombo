@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetStatus</key>
+	<string>animationLocation</string>
+	<key>diffableProvider</key>
+	<string>fragmentAppearance</string>
+	<key>eventTension</key>
+	<string>descentTheme</string>
+	<key>injectionInterval</key>
+	<string>resumeResource</string>
+	<key>interactivePageView</key>
+	<string>memberAppearance</string>
+	<key>mainAnimatedContainer</key>
+	<string>reducerInteraction</string>
+</dict>
+</plist>

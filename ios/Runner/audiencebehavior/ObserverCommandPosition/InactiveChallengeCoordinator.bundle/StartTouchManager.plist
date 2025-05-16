@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticInterface</key>
+	<string>isHero</string>
+	<key>dropdownbuttonnotation</key>
+	<string>retrievechapter</string>
+	<key>filterTail</key>
+	<string>sessioncommandcenter</string>
+	<key>greatTransition</key>
+	<string>popscaffold</string>
+	<key>hierarchicalCheckbox</key>
+	<string>canInflateCoordinator</string>
+	<key>previnteractororientation</key>
+	<string>statelessframe</string>
+	<key>shouldMountThread</key>
+	<string>onresourcechanged</string>
+	<key>similarError</key>
+	<string>shouldNotifySpecifier</string>
+	<key>statefulAsset</key>
+	<string>statelessValidation</string>
+	<key>uniquebuildertype</key>
+	<string>grouptieracceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>providerfortask</key>
+	<string>columnFacade</string>
+	<key>quaternionPressure</key>
+	<string>widgetTag</string>
+	<key>shapeSkewX</key>
+	<string>canStreamCanvas</string>
+	<key>smartscene</key>
+	<string>sinkSkewX</string>
+	<key>sophisticatedSwitch</key>
+	<string>gestureAppearance</string>
+	<key>widgetconfidentiality</key>
+	<string>canUpdateBloc</string>
+</dict>
+</plist>

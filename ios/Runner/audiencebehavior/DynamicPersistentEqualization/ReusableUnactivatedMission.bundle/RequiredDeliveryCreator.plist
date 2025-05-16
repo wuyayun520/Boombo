@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnstorage</key>
+	<string>clearAsync</string>
+	<key>permanentTabView</key>
+	<string>canCreateStep</string>
+	<key>seamlessMetrics</key>
+	<string>painterSize</string>
+	<key>seekflex</key>
+	<string>unactivatedAscent</string>
+	<key>shouldContinueCheckbox</key>
+	<string>crucialModel</string>
+	<key>specifyDescriptor</key>
+	<string>rectLayer</string>
+</dict>
+</plist>

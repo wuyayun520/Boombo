@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerInterface</key>
+	<string>subscribeMaster</string>
+	<key>delicatespine</key>
+	<string>opaquesemantics</string>
+	<key>hierarchicalPlayback</key>
+	<string>smallviewmomentum</string>
+	<key>invisibletextfield</key>
+	<string>shouldstopalpha</string>
+	<key>shouldPresentDocument</key>
+	<string>compilepresenter</string>
+</dict>
+</plist>

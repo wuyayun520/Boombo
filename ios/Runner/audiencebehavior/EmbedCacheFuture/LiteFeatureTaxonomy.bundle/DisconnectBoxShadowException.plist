@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredNotification</key>
+	<string>scrollversusstate</string>
+	<key>prioritySaturation</key>
+	<string>interactiveNotifier</string>
+	<key>scaffoldtrigger</key>
+	<string>shouldNotifyNorm</string>
+	<key>synchronousScale</key>
+	<string>statefulAmortization</string>
+	<key>typicalTechnique</key>
+	<string>trajectoryCoord</string>
+</dict>
+</plist>

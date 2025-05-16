@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalCapacities</key>
+	<string>axisBuffer</string>
+	<key>crudeContraction</key>
+	<string>nextSpine</string>
+	<key>deferredBase</key>
+	<string>referenceSkewY</string>
+	<key>primaryMargin</key>
+	<string>storeTask</string>
+	<key>similarStore</key>
+	<string>completionActivity</string>
+	<key>volumeTag</key>
+	<string>basicScreen</string>
+</dict>
+</plist>

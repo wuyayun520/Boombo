@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderSkewX</key>
+	<string>bufferParameter</string>
+	<key>defaultdrawer</key>
+	<string>mobileSpine</string>
+	<key>factorydirection</key>
+	<string>disconnectSink</string>
+	<key>firstCombiner</key>
+	<string>loadLog</string>
+	<key>masterMomentum</key>
+	<string>cacheGraphic</string>
+	<key>scenetail</key>
+	<string>animatedcontainermethod</string>
+	<key>sharedMetadata</key>
+	<string>createBinary</string>
+	<key>symmetricThreshold</key>
+	<string>resumeBorder</string>
+	<key>taskvisitorskewx</key>
+	<string>storageType</string>
+</dict>
+</plist>

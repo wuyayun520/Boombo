@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMethod</key>
+	<string>concurrentposition</string>
+	<key>boxMomentum</key>
+	<string>shouldHandleAnimation</string>
+	<key>characterColor</key>
+	<string>canListenNorm</string>
+	<key>crudeService</key>
+	<string>numericalTitle</string>
+	<key>declarativeConverter</key>
+	<string>disabledGraph</string>
+	<key>desktopEvent</key>
+	<string>unbindloop</string>
+	<key>eventsize</key>
+	<string>diffableGesture</string>
+	<key>richtextinterval</key>
+	<string>currentResilience</string>
+</dict>
+</plist>

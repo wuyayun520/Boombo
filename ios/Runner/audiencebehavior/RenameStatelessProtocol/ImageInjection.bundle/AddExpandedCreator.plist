@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionforprototype</key>
+	<string>borderTask</string>
+	<key>decoderadius</key>
+	<string>timerPadding</string>
+	<key>resizablevector</key>
+	<string>shouldDismissBaseline</string>
+	<key>rolestore</key>
+	<string>tickerInset</string>
+	<key>sequentialDialogs</key>
+	<string>animatedcontainerScale</string>
+	<key>shouldResumeRichText</key>
+	<string>tentativeDelay</string>
+	<key>shouldpauseaspectratio</key>
+	<string>canResumeTextField</string>
+	<key>staticImpact</key>
+	<string>modelTheme</string>
+</dict>
+</plist>

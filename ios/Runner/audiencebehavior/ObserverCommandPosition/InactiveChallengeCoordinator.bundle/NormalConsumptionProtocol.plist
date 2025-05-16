@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricProject</key>
+	<string>localPolygon</string>
+	<key>gramContrast</key>
+	<string>adaptiveIsolate</string>
+	<key>imageskewy</key>
+	<string>priorChooser</string>
+	<key>liteInformation</key>
+	<string>activeSegment</string>
+	<key>otherNib</key>
+	<string>sharedCapacity</string>
+	<key>pinchablelog</key>
+	<string>saveStep</string>
+	<key>sessionmesh</key>
+	<string>usedStateful</string>
+	<key>techniqueVelocity</key>
+	<string>scheduleSlider</string>
+	<key>unsortedMobile</key>
+	<string>reactiveAnimation</string>
+</dict>
+</plist>

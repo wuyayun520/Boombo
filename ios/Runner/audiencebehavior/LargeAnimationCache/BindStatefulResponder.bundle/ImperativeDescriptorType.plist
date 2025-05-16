@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autorichtextmode</key>
+	<string>decodedependency</string>
+	<key>denseImpact</key>
+	<string>shouldDetachOptimizer</string>
+	<key>disparateGestureDetector</key>
+	<string>permanentTangent</string>
+	<key>progressbarDuration</key>
+	<string>provisionScale</string>
+	<key>providerparambottom</key>
+	<string>opaqueStateful</string>
+	<key>shouldContinueScroll</key>
+	<string>detachFrame</string>
+	<key>shouldValidateTheme</key>
+	<string>canFinishMusic</string>
+	<key>shouldYieldSubpixel</key>
+	<string>providercontrast</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelTint</key>
+	<string>continuemovement</string>
+	<key>fragmentsTransparency</key>
+	<string>interfaceStage</string>
+	<key>hardAlpha</key>
+	<string>occasionDepth</string>
+	<key>heapoutsidefunction</key>
+	<string>bindMobile</string>
+	<key>shouldFinishTabView</key>
+	<string>subtleNavigation</string>
+	<key>smartBinder</key>
+	<string>persistArithmetic</string>
+	<key>spineCount</key>
+	<string>playbackBuffer</string>
+</dict>
+</plist>

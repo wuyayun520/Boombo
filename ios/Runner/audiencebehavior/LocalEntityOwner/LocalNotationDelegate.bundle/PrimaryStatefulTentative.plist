@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missedPlayback</key>
+	<string>sizedboxCommand</string>
+	<key>newestIndicator</key>
+	<string>sliderTheme</string>
+	<key>rapidLayout</key>
+	<string>bitrateJob</string>
+	<key>resilientLinker</key>
+	<string>rebuildconsumer</string>
+	<key>shouldMountPrecision</key>
+	<string>concurrentMaterial</string>
+	<key>subtleCluster</key>
+	<string>crucialmanagerskewx</string>
+	<key>thresholdContrast</key>
+	<string>canResumeAspect</string>
+	<key>viewcontainadapter</key>
+	<string>checklistComposite</string>
+	<key>visibleconsumer</key>
+	<string>unaryEnvironment</string>
+</dict>
+</plist>

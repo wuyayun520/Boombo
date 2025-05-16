@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttoninset</key>
+	<string>latencyStyle</string>
+	<key>challengedrawer</key>
+	<string>nodename</string>
+	<key>cycleDepth</key>
+	<string>usagepager</string>
+	<key>delegateselector</key>
+	<string>tooltint</string>
+	<key>lastSegue</key>
+	<string>columnFlyweight</string>
+	<key>requiredStateless</key>
+	<string>nativeproject</string>
+	<key>singlePopup</key>
+	<string>channelconnector</string>
+	<key>statesplitter</key>
+	<string>labelcontextspacing</string>
+	<key>vectorintegrity</key>
+	<string>shouldrenderfragment</string>
+</dict>
+</plist>

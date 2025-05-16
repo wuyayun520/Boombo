@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedcanvas</key>
+	<string>shouldnotifyreference</string>
+	<key>autoSensor</key>
+	<string>subtleProvider</string>
+	<key>priorTouch</key>
+	<string>architectureHue</string>
+	<key>resultborder</key>
+	<string>protectedBrush</string>
+	<key>subtleTaxonomy</key>
+	<string>alertinteraction</string>
+	<key>tappableSensor</key>
+	<string>modalParam</string>
+	<key>touchshade</key>
+	<string>registerwidget</string>
+	<key>unactivatedRoute</key>
+	<string>tappableStroke</string>
+</dict>
+</plist>

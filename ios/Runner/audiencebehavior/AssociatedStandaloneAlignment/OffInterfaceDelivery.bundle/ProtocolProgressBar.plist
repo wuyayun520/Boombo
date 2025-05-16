@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayablepopupoffset</key>
+	<string>graphicVelocity</string>
+	<key>euclideancube</key>
+	<string>scaffoldLeft</string>
+	<key>listenerDirection</key>
+	<string>factoryOrigin</string>
+	<key>mendAppearance</key>
+	<string>rangeMode</string>
+	<key>persistentDropdownButton</key>
+	<string>storeCoordinator</string>
+	<key>popupsearcher</key>
+	<string>consumeUseCase</string>
+	<key>robustTechnique</key>
+	<string>emitlocalization</string>
+	<key>shouldShowDimension</key>
+	<string>boxshadowHead</string>
+	<key>shouldemitgram</key>
+	<string>shouldSaveSemantics</string>
+</dict>
+</plist>

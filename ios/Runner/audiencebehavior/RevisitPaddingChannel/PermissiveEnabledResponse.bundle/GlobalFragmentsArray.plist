@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardPosition</key>
+	<string>canEmitInterpolation</string>
+	<key>gateactionspacing</key>
+	<string>localizationagainststage</string>
+	<key>ignoredVolume</key>
+	<string>immutableSpine</string>
+	<key>reusablemenustyle</key>
+	<string>effectDensity</string>
+	<key>shouldUnmountedAlpha</key>
+	<string>paintAxis</string>
+	<key>sustainableStoryboard</key>
+	<string>loadScreen</string>
+</dict>
+</plist>

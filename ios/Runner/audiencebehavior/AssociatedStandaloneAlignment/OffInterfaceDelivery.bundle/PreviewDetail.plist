@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionHead</key>
+	<string>subsequentprotocolrate</string>
+	<key>binaryContrast</key>
+	<string>nibloop</string>
+	<key>checklistVisible</key>
+	<string>readHandler</string>
+	<key>grayscaleType</key>
+	<string>prevTrigger</string>
+	<key>normalhistogram</key>
+	<string>shouldEncodePlayback</string>
+	<key>shouldUnbindStateful</key>
+	<string>canRouteView</string>
+	<key>tappableCaption</key>
+	<string>scenePrototype</string>
+</dict>
+</plist>

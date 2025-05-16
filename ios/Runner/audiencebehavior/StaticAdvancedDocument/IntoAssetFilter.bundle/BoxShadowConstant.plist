@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalMomentum</key>
+	<string>numericalTicker</string>
+	<key>defaultnib</key>
+	<string>dynamicRect</string>
+	<key>intermediateProgressBar</key>
+	<string>inheritedFragment</string>
+	<key>linkerDensity</key>
+	<string>singleVolume</string>
+	<key>overlayAcceleration</key>
+	<string>asynchronousStateless</string>
+	<key>requiredPromise</key>
+	<string>calculatetitle</string>
+	<key>scaleBound</key>
+	<string>sliderHue</string>
+	<key>scalebylayer</key>
+	<string>resumeinjection</string>
+</dict>
+</plist>

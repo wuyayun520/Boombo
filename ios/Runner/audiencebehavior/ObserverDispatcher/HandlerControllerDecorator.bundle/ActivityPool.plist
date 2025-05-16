@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedstateful</key>
+	<string>holdResource</string>
+	<key>denseAxis</key>
+	<string>onlistviewtap</string>
+	<key>mobileCoordinator</key>
+	<string>persistentAspectRatio</string>
+	<key>resilientGridView</key>
+	<string>similarScale</string>
+	<key>shouldBuildCertificate</key>
+	<string>shouldUnmountedDropdownButton</string>
+	<key>shouldUnbindTabBar</key>
+	<string>serviceScope</string>
+	<key>shouldobservepadding</key>
+	<string>showinkwell</string>
+	<key>subscriberindex</key>
+	<string>rebuildObserver</string>
+</dict>
+</plist>

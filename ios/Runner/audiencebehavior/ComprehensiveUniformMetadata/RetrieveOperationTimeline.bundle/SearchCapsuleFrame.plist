@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSound</key>
+	<string>completionTransparency</string>
+	<key>dismisssegment</key>
+	<string>addMetadata</string>
+	<key>ephemeralEmitter</key>
+	<string>shouldSavePainter</string>
+	<key>multiTaxonomy</key>
+	<string>restartSlash</string>
+	<key>otherimage</key>
+	<string>canEndEffect</string>
+	<key>pagerVisible</key>
+	<string>shouldCachePositioned</string>
+	<key>resourcebuilder</key>
+	<string>localBrush</string>
+</dict>
+</plist>

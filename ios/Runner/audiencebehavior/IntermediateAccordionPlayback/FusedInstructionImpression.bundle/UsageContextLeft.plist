@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerandform</key>
+	<string>formatsink</string>
+	<key>confidentialityFormat</key>
+	<string>shouldHandleCurve</string>
+	<key>detectorTheme</key>
+	<string>decodeMaster</string>
+	<key>pinchableFragment</key>
+	<string>futuretag</string>
+	<key>recursionvisible</key>
+	<string>granularStatus</string>
+	<key>relationalnavigatoredge</key>
+	<string>scheduleTitle</string>
+	<key>streambeyondbridge</key>
+	<string>shouldDisposeSignature</string>
+	<key>substantialpriority</key>
+	<string>curveValidation</string>
+</dict>
+</plist>

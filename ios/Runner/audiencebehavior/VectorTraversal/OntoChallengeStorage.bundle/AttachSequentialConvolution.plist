@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSubpixel</key>
+	<string>loadIndicator</string>
+	<key>customizedMaterial</key>
+	<string>detectorStatus</string>
+	<key>lostAnalogy</key>
+	<string>uniquecustompaintoffset</string>
+	<key>reactiveScalability</key>
+	<string>mapperSpeed</string>
+	<key>replacewidget</key>
+	<string>subtleAspect</string>
+	<key>serializeerror</key>
+	<string>topictentative</string>
+	<key>shouldSkipCupertino</key>
+	<string>logarithmFrequency</string>
+	<key>shouldYieldKernel</key>
+	<string>bulletHue</string>
+</dict>
+</plist>

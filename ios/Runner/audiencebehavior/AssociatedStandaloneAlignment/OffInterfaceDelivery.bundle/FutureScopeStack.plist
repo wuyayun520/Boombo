@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedEntropy</key>
+	<string>shouldRebuildAspectRatio</string>
+	<key>basicMaterializer</key>
+	<string>streamLayer</string>
+	<key>inactiveInteger</key>
+	<string>navigationscheduler</string>
+	<key>retainedConfiguration</key>
+	<string>shouldNavigateStream</string>
+	<key>shouldPopEqualization</key>
+	<string>amortizationKind</string>
+	<key>substantialMend</key>
+	<string>shouldLoadSign</string>
+</dict>
+</plist>

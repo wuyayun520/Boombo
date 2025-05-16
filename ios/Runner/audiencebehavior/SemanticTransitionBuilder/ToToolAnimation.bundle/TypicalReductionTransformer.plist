@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderreliability</key>
+	<string>semanticPopup</string>
+	<key>custompaintDelay</key>
+	<string>nextVertex</string>
+	<key>deflatefuture</key>
+	<string>descentDepth</string>
+	<key>draggableOperation</key>
+	<string>sharedWrapper</string>
+	<key>lastgemcount</key>
+	<string>hardrestriction</string>
+	<key>logopacity</key>
+	<string>unsortedConsumption</string>
+	<key>playbackVisibility</key>
+	<string>textureFeedback</string>
+	<key>prevlinker</key>
+	<string>cardProxy</string>
+</dict>
+</plist>

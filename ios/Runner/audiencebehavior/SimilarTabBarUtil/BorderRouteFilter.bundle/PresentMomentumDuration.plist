@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinelayertransparency</key>
+	<string>intermediateAnchor</string>
+	<key>capacitiesAcceleration</key>
+	<string>mutableslidercolor</string>
+	<key>collectionlifecycle</key>
+	<string>numericalOptimizer</string>
+	<key>difficultScreen</key>
+	<string>precisionStatus</string>
+	<key>inheritedRepository</key>
+	<string>shouldPersistButton</string>
+	<key>requiredCoordinator</key>
+	<string>musicLeft</string>
+	<key>retainedEvaluation</key>
+	<string>scrollablePolyfill</string>
+	<key>statusColor</key>
+	<string>singletonBuffer</string>
+</dict>
+</plist>

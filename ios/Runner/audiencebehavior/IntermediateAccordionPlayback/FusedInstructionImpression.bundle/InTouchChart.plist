@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonDependency</key>
+	<string>actionprocessborder</string>
+	<key>descriptorState</key>
+	<string>shouldDispatchInstruction</string>
+	<key>draggableProvider</key>
+	<string>invokeAsync</string>
+	<key>groupasphase</key>
+	<string>axisAcceleration</string>
+	<key>immediateStack</key>
+	<string>baseSkewY</string>
+	<key>lifecycletail</key>
+	<string>discardedDispatcher</string>
+	<key>multiScreen</key>
+	<string>significantInformation</string>
+	<key>newestFragments</key>
+	<string>quantizationmodulus</string>
+	<key>parallelSwift</key>
+	<string>singleOptimizer</string>
+	<key>shouldDecodeChecklist</key>
+	<string>shouldLoadCapacities</string>
+</dict>
+</plist>

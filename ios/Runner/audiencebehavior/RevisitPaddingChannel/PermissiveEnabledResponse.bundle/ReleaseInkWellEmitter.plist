@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityIndex</key>
+	<string>keymapper</string>
+	<key>labelOrigin</key>
+	<string>generatetool</string>
+	<key>lazystream</key>
+	<string>iconPlatform</string>
+	<key>markgesturedetector</key>
+	<string>detectorContrast</string>
+	<key>mediumPoint</key>
+	<string>canSerializeMultiplication</string>
+	<key>numericalcursorresponse</key>
+	<string>mediocreDelivery</string>
+	<key>rectcycleposition</key>
+	<string>advancedRequest</string>
+	<key>subtleOptimizer</key>
+	<string>gramoperationtransparency</string>
+	<key>ternarytimeline</key>
+	<string>showBrush</string>
+	<key>variantmodule</key>
+	<string>lazyChannels</string>
+</dict>
+</plist>

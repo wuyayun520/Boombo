@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentstroke</key>
+	<string>canUnmountBuilder</string>
+	<key>currentListener</key>
+	<string>shouldrenderdecoration</string>
+	<key>logarithmerror</key>
+	<string>resourcetrigger</string>
+	<key>nativeIntegrity</key>
+	<string>rebuildInstruction</string>
+	<key>processcurve</key>
+	<string>interfaceLayer</string>
+	<key>shouldCreateShader</key>
+	<string>shouldStartPainter</string>
+	<key>shouldEndModulus</key>
+	<string>searchCompleter</string>
+	<key>shouldInflateStateless</key>
+	<string>notifierlevelduration</string>
+	<key>touchaction</key>
+	<string>canKeepBaseline</string>
+</dict>
+</plist>

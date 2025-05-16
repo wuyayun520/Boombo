@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitySpeed</key>
+	<string>shouldLoadNavigation</string>
+	<key>gridalongnumber</key>
+	<string>continueSlider</string>
+	<key>normalPrecision</key>
+	<string>stampScale</string>
+	<key>resilientAspect</key>
+	<string>dataDensity</string>
+	<key>setstatebloc</key>
+	<string>implementText</string>
+	<key>tappablenormcoord</key>
+	<string>maxChallenge</string>
+	<key>ternaryHead</key>
+	<string>rapidConstant</string>
+</dict>
+</plist>

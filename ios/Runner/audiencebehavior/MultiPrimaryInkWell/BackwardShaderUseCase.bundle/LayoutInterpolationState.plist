@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featurewithstage</key>
+	<string>lastBrush</string>
+	<key>gridtolerance</key>
+	<string>evolutiontop</string>
+	<key>hyperbolicNorm</key>
+	<string>immutableNode</string>
+	<key>protectedemitter</key>
+	<string>publicIsolate</string>
+	<key>searcheffect</key>
+	<string>emitterSaturation</string>
+	<key>shouldCacheContainer</key>
+	<string>rendermedia</string>
+</dict>
+</plist>

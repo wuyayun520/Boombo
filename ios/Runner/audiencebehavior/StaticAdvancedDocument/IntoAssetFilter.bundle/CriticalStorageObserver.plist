@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseradioright</key>
+	<string>responsivePageView</string>
+	<key>draggablenode</key>
+	<string>trianglesRotation</string>
+	<key>shouldCreatePadding</key>
+	<string>canRouteCupertino</string>
+	<key>shouldanimatedecoration</key>
+	<string>retaininterface</string>
+</dict>
+</plist>

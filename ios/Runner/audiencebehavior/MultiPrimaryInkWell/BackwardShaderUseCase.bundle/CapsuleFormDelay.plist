@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedTriangles</key>
+	<string>quantizationresource</string>
+	<key>hierarchicalVideo</key>
+	<string>petVelocity</string>
+	<key>localizationpolygon</key>
+	<string>shouldEncodeStateless</string>
+	<key>mainPreview</key>
+	<string>challengeColor</string>
+	<key>parallelBullet</key>
+	<string>canCancelExpanded</string>
+	<key>rendererVelocity</key>
+	<string>mutableListView</string>
+	<key>similarAlert</key>
+	<string>arithmeticModulus</string>
+	<key>statelessAlert</key>
+	<string>continueoption</string>
+	<key>symmetricPopup</key>
+	<string>publishAperture</string>
+</dict>
+</plist>

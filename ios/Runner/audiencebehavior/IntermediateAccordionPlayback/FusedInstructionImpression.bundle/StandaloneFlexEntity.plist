@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateRemainder</key>
+	<string>defaultimage</string>
+	<key>entityhue</key>
+	<string>directLatency</string>
+	<key>flexibleProcessor</key>
+	<string>boxshadowAcceleration</string>
+	<key>intermediateLog</key>
+	<string>graphValidation</string>
+	<key>lostAlert</key>
+	<string>streamPadding</string>
+	<key>onsignaturechanged</key>
+	<string>movementLayer</string>
+	<key>pinchableformat</key>
+	<string>visibleCosine</string>
+	<key>rebuildtitle</key>
+	<string>errorSingleton</string>
+</dict>
+</plist>

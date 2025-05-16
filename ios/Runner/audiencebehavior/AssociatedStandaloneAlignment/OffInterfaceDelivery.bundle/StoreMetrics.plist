@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousInfrastructure</key>
+	<string>concurrentEmitter</string>
+	<key>conformaspectratio</key>
+	<string>explicitBuffer</string>
+	<key>deserializestorage</key>
+	<string>shouldReplaceThread</string>
+	<key>sinemodename</key>
+	<string>routeCache</string>
+	<key>uniqueTween</key>
+	<string>dispatchchannel</string>
+</dict>
+</plist>

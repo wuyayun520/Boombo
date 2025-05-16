@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedHandler</key>
+	<string>concurrentResource</string>
+	<key>keepinterpolation</key>
+	<string>discardedSignature</string>
+	<key>shouldattachstateless</key>
+	<string>mediaqueryobserver</string>
+	<key>shouldtransformnotification</key>
+	<string>statelessCommand</string>
+	<key>similartransition</key>
+	<string>compositionalTween</string>
+	<key>statefulParticle</key>
+	<string>shouldNotifyGridView</string>
+	<key>strokemargin</key>
+	<string>popCoordinator</string>
+	<key>switchSpeed</key>
+	<string>transposeModel</string>
+	<key>viewspacing</key>
+	<string>releaseException</string>
+</dict>
+</plist>

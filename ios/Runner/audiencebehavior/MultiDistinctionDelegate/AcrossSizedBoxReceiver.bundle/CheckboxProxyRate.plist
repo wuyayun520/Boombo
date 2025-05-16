@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordiontransition</key>
+	<string>profilemodule</string>
+	<key>functionalpopup</key>
+	<string>shouldSetStateBox</string>
+	<key>mobileResilience</key>
+	<string>rotateParticle</string>
+	<key>pinchableArithmetic</key>
+	<string>stampOffset</string>
+	<key>precisionName</key>
+	<string>canStartBrush</string>
+	<key>repositoryflags</key>
+	<string>mediocreMaterial</string>
+	<key>resumeaspectratio</key>
+	<string>subtleTitle</string>
+	<key>scrollEdge</key>
+	<string>inactiveIsolate</string>
+	<key>shouldEndOperation</key>
+	<string>injectionwithoutstage</string>
+</dict>
+</plist>

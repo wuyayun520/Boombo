@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationForce</key>
+	<string>newestJoiner</string>
+	<key>associatedmusic</key>
+	<string>shouldRenderVariant</string>
+	<key>disabledmetadata</key>
+	<string>difficultProgressBar</string>
+	<key>impactRate</key>
+	<string>transformerMargin</string>
+	<key>mainOffset</key>
+	<string>normalDispatcher</string>
+	<key>mainUnary</key>
+	<string>statefulPattern</string>
+	<key>resilientDrawer</key>
+	<string>dimensionColor</string>
+</dict>
+</plist>

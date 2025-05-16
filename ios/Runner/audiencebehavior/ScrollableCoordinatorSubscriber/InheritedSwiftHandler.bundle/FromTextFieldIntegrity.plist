@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexiblethreshold</key>
+	<string>storeUtil</string>
+	<key>missionshade</key>
+	<string>stateInterpreter</string>
+	<key>reactiveMesh</key>
+	<string>matrixvisibility</string>
+	<key>topictype</key>
+	<string>permissiveDocument</string>
+	<key>uniformmodelstate</key>
+	<string>aspectratioincludephase</string>
+</dict>
+</plist>

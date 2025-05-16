@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocVisibility</key>
+	<string>shouldDecodeSegment</string>
+	<key>geometricSegue</key>
+	<string>subpixelMode</string>
+	<key>shouldBindSpecifier</key>
+	<string>resolverEnvironment</string>
+	<key>sustainableReplica</key>
+	<string>loadStep</string>
+	<key>variantRight</key>
+	<string>granularDescription</string>
+</dict>
+</plist>

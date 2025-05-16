@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeVolume</key>
+	<string>beginnerstateborder</string>
+	<key>hascontraction</key>
+	<string>capacityDelay</string>
+	<key>materialNotation</key>
+	<string>canEndAnimatedContainer</string>
+	<key>mediaqueryVisible</key>
+	<string>shouldDispatchCell</string>
+	<key>mediumEquipment</key>
+	<string>concurrentGrid</string>
+	<key>seamlessInkWell</key>
+	<string>shouldMountButton</string>
+	<key>selectedroute</key>
+	<string>progressbarVisitor</string>
+	<key>visibleTrigger</key>
+	<string>shouldProcessTable</string>
+</dict>
+</plist>

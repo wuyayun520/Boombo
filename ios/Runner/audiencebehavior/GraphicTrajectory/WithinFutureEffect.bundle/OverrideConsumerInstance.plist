@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticButton</key>
+	<string>remainderMargin</string>
+	<key>granularservice</key>
+	<string>shouldDeserializeButton</string>
+	<key>mobileCount</key>
+	<string>dismissCharacter</string>
+	<key>polyfillAcceleration</key>
+	<string>enabledKernel</string>
+	<key>requiredIntegration</key>
+	<string>mediaqueryInset</string>
+	<key>transitiontype</key>
+	<string>challengeinteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedconverter</key>
+	<string>shouldDecodeGridView</string>
+	<key>largeGestureDetector</key>
+	<string>shouldPresentCapsule</string>
+	<key>loadertheme</key>
+	<string>defaultcursor</string>
+	<key>parallelResolver</key>
+	<string>shouldtransformbase</string>
+	<key>resilientModule</key>
+	<string>retrieveCubit</string>
+	<key>sharedboxshadowshape</key>
+	<string>locatefeature</string>
+	<key>shouldKeepCollection</key>
+	<string>radioValidation</string>
+	<key>shouldPushMember</key>
+	<string>materialVisitor</string>
+	<key>tappableResult</key>
+	<string>composableElement</string>
+	<key>typicalRouter</key>
+	<string>previewbinder</string>
+</dict>
+</plist>

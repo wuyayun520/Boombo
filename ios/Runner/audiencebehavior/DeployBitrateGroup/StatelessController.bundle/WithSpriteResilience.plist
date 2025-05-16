@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalVolume</key>
+	<string>typicalAspect</string>
+	<key>eagerAxis</key>
+	<string>shouldSubscribeClipper</string>
+	<key>handlealignment</key>
+	<string>masterPlatform</string>
+	<key>tappablevolume</key>
+	<string>continueBox</string>
+</dict>
+</plist>

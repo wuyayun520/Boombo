@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicLifecycle</key>
+	<string>temporaryText</string>
+	<key>disparateUtil</key>
+	<string>shouldSetStateController</string>
+	<key>hashTag</key>
+	<string>gestureInterpreter</string>
+	<key>lazyTimeline</key>
+	<string>freeCurve</string>
+	<key>retainedIntegrity</key>
+	<string>tensorReducer</string>
+	<key>retainedLayer</key>
+	<string>shouldPauseMovement</string>
+	<key>shouldTransformPriority</key>
+	<string>objectTail</string>
+	<key>shouldtransitionstep</key>
+	<string>containerBridge</string>
+	<key>tickerBehavior</key>
+	<string>canPresentAccessory</string>
+</dict>
+</plist>

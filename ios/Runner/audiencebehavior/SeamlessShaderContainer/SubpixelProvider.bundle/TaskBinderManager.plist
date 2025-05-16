@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalTime</key>
+	<string>canFetchAxis</string>
+	<key>controllerTop</key>
+	<string>shouldLayoutExtension</string>
+	<key>crudeSound</key>
+	<string>uniqueChooser</string>
+	<key>disparateFilter</key>
+	<string>aperturelayeropacity</string>
+	<key>inactiveContainer</key>
+	<string>immediatePager</string>
+	<key>splitterSkewY</key>
+	<string>rangeStyle</string>
+</dict>
+</plist>

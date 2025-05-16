@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveComponent</key>
+	<string>canLayoutDrawer</string>
+	<key>discardedException</key>
+	<string>capacitiesPosition</string>
+	<key>elementDensity</key>
+	<string>shouldCacheTheme</string>
+	<key>rendererDirection</key>
+	<string>swiftScale</string>
+	<key>shouldPaintChecklist</key>
+	<string>decorationTask</string>
+	<key>shouldTransformColumn</key>
+	<string>subscriberAcceleration</string>
+	<key>shouldreplacecontainer</key>
+	<string>shouldConnectHistogram</string>
+	<key>sophisticatedAspect</key>
+	<string>hasUnary</string>
+</dict>
+</plist>

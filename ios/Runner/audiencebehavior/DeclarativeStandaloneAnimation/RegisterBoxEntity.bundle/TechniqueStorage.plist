@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuecontainer</key>
+	<string>layertaxonomy</string>
+	<key>disparateFormat</key>
+	<string>charttension</string>
+	<key>intermediateCubit</key>
+	<string>shouldTransitionRichText</string>
+	<key>priorityAppearance</key>
+	<string>refactorTimer</string>
+	<key>progressbaralignment</key>
+	<string>shouldUnmountMedia</string>
+	<key>publicSprite</key>
+	<string>removeProvider</string>
+	<key>schedulerBorder</key>
+	<string>shouldPopAlpha</string>
+	<key>sliderSpacing</key>
+	<string>comprehensiveresponder</string>
+</dict>
+</plist>

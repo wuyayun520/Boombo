@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationbound</key>
+	<string>storeCurve</string>
+	<key>discardedState</key>
+	<string>priorRectangle</string>
+	<key>enabledConvolution</key>
+	<string>mutableTicker</string>
+	<key>fragmentValidation</key>
+	<string>subscribeSkirt</string>
+	<key>heapRotation</key>
+	<string>greatBehavior</string>
+	<key>nativeCapacities</key>
+	<string>inactiveSubscription</string>
+	<key>sessionmode</key>
+	<string>opaqueProtocol</string>
+	<key>shouldPersistMission</key>
+	<string>documenttweak</string>
+	<key>shouldTransitionConvolution</key>
+	<string>emitMenu</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeplate</key>
+	<string>presentColumn</string>
+	<key>layoutSkewX</key>
+	<string>shouldConnectGradient</string>
+	<key>tweenthroughtype</key>
+	<string>retainStorage</string>
+</dict>
+</plist>

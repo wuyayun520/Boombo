@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentRotation</key>
+	<string>numericalContainer</string>
+	<key>certificatetint</key>
+	<string>positionedDecorator</string>
+	<key>draggabletopic</key>
+	<string>lossCoord</string>
+	<key>inheriteddelegate</key>
+	<string>layouttool</string>
+	<key>normalTangent</key>
+	<string>shouldEndFuture</string>
+	<key>painterDirection</key>
+	<string>inactivemovementvisible</string>
+	<key>pivotalSizedBox</key>
+	<string>convertChart</string>
+	<key>relationalSpecifier</key>
+	<string>keepCapacities</string>
+	<key>routerHead</key>
+	<string>prismaticLog</string>
+	<key>selectedGesture</key>
+	<string>instantiateUtil</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthMargin</key>
+	<string>effectInterpreter</string>
+	<key>granulartitle</key>
+	<string>shouldPauseCosine</string>
+	<key>interfaceAcceleration</key>
+	<string>resolverstrategyalignment</string>
+	<key>lastTweak</key>
+	<string>canPushGridView</string>
+	<key>requestappearance</key>
+	<string>shouldPresentCanvas</string>
+	<key>shouldUnbindText</key>
+	<string>sliderAppearance</string>
+	<key>sizeversuscycle</key>
+	<string>originalUseCase</string>
+	<key>spotsaturation</key>
+	<string>normalFormat</string>
+</dict>
+</plist>

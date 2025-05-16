@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPolygon</key>
+	<string>escalatemultiplication</string>
+	<key>capacityMode</key>
+	<string>flexibleMaster</string>
+	<key>keyBuffer</key>
+	<string>gesturedetectorBottom</string>
+	<key>keyDependency</key>
+	<string>associatedTask</string>
+	<key>localModel</key>
+	<string>interpolateinjection</string>
+	<key>responsiveDuration</key>
+	<string>scrollableItem</string>
+	<key>semanticStroke</key>
+	<string>groupdistance</string>
+	<key>storageDirection</key>
+	<string>staticEquipment</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleMargin</key>
+	<string>pointStyle</string>
+	<key>interactorcoord</key>
+	<string>strokeTheme</string>
+	<key>loopeffect</key>
+	<string>taskindex</string>
+	<key>pivotalExtension</key>
+	<string>ternaryTransparency</string>
+	<key>providerSize</key>
+	<string>singleBinary</string>
+	<key>requestLocation</key>
+	<string>shouldPresentThread</string>
+	<key>segueselector</key>
+	<string>meshTransparency</string>
+	<key>streamconverter</key>
+	<string>similarLogarithm</string>
+</dict>
+</plist>

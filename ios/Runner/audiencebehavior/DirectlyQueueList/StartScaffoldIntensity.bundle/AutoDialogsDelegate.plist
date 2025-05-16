@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectKind</key>
+	<string>updateBoxShadow</string>
+	<key>asynchronousEquivalent</key>
+	<string>reusableSkin</string>
+	<key>reactiveBinder</key>
+	<string>shouldPushPageView</string>
+	<key>relationalSprite</key>
+	<string>petStyle</string>
+	<key>sliderstateduration</key>
+	<string>setstateSample</string>
+	<key>subtleLoop</key>
+	<string>layoutStateful</string>
+	<key>temporarycompletertop</key>
+	<string>iterativeCapsule</string>
+</dict>
+</plist>

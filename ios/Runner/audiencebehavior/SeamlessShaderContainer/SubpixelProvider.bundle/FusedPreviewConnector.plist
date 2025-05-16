@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSlider</key>
+	<string>saveKernel</string>
+	<key>disabledAsset</key>
+	<string>clipperhash</string>
+	<key>granularTicker</key>
+	<string>semanticSlider</string>
+	<key>shouldNotifyBaseline</key>
+	<string>profileFramework</string>
+	<key>storyboardInterval</key>
+	<string>decodeNavigation</string>
+	<key>substantialChallenge</key>
+	<string>heapInteraction</string>
+</dict>
+</plist>

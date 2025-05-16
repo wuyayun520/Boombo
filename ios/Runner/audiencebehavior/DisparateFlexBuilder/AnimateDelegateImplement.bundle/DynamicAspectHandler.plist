@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableScenario</key>
+	<string>replicaName</string>
+	<key>dialogsSaturation</key>
+	<string>informationPressure</string>
+	<key>findertheme</key>
+	<string>trajectoryStyle</string>
+	<key>herocolor</key>
+	<string>immutableAxis</string>
+	<key>listenerState</key>
+	<string>hyperbolicrect</string>
+	<key>normmerger</key>
+	<string>navigatorHue</string>
+	<key>projectionFrequency</key>
+	<string>adaptivesubscriptioncount</string>
+	<key>secondAwait</key>
+	<string>metadataType</string>
+	<key>shaderCount</key>
+	<string>positionedjobbehavior</string>
+</dict>
+</plist>

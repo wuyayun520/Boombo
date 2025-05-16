@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamiccanvas</key>
+	<string>resizableAscent</string>
+	<key>intermediateFrame</key>
+	<string>scrollBottom</string>
+	<key>modelSkewY</key>
+	<string>subscriberDelay</string>
+	<key>mutableCapacity</key>
+	<string>smallextensionname</string>
+	<key>responsiveAxis</key>
+	<string>persistentTool</string>
+	<key>responsiveNode</key>
+	<string>canPaintNotification</string>
+	<key>shouldtraininstruction</key>
+	<string>dispatchSkin</string>
+	<key>smallconstraintshade</key>
+	<string>transitionInkWell</string>
+	<key>staticSorter</key>
+	<string>completermechanism</string>
+	<key>usedAccessory</key>
+	<string>shouldUnmountedClipper</string>
+</dict>
+</plist>

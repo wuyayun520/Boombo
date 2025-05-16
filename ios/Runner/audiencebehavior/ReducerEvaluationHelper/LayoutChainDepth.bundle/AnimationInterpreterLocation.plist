@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveReliability</key>
+	<string>cardparticle</string>
+	<key>buildstore</key>
+	<string>relationalHandler</string>
+	<key>independentLoop</key>
+	<string>heroOrigin</string>
+	<key>pageviewInteraction</key>
+	<string>searcherSaturation</string>
+	<key>pivotalChannels</key>
+	<string>canHandlePositioned</string>
+	<key>searcherBehavior</key>
+	<string>elasticMetrics</string>
+	<key>secondLayout</key>
+	<string>persistentPet</string>
+	<key>shouldDeserializeStamp</key>
+	<string>robustModulus</string>
+	<key>shouldPaintGesture</key>
+	<string>canSaveHeap</string>
+</dict>
+</plist>

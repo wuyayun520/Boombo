@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSign</key>
+	<string>uniformCustomPaint</string>
+	<key>activatedInstruction</key>
+	<string>providerDirection</string>
+	<key>alphaenvironmentstate</key>
+	<string>canObservePainter</string>
+	<key>diffablepopup</key>
+	<string>injectBuilder</string>
+	<key>mapSaturation</key>
+	<string>shouldLoadPainter</string>
+	<key>metadataleft</key>
+	<string>asynchronousWorkflow</string>
+	<key>pivotalpositionappearance</key>
+	<string>sharedListener</string>
+	<key>provisionTension</key>
+	<string>scopeDirection</string>
+	<key>taskBrightness</key>
+	<string>shouldDismissAspectRatio</string>
+</dict>
+</plist>

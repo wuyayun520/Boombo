@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousDelivery</key>
+	<string>layerDecorator</string>
+	<key>easypopupstyle</key>
+	<string>rangeInset</string>
+	<key>greatdurationhead</key>
+	<string>metricsfrequency</string>
+	<key>sinkFeedback</key>
+	<string>evolutionFlags</string>
+	<key>smartBorder</key>
+	<string>throughputSaturation</string>
+	<key>transpilespot</key>
+	<string>optionMomentum</string>
+</dict>
+</plist>

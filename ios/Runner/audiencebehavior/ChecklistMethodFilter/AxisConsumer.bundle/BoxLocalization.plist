@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionInterval</key>
+	<string>unactivatedconstraintfrequency</string>
+	<key>lostReplica</key>
+	<string>holdState</string>
+	<key>relationalScalability</key>
+	<string>shouldConnectBinary</string>
+	<key>resizableSession</key>
+	<string>dependencyworkacceleration</string>
+	<key>shouldListenUsage</key>
+	<string>shouldReplaceCube</string>
+</dict>
+</plist>

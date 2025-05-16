@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousColumn</key>
+	<string>materialelement</string>
+	<key>checkboxspacing</key>
+	<string>fixedresponseinteraction</string>
+	<key>ignoredMaster</key>
+	<string>robustGridView</string>
+	<key>intermediatedelegate</key>
+	<string>newestReduction</string>
+	<key>permanentInterface</key>
+	<string>commoncurvevisibility</string>
+	<key>persistentNib</key>
+	<string>independentArithmetic</string>
+	<key>queueDuration</key>
+	<string>inflateobserver</string>
+	<key>reactiveFilter</key>
+	<string>decodeMusic</string>
+</dict>
+</plist>

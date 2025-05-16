@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invokechallenge</key>
+	<string>shouldPaintOverlay</string>
+	<key>presentalert</key>
+	<string>adaptivePermutation</string>
+	<key>tolerancePadding</key>
+	<string>detachEntropy</string>
+</dict>
+</plist>

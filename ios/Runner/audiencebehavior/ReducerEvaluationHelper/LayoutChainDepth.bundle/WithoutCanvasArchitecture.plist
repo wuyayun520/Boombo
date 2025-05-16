@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableCompletion</key>
+	<string>specifyPresenter</string>
+	<key>isexpanded</key>
+	<string>hardIcon</string>
+	<key>missedTween</key>
+	<string>hierarchicalDimension</string>
+	<key>painterMomentum</key>
+	<string>encodedialogs</string>
+	<key>parallelScaffold</key>
+	<string>interpolationSize</string>
+	<key>shouldValidateMaterial</key>
+	<string>shouldObserveAspect</string>
+</dict>
+</plist>

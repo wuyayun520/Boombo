@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardLatency</key>
+	<string>annotateResource</string>
+	<key>commonBrush</key>
+	<string>adjustLayout</string>
+	<key>customizedSink</key>
+	<string>streaminfo</string>
+	<key>elasticNib</key>
+	<string>shouldContinueSensor</string>
+	<key>precisionSpacing</key>
+	<string>subtleContraction</string>
+	<key>similarCard</key>
+	<string>agileWidget</string>
+	<key>visibleBox</key>
+	<string>taskframe</string>
+	<key>webScaffold</key>
+	<string>protectedModel</string>
+</dict>
+</plist>

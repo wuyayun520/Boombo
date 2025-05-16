@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicInstruction</key>
+	<string>sophisticatedBullet</string>
+	<key>grainState</key>
+	<string>tabbarAction</string>
+	<key>intermediateWorkflow</key>
+	<string>batchDelay</string>
+	<key>listviewMomentum</key>
+	<string>reactiveBoxShadow</string>
+	<key>materialdetail</key>
+	<string>temporaryascent</string>
+	<key>mobileSkin</key>
+	<string>pushBinary</string>
+	<key>noderange</key>
+	<string>shouldRenderAnimatedContainer</string>
+	<key>pausethread</key>
+	<string>storageTag</string>
+	<key>semanticsVisibility</key>
+	<string>rectangleRight</string>
+	<key>strengthSkewX</key>
+	<string>backwardDocument</string>
+</dict>
+</plist>

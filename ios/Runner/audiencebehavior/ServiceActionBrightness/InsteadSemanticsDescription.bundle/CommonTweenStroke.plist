@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateContainer</key>
+	<string>priorityInterval</string>
+	<key>protocolDuration</key>
+	<string>canReplaceTheme</string>
+	<key>scaffoldLeft</key>
+	<string>canRenderAccessory</string>
+	<key>serviceShape</key>
+	<string>discardedprecisionvisible</string>
+	<key>tappableRoute</key>
+	<string>adjustUseCase</string>
+</dict>
+</plist>

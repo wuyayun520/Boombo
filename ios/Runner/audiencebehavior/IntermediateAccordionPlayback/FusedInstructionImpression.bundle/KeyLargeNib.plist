@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMetrics</key>
+	<string>responsiveBoxShadow</string>
+	<key>arithmeticAnalogy</key>
+	<string>fusedColor</string>
+	<key>curvetint</key>
+	<string>observerFrequency</string>
+	<key>displayableContrast</key>
+	<string>alignmentOrigin</string>
+	<key>independentTask</key>
+	<string>alertFunction</string>
+	<key>slashType</key>
+	<string>globalFragment</string>
+	<key>statelessDescription</key>
+	<string>shouldObserveMultiplication</string>
+</dict>
+</plist>

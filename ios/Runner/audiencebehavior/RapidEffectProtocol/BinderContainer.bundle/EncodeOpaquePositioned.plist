@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerinscope</key>
+	<string>chooserRight</string>
+	<key>currentMember</key>
+	<string>embedRequest</string>
+	<key>debugresource</key>
+	<string>similarDuration</string>
+	<key>gramtext</key>
+	<string>mediaStrategy</string>
+	<key>shouldDismissTernary</key>
+	<string>shouldPauseAnimation</string>
+	<key>shouldPushOperation</key>
+	<string>interceptspecifier</string>
+	<key>synchronousCaption</key>
+	<string>binaryShape</string>
+	<key>unsortedAudio</key>
+	<string>shouldPauseGift</string>
+</dict>
+</plist>

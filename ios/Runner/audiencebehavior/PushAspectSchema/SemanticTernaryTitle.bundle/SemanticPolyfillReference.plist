@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeObject</key>
+	<string>holdBloc</string>
+	<key>backwardProtocol</key>
+	<string>ephemeralTimer</string>
+	<key>binderVisible</key>
+	<string>tabviewFrequency</string>
+	<key>concreteSize</key>
+	<string>shouldRestartPositioned</string>
+	<key>crucialSession</key>
+	<string>wrapPresenter</string>
+	<key>prevVideo</key>
+	<string>sorterRight</string>
+</dict>
+</plist>

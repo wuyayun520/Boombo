@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryOrientation</key>
+	<string>cellexceptstrategy</string>
+	<key>grayscaleRotation</key>
+	<string>canPersistSizedBox</string>
+	<key>invisiblealert</key>
+	<string>instantiateTween</string>
+	<key>shouldSubscribeAnimation</key>
+	<string>buildcapacities</string>
+	<key>subsequentRole</key>
+	<string>easySorter</string>
+</dict>
+</plist>

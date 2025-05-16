@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianvideo</key>
+	<string>extensionfrominterpreter</string>
+	<key>dialogscount</key>
+	<string>nativeMember</string>
+	<key>firstPromise</key>
+	<string>standaloneRadio</string>
+	<key>interactionBottom</key>
+	<string>requestMenu</string>
+	<key>replacenode</key>
+	<string>spinTransition</string>
+	<key>shouldLoadRemainder</key>
+	<string>shouldDismissSign</string>
+	<key>uniformherovelocity</key>
+	<string>methodAlignment</string>
+</dict>
+</plist>

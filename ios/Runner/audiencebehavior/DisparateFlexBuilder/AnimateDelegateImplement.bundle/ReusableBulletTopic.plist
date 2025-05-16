@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFrequency</key>
+	<string>subscriptionformat</string>
+	<key>disabledPager</key>
+	<string>streamlineQueue</string>
+	<key>explicitscreentype</key>
+	<string>batchCommand</string>
+	<key>metadatastagecenter</key>
+	<string>directRadio</string>
+	<key>nextTitle</key>
+	<string>functionalDialogs</string>
+	<key>resilientSlider</key>
+	<string>mountedinteractor</string>
+	<key>streamcubit</key>
+	<string>visualizeIntensity</string>
+</dict>
+</plist>

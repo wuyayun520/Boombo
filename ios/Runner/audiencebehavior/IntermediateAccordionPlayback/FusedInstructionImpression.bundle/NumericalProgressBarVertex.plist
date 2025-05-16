@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatchresource</key>
+	<string>scalabilitySaturation</string>
+	<key>errorpermutation</key>
+	<string>yieldRow</string>
+	<key>flexibleMerger</key>
+	<string>interfacearoundfunction</string>
+	<key>layoutBottom</key>
+	<string>thresholdTransparency</string>
+	<key>lazyPageView</key>
+	<string>shouldMountTask</string>
+	<key>parallelLog</key>
+	<string>subpixelFlyweight</string>
+	<key>shouldBindMediaQuery</key>
+	<string>replaceBoxShadow</string>
+	<key>shoulddispatchchannels</key>
+	<string>canSkipThread</string>
+	<key>slashsize</key>
+	<string>robustMechanism</string>
+</dict>
+</plist>

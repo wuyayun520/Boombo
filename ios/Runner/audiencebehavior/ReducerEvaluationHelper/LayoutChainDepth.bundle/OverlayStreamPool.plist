@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleContainer</key>
+	<string>firstChart</string>
+	<key>audioSpeed</key>
+	<string>refreshbuilder</string>
+	<key>dropoutnotification</key>
+	<string>priorityPosition</string>
+	<key>geometricGrain</key>
+	<string>disconnectsymbol</string>
+	<key>otherCapsule</key>
+	<string>subtleBox</string>
+	<key>rapidInjection</key>
+	<string>agileframe</string>
+	<key>resilienceFeedback</key>
+	<string>canDecodeInterpolation</string>
+	<key>shouldValidateTabView</key>
+	<string>displayableNorm</string>
+	<key>shouldstartpriority</key>
+	<string>persistentMobile</string>
+	<key>statelessMargin</key>
+	<string>binderTension</string>
+</dict>
+</plist>

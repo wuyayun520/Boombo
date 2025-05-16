@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticaction</key>
+	<string>minInstruction</string>
+	<key>denseAnimator</key>
+	<string>marginPosition</string>
+	<key>dynamicDocument</key>
+	<string>publisherSpeed</string>
+	<key>equalizationremediation</key>
+	<string>petDuration</string>
+	<key>linkerright</key>
+	<string>coordinatorPattern</string>
+	<key>materialStorage</key>
+	<string>unactivatedbinary</string>
+	<key>operationresponder</key>
+	<string>concurrentCycle</string>
+	<key>responseTag</key>
+	<string>priorTimer</string>
+	<key>touchTransparency</key>
+	<string>seamlessChooser</string>
+</dict>
+</plist>

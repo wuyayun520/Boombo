@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerImage</key>
+	<string>themeJob</string>
+	<key>denseResponse</key>
+	<string>cancelBatch</string>
+	<key>deserializeworkflow</key>
+	<string>shouldRestartInkWell</string>
+	<key>disabledBehavior</key>
+	<string>sceneShade</string>
+	<key>multiObject</key>
+	<string>viewDistance</string>
+	<key>responsiveSchema</key>
+	<string>sorterRight</string>
+	<key>shouldCancelBehavior</key>
+	<string>momentumCycle</string>
+	<key>significantClipper</key>
+	<string>tensorMediaQuery</string>
+	<key>storerecursion</key>
+	<string>usedSchema</string>
+</dict>
+</plist>

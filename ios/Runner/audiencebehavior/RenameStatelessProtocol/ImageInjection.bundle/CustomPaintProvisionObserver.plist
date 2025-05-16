@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsmend</key>
+	<string>labelbottom</string>
+	<key>cupertinoFrequency</key>
+	<string>itemPosition</string>
+	<key>euclideanCycle</key>
+	<string>allocatorStyle</string>
+	<key>mapValidation</key>
+	<string>connectMaterial</string>
+	<key>oldWorkflow</key>
+	<string>granularCheckbox</string>
+	<key>prismaticChallenge</key>
+	<string>formatRotation</string>
+	<key>shouldDeserializeAperture</key>
+	<string>debugEvent</string>
+	<key>shouldHandleStamp</key>
+	<string>unscheduleFrame</string>
+	<key>shouldRebuildPoint</key>
+	<string>connectReference</string>
+	<key>usedCosine</key>
+	<string>protectedanalyzer</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularMusic</key>
+	<string>listenloop</string>
+	<key>handlerTheme</key>
+	<string>primaryOperation</string>
+	<key>listenerlatency</key>
+	<string>shouldAnimateProfile</string>
+	<key>localasset</key>
+	<string>canHandleSlider</string>
+	<key>opaqueCollection</key>
+	<string>normAlignment</string>
+	<key>shouldShowAccessory</key>
+	<string>presentservice</string>
+	<key>statelessMap</key>
+	<string>navigationName</string>
+	<key>substantialTraversal</key>
+	<string>primaryMonster</string>
+</dict>
+</plist>

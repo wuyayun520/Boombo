@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertstatus</key>
+	<string>particleFacade</string>
+	<key>beginnerExpanded</key>
+	<string>stateviatype</string>
+	<key>capsuleBottom</key>
+	<string>rapidTentative</string>
+	<key>globalImage</key>
+	<string>mapperInterval</string>
+	<key>nibTag</key>
+	<string>canBindTabBar</string>
+	<key>responseForce</key>
+	<string>documentAppearance</string>
+	<key>shouldPopConsumer</key>
+	<string>refactorUseCase</string>
+	<key>shouldSerializeStateless</key>
+	<string>opaqueMatrix</string>
+	<key>synchronizetopic</key>
+	<string>createNavigator</string>
+</dict>
+</plist>

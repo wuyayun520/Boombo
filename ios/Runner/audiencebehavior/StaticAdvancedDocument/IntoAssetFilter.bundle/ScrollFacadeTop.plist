@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedJoiner</key>
+	<string>shouldDetachGraphic</string>
+	<key>gestureVisibility</key>
+	<string>shouldyieldconsumer</string>
+	<key>hierarchicalCube</key>
+	<string>denseDelegate</string>
+	<key>playbackOpacity</key>
+	<string>statefulQueue</string>
+	<key>shouldRebuildReduction</key>
+	<string>hierarchicalLifecycle</string>
+	<key>shouldTrainOverlay</key>
+	<string>shouldRouteHero</string>
+	<key>spotTheme</key>
+	<string>reduceChannel</string>
+	<key>statefulSchema</key>
+	<string>resolveraroundmethod</string>
+</dict>
+</plist>

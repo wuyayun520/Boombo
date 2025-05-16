@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSkirt</key>
+	<string>constraintProxy</string>
+	<key>crudegraph</key>
+	<string>diffableManager</string>
+	<key>dynamicImage</key>
+	<string>canFetchTask</string>
+	<key>easyProtocol</key>
+	<string>persistentBorder</string>
+	<key>iterativeRectangle</key>
+	<string>serviceChain</string>
+	<key>joinerPressure</key>
+	<string>resilientAlignment</string>
+	<key>originalKernel</key>
+	<string>crucialPrecision</string>
+	<key>protectedAperture</key>
+	<string>accordionElasticity</string>
+	<key>shouldDeserializeRichText</key>
+	<string>isBuilder</string>
+	<key>unarypolygon</key>
+	<string>discardedanimationstate</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customWidget</key>
+	<string>largeSegment</string>
+	<key>hasKernel</key>
+	<string>heroMomentum</string>
+	<key>missionmode</key>
+	<string>restoreRequest</string>
+	<key>robustBinder</key>
+	<string>unactivatedSubscriber</string>
+	<key>shouldSaveSpine</key>
+	<string>spincompleter</string>
+	<key>shouldSetStateBloc</key>
+	<string>uniformEntity</string>
+	<key>shouldUpdateCanvas</key>
+	<string>shapeDistance</string>
+	<key>similarmobile</key>
+	<string>relationalMomentum</string>
+</dict>
+</plist>

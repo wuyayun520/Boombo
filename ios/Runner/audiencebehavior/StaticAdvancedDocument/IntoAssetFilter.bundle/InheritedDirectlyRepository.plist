@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerpatternbrightness</key>
+	<string>publicLog</string>
+	<key>largeinfo</key>
+	<string>priorityResponse</string>
+	<key>multiQuaternion</key>
+	<string>customEquipment</string>
+	<key>reactiveIsolate</key>
+	<string>detailskewx</string>
+	<key>shouldUnmountNavigation</key>
+	<string>groupBottom</string>
+	<key>shouldemitcontroller</key>
+	<string>consumeIntensity</string>
+	<key>statelessusageresponse</key>
+	<string>integrationCount</string>
+</dict>
+</plist>

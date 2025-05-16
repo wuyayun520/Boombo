@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitAction</key>
+	<string>enhanceMethod</string>
+	<key>inheritedGrain</key>
+	<string>processPageView</string>
+	<key>oldSlider</key>
+	<string>animationpolyfill</string>
+	<key>quantizerroute</key>
+	<string>zoneTemple</string>
+	<key>subtleDetail</key>
+	<string>canCreateResource</string>
+</dict>
+</plist>

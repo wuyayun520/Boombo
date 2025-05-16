@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBehavior</key>
+	<string>refreshContainer</string>
+	<key>granularCheckbox</key>
+	<string>shouldShowCaption</string>
+	<key>interactororientation</key>
+	<string>bitratecolor</string>
+	<key>listeneramortization</key>
+	<string>segmentBorder</string>
+	<key>swiftdensity</key>
+	<string>sophisticatedbatch</string>
+</dict>
+</plist>

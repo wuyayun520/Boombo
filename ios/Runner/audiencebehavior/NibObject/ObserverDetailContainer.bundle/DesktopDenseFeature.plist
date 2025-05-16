@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerTimer</key>
+	<string>assetMediator</string>
+	<key>graphicduringdecorator</key>
+	<string>navigationInteraction</string>
+	<key>normalSound</key>
+	<string>parseResponse</string>
+	<key>otherReliability</key>
+	<string>variantbehavior</string>
+	<key>sequentiallistview</key>
+	<string>shouldBindImage</string>
+	<key>shouldParseInkWell</key>
+	<string>prevMesh</string>
+	<key>symmetricSemantics</key>
+	<string>shouldlayoutcolumn</string>
+</dict>
+</plist>

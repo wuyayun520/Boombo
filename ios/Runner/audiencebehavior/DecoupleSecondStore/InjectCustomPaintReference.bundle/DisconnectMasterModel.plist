@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSwift</key>
+	<string>hardScroller</string>
+	<key>confidentialityCount</key>
+	<string>scrollMode</string>
+	<key>criticalFlex</key>
+	<string>shouldLoadCapsule</string>
+	<key>sceneamongobserver</key>
+	<string>mainAnchor</string>
+	<key>symmetricResilience</key>
+	<string>activatedInterface</string>
+	<key>threadCount</key>
+	<string>performResponse</string>
+	<key>usedFeature</key>
+	<string>stopDocument</string>
+	<key>wrapperSkewX</key>
+	<string>canObserveDialogs</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledAnalyzer</key>
+	<string>computeAsync</string>
+	<key>shouldUnbindRow</key>
+	<string>operationBehavior</string>
+	<key>taskskewx</key>
+	<string>offsetWork</string>
+	<key>taxonomyBehavior</key>
+	<string>canNavigateGram</string>
+	<key>textfieldpadding</key>
+	<string>resolverFeedback</string>
+</dict>
+</plist>

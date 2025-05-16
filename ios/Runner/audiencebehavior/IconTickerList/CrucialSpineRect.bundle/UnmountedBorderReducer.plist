@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioappearance</key>
+	<string>shouldUnmountedKernel</string>
+	<key>cardRotation</key>
+	<string>awaitmatrix</string>
+	<key>desktopTransition</key>
+	<string>bundleService</string>
+	<key>draggableCapsule</key>
+	<string>textfieldtaskforce</string>
+	<key>immediateParticle</key>
+	<string>eagerAmortization</string>
+	<key>iterativeRepository</key>
+	<string>mediaamongdecorator</string>
+	<key>methodagainsttask</key>
+	<string>disconnectHero</string>
+	<key>resolverinfrastructure</key>
+	<string>alignmentfrompattern</string>
+	<key>seamlessSegment</key>
+	<string>canLoadSign</string>
+	<key>sustainableCard</key>
+	<string>webStream</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMaterial</key>
+	<string>resumeNotifier</string>
+	<key>enabledtitleacceleration</key>
+	<string>canPersistBitrate</string>
+	<key>flexiblePosition</key>
+	<string>drawerContext</string>
+	<key>frameoperationduration</key>
+	<string>explicitRichText</string>
+	<key>hasMission</key>
+	<string>permanentconfigurationdirection</string>
+	<key>logarithmCenter</key>
+	<string>completerSaturation</string>
+	<key>normalUnary</key>
+	<string>shouldNavigatePadding</string>
+	<key>numericalTransformer</key>
+	<string>heapasphase</string>
+	<key>publicTweak</key>
+	<string>shouldstopdropdownbutton</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteremainder</key>
+	<string>curvephaseorientation</string>
+	<key>invisibleNode</key>
+	<string>robustResult</string>
+	<key>scrollableMesh</key>
+	<string>fragmentStrategy</string>
+	<key>statefulDependency</key>
+	<string>imageacceleration</string>
+</dict>
+</plist>

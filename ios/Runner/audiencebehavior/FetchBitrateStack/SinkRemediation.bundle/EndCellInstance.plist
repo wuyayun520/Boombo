@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionName</key>
+	<string>canBuildAppBar</string>
+	<key>disparateCupertino</key>
+	<string>opaqueEffect</string>
+	<key>shouldDismissPositioned</key>
+	<string>shouldDetachStamp</string>
+	<key>shouldInflateClipper</key>
+	<string>processDimension</string>
+</dict>
+</plist>

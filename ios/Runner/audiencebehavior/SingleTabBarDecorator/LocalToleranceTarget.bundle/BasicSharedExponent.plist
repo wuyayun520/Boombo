@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxEdge</key>
+	<string>onpositionedtap</string>
+	<key>callbackscenario</key>
+	<string>uniformTexture</string>
+	<key>chartDirection</key>
+	<string>shouldDisconnectCard</string>
+	<key>interactorRight</key>
+	<string>discardedInfo</string>
+	<key>loadcaption</key>
+	<string>retainedexponentmargin</string>
+	<key>sequentialviewtag</key>
+	<string>referenceDelay</string>
+	<key>shouldDecodeLogarithm</key>
+	<string>dynamicDelegate</string>
+</dict>
+</plist>

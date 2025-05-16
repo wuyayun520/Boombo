@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultchallenge</key>
+	<string>activatedVariant</string>
+	<key>directTraversal</key>
+	<string>fixedSign</string>
+	<key>entropyframeworkinset</key>
+	<string>canRenderCube</string>
+	<key>metricsAppearance</key>
+	<string>greatbehaviororientation</string>
+	<key>overlayvisibility</key>
+	<string>processPainter</string>
+	<key>publicTable</key>
+	<string>deferredFrame</string>
+	<key>requiredDrawer</key>
+	<string>synchronousRect</string>
+	<key>skinasset</key>
+	<string>canFetchSample</string>
+	<key>uniformAlpha</key>
+	<string>labelChain</string>
+</dict>
+</plist>

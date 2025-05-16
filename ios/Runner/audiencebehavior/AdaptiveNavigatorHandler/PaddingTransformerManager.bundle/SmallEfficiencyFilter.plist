@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedView</key>
+	<string>largeoptimizer</string>
+	<key>marginBorder</key>
+	<string>removeInjection</string>
+	<key>mediumScenario</key>
+	<string>canPresentChannels</string>
+	<key>permissiveNotation</key>
+	<string>backwardInterpolation</string>
+	<key>prevTopic</key>
+	<string>canPauseMatrix</string>
+	<key>rapidCursor</key>
+	<string>durationTension</string>
+	<key>shouldPersistModal</key>
+	<string>activitystatus</string>
+	<key>usecasevisibility</key>
+	<string>fragmentsCoord</string>
+	<key>wrapframe</key>
+	<string>notificationneardecorator</string>
+</dict>
+</plist>

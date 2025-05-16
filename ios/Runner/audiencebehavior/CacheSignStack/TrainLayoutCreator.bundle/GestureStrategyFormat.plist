@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorequivalent</key>
+	<string>checkCompleter</string>
+	<key>immediateMap</key>
+	<string>oldCapacities</string>
+	<key>mobileScaffold</key>
+	<string>subscribeConsumer</string>
+	<key>shouldCreateTransition</key>
+	<string>unactivatedFormat</string>
+	<key>shouldStreamAlpha</key>
+	<string>imperativeConsumer</string>
+	<key>typicalSlash</key>
+	<string>updatesegue</string>
+</dict>
+</plist>

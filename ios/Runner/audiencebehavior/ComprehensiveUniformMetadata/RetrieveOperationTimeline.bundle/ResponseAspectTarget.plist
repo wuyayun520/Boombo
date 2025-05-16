@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesTint</key>
+	<string>subtleCertificate</string>
+	<key>executesubpixel</key>
+	<string>persistScaffold</string>
+	<key>newestStamp</key>
+	<string>canStopContainer</string>
+	<key>permanentMovement</key>
+	<string>persistentthread</string>
+	<key>relationalOptimizer</key>
+	<string>overlayName</string>
+	<key>responseTransparency</key>
+	<string>dispatchContainer</string>
+	<key>roleBound</key>
+	<string>unactivatedRouter</string>
+	<key>stateinterpreterindex</key>
+	<string>canAttachNib</string>
+</dict>
+</plist>

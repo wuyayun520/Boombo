@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousspineorientation</key>
+	<string>publishNorm</string>
+	<key>cellSpeed</key>
+	<string>autosound</string>
+	<key>delegateutil</key>
+	<string>reactiveButton</string>
+	<key>diffableDistinction</key>
+	<string>canContinueAperture</string>
+	<key>heapBehavior</key>
+	<string>columncount</string>
+	<key>mobileSound</key>
+	<string>basicdecorationsaturation</string>
+	<key>provisionspacing</key>
+	<string>finishplate</string>
+	<key>shouldCacheActivity</key>
+	<string>canKeepGate</string>
+	<key>shouldEndRichText</key>
+	<string>containerSpacing</string>
+	<key>shouldPopInkWell</key>
+	<string>validateDropdownButton</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchpadding</key>
+	<string>directlyDelivery</string>
+	<key>constraintFlags</key>
+	<string>expandedanimator</string>
+	<key>keyReduction</key>
+	<string>sustainableTouch</string>
+	<key>mutableInkWell</key>
+	<string>tensorVector</string>
+	<key>pushtable</key>
+	<string>canSerializeScale</string>
+	<key>visitclipper</key>
+	<string>triggerDuration</string>
+</dict>
+</plist>

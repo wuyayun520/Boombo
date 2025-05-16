@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveDirection</key>
+	<string>mitigateRow</string>
+	<key>errorintegrity</key>
+	<string>associatedTouch</string>
+	<key>previewAlignment</key>
+	<string>tappableVariant</string>
+	<key>resizableMaterializer</key>
+	<string>initializeConstraint</string>
+	<key>shouldTransitionSign</key>
+	<string>shouldSetStateTransition</string>
+	<key>signdirection</key>
+	<string>maxTable</string>
+	<key>statefulprecision</key>
+	<string>measureRoute</string>
+	<key>statefulprovider</key>
+	<string>compositionalBehavior</string>
+	<key>topicPosition</key>
+	<string>interceptListener</string>
+</dict>
+</plist>

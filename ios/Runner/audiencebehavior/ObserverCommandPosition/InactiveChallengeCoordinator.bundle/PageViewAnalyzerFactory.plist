@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerPosition</key>
+	<string>effectTail</string>
+	<key>backwardmaterial</key>
+	<string>draggableRenderer</string>
+	<key>criticalHistogram</key>
+	<string>visibleAnchor</string>
+	<key>newestEquivalent</key>
+	<string>directlyRect</string>
+	<key>resilientPopup</key>
+	<string>largeTexture</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleChart</key>
+	<string>semanticConsumer</string>
+	<key>activatedstate</key>
+	<string>primarySlider</string>
+	<key>constraintFlags</key>
+	<string>usageoffset</string>
+	<key>coordinatordescription</key>
+	<string>sortedobject</string>
+	<key>dynamicalert</key>
+	<string>spinemend</string>
+	<key>shouldPopTask</key>
+	<string>columnMediator</string>
+	<key>shouldSetStateBorder</key>
+	<string>immediateSubscription</string>
+</dict>
+</plist>

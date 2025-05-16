@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisintensity</key>
+	<string>hyperbolicSink</string>
+	<key>cartesianprecisionbottom</key>
+	<string>layerCommand</string>
+	<key>ephemeralElasticity</key>
+	<string>baselineKind</string>
+	<key>firstcycleposition</key>
+	<string>singleDecoration</string>
+	<key>interactivetask</key>
+	<string>renderTheme</string>
+	<key>playbackTransparency</key>
+	<string>quitresult</string>
+	<key>reactiveCubit</key>
+	<string>amortizationBehavior</string>
+	<key>rectDelay</key>
+	<string>interactororsingleton</string>
+	<key>respectiveChannel</key>
+	<string>lazyEntropy</string>
+</dict>
+</plist>

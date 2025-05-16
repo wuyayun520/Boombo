@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorOrientation</key>
+	<string>cartesianExpanded</string>
+	<key>denseGestureDetector</key>
+	<string>canStreamMaterial</string>
+	<key>gridviewaction</key>
+	<string>relationalPoint</string>
+	<key>hasConstraint</key>
+	<string>canHandleCard</string>
+	<key>intermediateCanvas</key>
+	<string>deflateText</string>
+	<key>movementHead</key>
+	<string>borderShade</string>
+	<key>stoplistener</key>
+	<string>shouldLoadProject</string>
+	<key>subsequentConfiguration</key>
+	<string>missedScope</string>
+	<key>usedWrapper</key>
+	<string>implementtask</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCapacities</key>
+	<string>publishBox</string>
+	<key>axisSaturation</key>
+	<string>revisitchallenge</string>
+	<key>completertype</key>
+	<string>momentumshape</string>
+	<key>expandedsingletonhead</key>
+	<string>shoulddisconnectpet</string>
+	<key>liteQuaternion</key>
+	<string>canFetchUnary</string>
+	<key>materializesprite</key>
+	<string>cupertinovectorduration</string>
+	<key>opaquerowflags</key>
+	<string>combinerBehavior</string>
+	<key>shouldPrepareSkin</key>
+	<string>instantiateMenu</string>
+	<key>symbollayerlocation</key>
+	<string>canShowMovement</string>
+</dict>
+</plist>

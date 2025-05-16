@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binddelegate</key>
+	<string>deployResource</string>
+	<key>documentBorder</key>
+	<string>requestcontextdensity</string>
+	<key>interactiveresponselocation</key>
+	<string>asynchronousObject</string>
+	<key>keyMetadata</key>
+	<string>customBinder</string>
+	<key>metadataVisibility</key>
+	<string>enumerateChannel</string>
+	<key>normcontainer</key>
+	<string>inheritedColor</string>
+	<key>shouldTransitionLayout</key>
+	<string>convertRequest</string>
+	<key>timerShade</key>
+	<string>associateddependency</string>
+	<key>unsortedQueue</key>
+	<string>reflectMethod</string>
+</dict>
+</plist>

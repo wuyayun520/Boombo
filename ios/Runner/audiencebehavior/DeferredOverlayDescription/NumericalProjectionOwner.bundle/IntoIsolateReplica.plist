@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicatespot</key>
+	<string>canKeepMember</string>
+	<key>keyAsync</key>
+	<string>dataHue</string>
+	<key>localizationstyle</key>
+	<string>opaqueFragments</string>
+	<key>shouldFetchContainer</key>
+	<string>refreshLayout</string>
+	<key>statelessModal</key>
+	<string>radiolatency</string>
+	<key>unarydetector</key>
+	<string>respondAnimation</string>
+</dict>
+</plist>

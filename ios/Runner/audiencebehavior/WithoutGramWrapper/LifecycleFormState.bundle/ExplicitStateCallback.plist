@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>distinctionName</key>
+	<string>routebuilder</string>
+	<key>hardtimeline</key>
+	<string>addUseCase</string>
+	<key>mobileDescription</key>
+	<string>displayAwait</string>
+	<key>sessionSkewY</key>
+	<string>createPainter</string>
+	<key>shouldsetstatemonster</key>
+	<string>completerObserver</string>
+</dict>
+</plist>

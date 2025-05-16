@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellShape</key>
+	<string>alignmentName</string>
+	<key>equalizationdistinction</key>
+	<string>metadataContext</string>
+	<key>generategrain</key>
+	<string>adaptiveSubscription</string>
+	<key>reductionInteraction</key>
+	<string>stepTint</string>
+	<key>relationalCaption</key>
+	<string>gestureLayer</string>
+	<key>shouldHandleStoryboard</key>
+	<string>createSizedBox</string>
+	<key>shouldPublishVariant</key>
+	<string>stateSkewX</string>
+</dict>
+</plist>

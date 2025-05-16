@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSelector</key>
+	<string>stamptime</string>
+	<key>basicSize</key>
+	<string>shouldSaveCapacities</string>
+	<key>boxshadowdepth</key>
+	<string>errorStrategy</string>
+	<key>diffableService</key>
+	<string>tableCenter</string>
+	<key>normalbulletscale</key>
+	<string>custompaintKind</string>
+	<key>playbackstyle</key>
+	<string>sizeContrast</string>
+	<key>respectivePoint</key>
+	<string>basicCompleter</string>
+	<key>shouldRestartEntropy</key>
+	<string>videoColor</string>
+	<key>vectorvelocity</key>
+	<string>sustainableUseCase</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedInjection</key>
+	<string>validatetween</string>
+	<key>confidentialityCenter</key>
+	<string>exceptionscale</string>
+	<key>customText</key>
+	<string>mainWidget</string>
+	<key>observerwithoutobserver</key>
+	<string>segueLayer</string>
+	<key>persistentReducer</key>
+	<string>accessibleFeature</string>
+	<key>shouldFetchSession</key>
+	<string>signaturePosition</string>
+	<key>shouldPublishCard</key>
+	<string>independentSingleton</string>
+	<key>webPromise</key>
+	<string>interpolationVariable</string>
+</dict>
+</plist>

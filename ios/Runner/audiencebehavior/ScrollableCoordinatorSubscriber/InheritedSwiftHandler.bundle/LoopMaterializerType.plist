@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionhandler</key>
+	<string>listenLogarithm</string>
+	<key>baseInterval</key>
+	<string>reusableAudio</string>
+	<key>baselinetitle</key>
+	<string>activityBrightness</string>
+	<key>disabledScroller</key>
+	<string>responsescheduler</string>
+	<key>metadataBehavior</key>
+	<string>canLayoutContainer</string>
+	<key>thresholdPosition</key>
+	<string>zoneSkewX</string>
+	<key>undertakemovement</key>
+	<string>materialSelector</string>
+</dict>
+</plist>

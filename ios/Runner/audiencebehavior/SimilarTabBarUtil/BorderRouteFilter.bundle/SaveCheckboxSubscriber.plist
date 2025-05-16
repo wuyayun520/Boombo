@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxdirection</key>
+	<string>arithmeticMultiplication</string>
+	<key>intuitiveVolume</key>
+	<string>alphatail</string>
+	<key>mediocreStamp</key>
+	<string>priorityMode</string>
+	<key>projectionstatus</key>
+	<string>seamlessError</string>
+	<key>richtextScale</key>
+	<string>shaderFunction</string>
+	<key>shouldDismissBorder</key>
+	<string>commonLoader</string>
+	<key>statelessRate</key>
+	<string>radiusEnvironment</string>
+</dict>
+</plist>
